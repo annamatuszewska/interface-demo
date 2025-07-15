@@ -12,10 +12,7 @@ Link to the Project:
   <iframe
     width="800"
     height="500"
-    src="https://youtu.be/TQIOStvgocA"
+    src="https://www.youtube-nocookie.com/embed/TQIOStvgocA"
     title="Demo video"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
   ></iframe>

@@ -1,0 +1,8 @@
+
+title: Interface Demo
+baseurl: "/interface-demo" 
+url: "https://annamatuszewska.github.io/" 
+github_username:  annamatuszewska
+
+# Build settings
+theme: jekyll-theme-cayman

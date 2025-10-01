@@ -3,7 +3,8 @@ layout: default
 title: Interface Demo
 ---
 
-# Welcome to My Project
+# Extending the Usability of Digital Music Libraries with Analytical Interfaces 
+## Case Study – traditional music collections
 
 Link to the Project:
 

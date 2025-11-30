@@ -1,0 +1,28 @@
+ERK
+CUT[EIN SCHAEFER WOL UEBER DIE BRUECKE ZOG]
+REG[Europa, Mitteleuropa, Deutschland, Hessen - Nassau]
+TRD[]
+FKT[]
+SIG[E0043E]
+KEY[E0043E  16  G 6/8]
+MEL[-5_  1_-5_1_3_1_3_  5_6_5_3__.
+    5_.5552__6_  5__543__
+    3_  3_.33_3_2_3_  5_4_5_0__.
+    3_.3465__5_  3_.33_3_2_3_  5_4_5_3__ //]
+BEM[]
+MEL_SEM[5 -5 5 4 -4 4 3 2 -2 -3 3 0 0 0 -5 7 -2 0 -2 -1 0 0 0 0 0 -2 2 3 -2 2 -3 0 1 4 -2 0 -3 0 0 0 -2 2 3 -2 2 -3]
+MEL_RAW[-5  1-51313  5653
+    555526  5543
+    3  333323  5450
+    334655  333323  5453]
+NO_REP[-51-513135653
+    526543
+    3235450
+    34653235453]
+RTM[x_  x_x_x_x_x_x_  x_x_x_x__.
+    x_.xxxx__x_  x__xxx__
+    x_  x_.xx_x_x_x_  x_x_x_x__.
+    x_.xxxx__x_  x_.xx_x_x_x_  x_x_x_x__]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

@@ -1,0 +1,105 @@
+!!!OTL: Laemmerweide.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0056A
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/2; 6/2
+*M6/2yy	*
+*clefC1	*
+*k[]	*
+*D:dor	*
+!LO:TX:a:t=dor.	!
+{2d	Es
+2d	fur
+2d	ein
+=1	=1
+1a	maid-
+2b	-lein
+2cc	ü-
+1b	-bern
+=2	=2
+*M4/2	*
+1a	ſe,
+2r}	.
+{2dd	wolt
+=3	=3
+*M6/2	*
+1dd	bre-
+2dd	-chen
+*lig	*
+2dd	fei-
+2dd	-el
+*Xlig	*
+2dd	vnd
+=4	=4
+*M4/2	*
+2cc	grů-
+2a	-nen
+*lig	*
+4f	kle
+4g	.
+4a	.
+4b	.
+*Xlig	*
+=5	=5
+1cc	.
+2r}	.
+{2a	mit
+=6	=6
+2b-	ir
+2a	ſchne-
+2g	-wei-
+!LO:SIC:o:2f:v	!
+2f#	-ßen
+=7	=7
+*M6/2	*
+1d	hen-
+1c	-de,
+2r}	.
+{2cc	mit
+=8	=8
+*M4/2	*
+2cc	ir
+2cc	ſchne-
+2b	-wei-
+2cc	-ßen
+=9	=9
+*M6/2	*
+1dd	hen-
+1a	-de,
+2r}	.
+{2dd	der
+=10	=10
+*lig	*
+2cc	ſom-
+2cc	-mer
+*Xlig	*
+2a	hat
+1f	ſchier
+2e	ein
+=11	=11
+2.f	en-
+4g/	-de,
+2a/	ja
+1a	en-
+4g/	.
+4f/	.
+=12	=12
+1e	.
+2d/ll}	-de.
+==	==
+!!!GTL: Balladen und Romanzen (erzählende Volkslieder)
+!!!AGN: Romanze, Ballade, Lied
+!! Melodie in Souterliedekens 1540 ad Ps. 141.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0212.iview2?x=-425.8853427895981&y=1450.8855792152463&scale=0.4823261117445838&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/19/02
+*-	*-

@@ -1,0 +1,132 @@
+!!!OTL: Der Jungfernkranz.
+!!!OTL-incipit:WIR WINDEN DIR DEN JUNGFERNKRANZ
+!!!COM: Volkslied (C. M. v. Weber)
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0179
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M2/4	*
+*k[]	*
+*C:	*
+!LO:TX:a:t=Andante wie Allegretto.	!
+!LO:TX:a:t=Vorsaengerin.	!
+!LO:TX:a:t=P:accompaniment not encoded:problem	!
+{8g	1._Wir
+=1	=1
+8ddq	.
+(16ccL	win-
+16bJ)	.
+(16ccL	-den
+16ddJ)	.
+8ee	dir
+8g	den
+=2	=2
+8ddq	.
+(16ccL	Jungfernkranʒ
+16bJ)	.
+(16ccL	.
+16ddJ)	.
+8ee	.
+16r}	.
+{16ee	mit
+=3	=3
+8.dd	Veilchenblau-
+16ee	.
+(16ddL	.
+16ccJ)	.
+(16bL	-er
+16aJ)	.
+=4	=4
+(16.gL	Sei-
+32fJ)	.
+4e}	-de,
+{8g	wir
+=5	=5
+8ddq	.
+(16ccL	füh-
+16bJ)	.
+(16ccL	-ren
+16ddJ)	.
+8ee	dich
+8g	ʒu
+=6	=6
+8ddq	.
+(16ccL	Spiel
+16bJ)	.
+(16ccL	und
+16ddJ)	.
+8ee	Tanʒ,
+16r}	.
+{16ee	ʒu
+=7	=7
+8.dd	Glück
+16ee	und
+(16ddL	Lie-
+16ccJ)	.
+(16bL	-bes-
+16aJ)	.
+=8	=8
+(8.gL	-freu-
+32b	.
+32aJ)	.
+8g	-de.
+8r}	.
+=9	=9
+{4cc/	Schöner,
+4ee	.
+=10	=10
+4gg	grü-
+4ee/}	-ner,
+=11	=11
+{16eeq	.
+16.dd/	ſchöner
+32cc/	.
+16.b/	grüner
+32cc/	.
+8dd/	Jungfern-
+8ee/	.
+=12	=12
+2cc/}	-kranʒ,
+=13	=13
+{(16dd/L	veilchen-
+16gJ)	.
+8g	.
+(16dd/L	-blau-
+16gJ)	.
+8g	-e
+=14	=14
+(16cc/L	Seide,
+16ddJ)	.
+4.ee}	.
+=15	=15
+{8.gg	veil-
+(32ffL	-chenblaue
+32eeJ)	.
+(16ddL	.
+16ccJ)	.
+(16bL	.
+16aJ)	.
+=16	=16
+16.gL	Sei-
+32fJ	.
+4e}	-de.
+==	==
+!!!AGN: Hochzeits - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Volkslieder
+!!@@COMMENT:"Volkslied, von C. M. v. Weber, in ſeinem, Freiſchütʒ" benutʒt."
+!!@@END:
+!!Text: Fr. Kind
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 104
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=112,113
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/07/26
+*-	*-

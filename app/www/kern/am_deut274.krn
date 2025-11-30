@@ -1,0 +1,112 @@
+!!!OTL: Alterthuemliches Burschenlied.
+!!!OTL-incipit: DER BURSCH VON ECHTEM SCHROT UND KORN
+!!!COM: Studentenweise
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0488
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[]	*
+*C:	*
+!LO:TX:a:t=Gemächlich froh.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{4g	1._Der
+=1	=1
+4g	Burſch
+8.eL	von
+16fJ	.
+4.g	ech-
+8cc/	-tem
+=2	=2
+8cc/L	Schrot
+8bJ	.
+8aL	und
+8gJ	.
+4.f}	Korn
+{8f	hat
+=3	=3
+8eL	im-
+8gJ	.
+8gL	-mer
+8ccJ	.
+8ccL	fro-
+8gJ	.
+8eL	-hen
+8cJ	.
+=4	=4
+4g	Muth,
+8.g	Val-
+16g	-le-
+4g}	-ri!
+!LO:TX:a:t=Alle.	!
+{8gL	hat
+8bJ	.
+=5	=5
+4.dd/	im-
+8b/	-mer
+8dd/L	fro-
+8ccJ	.
+8bL	-hen
+8aJ	.
+=6	=6
+4g	Muth,
+8.dd	Val-
+16b	-le-
+4g}	-ri!
+!LO:TX:a:t=Einer.	!
+{4g	Am
+=7	=7
+4.a	ſchweren
+8a	.
+4.b/	Stie-
+8b/	-fel
+=8	=8
+4cc/'	klirrt
+4dd/'	der
+4ee/'	Sporn,
+8r}	.
+{8cc/	die
+=9	=9
+4a	Fe-
+8ff/L	-der
+8ddJ	.
+4cc/	ſchwankt
+4b/	am
+=10	=10
+4cc/	Hut.
+!LO:TX:a:t=Alle.	!
+8.ee	Val-
+16ee	-le-
+4ff}	-ri,
+{8.dd	val-
+16dd	-le-
+=11	=11
+4ee	-ra!
+4cc/	die
+8.dd/	Fe-
+16dd/	-der
+8.b/	ſchwankt
+16b/	am
+=12	=12
+4cc/	Hut.
+4r	.
+4r}	.
+==	==
+!!!AGN: Studenten -,  Burschenschafts - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Studentenlieder
+!!Text: Studentenlied
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 309
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=286
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/01
+*-	*-

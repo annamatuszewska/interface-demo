@@ -1,0 +1,80 @@
+!!!Xfilter:transpose -t -P8
+!!!OTL: Das Schlaraffenland.
+!!!OTL-incipit: IN POLEN STEHT EIN HAUS
+!!!ARE: Europa, Mitteleuropa, Deutschland, Nord - Deutschland
+!!!SCT: Z1321
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M4/4	*
+*met(c)	*
+*k[b-e-]	*
+*B-:	*
+!LO:TX:a:t=Aus Norddeutſchland.	!
+{2f	Jn
+=1	=1
+4b-/	Po-
+4f	-len
+4d	ſteht
+4f	ein
+=2	=2
+2b-/}	Haus,
+{2dd/	in
+=3	=3
+4cc/	Po-
+4b-/	-len
+4a	ſteht
+4g	ein
+=4	=4
+2f}	Haus,
+{2g	in
+=5	=5
+4f	Po-
+4e-	-len
+4d	ſteht
+4e-	ein
+=6	=6
+4.f	pol-
+8g	-ſches
+4f}	Haus,
+{4g	da
+=7	=7
+4f	gehn
+4e-	die
+4d	Krie-
+4e-	-ger
+=8	=8
+4.f	ein
+8g	und
+4f}	aus,
+{4f	da
+=9	=9
+4b-/	gehn
+4b-/	die
+4cc/	Krie-
+4cc/	-ger
+=10	=10
+4.dd/	ein,
+8ee-/	.
+4ff/}	.
+{4ee-/	da
+=11	=11
+4dd/	gehn
+4dd/	die
+4cc/	Krie-
+4cc/	-ger
+=12	=12
+2b-/}	aus!
+==	==
+!!!AGN: Zech -, Schalks - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ZUCCAL
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: VIII. Zech- und Schalks-Lieder.
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11160573?page=588
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/02/07
+*-	*-

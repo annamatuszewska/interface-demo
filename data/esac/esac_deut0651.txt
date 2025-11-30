@@ -1,0 +1,24 @@
+ERK
+CUT[ES HATT EIN GASTWIRTH EINEN SOHN]
+REG[Europa, Mitteleuropa, Deutschland, Goettingen]
+TRD[]
+FKT[]
+SIG[E0050F]
+KEY[E0050F  16  G 3/4]
+MEL[-5_  1_-7_1__3__  2_1_2__0_
+    -5_  2_1_2__4__  3_2_3__0_
+    5_  3_531__3__  2__1__0_ //]
+BEM[]
+MEL_SEM[5 -1 1 4 -2 -2 2 -7 7 -2 2 3 -1 -2 2 3 -3 3 -3 -4 4 -2 -2]
+MEL_RAW[-5  1-713  2120
+    -5  2124  3230
+    5  35313  210]
+NO_REP[-51-7132120
+    -521243230
+    535313210]
+RTM[x_  x_x_x__x__  x_x_x__x_
+    x_  x_x_x__x__  x_x_x__x_
+    x_  x_xxx__x__  x__x__x_]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

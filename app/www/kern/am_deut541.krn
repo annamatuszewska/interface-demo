@@ -1,0 +1,106 @@
+!!!OTL: Grabgesang.
+!!!OTL-incipit: SELIG DIE TODTEN
+!!!COM: A. Harder
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F1060
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[]	*
+*C:	*
+=1	=1
+!LO:TX:a:t=Mäßig langſam.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{2g	1._Se-
+4e	-lig
+4e	die
+=2	=2
+(>4g	Tod-
+4f)	.
+4e}	-ten!
+{4g	Sie
+=3	=3
+(>4g	ru-
+4cc/)	.
+4ee/	-hen
+4cc/	und
+=4	=4
+(>4cc/	ra-
+4b/)	.
+4b/}	-ſten
+{4b/	von
+=5	=5
+2dd/	drü-
+4f	-ckenden
+4f	.
+=6	=6
+2a-	Sorgen,
+4g}	.
+{4g	von
+=7	=7
+2cc/	quä-
+4f#	-len-
+4f#	-den
+=8	=8
+2g	La-
+4g}	-ſten,
+{4g	vom
+=9	=9
+2dd/	Jo-
+4b/	-che
+4b/	der
+=10	=10
+2ee/	Welt
+4dd/}	und
+{4dd/	der
+=11	=11
+2cc/	Ty-
+2b-/	-ran-
+=12	=12
+2a	-nei;
+4r}	.
+{4dd/	das
+=13	=13
+2.dd/	Grab,
+4dd/	das
+=14	=14
+2cc/	Grab
+4a}	macht
+{4a	al-
+=15	=15
+(>2g	-lein
+4a)	.
+4b/	nur
+=16	=16
+2.cc/}	frei,
+{4cc/	das
+=17	=17
+2cc/	Grab
+4cc/	macht
+4cc/	al-
+=18	=18
+(>4ee/	-lein
+4cc/)	.
+(>4b/	nur
+4dd/)	.
+=19	=19
+2.cc/	frei.
+4r}	.
+==	==
+!!!AGN: Trauer -, Bregraebnis -, Trost - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Text: Mahlmann
+!!!RDF**kern: > = above
+!!!GTL: Trauer- Begraebniss- und Trostlieder
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=671
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/09
+*-	*-

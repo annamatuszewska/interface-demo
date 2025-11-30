@@ -1,0 +1,85 @@
+!!!OTL: 1468. Meine Buechse (Wilddieb).
+!!!ARE: Europa, Mitteleuropa, Deutschland, Hessen
+!!!SCT: E1468A
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M3/4	*
+*k[f#]	*
+*G:	*
+!LO:TX:a:t=Munter.	!
+!LO:TX:a:t=Variante: Jetʒt nehm (lad) ich meine Büchſe, geh naus in den Wald.	!
+{8d	Jetʒund
+8d	.
+=1	=1
+4g	nehm
+4dd	ich
+8b/	mei-
+8g	-ne
+=2	=2
+4a	Büch-
+4cc}	-ſe,
+{8a	ei
+8a	und
+=3	=3
+4b/	trag
+4b/	ſie
+8dd	in
+8b	den
+=4	=4
+2a}	Wald,
+{8a	und
+8b/	da
+=5	=5
+4cc	ſchieß
+4ee	ich
+8gg	mir
+8ee	ein
+=6	=6
+4dd	Hirſchlein,
+4b}	.
+{8ddL	ſei
+8ggJ	es
+=7	=7
+8ff#L	jung
+8eeJ	.
+8dd	o-
+8ee	-der
+8dd	ſei
+8cc	es
+=8	=8
+2b}	alt.
+{8a	und
+8b/	da
+=9	=9
+4cc	ſchieß
+4ee	ich
+8gg	mir
+8ee	ein
+=10	=10
+4dd	Hirſchlein,
+4b}	.
+{8ddL	ſei
+8ggJ	es
+=11	=11
+8ff#L	jung
+8eeJ	.
+8dd	o-
+8ee	-der
+8dd	ſei
+8cc	es
+=12	=12
+2b}	alt.
+==	==
+!!!AGN: Staende -, Jaeger - Lied, Wilderer
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Staendelieder (Berufslieder). 2. Jaegerlieder und Jaegerballaden.
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn745177999/iview2/phys_0330.iview2?x=-128.77276441889285&y=-102.08956072479486&scale=0.5870222003877487&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/12/31
+*-	*-

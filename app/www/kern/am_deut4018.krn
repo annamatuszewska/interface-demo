@@ -1,0 +1,99 @@
+!!!OTL: Altes Tanzlied der Ostfriesen.
+!!!SCT: A0295
+!!!TXL: @@NDS
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/4	*
+*k[f#]	*
+*G:ion	*
+=1	=1
+!LO:TX:a:t=G dur. (jon.)	!
+!LO:TX:a:t=P:no repetition sign in the source:problem	!
+{4dd	Buhs-
+4dd	-ke
+4dd	di
+=2	=2
+(4dd	Rem-
+4ee)	-mer
+4ff#	du
+=3	=3
+2gg	loh-
+4ff#	-se
+=4	=4
+2ee}	Mohn,
+{4dd	du
+=5	=5
+(4.dd	loh-
+8cc)	.
+8bL	.
+8aJ	-se
+=6	=6
+2g}	Mohn,
+{4dd	Di
+=7	=7
+4dd	frih-
+4dd	-de
+4dd	zyhn
+=8	=8
+(4dd	Wuff
+4ee)	.
+4ff#	woll
+=9	=9
+2gg	sog-
+4ff#	-gen
+=10	=10
+2ee}	iehr,
+{4dd	woll
+=11	=11
+(4.dd	sog-
+8cc)	.
+8bL	.
+8aJ	-gen
+=12	=12
+2g	iehr.
+!LO:TX:a:t=P:4r in the source:problem	!
+4r}	.
+=13	=13
+{4a	uhn
+4a	do
+4a	di
+=14	=14
+4a	sog-
+4b	-gen
+4cc	iehr
+=15	=15
+(4.dd	um-
+8cc)	.
+4b/	-me
+=16	=16
+2a}	wehren,
+{4b/	noch
+=17	=17
+(4.a	frih-
+8g)	.
+4f#	-de
+=18	=18
+2g	hye,
+4b/	noch
+=19	=19
+(4.a	frih-
+8g)	.
+4f#	-de
+=20	=20
+2g	hye.
+4r}	.
+==	==
+!!!GTL: Tanz- und Kranzlieder
+!!!AGN: Romanze, Ballade, Lied
+!! Cadovius Mueller, Memoriale linguae Frisicae. 1691. Mitgeth.
+!!    im Osterprogramm des K. Gymnasiums zu Aurich 1867 .
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!AMD: Ionian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0450.iview2?x=-495.6391625615763&y=581.4985221787356&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0012
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/12/03
+*-	*-

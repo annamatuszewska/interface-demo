@@ -1,0 +1,74 @@
+!!!OTL: Schwabentoechterlein. / (Anders Lied.)
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0052
+!!!TXL: @@NDS
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c|)	*
+*clefC4	*
+*k[]	*
+*G:mix	*
+=1	=1
+!LO:TX:a:t=mixolyd.	!
+{1G	Es
+2G	het
+2G	ein
+=2	=2
+1A	bawr
+1G	ein
+=3	=3
+1c	töch-
+1B	-ter-
+=4	=4
+1c	-lein,
+2r}	.
+{2c	das
+=5	=5
+1c	wolt
+1c	nit
+=6	=6
+2.B	len-
+4A	-ger
+1G	ein
+=7	=7
+1A	meidlein
+1A	.
+=8	=8
+1d	ſein,
+2r}	.
+{2d	du
+=9	=9
+2.c	ſchö-
+4B	-ne
+2A/	mein,
+2G	Ma-
+=10	=10
+1A	-ruſch-
+1G	-ka,
+=11	=11
+2d	in
+2d	dem
+2.d	el-
+4c	-lend
+=12	=12
+1B	laſſ
+2A	ich
+2A	dich
+=13	=13
+0G/ll}	nicht.
+==	==
+!!!GTL: Balladen und Romanzen (erzählende Volkslieder)
+!!!AGN: Romanze, Ballade, Lied
+!! Melodie bei Joh. Ott 1544 No. 45.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Mixolydian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0207.iview2?x=-425.8853427895981&y=2074.9446808677167&scale=0.4823261117445838&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/19/02
+*-	*-

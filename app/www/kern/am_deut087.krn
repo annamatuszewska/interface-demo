@@ -1,0 +1,94 @@
+!!!OTL: Eins in allen Farben.
+!!!OTL-incipit:BLAU BLAU BLAU SIND ALLE MEINE FARBEN
+!!!COM: Volksweise
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0198
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[f#]	*
+*G:	*
+=1	=1
+!LO:TX:a:t=Mäßig.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{4d	1._Blau,
+4g	blau,
+4.b/	blau
+8b/	ſind
+=2	=2
+8a	al-
+8g	-le
+8a	mei-
+8b/	-ne
+4g	Far-
+8d	-ben,
+8r}	.
+=3	=3
+{4d	blau,
+4g	blau,
+4.b/	blau
+8b/	iſt
+=4	=4
+8a	al-
+8g	-le
+8a	mei-
+8b/	-ne
+4.g	Luſt.
+8r}	.
+=5	=5
+{4e	Blau,
+4cc/	was
+4.ee	blau
+8ee	iſt,
+=6	=6
+4b/	das
+4b/	lieb'
+2dd}	ich,
+=7	=7
+{4a	weil
+4a	mein
+4.cc	Schatʒ
+8a	ein
+=8	=8
+4f#	Fär-
+4f#	-ber
+4.g	iſt.
+8r}	.
+=9	=9
+{4e	Blau,
+4cc/	was
+4.ee	blau
+8ee	iſt,
+=10	=10
+4b/	das
+4b/	lieb'
+2dd}	ich,
+=11	=11
+{4a	weil
+4a	mein
+4.cc	Schatʒ
+8a	ein
+=12	=12
+4f#	Fär-
+4f#	-ber
+4.g	iſt.
+8r}	.
+==	==
+!!!AGN: Moral - Lied, Vergaenglichkeit
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Volkslieder
+!!Text: Volkslied
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 116
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=124,125
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/07/26
+*-	*-

@@ -1,0 +1,103 @@
+!!!OTL: 397. Schweizerliedlein.
+!!!COM: Volksmelodie
+!!!ODT: 1829
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0397
+!!!TXL: @@GSW
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M3/4	*
+*k[]	*
+*C:	*
+!LO:TX:a:t=Etwas bewegt.	!
+{8e	Uf,
+8f	'm
+=1	=1
+8gL	Berg-
+8eeJ	.
+4cc	-li
+8e	bin
+8f	i
+=2	=2
+8gL	gefäſ-
+8eeJ	.
+4cc}	-ſe,
+{8g	ha
+8a	de
+=3	=3
+8gL	Vög-
+8eeJ	.
+4dd	-le
+8b	ʒu-
+8f	-ge-
+=4	=4
+2e}	-ſchaut;
+{8e	hänt
+8f	ge-
+=5	=5
+8gL	-ſun-
+8eeJ	.
+4dd	-ge,
+8b	hänt
+8f	ge-
+=6	=6
+8eL	-ſprunge,
+8ccJ	.
+4b}	.
+{8fL	hänt's
+8dJ	.
+=7	=7
+8BL	Reſt-
+8aJ	.
+4g	-li
+8fL	ge-
+8dJ	.
+=8	=8
+2c}	-baut.
+=||	=||
+{12eL	La
+12g	la
+12ccJ	la
+=9	=9
+4ee	la
+4dd	la
+!LO:TUP:a	!
+12gL	la
+12b	la
+12ddJ	la
+=10	=10
+4ff	la
+4ee}	la
+!LO:TUP:a	!
+{12ccL	la
+12ee	la
+12ggJ	la
+=11	=11
+(4.aa;	la
+8gg)	.
+8dd	la
+8ee	la
+=12	=12
+2cc}	la.
+==	==
+!!!AGN: Liebes - Lied, Liebes - Lust, Erotik
+!!!GTL: Liebeslieder - Liebeslust
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Volksmelodie (1829).
+!!@@COMMENT:"* Jmmchen, Bienchen. ** Sommervöglein, Schmetterling.
+!!Gedicht von Goethe 1811. Es iſt keine Ueberarbeitung eines Schweiʒerliedes, nach dem
+!!an bisher vergeblich ſuchte, ſondern die Weiterführung eines Volksliedchens aus dem Odenwald,
+!!das ſchon vor Entſtehung des ſogenannten Goetbeſchen Schweiʒerliedes im Wunderhorn III, 1806, Anh. S.71 gedruckt steht."
+!!@@END:
+!!!Text: J. W. Goethe
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n329/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/07
+*-	*-

@@ -1,0 +1,135 @@
+!!!OTL: 339. Zechgesang.
+!!!COM: Volkslied
+!!!ODT: 1820
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0339
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+!! Mixed meters:  4/4; 3/8; 2/4
+*M4/4	*
+*met(c)	*
+*k[f#]	*
+*G:	*
+!LO:TX:a:t=Mäßig.	!
+{8d	Es
+=1	=1
+8g	le-
+8g	-ben
+8g	al-
+8g	-le
+4g	hoch,
+8r}	.
+{8a	Es
+=2	=2
+8b	le-
+8b	-ben
+8b	al-
+8b	-le
+4b}	hoch,
+{8g	al-
+8b	-le
+=3	=3
+4dd	unſ'-
+4b	-re
+4a	Freun-
+8g;}	-de!
+=||	=||
+*M3/8	*
+!LO:TX:a:t=Etwas raſcher.	!
+{8dd	Freund
+=4	=4
+8b	N.
+8g	N.
+8dd	ſoll
+=5	=5
+8b	le-
+8g	-ben,
+8dd	ſein
+=6	=6
+*	*^
+8b	Lieb-	(Weib-
+8g	-chen	-chen)
+*	*v	*v
+8dd	da-
+=7	=7
+8b	-ne-
+8g}	-ben,
+{8g	es
+=8	=8
+8.ee	le-
+16ee	-be
+8ee	das
+=9	=9
+4dd	gan-
+8b	-ʒe
+=10	=10
+8cc	N.
+8b	N.'-
+8a	-ſche
+=11	=11
+4g	Haus.
+8dd	Trink
+=12	=12
+[4.b	aus
+=13	=13
+[4.b]	.
+=14	=14
+4.b]}	.
+=15||;	=15||;
+!LO:TX:a:t=Schnell.	!
+*M2/4	*
+{8d	Er
+=16	=16
+8g	hat
+8g	ſein'
+8g	Sach'
+8a	recht
+=17	=17
+8b	gut
+8g	ge-
+8g}	-macht,
+{8a	drum
+=18	=18
+8b	wird
+8b	er
+8b	auch
+8cc	nicht
+=19	=19
+8dd	ausgelacht.
+8b	.
+8b	.
+8r}	.
+=20	=20
+{8b	Nichts
+8b	iſts
+8b	drin
+8b	ge-
+=21	=21
+4b	-blie-
+8a}	-ben,
+{8b	drum
+=22	=22
+8cc	wol-
+8b	-len
+8a	wir
+8g	ihn
+=23	=23
+4a	lie-
+8g}	-ben.
+==	==
+!!!AGN: Trink - Lied
+!!!GTL: Wein- und Trinklieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Volkslied. Handſchriftl. 1820.
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n283/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/05/07
+*-	*-

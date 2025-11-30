@@ -1,0 +1,91 @@
+!!!OTL: Ich fahr dahin. / (Abschiedslied des 14. Jahrh.)
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0252
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/2	*
+*met(3)	*
+*clefC1	*
+*k[b-]	*
+*F:ion	*
+!LO:TX:a:t=jon. tr.	!
+{2e	Ich
+=1	=1
+1f	war
+2f	do-
+=2	=2
+1c	-hin,
+2b-	wann
+=3	=3
+1a	es
+2g	muß
+=4	=4
+1f}	ſein,
+{2f	ich
+=5	=5
+1e	ſchaid
+2f	mich
+=6	=6
+1g	von
+2c	der
+=7	=7
+1e	lieb-
+2d	-ſten
+=8	=8
+1c}	mein,
+{2c	ʒw
+=9	=9
+1f	lecʒ
+2g	laß
+=10	=10
+1a	ich
+2g	das
+=11	=11
+1b-	her-
+2a	-cʒe
+=12	=12
+1f}	mein,
+{2f	dy
+=13	=13
+1a	weil
+2b-	ich
+=14	=14
+1cc	leb
+2dd	ſo
+=15	=15
+1cc	ſol
+2a	es
+=16	=16
+1f}	ſein;
+{2g/	ich
+=17	=17
+2f	far,
+2e	.
+2f	.
+=18	=18
+1b-	.
+2a	ich
+=19	=19
+*lig	*
+2f	far
+2a	do-
+*Xlig	*
+2g	.
+=20	=20
+1f/ll}	-hin.
+==	==
+!!!GTL: Abschieds- und Wanderlieder
+!!!AGN: Romanze, Ballade, Lied
+!! Locheimer Liederbuch Ausgabe 1867 No. 8
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Ionian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0402.iview2?x=-495.6391625615763&y=1088.6896551745012&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0010
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/11/03
+*-	*-

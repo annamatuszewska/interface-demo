@@ -1,0 +1,118 @@
+!!!OTL: Waechterlied. / C. Geistliches Waechterlied.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0101B
+!!!OPR: 101. Waechterlied.
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/2; 6/2
+*M4/2	*
+*met(c|)	*
+*clefC4	*
+*k[b-]	*
+*F:	*
+=1	=1
+1ryy	.
+{1c	Wol-
+=2	=2
+2A	-auff,
+2c	wol-
+2F	-auff
+2C	mit
+=3	=3
+2F	lau-
+2G	-ter
+1A}	ſtimm,
+=4	=4
+{2r	.
+2G	thut
+2A	vns
+2B-	der
+=5	=5
+*lig	*
+1c	Wech-
+2B-	.
+*Xlig	*
+2A	-ter
+=6	=6
+1G	ſin-
+1F}	-gen:
+=7	=7
+{1r	.
+1c	Wer
+=8	=8
+2A	noch
+2c	in
+2F	ſei-
+2C	-nen
+=9	=9
+2F	Sün-
+2G	-den
+1A}	ligt,
+=10	=10
+{2r	.
+2G	der
+2A	mach
+2B-	ſich
+=11	=11
+*lig	*
+1c	bald
+2B-	.
+*Xlig	*
+2A	von
+=12	=12
+1G	hinnen.
+1F}	.
+=13	=13
+{2r	.
+2D	Jch
+2E	ſeh
+2F	da-
+=14	=14
+*M6/2	*
+1G	-her
+2r	.
+2E	der
+2F	En-
+2G	-gel
+=15	=15
+*M4/2	*
+1A}	ſchar,
+{1F	ein
+=16	=16
+*M6/2	*
+1c	groſſes
+2B-	.
+1A	Heer
+2F	(itʒt)
+=17	=17
+1c	durch
+2B-	die
+1A	wolcken
+4G}	.
+{4F	drin-
+=18	=18
+2.G	.
+4A/	.
+4B-/	.
+4G/	.
+1c	.
+4B-	.
+4A	.
+=19	=19
+1G	-gen.
+0F/ll}	.
+==	==
+!!!GTL: Tage- oder Wächterlieder
+!!!AGN: Romanze, Ballade, Lied
+!! J Walthers Wittenberger Gesangbuch 1551 No. 74
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0269.iview2?x=-425.8853427895981&y=210.2312056941446&scale=0.4823261117445838&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/22/02
+*-	*-

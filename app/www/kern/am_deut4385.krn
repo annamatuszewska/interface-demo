@@ -1,0 +1,70 @@
+!!!OTL: Engelspiel.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0653
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/2	*
+*met(3)	*
+*clefC4	*
+*k[b-]	*
+*F:ion	*
+!LO:TX:a:t=jon. tr.	!
+!LO:TX:a:t=P:2r, 2r in the source:problem	!
+{2C	Jch
+=1	=1
+4D	weiß
+4E	ein
+2F	lieplich
+2G	.
+=2	=2
+4D	en-
+4E	-gel-
+2F}	-ſpiel,
+{2F	da
+=3	=3
+4A	iſt
+4B-	alſ
+2c	leid
+2B-	ʒer-
+=4	=4
+2c	-gangen;
+2G}	.
+{2G	in
+=5	=5
+4A	hy-
+4B-	-melrich
+2c	.
+2A	iſt
+=6	=6
+4B-	frö-
+4A	-den
+2B-}	vil,
+{2G	on
+=7	=7
+4A/	en-
+4G	-des-
+2A/	-ʒil,
+2F	da
+=8	=8
+2A/	hin
+2G	ſol
+4D	vns
+4E	be-
+=9	=9
+2F	-langen.
+2F}	.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Strassburger Hs.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!AMD: Ionian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0833.iview2?x=-495.6391625615763&y=1129.7315270788968&scale=0.4629418472063854&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/26/03
+*-	*-

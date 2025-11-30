@@ -1,0 +1,89 @@
+!!!OTL: Herori matori! / (Tanzlied.)
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0244
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/2	*
+*met(3)	*
+*clefC4	*
+*k[b-]	*
+*F:ion	*
+=1	=1
+!LO:TX:a:t=jon.	!
+2ryy	.
+2ryy	.
+{2F	Es
+=2	=2
+1F	wolt
+2F	ein
+=3	=3
+1G	fraw
+2A	ʒum
+=4	=4
+1B-	wei-
+2B-	-ne
+=5	=5
+1G	gan
+!LO:TX:a:t=Chor.	!
+2B-	[He-
+=6	=6
+2A/	-ro-
+2G	-ri,
+2A/	ma-
+=7	=7
+2F	-to-
+2F}	-ri!]
+!LO:TX:a:t=Solo.	!
+{2F	Sie
+=8	=8
+*M3/1	*
+*met(3)	*
+1c	wolt
+2c	den
+1c	man
+2c	nit
+=9	=9
+1A	mit
+2A	ir
+=10	=10
+1G}	lan.
+!LO:TX:a:t=Chor.	!
+{2c	[Gu-
+=11	=11
+1G	-retſch,
+2A/	gu-
+1G	-retſch,
+2A	gu-
+=12	=12
+*M3/2	*
+2B-	-ri-
+2A	-tʒi
+2G	ma-
+=13	=13
+1F	-retſch!
+2F	He-
+=14	=14
+2A	-ro-
+2B-	-ri,
+2c	ma-
+=15	=15
+2B-	-to-
+1G	.
+=16	=16
+1.F/ll}	-ri!
+==	==
+!!!GTL: Liebeslieder
+!!!AGN: Romanze, Ballade, Lied
+!! Forster II 1540 No. 32.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Ionian.
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0394.iview2?x=-2231.2783251231526&y=-436.33990147779696&scale=0.2314709236031927&rotation=0&layout=singlePageLayout&logicalDiv=log_0010
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/03
+*-	*-

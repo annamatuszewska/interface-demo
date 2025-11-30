@@ -1,0 +1,113 @@
+!!!OTL: Ostergesang.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0554A
+!!!TXL: @@DE, (@@LAT)
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/2	*
+*met(C3)	*
+*clefC3	*
+*k[b-]	*
+*F:ion	*
+=1	=1
+!LO:TX:a:t=jon.	!
+!LO:N:vis=1	!
+2ryy	.
+!LO:N:vis=1	!
+2ryy	.
+!LO:N:vis=1	!
+{2f	Er-
+=2	=2
+!LO:N:vis=0	!
+1f	-ſtan-
+!LO:N:vis=1	!
+2f	-den
+=3	=3
+!LO:N:vis=0	!
+1e	iſt
+!LO:N:vis=1	!
+2e	der
+=4	=4
+!LO:N:vis=0	!
+1f	heil-
+!LO:N:vis=1	!
+2d	-ge
+=5	=5
+!LO:N:vis=0	!
+1c}	Chriſt,
+!LO:N:vis=1	!
+{2c	[Hal-
+=6	=6
+*lig	*
+!LO:N:vis=1	!
+2d	-le-
+!LO:N:vis=1	!
+2e	.
+*Xlig	*
+!LO:N:vis=1	!
+2f	.
+=7	=7
+!LO:N:vis=0	!
+1e	.
+!LO:N:vis=1	!
+2d	-hal-
+=8	=8
+!LO:N:vis=0	!
+1c	-le-
+!LO:N:vis=1	!
+2B-	-lu-
+=9	=9
+!LO:N:vis=0	!
+1A}	-ja!]
+!LO:N:vis=1	!
+{2G	der
+=10	=10
+!LO:N:vis=0	!
+1A	al-
+!LO:N:vis=1	!
+2A	-ler
+=11	=11
+!LO:N:vis=0	!
+1c	welt
+!LO:N:vis=1	!
+2c	ein
+=12	=12
+!LO:N:vis=0	!
+1A	trö-
+!LO:N:vis=1	!
+2G	-ſter
+=13	=13
+!LO:N:vis=0	!
+1F}	iſt.
+!LO:TX:a:t=*	!
+!LO:N:vis=1	!
+{2F	[Hal-
+=14	=14
+!LO:N:vis=0	!
+1A	-le-
+!LO:N:vis=1	!
+2B-	.
+=15	=15
+!LO:TX:a:t=P:coloured notes:problem	!
+!LO:N:vis=1	!
+2A	.
+!LO:TX:a:t=P:coloured notes:problem	!
+!LO:N:vis=0	!
+1G	-lu-
+=16	=16
+1.F;/ll}	-ja.]
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Triller 1555
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Ionian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0735.iview2?x=-171.61612513683053&y=-974.8060442381538&scale=0.5692057392176044&rotation=0&layout=singlePageLayout&logicalDiv=log_0021
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/20/03
+*-	*-

@@ -1,0 +1,110 @@
+!!!OTL: Tandernack.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0311A
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/2	*
+*met(O.)	*
+*clefC3	*
+*k[]	*
+*C:	*
+=1	=1
+!LO:N:vis=0	!
+{1e	Ʒ'An-
+!LO:N:vis=1	!
+2e	-der-
+=2	=2
+!LO:N:vis=0	!
+1e	-na-
+!LO:N:vis=1	!
+2f	-chen
+=3	=3
+!LO:N:vis=1	!
+(2e	an
+!LO:N:vis=1	!
+2d)	.
+!LO:N:vis=1	!
+2d	dem
+=4	=4
+!LO:N:vis=0	!
+1c}	Rhein.
+!LO:N:vis=1	!
+{2c	fand
+=5	=5
+!LO:N:vis=0	!
+1e	ich
+!LO:N:vis=1	!
+2e	ʒwei
+=6	=6
+!LO:N:vis=0	!
+1a	Mägd-
+!LO:N:vis=1	!
+2a	-lein
+=7	=7
+!LO:N:vis=1	!
+(2g	ſpie-
+!LO:N:vis=1	!
+2f)	.
+!LO:N:vis=1	!
+2f	-len
+=8	=8
+!LO:N:vis=0	!
+1e}	gan;
+!LO:N:vis=1	!
+{2e	die
+=9	=9
+!LO:N:vis=0	!
+1g	ei-
+!LO:N:vis=1	!
+2g	-ne
+=10	=10
+!LO:N:vis=0	!
+1a	hat
+!LO:N:vis=1	!
+2a	ein
+=11	=11
+!LO:N:vis=0	!
+1e	traurig
+!LO:N:vis=1	!
+2e	.
+=12	=12
+!LO:N:vis=0	!
+1c}	Anſehn,
+!LO:N:vis=1	!
+{2c	ihr
+=13	=13
+!LO:N:vis=0	!
+1d	Au-
+!LO:N:vis=1	!
+2d	-gen
+=14	=14
+!LO:N:vis=0	!
+1e	warn
+!LO:N:vis=1	!
+2d	mit
+=15	=15
+!LO:N:vis=1	!
+(2c	Thränen
+!LO:N:vis=1	!
+2B)	.
+!LO:N:vis=1	!
+2B	um-
+=16	=16
+!LO:TX:a:t=etc.	!
+!LO:N:vis=0.	!
+1.A}	-fahn.
+==	==
+!!!GTL: Tanz- und Kranzlieder
+!!!AGN: Romanze, Ballade, Lied
+!! Ott 1534 No. 98
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0464.iview2?x=-495.6391625615763&y=2272.4236453201156&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0012
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/12/03
+*-	*-

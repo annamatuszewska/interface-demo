@@ -1,0 +1,127 @@
+!!!OTL: Klaerchens Lied aus Egmont.
+!!!OTL-incipit: FREUDVOLL UND LEIDVOLL
+!!!COM: J. Fr. Reichardt
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0938
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M2/4	*
+*met(c)	*
+*k[b-e-a-]	*
+*E-:	*
+=1	=1
+!LO:TX:a:t=Sehr langſam und innig.	!
+{8.ee-L	Freud-
+16b-J	.
+8b-	-voll
+16r	.
+16b-	und
+=2	=2
+8.b-\L	leid-
+16gJ	.
+8g\	-voll,
+16r}	.
+{16g\	ge-
+=3	=3
+(8b-\L	-dan-
+8a-J)	.
+8f	-ken-
+8d	-voll
+=4	=4
+4e-	ſein,
+4r}	.
+=5	=5
+{8.ee-L	han-
+16ccJ	.
+8cc	-gen
+16r	.
+16cc	und
+=6	=6
+8.cc\L	ban-
+16gJ	.
+8g\	-gen
+16r}	.
+{16g	in
+=7	=7
+4g	ſchwe-
+8a	-ben-
+8b/	-der
+=8	=8
+4.cc	Pein,
+8r}	.
+=9	=9
+{4b-X	him-
+8cc	-mel-
+8dd	-hoch
+=10	=10
+8.ee-L	jauch-
+16b-J	.
+8b-	-ʒend,
+16r}	.
+{16b-	ʒum
+=11	=11
+8.b-\L	To-
+16aJ	.
+8a-\	-de
+16r	.
+16a-\	be-
+=12	=12
+8a-qq	.
+4g\	-trübt,
+4r}	.
+=13	=13
+{4.ee-	glück-
+16dd	-lich
+16ee-	al-
+=14	=14
+4.ff}	-lein
+{16b-	iſt
+16b-	die
+=15	=15
+4gg	See-
+8.ff	-le,
+16dd	die
+=16	=16
+4.ee-	liebt,
+8r}	.
+=17	=17
+{(4ee-	glück-
+16ffL)	.
+16ee-J	.
+16dd	-lich
+16ee-	al-
+=18	=18
+8eeqq	.
+4.ff}	-lein
+{32ee-L	iſt
+32ddJ	.
+32ccL	die
+32b-J	.
+=19	=19
+[4gg	See-
+16ggL]	.
+16aa-J	.
+16ff	-le
+16dd	die
+=20	=20
+4.ee-	liebt!
+8r}	.
+==	==
+!!!AGN: Liebes - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Text: J. W. Goethe
+!!!RDF**kern: > = above
+!!!GTL: Minnelieder
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 696
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=606
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/08
+*-	*-

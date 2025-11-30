@@ -1,0 +1,28 @@
+ERK
+CUT[ES ZOG EIN REITER WOHL UEBER DEN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[E0042E]
+KEY[E0042E  08  G 6/8]
+MEL[-5  1_1123  3222_
+    2  -722234  4_33_
+    1  111123  4_.2_5  3_.1_
+    1  2_242-7  2_.1_ //]
+BEM[]
+MEL_SEM[5 0 0 2 2 0 -2 0 0 0 -3 3 0 0 2 1 0 -1 0 -4 0 0 0 0 2 2 1 -3 5 -3 -4 0 2 0 3 -3 -3 3 -2]
+MEL_RAW[-5  11123  3222
+    2  -722234  433
+    1  111123  425  31
+    1  2242-7  21]
+NO_REP[-51232
+    2-72343
+    12342531
+    1242-721]
+RTM[x  x_xxxx  xxxx_
+    x  xxxxxx  x_xx_
+    x  xxxxxx  x_.x_x  x_.x_
+    x  x_xxxx  x_.x_]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

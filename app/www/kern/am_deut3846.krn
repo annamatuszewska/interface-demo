@@ -1,0 +1,140 @@
+!!!OTL: Der blaue Storch. / (Vierte Leseart.)
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0087
+!!!TXL: @@DUM
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  3/2; 3/1
+*M3/2	*
+*met(C|3)	*
+*clefC3	*
+*k[]	*
+*a:aeo	*
+=1	=1
+!LO:TX:a:t=äol.	!
+!LO:N:vis=1	!
+2ryy	.
+!LO:N:vis=1	!
+2ryy	.
+!LO:N:vis=1	!
+{2e	Jch
+=2	=2
+!LO:N:vis=0	!
+1e	ſach
+!LO:N:vis=1	!
+2e	mir
+=3	=3
+*lig	*
+!LO:N:vis=1	!
+2e	ei-
+!LO:N:vis=1	!
+2f	.
+*Xlig	*
+!LO:N:vis=1	!
+2f	-nen
+=4	=4
+!LO:N:vis=0	!
+1e	blouwen
+!LO:N:vis=1	!
+2e	.
+=5	=5
+!LO:N:vis=0	!
+1d	ſtor-
+!LO:N:vis=1	!
+2d}	-chen
+=6	=6
+*M3/1	*
+!LO:TX:a:t=P:coloured note:problem	!
+!LO:N:vis=0	!
+{1a	(weiter
+!LO:TX:a:t=P:coloured note:problem	!
+!LO:N:vis=0	!
+1g	kein
+!LO:TX:a:t=P:coloured note:problem	!
+!LO:N:vis=1	!
+2f	Text)
+!LO:TX:a:t=P:coloured note:problem	!
+!LO:N:vis=1	!
+2d	.
+=7	=7
+*M3/2	*
+!LO:N:vis=0	!
+1e	.
+!LO:N:vis=1	!
+2A	.
+=8	=8
+!LO:N:vis=0	!
+1e	.
+!LO:N:vis=1	!
+2A	.
+=9	=9
+1.e;\ll}	.
+=10	=10
+!LO:N:vis=1	!
+{2r	.
+!LO:N:vis=1	!
+2r	.
+!LO:N:vis=1	!
+2e	.
+=11	=11
+*M3/1	*
+!LO:N:vis=0	!
+1e	.
+!LO:N:vis=0	!
+1f	.
+!LO:N:vis=1	!
+!LO:TX:a:t=P:coloured note:problem	!
+2g	.
+!LO:N:vis=1	!
+!LO:TX:a:t=P:coloured note:problem	!
+2e	.
+=12	=12
+!LO:N:vis=0	!
+1d	.
+!LO:N:vis=1	!
+2d	.
+!LO:N:vis=0	!
+1A}	.
+!LO:N:vis=1	!
+{2B	.
+=13	=13
+!LO:TX:a:t=P:coloured note:problem	!
+!LO:N:vis=0	!
+1c	.
+!LO:TX:a:t=P:coloured note:problem	!
+!LO:N:vis=0	!
+1c	.
+!LO:TX:a:t=P:coloured note:problem	!
+!LO:N:vis=1	!
+2B	.
+!LO:TX:a:t=P:coloured note:problem	!
+!LO:N:vis=1	!
+2B	.
+=14	=14
+*M3/2	*
+!LO:N:vis=0	!
+1A	.
+!LO:N:vis=1	!
+2E	.
+=15	=15
+!LO:N:vis=0	!
+1A	.
+!LO:N:vis=1	!
+2E	.
+=16	=16
+1.A/ll;}	.
+==	==
+!!!GTL: Balladen und Romanzen (erzählende Volkslieder)
+!!!AGN: Romanze, Ballade, Lied
+!! Baseler Tenor. Hs. von 1560-70 fol. 68b.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Aeolian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0250.iview2?x=-2231.2783251231526&y=0&scale=0.2314709236031927&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/27/02
+*-	*-

@@ -1,0 +1,66 @@
+!!!Xfilter: transpose -t P8
+!!!OTL: 117e. Winterrosen.
+!!!ARE: Europa, Mitteleuropa, Deutschland, Brandenburg; Schlesien; Sachsen
+!!!SCT: E0117
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M2/4	*
+*k[]	*
+*C:	*
+!LO:TX:a:t=Etwas geſchwind	!
+!LO:TX:a:t=Verbreitetſte Melodie: aus Brandenburg, Schleſien, Sachſen, Heſſen-Darmſtadt rc.	!
+{8g	Es
+=1	=1
+8cc	wollt
+8g	ein
+8e	Mägdlein
+8g	.
+=2	=2
+8.cc	Waſ-
+16cc	-ſer
+8cc}	holn
+{8ee	aus
+=3	=3
+8.dd	ei-
+16cc	-nem
+8b	küh-
+8a	-len
+=4	=4
+8aL	Brun-
+8gJ	.
+8g	-nen,
+8r}	.
+=5	=5
+{8e	hm
+8f	hm
+8g	hm,
+8r	.
+=6	=6
+8e	ha
+8f	ha
+8g}	ha!
+{8g	aus
+=7	=7
+8cc	ei-
+8cc	-nem
+8dd	küh-
+8dd	-len
+=8	=8
+8gL	Brun-
+16a	.
+16bJ	.
+8cc}	-nen.
+==	==
+!!!AGN: erzaehlendes Volks - Lied, Schalk -, Schelmen - Lied, Liebe, Ballade ?
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Schalks- und Schlemenlieder (Liebesabenteuer und betrogene Liebe)
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn745146120/iview2/phys_0486.iview2?x=-422.27491384562836&y=1119.0143514927477&scale=0.554360769283424&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/03/12
+*-	*-

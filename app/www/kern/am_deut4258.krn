@@ -1,0 +1,107 @@
+!!!OTL: Das Judaslied.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0539C
+!!!TXL: @@DE, (@@LAT)
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c|)	*
+*clefC3	*
+*k[b-]	*
+*F:mix	*
+=1	=1
+!LO:TX:a:t=mixolyd.	!
+{2c	O
+2c	du
+2c	ar-
+2c	-mer
+=2	=2
+1d	Ju-
+1c	-das,
+=3	=3
+!LO:TX:a:t=*	!
+2B-	was
+2B-	ha-
+2A	-ſtu
+2G	ge-
+=4	=4
+1F	-than,
+1r}	.
+=5	=5
+{2c	daß
+2c	du
+2c	dei-
+2c	-nen
+=6	=6
+1d	Her-
+2B-	-ren
+2B-	al-
+=7	=7
+2d	-ſo
+2d	ver-
+2e-	-ra-
+2d	-then
+=8	=8
+1c	haſt!
+1r}	.
+=9	=9
+{2c	Dar-
+2c	-umb
+2c	mu-
+2c	-ſtu
+=10	=10
+1f	lei-
+1c	-den
+=11	=11
+2d	in
+2d	der
+2c	hel-
+2c	-le
+=12	=12
+1B-	pein,
+1r}	.
+=13	=13
+{2c	Lu-
+2c	-ci-
+2c	-fers
+2d	ge-
+=14	=14
+1c	-ſel-
+1A	-le
+=15	=15
+2B-	mu-
+2B-	-ſtu
+2G	e-
+2G	-wig
+=16	=16
+0F}	ſein.
+=17||	=17||
+!LO:TX:a:t=Schluß weſentlich ſo:	!
+{1B-	Ky-
+1c	-ri-
+=18	=18
+1d	-e
+1e-	e-
+=19	=19
+*lig	*
+1c	-le-
+1Bi	-i-
+*Xlig	*
+=20	=20
+0c\ll}	-son.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! J. Ott III 1544 No. 12.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!AMD: Mixolydian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0717.iview2?x=-2231.2783251231526&y=-238.47487682569772&scale=0.2314709236031927&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/20/03
+*-	*-

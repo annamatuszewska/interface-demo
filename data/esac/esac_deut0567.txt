@@ -1,0 +1,32 @@
+ERK
+CUT[ES WOLLT EIN NICKELMANN FREIEN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Magdeburg, Leitzkau]
+TRD[]
+FKT[]
+SIG[E0001]
+KEY[E0001   16  F 2/4]
+MEL[-5_  1_1_1-712  34321_
+    33  4_4_3_3_  2__0_
+    34  5_2_2321  -71-7-6-5_
+    -5-5  1_1_2_6_  5__
+    4__  3_3_322_  1__0_ //]
+BEM[]
+MEL_SEM[5 0 0 -1 1 2 2 1 -1 -2 -2 4 0 1 0 -1 0 -2 2 1 2 -5 0 2 -2 -2 -1 1 -1 -2 -2 0 0 5 0 2 7 -2 -2 -1 0 0 -2 0 -2]
+MEL_RAW[-5  111-712  34321
+    33  4433  20
+    34  522321  -71-7-6-5
+    -5-5  1126  5
+    4  33322  10]
+NO_REP[-51-71234321
+    34320
+    3452321-71-7-6-5
+    -51265
+    43210]
+RTM[x_  x_x_xxxx  xxxxx_
+    xx  x_x_x_x_  x__x_
+    xx  x_x_xxxx  xxxxx_
+    xx  x_x_x_x_  x__
+    x__  x_x_xxx_  x__x_]
+SCL_DEG[-5-6-7123456]
+SCL_SEM[2 2 1 2 2 1 2 2]
+

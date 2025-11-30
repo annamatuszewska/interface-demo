@@ -1,0 +1,84 @@
+!!!OTL: Frau Nachtigall. / a. Niederlaendische Melodie.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0158A
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/2	*
+*met(C|3)	*
+*clefC4	*
+*k[]	*
+*d:dor	*
+=1	=1
+!LO:TX:a:t=dor.	!
+{2D	Dar
+2D	licht
+2D	ein
+=2	=2
+1A	ſtat
+2A	in
+=3	=3
+1c	O-
+2c	-ſter-
+=4	=4
+1F}	-rik,
+{2G	de
+=5	=5
+2A	is
+1B-	ſo
+=6	=6
+1A	wol
+2G	ge-
+=7	=7
+1.A	-ʒi-
+=8	=8
+1A	-ret,
+2r}	.
+=9	=9
+{2A	all
+2c	mit
+2B	ſo
+=10	=10
+2A/	man-
+2G	-ni-
+2B-	-gen
+=11	=11
+1A	blöm-
+2A	-lein
+=12	=12
+1D}	blaw,
+{2A	mit
+=13	=13
+1c	mar-
+4B-i	-mel-
+4A	.
+=14	=14
+1B-i	-ſtein
+2A	ge-
+=15	=15
+*lig	*
+2G	-mü-
+2E	.
+2F	.
+=16	=16
+2G	.
+1E	.
+*Xlig	*
+=17	=17
+1.D/ll}	-ret.
+==	==
+!!!GTL: Liebeslieder
+!!!AGN: Romanze, Ballade, Lied
+!! Souterliedekens 1540 ad Ps. 6.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0325.iview2?x=-495.6391625615763&y=1091.7137930761091&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0009
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/26/02
+*-	*-

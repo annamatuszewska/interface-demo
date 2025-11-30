@@ -1,0 +1,24 @@
+ERK
+CUT[ES FREIT EINMAL EIN WASSERMANN]
+REG[Europa, Mitteleuropa, Deutschland, Vormark, Wittstock]
+TRD[]
+FKT[]
+SIG[E0002]
+KEY[E0002   08  D 4/4]
+MEL[13  5_5435+1_  6_654_
+    45  6_6_67+1+2  7_5_5_
+    5_  +1_+1_+1+2+3+1  5_67+1_ //]
+BEM[]
+MEL_SEM[4 3 0 -2 -1 3 5 -3 0 -2 -2 0 2 2 0 0 2 1 2 -3 -4 0 0 5 0 0 2 2 -4 -5 2 2 1]
+MEL_RAW[13  55435+1  6654
+    45  6667+1+2  755
+    5  +1+1+1+2+3+1  567+1]
+NO_REP[135435+1654
+    4567+1+275
+    5+1+2+3+1567+1]
+RTM[xx  x_xxxxx_  x_xxx_
+    xx  x_x_xxxx  x_x_x_
+    x_  x_x_xxxx  x_xxx_]
+SCL_DEG[134567+1+2+3]
+SCL_SEM[4 1 2 2 2 1 2 2]
+

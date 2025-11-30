@@ -1,0 +1,93 @@
+!!!OTL: 765. Pilgerspruch.
+!!!COM: Mendelssohn
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0765
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[f#]	*
+*G:	*
+!LO:TX:a:t=Andante.	!
+{4dd	Laſſ
+=1	=1
+4.dd	dich
+8cc	nur
+4b	nichts
+4a	nicht*
+=2	=2
+2a	dau-
+4g}	-ern,
+{4ee	mit
+=3	=3
+2dd	Trau-
+4cc#	-ern
+4cc#	ſei
+=4	=4
+4dd	ſtil-
+4a	-le!
+4r}	.
+{4f#	Wie
+=5	=5
+4.g	Gott
+8a	es
+4b	fügt,
+4b	ſo
+=6	=6
+4.cc	ſei
+8dd	ver-
+4ee}	-gnügt,
+{8eeL	ſo
+8ddJ	.
+=7	=7
+4.dd	ſei
+8cc	ver-
+4b	-gnügt
+4a	mein
+=8	=8
+2dd	Wil-
+4dd}	-le,
+{8eeL	ſo
+8ddJ	.
+=9	=9
+(4dd	ſei
+4ffn	.
+4ee)	.
+4b	ver-
+=10	=10
+[2dd	-gnügt
+8dd]L	.
+8cc}J	.
+{8bL	mein
+8aJ	.
+=11	=11
+(<2gSS	Wil-
+(<4.b)	.
+8a)	.
+=12	=12
+2g	-le!
+4r}	.
+==	==
+!!!AGN: Moral - Lied, religioes
+!!!GTL: Religioese Lieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: < = below
+!!@@COMMENT:"Gedicht von Paul Fleming um 1633. Melodie von Felix Mendelsſohn op. 8. Als
+!!Motette iſt derſelbe Text auch von Brahms komponirt.
+!!* Die doppelte Negation ſteht hier nach altem Sprachgebrauch in ihrem Rechte. Sie iſt
+!!noch heute in der Volksſprache häufig ʒu hören und galt ſonſt nicht als Affirmation.
+!!Gedicht von J. P. Hebel (um 1811), von Mendelsſohn für gem. Chor komponirt."
+!!@@END:
+!!!Text: P. Fleming 
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n611/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/19/07
+*-	*-

@@ -1,0 +1,112 @@
+!!!OTL: 465. Lieblingsplaetzchen.
+!!!COM: Mendelssohn
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0465
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M3/4	*
+*k[f#]	*
+*G:	*
+=1	=1
+!LO:TX:a:t=Andante	!
+{4.b	Wißt
+8b	ihr,
+8b	wo
+8b	ich
+=2	=2
+8.dd	ger-
+16cc	-ne
+2b}	weil'
+=3	=3
+{4.g	in
+8g	der
+8a	A-
+8a	-bend-
+=4	=4
+8bL	-küh-
+8ddJ	.
+4a	-le?
+4r}	.
+=5	=5
+{4.b	Jn
+8b	dem
+8b	ſtil-
+8b	-len
+=6	=6
+8.dd	Tha-
+16cc	-le
+2b}	geht
+=7	=7
+{4.g	ei-
+8g	-ne
+8a	klei-
+8a	-ne
+=8	=8
+2b	Müh-
+8f#	-le
+8r}	.
+=9	=9
+{8f#	und
+8g	ein
+4f#	kleiner
+4b	.
+=10	=10
+8f#	Bach
+8g	da-
+4f#	-bei;
+4r}	.
+=11	=11
+{8g	ringsum-
+8g	.
+8gL	-her
+8aJ	.
+8bL	ſtehn
+8ccJ#	.
+=12	=12
+(4.ee^	Bäu-
+8dd)	.
+8cc#L	-me:
+8ccJ}	.
+=13	=13
+{4.b	oft
+8b	ſitʒ'
+8b	ich
+8b	da
+=14	=14
+8.dd	ſtun-
+16cc	-denlang,
+2b}	.
+=15	=15
+{8g	ſchau'
+8f#	um-
+4g	-her
+4a	und
+=16	=16
+[(2.b}	träu-
+=17	=17
+{4b]	.
+4a	.
+8ccL	.
+8bJ	.
+=18	=18
+2g)	-me.
+4r}	.
+==	==
+!!!AGN: Liebes - Lied, Leid, Klage
+!!!GTL: Liebeslieder - Liebesleid
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Mendelſohn op. 99, Nr. 33.
+!!@@COMMENT:"Das Gedicht ſoll aus "Des Knaben Wunderborn" ſein. Darin gibt's aber kein Lied mit dieſem Anfange."
+!!@@END:
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n373/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/10/07
+*-	*-

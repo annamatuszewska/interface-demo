@@ -1,0 +1,24 @@
+ERK
+CUT[ES GIENG EIN MUELLER UEBER FELD]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0058]
+KEY[E0058   08  G 4/4]
+MEL[-5_  1_3b_2_5_  4_3b_2_0
+    -5  1_3b_2_5_  4_3b_2_0
+    5  5_4_5_3b2  3b_1_0_ //]
+BEM[]
+MEL_SEM[5 3 -1 5 -2 -2 -1 -7 5 3 -1 5 -2 -2 -1 5 0 -2 2 -4 -1 1 -3]
+MEL_RAW[-5  13b25  43b20
+    -5  13b25  43b20
+    5  5453b2  3b10]
+NO_REP[-513b2543b20
+    -513b2543b20
+    5453b23b10]
+RTM[x_  x_x_x_x_  x_x_x_x
+    x  x_x_x_x_  x_x_x_x
+    x  x_x_x_xx  x_x_x_]
+SCL_DEG[-5123b45]
+SCL_SEM[5 2 1 2 2]
+

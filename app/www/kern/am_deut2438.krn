@@ -1,0 +1,96 @@
+!!!OTL: 204. Fruehlingsgruss.
+!!!COM: Rob. Schumann
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0204
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M3/4	*
+*k[f#]	*
+*G:	*
+!LO:TX:a:t=Sehr mäßig.	!
+{4d	So
+=1	=1
+8.g	ſei
+16b/	ge-
+4a	-grüßt
+4g	viel
+=2	=2
+8.ee	tau-
+16cc	-ſendmal,
+2a}	.
+=3	=3
+{4.dd	holder,
+8b/	.
+8a	hol-
+8g	-der,
+=4	=4
+4b/	hol-
+4a	-der
+8r}	.
+{8d	Frühling!
+=5	=5
+8.g	.
+16b/	Willkom-
+4a	.
+4g	-men
+=6	=6
+8.gg	un-
+16ee	-ſerm
+2cc#}	Thal,
+=7	=7
+{4.dd	hol-
+8a	-der,
+8a	hol-
+8g	-der,
+=8	=8
+4g	Früh-
+4f#	-ling!
+4r}	.
+=9	=9
+{12dL	Hol-
+12f#J	.
+12a	-der
+4cc	Frühling,
+4ee	.
+=10	=10
+12ddL	ü-
+12f#J	.
+12a	-ber-
+2cc}	-all
+=11	=11
+{8.b	grü-
+16b	-ßen
+8cc	wir
+8dd	dich
+8ee	froh
+8ff#	mit
+=12	=12
+8.gg	Sang
+16ee	und
+4dd	Schall,
+8r}	.
+{8d	mit
+=13	=13
+8.cc	Sang
+16a	und
+4g;}	Schall!
+==	==
+!!!AGN: Jahreszeiten - Lied, Fruehling
+!!!GTL: Jahreszeitenlieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Rob. Schumann, aus op. 19.
+!!@@COMMENT:"Gedicht von Hoffmann von Fallersleben, 1835"
+!!@@END:
+!!!Text: H. von Fallersleben
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n191/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/24/06
+*-	*-

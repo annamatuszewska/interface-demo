@@ -1,0 +1,139 @@
+!!!OTL: 718. Schifferlied.
+!!!ARE: Europa, Mitteleuropa, Deutschland; Italia
+!!!SCT: B0718
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M2/4	*
+*k[f#]	*
+*G:	*
+!LO:TX:a:t=Mäßig.	!
+{8d	Das
+=1	=1
+8g	Schiff
+8g	ſtreicht
+8a	durch
+8a	die
+=2	=2
+8.bL	Wel-
+16ddJ	.
+8a	-len,
+16a	fi
+16b	de-
+=3	=3
+4g	-lin!*
+8r}	.
+{8d	Auf
+=4	=4
+8g	laßt
+8g	die
+8a	Se-
+8a	-gel
+=5	=5
+8.bL	ſchwellen,
+16ddJ	.
+8a	.
+16a	ſi-
+16b	-de-
+=6	=6
+4g	-lin!
+8r}	.
+{8d	Verſchwunden
+=7	=7
+8cc	.
+8cc	.
+8cc	iſt
+16eeL	der
+16ddJ	.
+=8	=8
+8dd	Strand
+16b	in
+16b	der
+16cc	Fer-
+16b}	-ne,
+{16a	ach
+16g	wie
+=9	=9
+16a	ger-
+16a	-ne
+16a	wär'
+16a	ich
+16b	noch
+16a	im
+16g	Hei-
+16f#	-math-
+=10	=10
+8g	-land!
+16g	Fi-
+16a	-de
+16bL	lin
+16ddJ	.
+16ccL	lin
+16ccJ	.
+=11	=11
+4g	la!
+8r}	.
+{8d	Verſchwunden
+=12	=12
+8cc	.
+8cc	.
+8cc	iſt
+16eeL	der
+16ddJ	.
+=13	=13
+8dd	Strand
+16b	in
+16b	der
+16cc	Fer-
+16b}	-ne,
+{16a	ach
+16g	wie
+=14	=14
+16a	ger-
+16a	-ne
+16a	wär'
+16a	ich
+16b	noch
+16a	im
+16g	Hei-
+16f#	-math-
+=15	=15
+8g	-land!
+16g	Fi-
+16a	-de
+16bL	lin
+16ddJ	.
+16ccL	lin
+16ccJ	.
+=16	=16
+4g	la!
+8r}	.
+==	==
+!!!AGN: Heimat - Lied, Sehnsucht
+!!!GTL: Auslaendische Weisen, die in Deutschland gesungen wurden
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Jtal. Weiſe: O Pescator dell' onde.
+!!@@COMMENT:"Gedicht vom Grafen Joſ. v. Braſſier 1819, mit Benutʒung der italieniſchen Melodie:
+!!"O pescator dell onde. Der deutſche Text ſteht ʒuerſt in "Kriegs- und Volkslieder". Stutig.,
+!!Metʒler's Verlag 1824 mit Br. unterʒeichnet. Mit der ital. Melodie ſteht das Lied ʒuerſt im
+!!"Teutſchen Liederbuch", Paſſau, P. Ambroß 1828, S. 99. Schon wenige Jahre darauf ſang man
+!!das Schifferlied in ganʒ Deutſchland. Ʒur Verbreitung trug jedenfalls der Umſtand bei, daß es
+!!bald darauf in die Poſſe Der Weltumſegler" aufgenommen wurde. Noch jetʒt ein ſehr beliebtes
+!!Lied, das in keinem Taſchenliederbuche fehlt.
+!!* Aus der ſpielenden Silbe des Refrain ſidelin, die nichts weiter bedeutet als tralala, hat man
+!!fidolin, ſogar Fridolin gemacht, und ein Schriftgelehrter der Neuʒeit meint gar, daß Fridolin
+!!wahrſcheinlich einen Heiligen beʒeichne, den die Schiffer wie die Santa Lucia rufen! Auch für
+!!die Schulkinder hat man dieſes Liebeslied ʒurecht gemacht und alle Worte von Liebe ausgemerʒt, darum Str. 3. ganʒ weggelaſſen und 4. geändert."
+!!@@END:
+!!!Text: J. von Brassier
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n569/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/18/07
+*-	*-

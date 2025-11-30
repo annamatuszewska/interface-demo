@@ -1,0 +1,97 @@
+!!!OTL: Tanzlied.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0310A
+!!!TXO: @@NLD
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c|)	*
+*clefC3	*
+*k[]	*
+*A:aeo	*
+!LO:TX:a:t=aeol.	!
+!LO:TX:a:t=Hoe soude ic vreucht bedriven.	!
+{2A	Es
+=1	=1
+2.G	wolt
+4G	gut
+2.A	Schiff-
+4A	-mann
+=2	=2
+1B	ſchif-
+2.B}	-fen,
+{4B	wolt
+=3	=3
+2.B	fa-
+4B	-ren
+2.c/	v-
+4c/	-bern
+=4	=4
+*lig	*
+1B	Rein,
+2A}	.
+*Xlig	*
+{2A	Es
+=5	=5
+2.G	wolt
+4G	gut
+2.A	Schiff-
+4A	-mann
+=6	=6
+1B	ſchif-
+2.B}	-fen,
+{4B	wolt
+=7	=7
+2.B	fa-
+4B	-ren
+2.c/	v-
+4c/	-bern
+=8	=8
+*lig	*
+1B	Rein,
+1A}	.
+=9	=9
+*lig	*
+{1A	Da
+1e	.
+*Xlig	*
+=10	=10
+2.d	ward
+4c	er
+2.B	bald
+4B	er-
+=11	=11
+1c	-grif-
+2.B}	-fen
+{4B	von
+=12	=12
+2.A	ei-
+4A	-nem
+2.B	Junck-
+4B	-fräw-
+=13	=13
+1E}	-lein,
+{1B	das
+=14	=14
+2.d	ſchö-
+4d	-ne
+2.c/	Junck-
+4B	-fräw-
+=15	=15
+1.A/ll}	-lein.
+==	==
+!!!GTL: Tanz- und Kranzlieder
+!!!AGN: Romanze, Ballade, Lied
+!! Souterliedekens 1540 ad Ps. 133
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Aeolian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0463.iview2?x=-2231.2783251231526&y=1698.7014778330922&scale=0.2314709236031927&rotation=0&layout=singlePageLayout&logicalDiv=log_0012
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/12/03
+*-	*-

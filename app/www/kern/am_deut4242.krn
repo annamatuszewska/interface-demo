@@ -1,0 +1,109 @@
+!!!OTL: Weihnachtslied mit Echo.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0527
+!!!TXL: @@GMH, @@LAT
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c|)	*
+*clefC4	*
+*k[b-]	*
+*g:	*
+=1	=1
+!LO:TX:a:t=Chorus:	!
+{2B-	Als
+4A	ich
+4G	bei
+2.F	mei-
+4F	-nen
+=2	=2
+2G	Schafem
+2A/	.
+1B-}	wacht,
+=3||	=3||
+!LO:TX:a:t=Echo durch Solo:	!
+{2B-	[als
+4A	ich
+4G	bei
+2.F	mei-
+4F	-nen
+=4	=4
+2G	Scha-
+2A/	-fen
+1B-}	wacht,]}
+=5	=5
+{2B-	Ein
+4A	En-
+4G	-gel
+2.F	mir
+4F	die
+=6	=6
+2G	Bot-
+2A/	-ſchaft
+1B-}	bracht
+=7||	=7||
+!LO:TX:a:t=Echo durch Solo:	!
+{2B-s	[ein
+4A	En-
+4G	-gel
+2.F	mir
+4F	die
+=8	=8
+2G	Botſchaft
+2A/	.
+2B-}	bracht;]}
+{2B-	Deß
+=9	=9
+2.A	bin
+4A	ich
+1G	froh,
+=10	=10
+!LO:TX:a:t=Echo.	!
+2.A	[bin
+4A	ich
+1G}	froh,]
+=11||	=11||
+!LO:TX:a:t=Chor.	!
+{2B-	froh,
+2c	froh,
+1d	froh,
+=12	=12
+2B-	[froh,
+2c	froh,
+1d}	froh!]
+=13	=13
+!LO:TX:a:t=Chor und dann Solo	!
+{2d	Be-
+4c	-ne-
+4B-	-di-
+2A/	-ca-
+2G	-mus
+=14	=14
+2A	Do-
+2F#i	-mi-
+1G/ll}	-no.
+=15	=15
+{2d	Be-
+4c	-ne-
+4B-	-di-
+2A/	-ca-
+2G	-mus
+=16	=16
+2A	Do-
+2F#i	-mi-
+1G/ll}	-no.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Coelner Gsgb 1623 S. 103.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0704.iview2?x=-1209.4276468929606&y=113.56806004047394&scale=0.3280358172731578&rotation=0&layout=singlePageLayout&logicalDiv=log_0021
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/20/03
+*-	*-

@@ -1,0 +1,99 @@
+!!!OTL: St. Katharina.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0617
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/2	*
+*met(3)	*
+*k[b-]	*
+*g:dor	*
+!LO:TX:a:t=dor. tr.	!
+!LO:TX:a:t=P:2r, 2r in the source:problem	!
+!LO:N:vis=1	!
+2ryy	.
+!LO:N:vis=1	!
+2ryy	.
+!LO:N:vis=1	!
+{2g	Wir
+=1	=1
+!LO:N:vis=0	!
+1g	lobn
+!LO:N:vis=1	!
+2f	die
+=2	=2
+!LO:N:vis=0	!
+1b-	hei-
+!LO:N:vis=1	!
+2b-	-lig
+=3	=3
+*lig	*
+!LO:N:vis=1	!
+2cc	vnd
+!LO:N:vis=1	!
+2dd	.
+!LO:N:vis=1	!
+2cc	die
+*Xlig	*
+=4	=4
+!LO:N:vis=0	!
+1b-}	rein,
+!LO:N:vis=1	!
+{2g	Wir
+=5	=5
+!LO:N:vis=0	!
+1g	lobn
+!LO:N:vis=1	!
+2f	die
+=6	=6
+!LO:N:vis=0	!
+1b-	hei-
+!LO:N:vis=1	!
+2b-	-lig
+=7	=7
+*lig	*
+!LO:N:vis=1	!
+2cc	vnd
+!LO:N:vis=1	!
+2dd	.
+!LO:N:vis=1	!
+2cc	die
+*Xlig	*
+=8	=8
+!LO:N:vis=0	!
+1b-}	rein,
+!LO:N:vis=1	!
+{2ff	die
+=9	=9
+!LO:N:vis=0	!
+1ff	hei-
+!LO:N:vis=1	!
+2cc	-lig
+=10	=10
+!LO:N:vis=0	!
+1dd	jung-
+!LO:N:vis=1	!
+2a	-fraw
+=11	=11
+!LO:N:vis=0	!
+1b-	Ca-
+!LO:N:vis=1	!
+2a	-tha-
+=12	=12
+!LO:N:vis=0.	!
+1g}	-rein.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Corners Gsgb 1625 No. 289
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0799.iview2?x=-1021.1722681204792&y=1738.8455792590976&scale=0.35534665417946304&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/25/03
+*-	*-

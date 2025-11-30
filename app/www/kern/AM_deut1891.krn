@@ -1,0 +1,78 @@
+!!!OTL: 1528. Der Bergmalzer.
+!!!ARE: Europa, Mitteleuropa, Deutschland, Hessen, Wetzlar
+!!!SCT: E1528
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M6/8	*
+*k[b-]	*
+*F:	*
+!LO:TX:a:t=Einzelne.	!
+!LO:TX:a:t=Altes Bergmannslied. Aus der Gegend von Wetʒlar.	!
+{8c	Wie
+=1	=1
+8.f	könn-
+16e	-te
+8f	denn
+8.a	heu-
+16g	-te
+8f	die
+=2	=2
+8.cc	Welt
+16dd	noch
+8cc	be-
+8.a	-ſteh-
+16g}	-en,
+{8f	wenn
+=3	=3
+4g	kei-
+8dd	-ne
+4cc	Berg-
+8e	-leut
+=4	=4
+4f	wärn!
+8ff	Glück
+4cc}	auf!
+{8a	's_kommt
+=5	=5
+8.g	Al-
+16g	-les
+8dd	von
+4cc	Berg-
+8e	-leut
+=6	=6
+[>4.f	her.
+4f]	.
+8r}	.
+=7||	=7||
+!LO:TX:a:t=Alle.	!
+{4.dd	Ja,
+4.ff	ja,
+=8	=8
+4.cc	ja,
+4ff}	ja,
+{8a	's_kommt
+=9	=9
+8.g	Al-
+16g	-les
+8dd	von
+4cc	Berg-
+8e	-leut
+=10	=10
+[>4.f	her.
+4f]	.
+8r}	.
+==	==
+!!!AGN: Staende -, Bergmanns - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: >= above
+!!!GTL: Staendelieder (Berufslieder). 5. Bergmannslieder.
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn745177999/iview2/phys_0374.iview2?x=-128.77276441889285&y=114.5023469964508&scale=0.5870222003877487&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/03/01
+*-	*-

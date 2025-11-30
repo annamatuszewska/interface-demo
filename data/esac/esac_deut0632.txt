@@ -1,0 +1,32 @@
+ERK
+CUT[DER SCHAEFER UEBER DIE BRUECKE KAM]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt, Alsfeld]
+TRD[]
+FKT[]
+SIG[E0043B]
+KEY[E0043B  08  G 4/4]
+MEL[-5_  1_1_3_3_  5_5_3_
+    5_  65434_4_  54323_
+    12  3_3_5_4_  3_2_1_
+    3_  21321_3_  5_-5_1_
+    12  3_3_5_4_  3_2_1_ //]
+BEM[]
+MEL_SEM[5 0 4 0 3 0 -3 3 2 -2 -2 -1 1 0 2 -2 -1 -2 2 -4 2 2 0 3 -2 -1 -2 -2 4 -2 -2 4 -2 -2 4 3 -12 5 0 2 2 0 3 -2 -1 -2 -2]
+MEL_RAW[-5  1133  553
+    5  654344  54323
+    12  3354  321
+    3  213213  5-51
+    12  3354  321]
+NO_REP[-51353
+    56543454323
+    12354321
+    32132135-51
+    12354321]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  xxxxx_x_  xxxxx_
+    xx  x_x_x_x_  x_x_x_
+    x_  xxxxx_x_  x_x_x_
+    xx  x_x_x_x_  x_x_x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

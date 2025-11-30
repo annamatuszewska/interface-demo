@@ -1,0 +1,78 @@
+!!!OTL: Nachtlied
+!!!OTL-incipit: ABEND SINKT STILL AUF DIE FLUR
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0288
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M3/8	*
+*k[b-]	*
+*F:	*
+=1	=1
+!LO:TX:a:t=Langſam und ſanft.	!
+{8.a	1._A-
+16b-/	-bend
+8a	ſinkt
+=2	=2
+8.g	ſtill
+16a	auf
+8g	die
+=3	=3
+4f	Flur,
+8r}	.
+=4	=4
+{8g	mü-
+8g	-de
+8g	ſucht
+=5	=5
+8.a	Al-
+16a	-les
+8cc/	die
+=6	=6
+(>4cc/	Hüt-
+8b-/)	.
+=7	=7
+4g	-te,
+8r}	.
+=8	=8
+{8a	und
+8a	es
+8bn/	er-
+=9	=9
+8cc/	-hebt
+8cc/	ſich
+8dd/	die
+=10	=10
+(>4ee/	Bit-
+8dd/)	.
+=11	=11
+4cc/	-te
+8r}	.
+=12	=12
+{8ff	fromm
+8cc	ʒu
+8a	dem
+=13	=13
+8cc/	Herrn
+8b-/	der
+8g	Na-
+=14	=14
+4f	-tur!
+8r}	.
+==	==
+!!!AGN: Jugend - Lied, religioes, Tageszeiten, Abend
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: > = above
+!!!GTL: Jugendlieder
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 172
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=170,171
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/07/30
+*-	*-

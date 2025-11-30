@@ -1,0 +1,91 @@
+!!!OTL: Thueringer Volkslied
+!!!OTL-incipit: ACH WIE ISTS MOEGLICH DANN
+!!!COM: Volksweise
+!!!ARE: Europa, Mitteleuropa, Deutschland, Thueringen
+!!!SCT: F0090
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M2/4	*
+*k[b-e-]	*
+*B-:	*
+=1	=1
+!LO:TX:a:t=Andante.	!
+!LO:TX:a:t=Ges. v. H. Langer	!
+!LO:TX:a:t=Einstimmig oder nach dem zweiten Liniensystem vierstimmig zu singen.	!
+{4dd	1._Ach,
+8b-	wie
+8g	iſt's
+=2	=2
+8f	mög-
+8b-	-lich
+4b-}	dann,
+=3	=3
+{4cc	daß
+8b-	ich
+8cc	dich
+=4	=4
+8dd	laſ-
+8g	-ſen
+4f}	kann,
+=5	=5
+{4f	hab'
+8en	dich
+8f	ſo
+=6	=6
+8g	herʒ-
+8ee-X	-lich
+4dd}	lieb,
+=7	=7
+{4cc^	das
+8dd	glau-
+8cc	-be
+=8	=8
+4f	mir!
+4r}	.
+=9	=9
+{4cc	Du
+8dd	haſt
+8cc	die
+=10	=10
+8b-	See-
+8g	-le
+4f}	mein
+=11	=11
+{4dd	ſo
+8ee-	ganʒ
+8dd	ge-
+=12	=12
+8g	-nom-
+8dd	-men
+4cc}	ein,
+=13	=13
+{4f	daß
+8g	ich
+8f	kein'
+=14	=14
+8f	An-
+8ee-	-dre
+4dd}	lieb',
+=15	=15
+{4cc	als
+8g	dich
+8a	al-
+=16	=16
+4b-	-lein!
+4r}	.
+==	==
+!!!AGN: Liebes - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Text: Volkslied
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 55
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=60,61
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/03/11
+*-	*-

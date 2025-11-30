@@ -1,0 +1,83 @@
+!!!OTL: Der Fürst von Thoren.
+!!!OTL-incipit:ICH BIN DER FUERST VON THOREN
+!!!COM: Volksweise
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0125
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*clefG2
+*M3/4
+*k[f#]
+*G:
+!LO:TX:a:t=Einer.
+!LO:TX:a:t=In gemächlicher Bewegung.
+!LO:TX:a:t=P:only higher voice encoded:problem
+{8d
+=1
+8.d
+16g
+4.g
+8a
+=2
+8.gL
+16f#J
+4f#
+8r}
+{8d
+=3
+8f#
+8a
+4.dd
+8f#
+=4
+8.aL
+16gJ
+4g
+8r}
+{8d
+=5
+8g
+8b/
+(4dd
+8b)
+8g
+=6
+8.f#L
+16aJ
+4cc
+8r}
+{8b
+=7
+8cc
+8a
+4.dd
+16f#
+16f#
+=8
+8.aL
+16gJ
+4g
+8r}
+==
+!!!AGN: Spiel -, Scherz - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL:Volkslieder
+!!Text: Volkslied
+!!Vorige: 125. Der Fuerst von Thoren.
+!!@@COMMENT:"Die dritte und vierte Strophe wird auch so gesungen:[126.]
+!!Anmerk. Es ist dies Spiellied. Die Versammlung waehlt einen Fuersten,
+!!der sich auf einen Stuhl setyt, um welchen in bunte Reihe sich der Kreis bewegt.
+!!Der Fuerst singt die erste Strophe; darauf Alle die zweite. Das Uebrige ergibt sich von selbst"
+!!@@END:
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 75
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=82,83
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/07/25
+*-

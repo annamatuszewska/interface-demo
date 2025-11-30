@@ -1,0 +1,83 @@
+!!!OTL: V. Melodie bei Leisentrit 1567.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0568C
+!!!TXL: @@DE, (@@LAT)
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/1	*
+*met(c|)	*
+*clefC3	*
+*k[]	*
+*G:mix	*
+!LO:TX:a:t=mixolyd.	!
+1ryy	.
+!LO:TX:a:t=P:1r, 2r in the source:problem	!
+2ryy	.
+{2G	Jn
+=1	=1
+1G	Got-
+1G	-tes
+1G	Na-
+1G	-men
+=2	=2
+2G	fah-
+2A	.
+1B	-ren
+1c	wir,
+2r}	.
+{2c	ſei-
+=3	=3
+1d	-ner
+1d	gna-
+1c	-den
+1G	be-
+=4	=4
+1A	-geh-
+1B	-ren
+1c	wir;
+2r}	.
+{2c	nun
+=5	=5
+1d	hilff
+1d	vns
+1c	al-
+1G	-len
+=6	=6
+1A	Got-
+1G	-tes
+1F	krafft,
+2r}	.
+{2F	ver-
+=7	=7
+1A	-ley
+1B-i	vns
+1c	all-
+1c	-ʒeit
+=8	=8
+1B-i	gro-
+1G	-ße
+0B-i}	macht.
+=9||	=9||
+{2A	Ky-
+2G	-ri-
+1A	-e-
+2G	-lei-
+!LO:SIC:o:2f:v	!
+2F#	.
+1G/ll}	-ſon.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Leisentrit 1567 fol. 147
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!AMD: Mixolydian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0751.iview2?x=-171.61612513683053&y=1025.8454208327457&scale=0.5692057392176044&rotation=0&layout=singlePageLayout&logicalDiv=log_0021
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/21/03
+*-	*-

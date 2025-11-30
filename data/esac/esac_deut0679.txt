@@ -1,0 +1,28 @@
+ERK
+CUT[COELN IST EINE SCHOENE STADT]
+REG[Europa, Mitteleuropa, Deutschland, Nassau, Kreis Wetzlar; Dillkreis]
+TRD[]
+FKT[]
+SIG[E0061J]
+KEY[E0061J  16  G 3/4]
+MEL[-5_  1_1_1__3__  5_3_2__.
+    32  1_-7_1__3__  3__2__0_
+    4_  3_6_5__.5_  5_543__.
+    3_  2_5_4__3_5_  2__1__0_ //]
+BEM[]
+MEL_SEM[5 0 0 4 3 -3 -2 2 -2 -2 -1 1 4 0 -2 3 -1 5 -2 0 0 0 -2 -1 0 -2 5 -2 -1 3 -5 -2]
+MEL_RAW[-5  1113  532
+    32  1-713  320
+    4  3655  5543
+    3  25435  210]
+NO_REP[-513532
+    321-71320
+    436543
+    325435210]
+RTM[x_  x_x_x__x__  x_x_x__.
+    xx  x_x_x__x__  x__x__x_
+    x_  x_x_x__.x_  x_xxx__.
+    x_  x_x_x__x_x_  x__x__x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

@@ -1,0 +1,116 @@
+!!!OTL: 524. Saengers Wanderlied.
+!!!COM: Volksweise
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0524
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M6/8	*
+*k[]	*
+*C:	*
+!LO:TX:a:t=Heiter und leicht.	!
+{16eL	Gar
+16fJ	.
+=1	=1
+4g	fröh-
+8g	-lich
+4cc	tret'
+8cc	ich
+=2	=2
+4g	in
+8g	die
+4ee}	Welt
+{8ee	und
+=3	=3
+4dd	grüß'
+8dd	den
+8ffL	lich-
+8ddJ	.
+8b	-ten
+=4	=4
+4.cc	Tag;
+4r}	.
+{16eL	mit
+16fJ	.
+=5	=5
+4g	Sang
+8f	und
+4cc	Lie-
+8cc	-dern
+=6	=6
+4g	reich
+8g	be-
+4ee}	-ſtellt,
+{8ee	ſagt,
+=7	=7
+4dd	was
+8dd	mir
+8ddL	ſeh-
+8ccJ	.
+8a	-len
+=8	=8
+4.g	mag?
+4r}	.
+{8dd	Viel
+=9	=9
+4dd	Menſchen
+8b	.
+4g	ſchleichen
+8dd	.
+=10	=10
+4ee	matt
+8cc	und
+4g}	träg'
+{8cc	ins
+=11	=11
+4dd	kal-
+8b	-te
+4g	Grab
+8dd	hin-
+=12	=12
+4.ee;	-ein:
+4r}	.
+{16eL	doch
+16fJ	.
+=13	=13
+4g	fröh-
+8g	-lich
+4cc	geht
+8cc	des
+=14	=14
+4g	Sän-
+8g	-gers
+4ee}	Weg
+{8ee	durch
+=15	=15
+4dd	lau-
+8dd	-ter
+8bL	Früh-
+8aJ	.
+8b	-lings-
+=16	=16
+4.cc	-ſchein.
+4r}	.
+==	==
+!!!AGN: Wander - Lied
+!!!GTL: Wanderlieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT:"Text von Theodor Körner. Volksweiſe, jetʒt in allen Commersbüchern angeblich von Jper.
+!!Mit einer werthloſen Melodte von Silcher 1823 in Liederweiſen ʒum Liederbuch für Hochſchuleu.
+!!Stuttgart 1823 (ſ. Fink's Hausſchatʒ. Silcher hat ſie ſelbſt verworfen, indem er in ſeinem
+!!Commersbuch die Jper'ſche aufnahm. Letʒtere hat einige chromatiſche Noten, die der Tumer- und
+!!Schulgeſang abwarf und glattweg (wie hier ſteht) die Weiſe ſingt. Ʒwei entbedrliche Strophen
+!!vom Urterte ſind fortgefallen."
+!!@@END:
+!!!Text: Th. Körner
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n415/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/11/07
+*-	*-

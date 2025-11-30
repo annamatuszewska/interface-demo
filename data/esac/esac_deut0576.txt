@@ -1,0 +1,28 @@
+ERK
+CUT[ES VERLIEBTE SICH EIN WILDER WASSERMANN]
+REG[Europa, Mitteleuropa, Deutschland, Magdeburg]
+TRD[]
+FKT[]
+SIG[E0001I]
+KEY[E0001I  08  A 4/4]
+MEL[-5-5  11-5-51_2_  3_321_0_
+    3_.45_5_  544_3_
+    13  555_4_42  131_-5_
+    -5_  -6-6-6_-5_-7_  1__0_ //]
+BEM[]
+MEL_SEM[0 5 0 -5 0 5 2 2 0 -2 -2 4 1 2 0 0 -2 0 -1 -4 4 3 0 0 -2 0 -3 -2 4 -4 -5 0 2 0 0 -2 4 1]
+MEL_RAW[-5-5  11-5-512  33210
+    3455  5443
+    13  555442  131-5
+    -5  -6-6-6-5-7  10]
+NO_REP[-51-5123210
+    34543
+    13542131-5
+    -5-6-5-710]
+RTM[xx  xxxxx_x_  x_xxx_x_
+    x_.xx_x_  xxx_x_
+    xx  xxx_x_xx  xxx_x_
+    x_  xxx_x_x_  x__x_]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

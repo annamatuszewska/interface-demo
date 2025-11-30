@@ -1,0 +1,32 @@
+ERK
+CUT[ES WEIDET EIN SCHAEFER IM LANGEN HOLZ]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0043C]
+KEY[E0043C  08  F 4/4]
+MEL[1  12345_67  +1_531_0_
+    6_.56543  2_.32_
+    34  5_5_6543  2_222_
+    53  2_222_53  2_222_0_
+    5_67+1_.4  3_2_1_0 //]
+BEM[]
+MEL_SEM[0 2 2 1 2 2 2 1 -5 -3 -4 9 -2 2 -2 -2 -1 -2 2 -2 2 1 2 0 2 -2 -2 -1 -2 0 0 0 5 -3 -2 0 0 0 5 -3 -2 0 0 0 5 2 2 1 -7 -1 -2 -2]
+MEL_RAW[1  1234567  +15310
+    656543  232
+    34  556543  2222
+    53  222253  22220
+    567+14  3210]
+NO_REP[1234567+15310
+    656543232
+    34565432
+    5325320
+    567+143210]
+RTM[x  xxxxx_xx  x_xxx_x_
+    x_.xxxxx  x_.xx_
+    xx  x_x_xxxx  x_xxx_
+    xx  x_xxx_xx  x_xxx_x_
+    x_xxx_.x  x_x_x_x]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

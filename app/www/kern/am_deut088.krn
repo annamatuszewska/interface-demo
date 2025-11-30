@@ -1,0 +1,129 @@
+!!!OTL: Irisches Volkslied.
+!!!OTL-incipit:SAG MIR DAS WORT DAS DEREINST MICH HAT BETOERT
+!!!COM: H. Langer
+!!!ARE: Europa, Mitteleuropa, Deutschland; Ireland
+!!!SCT: F0199
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M4/4	*
+*met(c)	*
+*k[f#]	*
+*G:	*
+=1	=1
+!LO:TX:a:t=Moderato.	!
+!LO:TX:a:t=Ges. v. H. Langer	!
+!LO:TX:a:t=Einstimmig oder vierstimmig zu singen	!
+{4g	1._Sag
+8g	mir
+8a	das
+4b/	Wort,
+8b/	das
+8cc/	der-
+=2	=2
+8dd/	-einst
+8dd/	mich
+8.ee/	hat
+16dd/	be-
+4b/	-thört,
+4r}	.
+=3	=3
+{4dd/	lang,
+8.cc/	lang
+16b/	ist's
+4a	her,
+4r	.
+=4	=4
+4cc/	lang,
+8.b/	lang,
+16a	ist's
+4g	her,
+4r}	.
+=5	=5
+{4g	Sag
+8g	mir
+8a	das
+4b/	Lied,
+8b/	das
+8cc/	ich
+=6	=6
+8dd/	einst
+8dd/	so
+8.ee/	gern
+16dd/	ge-
+4b/	-hört
+4r}	.
+=7	=7
+{4dd/	lang,
+8cc/	lang
+8b/	ist's
+4a	her,
+8b	lang
+8a	ist's
+=8	=8
+[2g	her!
+4g]	.
+4r}	.
+=9	=9
+{4dd/	dich
+8.cc/	und
+16b/	mei
+4a	Glück,
+8d	al
+8d	du
+=10	=10
+4cc/	wie-
+8.b/	-der
+16a	mir
+4g	giebst,
+4r}	.
+=11	=11
+{4dd/	weißt
+8.cc/	ja
+16b/	nicht
+4a	mehr
+8d	wie
+8d	so
+=12	=12
+4cc/	lang
+8.b/	du
+16a	aus-
+4g	-bliebst;
+4r}	.
+=13	=13
+{4g	weißt
+8g	ja
+8a	nur,
+4b/	daß
+8b/	du
+8cc/	der-
+=14	=14
+8dd/	-einst
+8dd/	mich
+8.ee/	hast
+16dd/	ge-
+4b/	-liebt!
+4r}	.
+=15	=15
+{4dd/	Lang,
+8.cc/	lang
+16b/	ist's
+4a	her,
+8b/	lang
+8a	ist's
+=16	=16
+2g;	her!
+2r}	.
+==	==
+!!!AGN: Liebes - Lied, Abschied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Text: Irisches Volkslied
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 117
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/03/12
+*-	*-

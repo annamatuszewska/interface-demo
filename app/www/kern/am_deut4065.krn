@@ -1,0 +1,99 @@
+!!!OTL: Trink aus!
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0341
+!!!TXL:@@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c|)	*
+*clefC3	*
+*k[b-]	*
+*F:mix	*
+=1	=1
+!LO:TX:a:t=mixolyd	!
+{1c	Trink
+2c	wein,
+2F	ſo
+=2	=2
+4c	bſchert
+4c	dir
+2c	gott
+2c}	wein,
+{2e-	bis
+=3	=3
+2d	frö-
+2c	-lich
+2B-	bei
+2A	den
+=4	=4
+1G	leu-
+1F}	-ten!}
+=5	=5
+{1c	Wil_tu
+2c	denn
+2F	ein
+=6	=6
+4c	ha-
+4c	-der-
+2c	-man
+2c}	ſein,
+{2e-	ſo
+=7	=7
+2d	far
+2c	ins
+2B-	holʒ
+2A	nach
+=8	=8
+1G	ſcheiten!
+1F}	}
+=9	=9
+{2G	Wil-
+2A	-tu
+2B-	denn
+2G	ein
+=10	=10
+2A	gut
+2G	gſel
+2F	ſein,
+4r}	.
+{4F	ſo
+=11	=11
+2G	bring
+2A	ich
+2B-	dir
+2G	ein
+=12	=12
+2A	gles_lein
+2G	mit
+1F	wein:
+=13||	=13||
+!LO:TX:a:t=P:1r in the source:problem	!
+!LO:N:vis=1	!
+1.r}	.
+{2c	Trincks
+=14	=14
+1c	gar
+2A	aus!
+2c	trincks
+=15	=15
+1c	gar
+2A	aus!
+2c	trincks
+=16	=16
+1c	gar
+1cll}	aus!
+==	==
+!!!GTL: Trink. und Zechlieder, incl. Fastnacht- u. Martinslieder
+!!!AGN: Romanze, Ballade, Lied, Trinklied
+!! Scandellus 1570 No. 18. Scheinbar eine populaere Melodie.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Mixolydian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0486.iview2?x=-495.6391625615763&y=1527.1896551861428&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0013
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/13/03
+*-	*-

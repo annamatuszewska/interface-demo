@@ -1,0 +1,32 @@
+ERK
+CUT[ES BLIES EIN JAEGER WOL IN SEIN HORN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+TRD[]
+FKT[]
+SIG[E0019B]
+KEY[E0019B  08  G 4/4]
+MEL[-5_  1_1_3234  5_432_0
+    3  5_432_0
+    2  222221-71  21-7-6-5_0_
+    1_1_1_.3  2_2_2_0
+    2  32345_54  3_2_1_ //]
+BEM[]
+MEL_SEM[5 0 4 -2 2 1 2 -2 -1 -2 2 3 -2 -1 -2 0 0 0 0 0 0 -2 -1 1 2 -2 -1 -2 -2 5 0 0 4 -2 0 0 0 2 -2 2 1 2 0 -2 -1 -2 -2]
+MEL_RAW[-5  113234  54320
+    3  54320
+    2  222221-71  21-7-6-50
+    1113  2220
+    2  3234554  321]
+NO_REP[-51323454320
+    354320
+    21-7121-7-6-50
+    1320
+    2323454321]
+RTM[x_  x_x_xxxx  x_xxx_x
+    x  x_xxx_x
+    x  xxxxxxxx  xxxxx_x_
+    x_x_x_.x  x_x_x_x
+    x  xxxxx_xx  x_x_x_]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

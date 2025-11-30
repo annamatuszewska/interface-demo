@@ -1,0 +1,192 @@
+!!!OTL: Alte Zecher - Melodie.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0336
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/2	*
+*met(C|3)	*
+*clefC4	*
+*k[]	*
+*d:dor	*
+=1	=1
+!LO:TX:a:t=dor. mit aeol. Schluß.	!
+!LO:N:vis=1	!
+2ryy	.
+!LO:N:vis=1	!
+2ryy	.
+!LO:N:vis=1	!
+{2D	Ein
+=2	=2
+!LO:N:vis=0	!
+1D	ſeuf-
+!LO:N:vis=1	!
+2A	-fer
+=3	=3
+!LO:N:vis=0	!
+1A	der
+!LO:N:vis=1	!
+2E	muß
+=4	=4
+!LO:N:vis=1	!
+2G	lei-
+!LO:N:vis=0	!
+1F	-den
+=5	=5
+!LO:N:vis=0	!
+1E}	viel
+!LO:N:vis=1	!
+{2E	vnd
+=6	=6
+!LO:N:vis=0	!
+1D	fürt
+!LO:N:vis=1	!
+2E	des
+=7	=7
+!LO:TX:a:t=P:coloured notes:problem	!
+2F	Teuffels
+!LO:TX:a:t=P:coloured notes:problem	!
+2G	.
+!LO:TX:a:t=P:coloured notes:problem	!
+2E	or-
+=8	=8
+!LO:N:vis=0	!
+1D}	-den,}
+{2D	Er
+=9	=9
+!LO:N:vis=0	!
+1D	thut
+!LO:N:vis=1	!
+2A	mit
+=10	=10
+!LO:N:vis=0	!
+1A	ſol-
+!LO:N:vis=1	!
+2E	-chem
+=11	=11
+!LO:N:vis=1	!
+2G	af-
+!LO:N:vis=0	!
+1F	-fen
+=12	=12
+!LO:N:vis=0	!
+1E}	ſchpiel
+!LO:N:vis=1	!
+{2E	ſein
+=13	=13
+!LO:N:vis=0	!
+1D	le-
+!LO:N:vis=1	!
+2E	-ben
+=14	=14
+!LO:TX:a:t=P:coloured notes:problem	!
+2F	ʒeit-
+!LO:TX:a:t=P:coloured notes:problem	!
+2G	-lich
+!LO:TX:a:t=P:coloured notes:problem	!
+2E	mor-
+=15	=15
+!LO:N:vis=0	!
+1D}	-den.}
+!LO:N:vis=1	!
+{2D	Denn
+=16	=16
+!LO:N:vis=0	!
+1G	trang
+!LO:N:vis=1	!
+2G	vnd
+=17	=17
+!LO:N:vis=0	!
+1G	quaß,
+!LO:N:vis=1	!
+2A	v-
+=18	=18
+!LO:N:vis=1	!
+2c	-ber
+!LO:N:vis=0	!
+1B	die
+=19	=19
+!LO:N:vis=0	!
+1A}	maß,
+!LO:N:vis=1	!
+{2B	wie
+=20	=20
+!LO:N:vis=0	!
+1c	du
+!LO:N:vis=1	!
+2G	kannſt
+=21	=21
+!LO:N:vis=0	!
+1A	ſelbs
+!LO:N:vis=1	!
+2E	be-
+=22	=22
+*lig	*
+!LO:N:vis=1	!
+2G	-den-
+!LO:N:vis=0	!
+1F	.
+*Xlig	*
+=23	=23
+!LO:N:vis=0	!
+1E}	-cken,
+!LO:N:vis=1	!
+{2E	den
+=24	=24
+!LO:N:vis=0	!
+1G	leib
+!LO:N:vis=1	!
+2G	be-
+=25	=25
+!LO:N:vis=0	!
+1D	-ſchwert,
+!LO:N:vis=1	!
+2E	die
+=26	=26
+!LO:N:vis=1	!
+2F	ſinn
+!LO:N:vis=0	!
+1D	ver-
+=27	=27
+!LO:N:vis=0	!
+1C}	-kert,
+!LO:N:vis=1	!
+{2c	vnd
+=28	=28
+!LO:N:vis=1	!
+2B	gantʒ
+!LO:N:vis=0	!
+1A	ge-
+=29	=29
+*lig	*
+!LO:N:vis=1.	!
+2.d	-blüt
+!LO:N:vis=2	!
+4c	.
+*Xlig	*
+!LO:N:vis=1	!
+2B	thut
+=30	=30
+*lig	*
+!LO:N:vis=1	!
+2c	kren-
+!LO:N:vis=0	!
+1B	-ken.
+*Xlig	*
+=31	=31
+1.All}	.
+==	==
+!!!GTL: Trink. und Zechlieder, incl. Fastnacht- u. Martinslieder
+!!!AGN: Romanze, Ballade, Lied, Trinklied
+!! Trillers Singbuch 1555.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0483.iview2?x=-495.6391625615763&y=1655.0674876950216&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0013
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/13/03
+*-	*-

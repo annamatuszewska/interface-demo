@@ -1,0 +1,20 @@
+ERK
+CUT[ES LIEGT EIN SCHLOSS IN OESTERREICH]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0061E]
+KEY[E0061E  04  G 6/4]
+MEL[-5  1_3321  2_4432  3_5543  320_.
+    5  5_33_5  5432_4  35124-7  210_. //]
+BEM[]
+MEL_SEM[5 4 0 -2 -2 2 3 0 -1 -2 2 3 0 -2 -1 0 -2 5 0 -3 0 3 0 -2 -1 -2 3 -1 3 -7 2 3 -6 3 -2]
+MEL_RAW[-5  13321  24432  35543  320
+    5  5335  54324  35124-7  210]
+NO_REP[-513212432354320
+    535432435124-7210]
+RTM[x  x_xxxx  x_xxxx  x_xxxx  xxx_.
+    x  x_xx_x  xxxx_x  xxxxxx  xxx_.]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

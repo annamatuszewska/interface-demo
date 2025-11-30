@@ -1,0 +1,77 @@
+!!!OTL: Selbst ist der Mann.
+!!!OTL-incipit: DER HERR DER SCHICKT DEN JOCKEL AUS
+!!!COM: Volksweise
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0879
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M2/4	*
+*k[f#]	*
+*G:	*
+!LO:TX:a:t=Spaßhaft erʒählend.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{8d	1._Der
+=1	=1
+8g	Herr,
+8a	der
+8b/	ſchickt
+8cc/	den
+=2	=2
+8dd	Jokel
+8dd	.
+8dd}	aus,
+{8dd	er
+=3	=3
+8ee	ſoll
+8cc	den
+8gg	Ha-
+8ee	-fer
+=4	=4
+(8ee	ſchneiden
+8dd)	.
+8dd}	.
+!LO:TX:a:t=*	!
+{8dd	der
+=5	=5
+8cc	Jokel
+8cc	.
+8cc	ſchneid't
+8cc	den
+=6	=6
+8b/	Hafer
+8ee	.
+8dd}	nicht,
+!LO:TX:a:t=*	!
+{8dd	und
+=7	=7
+8cc	1._kommt
+8a	auch
+8f#	nicht
+8d	nach
+=8	=8
+8aL	Hau-
+8gJ	.
+8g	-ſe.
+8r	.
+=9	=9
+4.g;}	Jum!
+==	==
+!!!AGN: erzaehlendes Volks - Lied, Ballade, Scherz
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT:"Die ʒwiſchen * * Dſtehenden Noten werden in jeder Strophe ein Mal mehr als in der vorhergegangenen wiederholt, ſo wie eine Textʒeile rückwärts ſich ʒuſetʒt."
+!!@@END:
+!!!GTL: Romanzen und Balladen
+!!Text: Volkslied
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 630
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=566
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/07
+*-	*-

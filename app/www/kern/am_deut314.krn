@@ -1,0 +1,116 @@
+!!!OTL: Lebe hoch.
+!!!OTL-incipit: HERR BRUDER DIR ZU EHREN
+!!!COM: Studentenweise
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0546
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M3/8	*
+*k[f#c#]	*
+*D:	*
+!LO:TX:a:t=Einer.	!
+!LO:TX:a:t=Munter.	!
+{8dd	1._Herr
+=1	=1
+4d	Bruder,
+8e	.
+=2	=2
+4f#	dir
+8g	ʒu
+=3	=3
+8a	Eh-
+8f#}	-ren
+{8d	will
+=4	=4
+4dd	ich
+8cc#	ein
+=5	=5
+4b	Gläschen
+8a	.
+=6	=6
+8a	leeren,
+8g}	.
+{8f#	das
+=7	=7
+4e	mich
+8e	ad
+=8	=8
+(>8dd/	lo-
+8b/)	.
+8g#	-cum
+=9	=9
+4a	ʒog.
+8r}	.
+=10	=10
+{4r	.
+8a	Ʒu
+=11	=11
+4dd	dein
+8cc#	und
+=12	=12
+4b/	mein
+8a	Ver-
+=13	=13
+8a	-gnügen,
+8g}	.
+{8f#	in
+=14	=14
+4b/	wie-
+8a	-der-
+=15	=15
+4a	-hol-
+8g	-ten
+=16	=16
+8g	Ʒü-
+8f#}	-gen,
+{8a	Herr
+=17	=17
+4d	Bru-
+8d	-der,
+=18	=18
+4f#	leb'
+8a	recht
+=19	=19
+4dd}	hoch!
+!LO:TX:a:t=Alle.	!
+{16cc#/L	Jn
+16bJ	.
+=20	=20
+4a	wie-
+8a	-der-
+=21	=21
+4b/	-hol-
+16aL	-ten
+16gJ	.
+=22	=22
+4f#	Ʒü-
+8f#}	-gen,
+=23	=23
+{(>8a/	Herr
+8b/)	Bruder,
+8a	.
+=24	=24
+(>8a	leb'
+8b/)	.
+8cc#/	richt
+=25	=25
+4dd/}	hoch:
+==	==
+!!!AGN: Studenten -, Trink - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: > = above
+!!!GTL: Studentenlieder
+!!Text: Studentenlied
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 350
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=327
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/02
+*-	*-

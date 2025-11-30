@@ -1,0 +1,173 @@
+!!!OTL: 691. Lob der edeln Musika.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0691
+!!!TXL: @@DE, (@@LAT)
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[f#c#g#]	*
+*A:	*
+!LO:TX:a:t=Einʒelne.	!
+!LO:TX:a:t=Etwas ſchnell.	!
+{4e	Ein
+=1	=1
+4.a	luſt'-
+8a	-ger
+4a	Mu-
+4b	-ſi-
+=2	=2
+(4a	-kan-
+4g#)	.
+4f#}	-te
+!LO:TX:a:t=Alle.	!
+{4e	mar-
+=3	=3
+4.a	-ſchier-
+8a	.
+4a	-te
+4cc#	am
+=4	=4
+2.b}	Ril.
+{4e	O
+=5	=5
+2.a	tom-
+4g#	-po-
+=6	=6
+2f#	-ra,
+2b	O
+=7	=7
+(2a	mo-
+2g#)	.
+=8	=8
+2a	-res!
+4r}	.
+{4e	Da
+=9	=9
+4.a	troch
+8a	.
+4a	aus
+4b	dem
+=10	=10
+(4a	Waſ-
+4g#)	.
+4f#}	-ſer
+{4e	ein
+=11	=11
+4.a	gro-
+8a	-ßer
+4a	Kro-
+4cc#	-ko-
+=12	=12
+2.b}	-dil.
+{4e	O
+=13	=13
+2.a	tem-
+4g#	-po-
+=14	=14
+2f#	-ra,
+2b	o
+=15	=15
+(2a	mo-
+2g#)	.
+=16	=16
+2a	-res!
+4r}	.
+!LO:TX:a:t=Einer.	!
+{4e	Der
+=17	=17
+4.cc#	wollt'
+8cc#	ihn
+4cc#	gar
+4cc#	ver-
+=18	=18
+4dd^	-ſchlu-
+2dd}	-cken,
+{4cc#	wer
+=19	=19
+4.b	weiß,
+8b	wie
+4b	das
+4b	ge-
+=20	=20
+2.ee}	-ſchah?
+!LO:TX:a:t=Alle.	!
+{4e	Juch-
+=21	=21
+2cc#	-hei-
+4cc#	-raſ-
+4cc#	-ſa-
+=22	=22
+2.dd}	-ſa!
+{4cc#	O
+=23	=23
+4.b	tem-
+8b	-po-
+4b	-tem-
+4b	-po-
+=24	=24
+2.ee}	-ra.
+!LO:TX:a:t=Einʒelne.	!
+{4e	Ge-
+=25	=25
+4.a	-lo-
+8a	-bet
+4a	ſeiſt
+4g#	du
+=26	=26
+4f#	je-
+4dd	-der-
+4cc#}	-ʒeit,
+!LO:TX:a:t=(Vom Chor wiederholt.)	!
+{4b	Frau
+=27	=27
+2cc#	Mu-
+2b	-fi-
+=28	=28
+2a	-ka!
+4r}	.
+!LO:TX:a:t=Einʒelne.	!
+{4e	Ge-
+=29	=29
+4.a	-lo-
+8a	-bet
+4a	ſeiſt
+4g#	du
+=30	=30
+4f#	je-
+4dd	-der-
+4cc#}	-ʒeit,
+{4b	Frau
+=31	=31
+2cc#	Mu-
+2b	-fi-
+=32	=32
+2a	-ka!
+4r}	.
+==	==
+!!!AGN: Scherz - Lied
+!!!GTL: Scherzlieder und Gemischtes
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Volksweiſe 1807: "Die Pinʒgauer wollten wallfahrten gehn."
+!!@@COMMENT:"Gedicht von Emanuel Geibel 1840. Aelieſter Druck in Finks Hausſchatʒ 1842. Ueber die
+!!Entſtehung dieſes Liedes erʒählt Hoffmann (Volksth. Lieder Nr. 253): "Bald nach ſeiner Rückkehr
+!!aus Griechenland (1840) improviſirte es Geibel eines ſchönen Abends in einer fröhlichen Geſell-
+!!ſchaft ʒu Lübeck. Ein Anderer ſendete es ſpäter an Fink für deſſen Hausſchatʒ (1842). Jn Geibels
+!!Gedichten fehlte es noch 1859. " - Die richtige Lesart nach Geibels handſchriftl. Mittheilung iſt
+!!ʒuerſt gedruckt in Deutſche Studentenlieder, herausgegeben von G. Scheter. Leipʒig 1856. Die
+!!Melodie, welche irrthümlich dem Dichter ʒugeſchrieben worden, iſt die Singweiſe des alten Scherʒ-
+!!liedes: "Die Pinʒgauer wollten wallfahrten gehn". Man vergl. nur die Weiſe hier mit der alten
+!!Volksmelodie in den Volksliedern von Büſching und v. der Hagen. S. Abdr. Liederhort III, Nr. 1761."
+!!@@END:
+!!!Text: E. Geibel 
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n543/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/17/07
+*-	*-

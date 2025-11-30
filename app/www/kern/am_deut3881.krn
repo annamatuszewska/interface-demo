@@ -1,0 +1,98 @@
+!!!OTL: Ach, herzigs Herz!
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0132
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c|)	*
+*clefC3	*
+*k[b-]	*
+*F:aeo	*
+=1	=1
+!LO:TX:a:t=jon. (Anf. äol.)	!
+{0A	Ach
+=2	=2
+1.c	her-
+2d	-tʒigs
+=3	=3
+1e	hertʒ,
+1e	mein
+=4	=4
+1A	ſchmertʒ
+2r}	.
+{2f	er-
+=5	=5
+1e	-ken-
+1d	-nen
+=6	=6
+1c	thu,
+2A	ich
+2c/	hab
+=7	=7
+!LO:N:vis=ß	!
+4d	.
+4B-	.
+2A	.
+1G	kein
+=8	=8
+1F	rhu,
+2r}	.
+{2c	nach
+=9	=9
+1d	dir
+2c	ſteht
+1f	mein
+=10-	=10-
+.	.
+2e	ver-
+1d	-lan-
+=11	=11
+1c	-gen.
+2r}	.
+{2f	Jſt
+=12	=12
+1f	wun-
+1f	-der
+=13	=13
+1e	nicht:
+2r	.
+2d	dein
+=14	=14
+*lig	*
+2.c/	freund-
+4A	.
+*Xlig	*
+1B-	-lichs
+=15	=15
+1A	gſicht
+2r}	.
+{2f	hat
+=16	=16
+2e	mir
+2d	mein
+2c	hertʒ
+2B-	ge-
+=17	=17
+*lig	*
+1A	-fan-
+1G	.
+*Xlig	*
+=18	=18
+0F/ll}	-gen.
+==	==
+!!!GTL: Liebeslieder
+!!!AGN: Romanze, Ballade, Lied
+!! H. Finck 1536 No. 8 und Forster II. 1540 No. 7. Jon., Anfang aeol.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!AMD: Ionian
+!!!URL-scan:https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0301.iview2?x=-2231.2783251231526&y=146.886699502822&scale=0.2314709236031927&rotation=0&layout=singlePageLayout&logicalDiv=log_0009
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/26/02
+*-	*-

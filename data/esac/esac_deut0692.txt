@@ -1,0 +1,28 @@
+ERK
+CUT[ES GIENG EIN MATROSE WOHL UEBER DEN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Helgoland]
+TRD[]
+FKT[]
+SIG[E0069A]
+KEY[E0069A  08  F 6/8]
+MEL[-5  113531  -7_242
+    -7  135543  2_.0_
+    5  546+176  53+15_
+    +1  765432  1_.0_ //]
+BEM[]
+MEL_SEM[5 0 4 3 -3 -4 -1 3 3 -3 -3 1 4 3 0 -2 -1 -2 5 0 -2 4 3 -1 -2 -2 -3 8 -5 5 -1 -2 -2 -2 -1 -2 -2]
+MEL_RAW[-5  113531  -7242
+    -7  135543  20
+    5  546+176  53+15
+    +1  765432  10]
+NO_REP[-513531-7242
+    -71354320
+    546+17653+15
+    +176543210]
+RTM[x  xxxxxx  x_xxx
+    x  xxxxxx  x_.x_
+    x  xxxxxx  xxxx_
+    x  xxxxxx  x_.x_]
+SCL_DEG[-5-71234567+1]
+SCL_SEM[4 1 2 2 1 2 2 2 1]
+

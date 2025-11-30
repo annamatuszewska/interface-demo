@@ -1,0 +1,106 @@
+!!!OTL: Der Rheinschiffer.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0080
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+!! Mixed meters:  3/2; 4/2
+*M3/2
+*met(C|3)
+*clefC1
+*k[b-]
+*F:dor
+=1
+!LO:TX:a:t=dor. tr.
+2ryy
+2ryy
+{2f
+=2
+*lig
+2.f
+4g/
+*Xlig
+2a
+=3
+1b-}
+{2a
+=4
+2f
+1a
+=5
+1.g}
+=6
+{2r
+2r
+2f
+=7
+*lig
+2.f
+4g/
+*Xlig
+2a
+=8
+1b-}
+{2a
+=9
+2f
+1a
+=10
+1.g
+=11
+*M4/2
+*met(c|)
+2r}
+{2f
+2e
+2f
+=12
+1g
+*lig
+2f
+2e
+*Xlig
+=13
+1d
+1c
+=14
+*lig
+1.cc
+4b-
+4a
+*Xlig
+=15
+2g}
+{2cc
+2b-
+2b-
+=16
+*lig
+2.a
+4g/
+2f}
+*Xlig
+{2a
+=17
+1g
+1f/ll}
+==
+!!!GTL: Balladen und Romanzen (erzählende Volkslieder)
+!!!AGN: Romanze, Ballade, Lied
+!! Melodie aus den Souterliedekens 1540 ad Ps. 130.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT: * Stelle wird im geistlichenTexte das zweisilbige Schlußwort der dritten Zeile wiederholt.
+!! Die Versform ist vielfach in alten oberdeutschenVolksliedern erhalten z. B. im Bremberger (f. No. 23); Hammen v. Reistatt (Uhl. 137);
+!!Fritsche lUhl.138). Weil da;n uns keine verbürgte alte Melodie gerettet ist, mag diese hier Platz nehmen. —
+!!Wäre der Text vielleicht ein Vorläufer von dem bekannten bairischen Volksliede vom Donaustrudel (Donauschifser) gewesen? Dasselbe „Als wir jiingst in Regensburg waren -c." (Allgäu.
+!!Conimersbnch). Mit dcm Ansänge: Als wir jüngst nach Baierland kamen (Walt« 102). Oder ähnlich: „Ging ich einstmals aus der Au :c." (Schiffer vou Passau) in Ditfnrths Gesellschastsliedern No. 25.
+!!@@END:
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0241.iview2?x=-425.8853427895981&y=1063.5957446866669&scale=0.4823261117445838&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/22/02
+*-

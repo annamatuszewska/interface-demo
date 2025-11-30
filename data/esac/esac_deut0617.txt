@@ -1,0 +1,24 @@
+ERK
+CUT[SCHOEN ULRICH WOLLT SPAZIEREN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Trebbin]
+TRD[]
+FKT[]
+SIG[E0042B]
+KEY[E0042B  16  G 3/4]
+MEL[-5_  1_.11_3_5_1_  3_21-7__0_
+    2_  4_.44_6_+1_4_  6_543__0_
+    1_  2_.22_3_4_-7_  2_.11__0_ //]
+BEM[]
+MEL_SEM[5 0 0 4 3 -7 4 -2 -2 -1 3 3 0 0 4 3 -7 4 -2 -2 -1 -4 2 0 0 2 1 -6 3 -2 0]
+MEL_RAW[-5  111351  321-70
+    2  4446+14  65430
+    1  22234-7  2110]
+NO_REP[-51351321-70
+    246+1465430
+    1234-7210]
+RTM[x_  x_.xx_x_x_x_  x_xxx__x_
+    x_  x_.xx_x_x_x_  x_xxx__x_
+    x_  x_.xx_x_x_x_  x_.xx__x_]
+SCL_DEG[-5-7123456+1]
+SCL_SEM[4 1 2 2 1 2 2 3]
+

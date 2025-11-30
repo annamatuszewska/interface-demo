@@ -1,0 +1,28 @@
+ERK
+CUT[SUSANNCHEN SPRANG ZUM THOR HINAUS]
+REG[Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt]
+TRD[]
+FKT[]
+SIG[E0051A]
+KEY[E0051A  08  A 4/4]
+MEL[-5_  1_.11_1_  3_.21_0_  0__
+    3__  2__1__  -7__-6__  -5_.-6-5_
+    -4_  -3_-5_-3_-5_  3_.21_
+    1_  2__-7__  1__0_ //]
+BEM[]
+MEL_SEM[5 0 0 0 4 -2 -2 4 -2 -2 -1 -2 -2 2 -2 -2 -1 3 -3 3 9 -2 -2 0 2 -3 1]
+MEL_RAW[-5  1111  3210  0
+    3  21  -7-6  -5-6-5
+    -4  -3-5-3-5  321
+    1  2-7  10]
+NO_REP[-513210
+    321-7-6-5-6-5
+    -4-3-5-3-5321
+    12-710]
+RTM[x_  x_.xx_x_  x_.xx_x_  x__
+    x__  x__x__  x__x__  x_.xx_
+    x_  x_x_x_x_  x_.xx_
+    x_  x__x__  x__x_]
+SCL_DEG[-3-4-5-6-7123]
+SCL_SEM[1 2 2 2 1 2 2]
+

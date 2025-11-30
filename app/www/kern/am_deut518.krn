@@ -1,0 +1,66 @@
+!!!OTL: Ein Vogel ruft im Walde.
+!!!OTL-incipit: EIN VOGEL RUFT IM WALDE
+!!!COM: M. Nathusius
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0997
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M4/4	*
+*met(c)	*
+*k[]	*
+*C:	*
+!LO:TX:a:t=Gemüthlich.	!
+{4g	1._Ein
+=1	=1
+4g	Vo-
+4ee	-gel
+4ee	ruſt
+4dd	im
+=2	=2
+2cc	Wal-
+4g}	-de,
+{4g	ich
+=3	=3
+4g	weiß
+4dd	es
+4b	wohl
+4g	wor-
+=4	=4
+2cc	-nach.
+4r}	.
+{(8ccL	Er
+8bJ)	.
+=5	=5
+4a	will
+4a	ein
+4cc	Häuschen
+4a	.
+=6	=6
+(4a	ha-
+4g)	.
+4g}	-ben,
+{4g	ein
+=7	=7
+4g	grü-
+4b	-nes
+4dd	lau-
+4ee	-big
+=8	=8
+2cc	Dach.
+4r}	.
+==	==
+!!!AGN: Natur - Lied, Tiere
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Text: H. v. Fallersleben
+!!!GTL: Lieder um Preise der Natur.
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 751
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/03/20
+*-	*-

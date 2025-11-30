@@ -1,0 +1,101 @@
+!!!OTL: 730. Die Melodie vom Mars-Liede. / III. "C'est Mars, le grand Dieu des alarmes."
+!!!ARE: Europa, Mitteleuropa, Deutschland; France
+!!!SCT: B0730B
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*clefG2
+*M4/4
+*met(c)
+*k[]
+*C:
+=1
+{4g
+4g
+4g
+8aL
+8bJ
+=2
+4cc
+4g
+4e
+4c}
+=3
+{2cc
+2dd
+=4
+1cc}
+=5
+{4g
+4g
+4g
+8aL
+8bJ
+=6
+4cc
+4g
+4e
+4c}
+=7
+{2cc
+2dd
+=8
+1cc}
+=9
+{4ee
+4ee
+2ee
+=10
+4a
+4a
+4a
+4cc}
+=11
+{4.dd
+8cc
+4b
+4a
+=12
+4g
+4dd
+4ee
+4dd
+=13
+1cc}
+=14
+{4ee
+4ee
+2ee
+=15
+4a
+4a
+4a
+4cc}
+=16
+{4.dd
+8cc
+4b
+4a
+=17
+4g
+4dd
+4ee
+4dd
+=18
+1cc}
+==
+!!!AGN: ???
+!!!GTL: Auslaendische Weisen, die in Deutschland gesungen wurden
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Aus "Bellerophon of Lust tot Wysheyd" van D. P. Pets. Amſterd. 1622. (1638, 1681, 1695).
+!!@@COMMENT:"Die Mel. ſteht dort ʒu einem holl. Liede: "Het Honining-Byeken"."
+!!@@END:
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n581/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/18/07
+*-

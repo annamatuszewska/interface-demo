@@ -1,0 +1,44 @@
+ERK
+CUT[ALS DIE WUNDERSCHOENE ANNA]
+REG[Europa, Mitteleuropa, Deutschland, Lahngegend; Westerwald; Wetterau]
+TRD[]
+FKT[]
+SIG[E0042K]
+KEY[E0042K  08 Eb 2/4]
+MEL[13  5555  43
+    21  3222  2_
+    13  5555  43
+    21  3222  2_
+    +1_  5532  1_
+    33  4_46  5+1
+    +1_  5532  1_
+    33  5_54  3_ //]
+BEM[]
+MEL_SEM[4 3 0 0 0 -2 -1 -2 -2 4 -2 0 0 0 -2 4 3 0 0 0 -2 -1 -2 -2 4 -2 0 0 0 10 -5 0 -3 -2 -2 4 0 1 0 4 -2 5 0 -5 0 -3 -2 -2 4 0 3 0 -2 -1]
+MEL_RAW[13  5555  43
+    21  3222  2
+    13  5555  43
+    21  3222  2
+    +1  5532  1
+    33  446  5+1
+    +1  5532  1
+    33  554  3]
+NO_REP[13543
+    2132
+    13543
+    2132
+    +15321
+    3465+1
+    +15321
+    3543]
+RTM[xx  xxxx  xx
+    xx  xxxx  x_
+    xx  xxxx  xx
+    xx  xxxx  x_
+    x_  xxxx  x_
+    xx  x_xx  xx
+    x_  xxxx  x_
+    xx  x_xx  x_]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

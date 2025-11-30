@@ -1,0 +1,82 @@
+!!!Xfilter:transpose -t P8
+!!!OTL: 1128. Jn aller Mass wie vor. / [Lied beim Zutrinken.]
+!!!ODT: 1570
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: E1128
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M3/4	*
+*met(3)	*
+*k[]	*
+*C:	*
+=1	=1
+!LO:TX:a:t="Von hohen Zinnen".	!
+!LO:TX:a:t=Um 1570.	!
+2r	.
+{4cc	Dem
+=2	=2
+2cc	Herrn
+4cc	und
+=3	=3
+2cc	gu-
+4a	-ten
+=4	=4
+2.g	Freun-
+=5	=5
+2g}	-de,
+{4g	in
+=6	=6
+2a	al-
+4a	-ler
+=7	=7
+2b	Maßn
+4b	wie
+=8	=8
+2cc;}	vor.
+{4cc	Jn
+=9	=9
+2cc	al-
+4cc	-ler
+=10	=10
+2cc	Maßn
+4cc	und
+=11	=11
+2dd	Herr-
+4dd	-lich-
+=12	=12
+2b}	-keit.
+{4b	Jch
+=13	=13
+2b/	hoff,
+4a	er
+=14	=14
+2b	wird
+4b	mir
+=15	=15
+2cc	thun
+4cc	Be-
+=16	=16
+2a}	-ſcheid
+{4cc	in
+=17	=17
+2b/	al-
+4a	-ler
+=18	=18
+2a	Maßn
+4g	wie
+=19	=19
+2.g;}	vor.
+==	==
+!!!AGN: Trink -, Zech - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Trink- und Zechlieder.
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn745177999/iview2/phys_0068.iview2?x=188.1684953369795&y=2358.473008597066&scale=0.701185927818147&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/12/23
+*-	*-

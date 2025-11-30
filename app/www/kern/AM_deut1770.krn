@@ -1,0 +1,103 @@
+!!!Xfilter:transpose -t P8
+!!!OTL: 1366. Das Reservistenlied.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: E1366
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M6/8	*
+*k[]	*
+*C:	*
+!LO:TX:a:t=Etwas langsam.	!
+!LO:TX:a:t=Jn ganʒ Deutſchland geſungen.	!
+{8g	Heut
+=1	=1
+8gL	ſchei-
+8eJ	.
+8g	-den
+8ccL	wir
+8gJ	.
+8e	aus
+=2	=2
+8fL	eu-
+8aJ	.
+8g	-rem
+8f	Krei-
+8e;}	-ſe,
+{8g	wir
+=3	=3
+8gL	le-
+8ccJ	.
+8ee	-gen
+8aL	ab
+8ddJ	.
+8cc	den
+=4	=4
+8bL	Eh-
+8aJ	.
+8b/	-ren-
+8cc	-rock,
+8r}	.
+{8g	Wir
+=5	=5
+4ee	tre-
+8dd	-ten
+4cc	an
+8b	die
+=6	=6
+8ddL	Hei-
+8ccJ	.
+8a	-math-
+8a	-rei-
+8g;}	-ſe
+{8g	mit
+=7	=7
+8gL	ei-
+8ccJ	.
+8ee	-nem
+8aL	Re-
+8ddJ	.
+8cc	-ſer-
+=8	=8
+8bL	-vi-
+8aJ	.
+8b/	-ſtenſtock.
+4cc}	.
+{8g	Wir
+=9	=9
+4ee	tre-
+8dd	-ten
+4cc	an
+8b	die
+=10	=10
+8ddL	Hei-
+8ccJ	.
+8a	-math-
+8a	-rei-
+8g;}	-ſe
+{8g	mit
+=11	=11
+8gL	ei-
+8ccJ	.
+8ee	-nem
+8aL	Re-
+8ddJ	.
+8cc	-ſer-
+=12	=12
+8bL	-vi-
+8aJ	.
+8b/	-ſtenſtock.
+4cc}	.
+==	==
+!!!AGN: Staende -, Soldaten -, Kriegs - Lied, Reservisten
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Staendelieder (Berufslieder). 1. Soldaten- und Kriegslieder. Soldatenlieder seit dem 30jaehr. Kriege.
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn745177999/iview2/phys_0242.iview2?x=-128.77276441889285&y=147.39427102950867&scale=0.5870222003877487&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/12/30
+*-	*-

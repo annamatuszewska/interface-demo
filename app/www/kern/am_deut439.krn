@@ -1,0 +1,110 @@
+!!!OTL: Der Koenig von Thule.
+!!!OTL-incipit: ES WAR EIN KOENIG VON THULE
+!!!COM: NAch J. Fr. Reichardt
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0826
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[b-e-]	*
+*g:	*
+!LO:TX:a:t=Langſam und ſchauerlich leiſe.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{4d	1._Es
+=1	=1
+4b-/	war
+4b-/	ein
+8a	König
+8a	.
+4a	von
+=2	=2
+2cc/	Thu-
+4b-/}	-le
+{4a	gar
+=3	=3
+4dd/	treu
+4g	bis
+4f#	an
+4g	das
+=4	=4
+2a	Grab,
+4r}	.
+{4a	dem
+=5	=5
+4b-/	ſter-
+4b-/	-bend
+4ee-/	ſei-
+4dd/	-ne
+=6	=6
+2dd/	Buh-
+4cc#/}	-le
+{8dd/	ei-
+8ee/	-nen
+=7	=7
+4ffn	goldnen
+4dd/	.
+4ee/	Becher
+4cc#/	.
+=8	=8
+2dd/	gab.
+4r}	.
+{4dd	Es
+=9	=9
+4dd	ging
+4dd	ihm
+4ee-X	nichts
+4a	dar-
+=10	=10
+2ccn	-ü-
+4f#}	-ber,
+{4a	er
+=11	=11
+4b-X/	leert
+4c#	ihn
+4c#	je-
+4c#	-den
+=12	=12
+2d	Schmauß;
+4r}	.
+{4d	die
+=13	=13
+4e-	Au-
+4e-	-gen
+4cc	gingen
+8b-	.
+8a	ihm
+=14	=14
+(4.g	ü-
+8f#)	.
+4f#}	-ber,
+{8gL	ſo
+8aJ	.
+=15	=15
+4b-/	oft
+4g	er
+8gL	trank
+8aJ	.
+4f#	dar-
+=16	=16
+2g	-aus.
+4r}	.
+==	==
+!!!AGN: erzaehlendes Volks - Lied, Ballade
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Nach der Melodie von J. Fr. Reichardt
+!!Text: J. W. Goethe
+!!!GTL: Romanzen und Balladen
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 580
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=516
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/09
+*-	*-

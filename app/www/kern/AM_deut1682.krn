@@ -1,0 +1,57 @@
+!!!OTL: 1201. Sterndreherlied.
+!!!ODT: 1860 (vor)
+!!!ARE: Europa, Mitteleuropa, Deutschland, West - Holstein, Ditmarschen
+!!!SCT: E1201A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*M3/4
+*k[]
+*C:
+!LO:TX:a:t=Aus Ditmarſchen (Weſtküſte Holſteins) vor 1860.
+!LO:TX:a:t=Andere Melodie der Sternloper.
+{4g
+=1
+4.cc
+8b
+8ccL
+8eeJ
+=2
+(4.dd
+8cc)}
+{8bL
+8ccJ
+=3
+(4.dd
+8b)
+8ccL
+8aJ
+=4
+4g
+4r}
+{4ff
+=5
+(4ee
+4gg)
+4cc
+=6
+2ff}
+{4dd
+=7
+4cc
+4cc
+4b
+=8
+2cc}
+==
+!!!AGN: Ansinge -, Brauchtums - Lied, Kirchen - Fest, Heilige drei Koenige
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Ansingelieder an Volks- und Kirchenfesten.
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn745177999/iview2/phys_0122.iview2?x=38.42219291655829&y=764.3764415703481&scale=0.701185927818147&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/12/27
+*-

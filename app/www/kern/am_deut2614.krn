@@ -1,0 +1,122 @@
+!!!OTL: 408. An mein Maedchen.
+!!!COM: Volksweise
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: B0408
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M6/8	*
+*k[]	*
+*C:	*
+{8g	Mir
+=1	=1
+4g	iſt
+8e	halt
+8ccL	nie
+8bJ	.
+8a	ſo
+=2	=2
+4g	wohl
+8e	ʒu
+4e}	Muth,
+{8e	als
+=3	=3
+8dL	wenn
+8fJ	.
+8a	du
+4g	bei
+8f	mir
+=4	=4
+4.e	biſt.
+4r}	.
+{8g	wenn
+=5	=5
+4g	dei-
+8e	-ne
+8ccL	Bruſt
+8bJ	.
+8a	an
+=6	=6
+4g	mei-
+8e	-ner
+4e}	ruht,
+{8e	mein
+=7	=7
+8dL	Mund
+8fJ	.
+8a	den
+4g	dei-
+8f	-nen
+=8	=8
+4.e	küßt.
+4r}	.
+{8g	Dann
+=9	=9
+4f	ſchwin-
+8d	-det
+8dL	Al-
+8fJ	.
+8a	-les
+=10	=10
+4g	um
+8e	mich
+4e}	her,
+{8g	ich
+=11	=11
+4f	weiß
+8d	dann
+8dL	von
+8fJ	.
+8a	der
+=12	=12
+4g	Welt
+8e	nichts
+4e}	mehr.
+{16g	Vi-
+16g	-di-
+=13	=13
+8gL	-ri-
+8a	-o-
+8bJ	-la
+8ccL	la
+8b	la
+8aJ	la
+=14	=14
+4g	la
+8e	la
+4e}	la,
+{16e	vi-
+16e	-di-
+=15	=15
+8dL	-ri-
+8f	-o-
+8aJ	-la
+4g	la
+8f	la
+=16	=16
+4.e	la.
+4r}	.
+==	==
+!!!AGN: Liebes - Lied, Liebes - Lust
+!!!GTL: Liebeslieder - Liebeslust
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Elſaſſer Volksweiſe.
+!!@@COMMENT:"Aus dem Elſaß (aus Metʒeral bei Münſter) durch Fr. Schramm aufgeſchr. 1889.
+!!Das Gedicht iſt von Martin Miller 1776. Der Anfang lautet dort:
+!!""Mir iſt doch nie ſo wohl ʒu Mutb, als wenn du bei mir biſt,
+!!Und deine Bruſt an meiner ruht, dein Mund den meinen küßt. "
+!!Erk ( Germania" 201) hat dem Lied eine alte Mel. von Wenʒel Müller 1794 beigegeben,
+!!welche ʒu dem Liede gehört: "Ein Mädchen und ein Gläschen Wein"."
+!!@@END:
+!!!Text: M. Miller
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n335/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/07
+*-	*-

@@ -1,0 +1,125 @@
+!!!OTL: Der schelmische Bauer.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!OPR: 82a. Der Ackermann
+!!!TXL: @@DUM
+!!!SCT: A0082B
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  3/2; 4/2
+*M3/2	*
+*met(3)	*
+*clefC1	*
+*k[]	*
+*d:dor	*
+=1	=1
+!LO:TX:a:t=dor.	!
+2ryy	.
+2ryy	.
+{2d	Een
+=2	=2
+1d	boerman
+2d	.
+=3	=3
+1a	had
+2a	een
+=4	=4
+1f	dommen
+2g	.
+=5	=5
+1a}	ſin,
+{2a	daer
+=6	=6
+1a	op
+2a	ſo
+=7	=7
+!LO:TX:a:t=..	!
+1cc	ſchafte
+2a	hi
+=8	=8
+1f	zijn
+2e	ghe-
+=9	=9
+1f	-win.
+2r	.
+=10	=10
+*M4/2	*
+*met(c|)	*
+2r}	.
+{2f	Het
+2f	voer
+2f	een
+=11	=11
+2e	boerman
+2d	.
+(4e	wt
+4d)	.
+2.f	mey
+=12	=12
+.	.
+4e	.
+1d	.
+2c#i	.
+=13	=13
+!LO:N:vis=1	!
+!LO:TX:a:t=P:lacking 1:problem	!
+0d	en,
+=14	=14
+*M3/2	*
+*met(3)	*
+2r	.
+2r}	.
+{2d	Hi
+=15	=15
+*lig	*
+2a	brocht
+2a	ſi-
+*Xlig	*
+2a	-nen
+=16	=16
+*lig	*
+2cc	hee-
+2cc	-re
+*Xlig	*
+2a	een
+=17	=17
+1f	voe-
+2e	-der
+=18	=18
+1f	houts.
+2r	.
+=19	=19
+*M4/2	*
+*met(c|)	*
+2r}	.
+{2f	ende
+2f	ſijn-
+2f	-der
+=20	=20
+2e	vrou-
+2d	-wen
+(4e	den
+4d)	.
+2.f	coe-
+=21	=21
+.	.
+4e	.
+1d	.
+2c#i	-len
+=22	=22
+0d/ll}	mey.
+==	==
+!!!GTL: Balladen und Romanzen (erzählende Volkslieder)
+!!!AGN: Romanze, Ballade, Lied
+!! Souterliedekens 1540 ad Ps. 86.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0243.iview2?x=-425.8853427895981&y=187.83971631876193&scale=0.4823261117445838&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/22/02
+*-	*-

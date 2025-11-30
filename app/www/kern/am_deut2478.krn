@@ -1,0 +1,71 @@
+!!!OTL: 247. Nachtgebet.
+!!!COM: Volksweise
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0247
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*M4/4	*
+*met(c)	*
+*clefG2	*
+*k[f#]	*
+*G:	*
+=1	=1
+!LO:TX:a:t=Ruhig.	!
+{4.g	Mü-
+8g	-de
+8g	bin
+8g	ich,
+8f#	geh
+8g	ʒur
+=2	=2
+2a	Ruh,
+2r}	.
+=3	=3
+{4.a	ſchlie-
+8a	-ße
+8a	mei-
+8a	-ne
+8g	Au-
+8a	-gen
+=4	=4
+2b	ʒu;
+2r}	.
+=5	=5
+{4.b	Va-
+8b	-ter,
+8b	laß
+8b	die
+8a	Au-
+8g	-gen
+=6	=6
+2ee	dein
+2r}	.
+=7	=7
+{4.dd	ü-
+8ee	-ber
+8dd	mei-
+8cc	-nem
+8e	Bet-
+8f#	-te
+=8	=8
+2g	ſein!
+2r}	.
+==	==
+!!!AGN: Tageszeiten - Lied, Nacht
+!!!GTL: Tageszeitenlieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT:"Lied von Luiſe Henſel. 1817. Ʒuerſt anonym in Diepenbrock's "Geiſtlicher Blumenſtrauß".
+!!Sulʒbach, 1829, S. 270 als "Nachtgebet". - Viele Melodien giebts daʒu. Gewöhnlich wird es
+!!nach der Weiſe "Nacht und Still' iſt um mich her" geſungen."
+!!@@END:
+!!Text: L. Hensel
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n217/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/03/07
+*-	*-

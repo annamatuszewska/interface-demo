@@ -1,0 +1,98 @@
+!!!OTL: Drei Koenige.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0534
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/2	*
+*met(O3)	*
+*clefC3	*
+*k[]	*
+*G:ion	*
+=1	=1
+!LO:TX:a:t=jon. auf G	!
+!LO:N:vis=0	!
+{1d	Drey
+!LO:N:vis=1	!
+2d	Kö-
+=2	=2
+!LO:N:vis=0	!
+1B	-nig
+!LO:N:vis=1	!
+2c	auß
+=3	=3
+!LO:N:vis=0	!
+1d	frembdem
+!LO:N:vis=1	!
+2d	.
+=4	=4
+!LO:N:vis=0.	!
+1.B}	land,
+=5	=5
+!LO:N:vis=0	!
+{1d	Je-
+!LO:N:vis=1	!
+2d	-ſu
+=6	=6
+!LO:N:vis=0	!
+1B	brach-
+!LO:N:vis=1	!
+2c	-ten
+=7	=7
+!LO:N:vis=0	!
+1d	opf-
+!LO:N:vis=1	!
+2d	-fer-
+=8	=8
+!LO:N:vis=0.	!
+1.B}	-handt,
+=9	=9
+!LO:N:vis=0	!
+{1B	ba-
+!LO:N:vis=1	!
+2B	-ten
+=10	=10
+!LO:N:vis=0	!
+1B	knieendt
+!LO:N:vis=1	!
+2A	.
+=11	=11
+!LO:N:vis=0	!
+1B	Gott
+!LO:N:vis=1	!
+2d	er-
+=12	=12
+!LO:N:vis=0.	!
+1.c}	-kant
+=13	=13
+!LO:N:vis=0	!
+{1B	mit
+!LO:N:vis=1	!
+2B	der
+=14	=14
+!LO:N:vis=0	!
+1A	Jungfraw
+!LO:N:vis=1	!
+2G	.
+=15	=15
+!LO:N:vis=0	!
+1A	Ma-
+!LO:N:vis=1	!
+2A	-ri-
+=16	=16
+1.G/ll}	-a.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Andernacher Gsgb. 1608 S. 135.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Ionian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0711.iview2?x=-2231.2783251231526&y=449.30049262661487&scale=0.2314709236031927&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/20/03
+*-	*-

@@ -1,0 +1,95 @@
+!!!OTL: 383. Wechselgesang.
+!!!COM: Volksweise
+!!!ODT: 1815 (vor)
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: B0383
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M3/8	*
+*k[f#]	*
+*G:	*
+=1	=1
+!LO:TX:a:t=Er.	!
+!LO:TX:a:t=Bequem.	!
+{8g	'Gib
+8a	mir
+8b	die
+=2	=2
+8ddL	Blumen,
+8ccJ	.
+8a	.
+=3	=3
+8b/	gib
+8g	mir
+8b/	den
+=4	=4
+4a	Kranʒ!
+8r}	.
+=5	=5
+{8a	Jch
+8b/	führ'
+8cc	dich
+=6	=6
+8eeL	Liebchen
+8ddJ	.
+8b	.
+=7	=7
+8dd	morgen
+8cc	.
+8a	ʒum
+=8	=8
+4g	Tanʒ.'
+8r}	.
+=9||	=9||
+!LO:TX:a:t=Sie.	!
+{8a	Laß
+8a	mir
+8a	die
+=10	=10
+(8aL	Blu-
+8ff#J)	.
+8dd	-men,
+=11	=11
+8cc#	laß
+8b	mir
+8cc#	den
+=12	=12
+(4dd	Kranʒ
+8ccn)}	.
+=13	=13
+{8b	führ'
+8b	ei-
+8b	-ne
+=14	=14
+8.ddL	An-
+16ccJ	.
+8b	-dere
+=15	=15
+8a	mer-
+8g	-gen
+8a	ʒum
+=16	=16
+4g	Tanʒ!
+8r}	.
+==	==
+!!!AGN: Liebes - Lied, Liebes - Lust
+!!!GTL: Liebeslieder - Liebeslust
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Volksweiſe vor 1815.
+!!@@COMMENT:"TeXt von Chr. Aug. Vulpius 1802 in dem Roman: "Rinaldo Rinaldini". Vierte, durchaus
+!!verb. Aufl. 5. Theil. Leipʒig 1802. S. 180. Vermuthlich ſchon in frühern Auflagen. Jm Munde
+!!des Elſaſſer Volkes noch 1860 mit kleinen Abänderungen gefunden."
+!!@@END:
+!!!Text: Ch. A. Vulpius
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n319/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/07
+*-	*-

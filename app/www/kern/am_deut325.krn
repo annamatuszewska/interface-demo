@@ -1,0 +1,105 @@
+!!!OTL: Kriegslied.
+!!!OTL-incipit: DIE FAHNEN WEHEN FRISCH AUF ZUR SCHLACHT
+!!!COM: Preßler, weil. Bursch
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0563
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[f#]	*
+*G:	*
+!LO:TX:a:t=Kräftig.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{8dd	1._Die
+=1	=1
+4dd	Fah-
+4dd	-nen
+4dd	we-
+8dd	-hen,
+8dd	friſch
+=2	=2
+4b/	auf
+4dd	ʒur
+4g}	Schlacht;
+{4d	ſchlagt
+=3	=3
+8gL	mu-
+8dJ	.
+8bL	-thig
+8gJ	.
+4dd/	drein!
+8r}	.
+{8d	Es
+=4	=4
+4g	klingt
+4dd/	Mu-
+4dd/	-ſik,
+8cc/	die
+8b/	uns
+=5	=5
+4a	fröhlich
+4a	.
+4a	macht
+8r}	.
+{8dd/	in's
+=6	=6
+4b/	Herʒ
+4a	hinein;
+4g	.
+8r}	.
+{8b/	die
+=7	=7
+8aL	Pfei-
+8bJ	.
+8cc/	-fen
+8a	und
+4b/	Trommeln
+8g	.
+8g	mit
+=8	=8
+8aL	ſü-
+8bJ	.
+8cc/L	-ßem
+8aJ	.
+4dd/;	Klang
+8r}	.
+!LO:TX:a:t=ʒögernd.	!
+{8dd/	das
+=9	=9
+4dd/	Feld
+8b/L	ent-
+8ddJ	.
+4g;}	-lang.
+!LO:TX:a:t=a t.	!
+{8d	Jn
+8d	die
+=10	=10
+4g	Schlacht,
+8g	in
+8b/	die
+4dd/	Schlacht
+4dd/	hin-
+=11	=11
+2b/	-ein!
+4r	.
+8r}	.
+==	==
+!!!AGN: Soldaten -, Kriegs - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Soldaten- und Jaegerlieder
+!!Preßler, weil. Burſch.
+!!Text: E. M. Arndt (1813.) 
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 365
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=337
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/02
+*-	*-

@@ -1,0 +1,117 @@
+!!!OTL: Ach Gott in deinem hoechsten Thron. / (Fraenkischer Bauernton. 1525.)
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0390A
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/2; 6/2
+*M4/2	*
+*met(c|)	*
+*clefC4	*
+*k[]	*
+*C:ion	*
+!LO:TX:a:t=jon.	!
+{1c	Ach
+=1	=1
+1c	Gott
+1c	in
+=2	=2
+1B	dei-
+1c	-nem
+=3	=3
+1d	höchſten
+1c	.
+=4	=4
+1B	Thron,
+2r}	.
+{2G	du
+=5	=5
+*M6/2	*
+2c	wollſt
+2d	vns
+1e	nicht
+1d	ent-
+=6	=6
+1c	-gel-
+0A	-ten
+=7	=7
+0G	lon,
+2r}	.
+{2d	daß
+=8	=8
+1c	wir
+2c	ſo
+1B	böß-
+2G	-lich
+=9	=9
+1A	le-
+2G	.
+1E}	-ben;
+{2A/	in
+=10	=10
+1A/	welſchem
+2A/	.
+1G	vnd
+2E	im
+=11	=11
+1G	deut-
+2E	-ſchen
+!LO:TX:a:t=1)	!
+1C}	land
+{2C	ſich
+=12	=12
+*M4/2	*
+2G	kei-
+2A/	-ner
+2B	hält
+2c	nach
+=13	=13
+*M6/2	*
+*lig	*
+2d	ſei-
+2c	.
+*Xlig	*
+2B	-nem
+1c}	ſtand,
+!LO:TX:a:t=2)	!
+{2B	thun
+=14	=14
+*lig	*
+2.c	al-
+4B	.
+*Xlig	*
+4A/	-le
+4G	.
+!LO:TX:a:t=3)	!
+1c	wi-
+4B	-der-
+4A	.
+=15	=15
+*M4/2	*
+2.G	-ſtre-
+4F	.
+2E	.
+2D	.
+=16	=16
+0C/ll}	-ben.
+==	==
+!!!GTL: Einige historisch-politische Lieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Melodie hs. aus dem 16. Jh.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT: "Dieses Lied hat hier die Tonangabe: „In seiner aignen melodei", später aber: „Sie sind
+!! geschickt zu sturm und streit". Abschrift gütigst durch Herrn v. Liliencron erhalten.— 
+!! Um die rhythmisch verwahrloste Melodie nur etwas fügsamer zu machen, habe ich folgende Schreibfehler fortgelassen;
+!! des Originals berichtigt: bei 1)) war die Note c eine Longa; 2) eine Zwischenpause (Semipausa)
+!! 3) der Punkt an c getilgt. Eine andere Redaktion hat v. Liliencron (Ton II. B) versucht."
+!!@@END:
+!!!RDF**kern: l = terminal long
+!!!AMD: Ionian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0557.iview2?x=-948.0634874302073&y=2146.5411028577946&scale=0.3669911794666851&rotation=0&layout=singlePageLayout&logicalDiv=log_0014
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/14/03
+*-	*-

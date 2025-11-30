@@ -1,0 +1,128 @@
+!!!OTL: 197. Fruehlingsnaehe.
+!!!COM: Mendelssohn
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0197
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M3/4	*
+*k[f#]	*
+*G:	*
+!LO:TX:a:t=Bewegt.	!
+{4d	Der
+=1	=1
+4.g	Frühling
+8f#	.
+8.g	naht
+16b	mit
+=2	=2
+4b	Brauſen,
+4g}	.
+{4d	er
+=3	=3
+4.dd	rü-
+8b	-ſtet
+8.g	ſich
+16b	ʒur
+=4	=4
+2a}	That,
+{4e	und
+=5	=5
+4.a	un-
+8g#	-ter
+8a	Sturm
+8b	und
+=6	=6
+4b	Sau-
+4cc}	-ſen
+{4cc	keimt
+=7	=7
+4.ee	ſtill
+8cc	die
+8b	grü-
+8dd	-ne
+=8	=8
+4cc	Saat.
+8r}	.
+{8f#	Drum
+8a	wach,
+8cc	er-
+=9	=9
+4.ee	-wach,
+8dd	du
+8.cc	Menſchen-
+16b	.
+=10	=10
+4.a}	-kind,
+{8f#	daß
+8a	dich
+8cc	der
+=11	=11
+4.ee	Lenʒ
+8dd	nicht
+8.dd	ſchla-
+16b	-fend
+=12	=12
+2a	find'!
+4r}	.
+=13	=13
+{4d	Drum
+4.g	wach,
+8b	er-
+=14	=14
+2.dd}	-wach,
+=15	=15
+{4g	du
+4.b	Men-
+8dd	-ſchen-
+=16	=16
+2.gg}	-kind,
+=17	=17
+{4cc#	daß
+4cc#	dich
+4cc#	der
+=18	=18
+2dd	Lenʒ
+4b}	nicht
+=19	=19
+{(4dd	ſchla-
+4g)	.
+4a	-fend
+=20	=20
+2b	find',
+4r}	.
+=21	=21
+{4a	daß
+4b	dich
+4cc	der
+=22	=22
+(4dd	Lenʒ
+4cc)	.
+4a}	nicht
+=23	=23
+{(4g	ſchla-
+4b)	.
+4a	-fend
+=24	=24
+2g}	find'!
+==	==
+!!!AGN: Jahreszeiten - Lied, Fruehling
+!!!GTL: Jahreszeitenlieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Mendelsſohn. op. 71.
+!!@@COMMENT:"Gedicht von Karl Klingemann vor 1835. Außer der Muſik von Mendelsſohn, die
+!!ʒiemlich volksthümlich iſt, hat V. E. Becker eine markigere Muſik in* "Takt für Männerchor ʒu
+!!dieſem Texte komponirt."
+!!@@END:
+!!!Text: K. Klingemann
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n187/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/24/06
+*-	*-

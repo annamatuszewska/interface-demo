@@ -1,0 +1,24 @@
+ERK
+CUT[ET TRAEIP EN SCHAEPER SINE SCHAEPKES UT]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Iserlohn, Ergste]
+TRD[]
+FKT[]
+SIG[E0043F]
+KEY[E0043F  08  A 4/4]
+MEL[-5_  -5_1_1_33  34321_.
+    3  2_-7_1_-6_  -71-7-6-5_.
+    -5  1_3_5_4_  34321_ //]
+BEM[]
+MEL_SEM[0 5 0 4 0 0 1 -1 -2 -2 4 -2 -3 1 -3 2 1 -1 -2 -2 0 5 4 3 -2 -1 1 -1 -2 -2]
+MEL_RAW[-5  -51133  34321
+    3  2-71-6  -71-7-6-5
+    -5  1354  34321]
+NO_REP[-5134321
+    32-71-6-71-7-6-5
+    -5135434321]
+RTM[x_  x_x_x_xx  xxxxx_.
+    x  x_x_x_x_  xxxxx_.
+    x  x_x_x_x_  xxxxx_]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

@@ -1,0 +1,86 @@
+!!!OTL: Osterlied des 15. Jahrhunderts. / d. Vierte Art. (Protest Lied.*)
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0553D
+!!!TXL: @@DE, (@@LAT)
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c|)	*
+*clefC4	*
+*k[]	*
+*d:	*
+=1	=1
+{1D	Jn
+2D	dich
+2A/	hab
+=2	=2
+2E	ich
+2G	ge-
+2F	-hof-
+2E	-fet
+=3	=3
+1D}	Herr,
+{1D	hilff
+=4	=4
+2A	daß
+2B	ich
+2c	nit
+2B	ʒů
+=5	=5
+2A	ſchan-
+2G#i\	-den
+1A}	werd,
+=6	=6
+{1A	noch
+2d	e-
+2B	-wig-
+=7	=7
+2c	-klich
+2A	ʒů
+*lig	*
+2G	ſpot-
+2F	.
+*Xlig	*
+=8	=8
+1E}	-te!
+{1F	Das
+=9	=9
+2D	bit
+2A/	ich
+2E	dich,
+2G	er-
+=10	=10
+2F	-hal-
+2E	-te
+1D}	mich,
+=11	=11
+{1D	in
+2C	dei-
+2D	-ner
+=12	=12
+2E	trew,
+2A/	mein
+*lig	*
+2F	Got-
+2E	.
+*Xlig	*
+=13	=13
+0D/ll}	-te!
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Strassb. Gsgb 1560.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT: "*) Dieses Lied von Adam Reußner: „In dich hab ich gehoffet Herr" steht schon 1533 in: „Form und Orbdnung gaistl.Gesang und Psalmen".
+!! -dort aber ohne Melobie. 
+!!@@END:
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0733.iview2?x=-1583.232250273661&y=1440.6689207134768&scale=0.2846028696088022&rotation=0&layout=singlePageLayout&logicalDiv=log_0021
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/20/03
+*-	*-

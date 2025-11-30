@@ -1,0 +1,148 @@
+!!!OTL: Hoffnung.
+!!!OTL-incipit:BALD PRANGT DEN MORGEN ZU VERKUENDEN
+!!!COM: W. A. Mozart
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0349
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*I"Erste Stimme.	*
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[b-e-a-]	*
+*E-:	*
+!LO:TX:a:t=Andante.	!
+!LO:TX:a:t=Terzett mit oder ohne Begleitung.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{4b-/	1._Bald
+=1	=1
+4.b-/	prangt,
+8dd	den
+8.ee-	Morgen
+16dd	.
+8.cc	ʒu
+16ff	ver-
+=2	=2
+4ee-	-kün-
+4dd	-den,
+4r}	.
+{4ee-	die
+=3	=3
+(>4ee-/	Sonn'
+8cc/)	.
+8ff/	auf
+(8ff/L	gold-
+8ee-J)	.
+(>8ee-L	-ner
+8ddJ)	.
+=4	=4
+(>4dd/	Bahn,
+4ee-/)	.
+4r}	.
+{4ee-/	bald
+=5	=5
+4.ee-/	ſoll
+8cc/	der
+8.dd/	A-
+16cc/	-berglau-
+8.dd/	.
+16ee-/	-be
+=6	=6
+4dd/	ſchwinden,
+4cc/	.
+4r}	.
+{4ff	bald
+=7	=7
+8ffL	ſiegt
+8ee-J	.
+8ggL	der
+8ee-J	.
+8ee-L	wei-
+8ddJ	.
+8ee-L	-ſe
+8ccJ	.
+=8	=8
+(>4cc	Mann.
+4b-/)	.
+4r}	.
+{4b-/	O
+=9	=9
+4.b-/	hol-
+8cc/	-de
+8dd/	Ru-
+8ee-/	-he
+8ff/	ſteig'
+8ee-/	her-
+=10	=10
+8ee-/L	-nie-
+8ddJ	.
+4.dd/}	-der,
+{16ee-/L	kehr'
+16ddJ	.
+8cc/	in
+8b-/	der
+=11	=11
+(>4b-/	Men-
+8ee-/)	.
+8b-/	-ſchen
+8b-/L	Her-
+8a-J	.
+8a-L	-ʒen
+8gJ	.
+=12	=12
+8.b-/L	wie-
+16gJ	.
+4f	-der,
+4r}	.
+{4b-/	dann
+=13	=13
+4.b-/	iſt
+8dd/	die
+8.ee-	Erd'
+16dd/	ein
+8.cc/	Himmel-
+16ff/	.
+=14	=14
+(>4ee-/	-reich,
+4dd/)	.
+4r}	.
+{4ee-	und
+=15	=15
+8.cc/	Strenbliche
+16dd/	.
+8.ee-	.
+16ff	den
+4ee-/	Göttern
+4dd/	.
+=16	=16
+2aa-	gleich,
+4r}	.
+{4ff	und
+=17	=17
+8.gg	Sterbli-
+16dd	.
+8.ee-	-che
+16ff	den
+4ee-	Göttern
+4dd	.
+=18	=18
+4ee-	gleich.
+2r}	.
+==	==
+!!!AGN: Jugend - Lied, Tageszeiten, Morgen
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: > = above
+!!!GTL: Jugendlieder 
+!!Text: E. M. Schikaneder
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 204
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=202
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/09
+*-	*-

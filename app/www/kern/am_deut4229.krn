@@ -1,0 +1,101 @@
+!!!OTL: Alter Weihnachtsgesang aus Thueringen.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0514
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/2; 6/2
+*M6/2	*
+*met(c|)	*
+*clefC1	*
+*k[b-]	*
+*F:ion	*
+!LO:TX:a:t=jon.	!
+2ryy	.
+{2f	Ge-
+=1	=1
+1f	-born
+2g	iſt
+1a	vns
+2b-	ein
+=2	=2
+2cc	Kin-
+2.f	.
+4g/	.
+2a	.
+2g	.
+2g	-de-
+=3	=3
+1f	-lein,
+2r}	.
+{2f	von
+2cc	ei-
+2cc	-ner
+=4	=4
+*M4/2	*
+*lig	*
+2.cc	Jung-
+4b-	.
+2a	.
+*Xlig	*
+2cc	-fraw
+=5	=5
+1b-	rei-
+1a	-ne,
+=6	=6
+2r}	.
+{2a	Gott
+2g	Vat-
+2a	-ter,
+=7	=7
+*lig	*
+2cc	Sohn,
+4b-	.
+4a	.
+2g	.
+*Xlig	*
+2a	Gott
+=8	=8
+2b-	heil-
+2g	-ger
+1f	Geiſt,
+=9	=9
+2r}	.
+{2g	die
+2a	ſeind
+2f	ge-
+=10	=10
+1e	-preiſt,
+2r}	.
+{2c	mit
+=11	=11
+*M6/2	*
+1f	Ma-
+2g	-ri-
+1a	-a
+2b-	al-
+=12	=12
+*M4/2	*
+2cc	-lei-
+1a	.
+4g/	.
+4f	.
+=13	=13
+*M6/2	*
+1g	.
+1f/ll}	-ne.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Mainzer Cantual 1605 S. 8
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Ionian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0691.iview2?x=-1272.8135649766991&y=841.2237813803367&scale=0.3197610882076923&rotation=0&layout=singlePageLayout&logicalDiv=log_0018
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/19/03
+*-	*-

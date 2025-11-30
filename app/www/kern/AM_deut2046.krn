@@ -1,0 +1,90 @@
+!!!Xfilter:transpose -t P8
+!!!OTL: 1790. Abschied von Heidelberg.
+!!!ARE: Europa, Mitteleuropa, Deutschland, Heidelberg
+!!!SCT: E1790
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M4/4	*
+*met(c)	*
+*k[]	*
+*C:	*
+!LO:TX:a:t=Um 1525-30 in Heidelberg von Studenten geſungen.	!
+{4g	Vi-
+=1	=1
+4cc	-o-
+8bL	-la,
+8aJ	.
+4g	Baß
+4a	und
+=2	=2
+(4g	Gei-
+4f)	.
+4e}	-gen,
+{4g	die
+=3	=3
+8.aL	müſ-
+16gJ	.
+8.aL	-ſen
+16bJ	.
+8.ccL	al-
+16bJ	.
+8.ccL	-le
+16aJ	.
+=4	=4
+(4g	ſchwei-
+4f)	.
+4e}	-gen
+{4ee	vor
+=5	=5
+8eeL	dem
+8ddJ	.
+8ffL	Trompe-
+8ddJ	.
+4cc	.
+4b	-ten-
+=6	=6
+4cc	-ſchall.
+4r	.
+4r}	.
+{8cc	Viva-
+8b	.
+=7	=7
+8.a	-valle-
+16f	.
+8f	-ralle-
+8f	.
+4f	-ra,
+8dd	vi-
+8cc	-va-
+=8	=8
+8.b	-valleralle-
+16g	.
+8g	.
+8g	.
+4g}	-ra,
+{4ff	vor
+=9	=9
+8eeL	dem
+8ddJ	.
+8ffL	Trompetenſchall.
+8ddJ	.
+4cc	.
+4b	.
+=10	=10
+4cc	.
+4r	.
+4r}	.
+==	==
+!!!AGN: Scherz - Lied; Studenten -, Abschieds - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Vermischter Inhalt.
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn745177999/iview2/phys_0570.iview2?x=-4.404412318551749&y=1042.6969203655608&scale=0.6456904138606623&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/08/01
+*-	*-

@@ -1,0 +1,78 @@
+!!!OTL: Wanderlied.
+!!!OTL-incipit:WAS SINGT DAS VOEGLEIN KLEINE
+!!!COM: C. G. Reissiger
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0446
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M2/4	*
+*k[f#c#]	*
+*D:	*
+!LO:TX:a:t=Munter und mit Ausdruck.	!
+{8a	1._Was
+=1	=1
+8a	ſingt
+8f#	das
+8dd	Vöglein
+8a	.
+=2	=2
+4ff#	kleine?
+8dd}	.
+{8b	horch'
+=3	=3
+8a	ihm
+8f#	ſchon
+8e	lange
+8g	.
+=4	=4
+4.f#}	ʒu;
+{8f#	es
+=5	=5
+8f#	ſingt
+8cc#	auf
+8dd	Flur
+8cc#	und
+=6	=6
+4cc#	Hai-
+8b	-ne
+8r}	.
+=7	=7
+{4cc#	Süß
+8b	iſt
+8a	die
+=8	=8
+[2ff#	Ruh'
+=9	=9
+[2ff#]	.
+=10	=10
+4ff#]	.
+4r}	.
+=11	=11
+!LO:TX:a:t=poco ritard.	!
+{4a	ſüß
+8f#	iſt
+8dd	die
+=12	=12
+[2a	Ruh'!
+=13	=13
+4a]	.
+4r}	.
+==	==
+!!!AGN: Heimat -, Wander - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Text: N. Vogel
+!!!GTL: Vaterlands- und Heimathslieder
+!!!GTL: Vaterlands- und Heimathslieder.
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 275
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=265
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/07/31
+*-	*-

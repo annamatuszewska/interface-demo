@@ -1,0 +1,92 @@
+!!!OTL: Liebeslied. / Dieselbe Melodie nach ihrem Rhythmus gegliedert:
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0220B
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+!! Mixed meters:  6/4; 4/4
+*M6/4
+*k[b-]
+*F:
+{2a
+=1
+2dd
+4cc
+2b-
+4a
+=2
+2g
+2a}
+{2ee
+=3
+2ff
+4ff
+2ee
+4ee
+=4
+1dd}
+{2a
+=5
+2dd
+4cc
+2b-
+4a
+=6
+2g
+2a}
+{2ee
+=7
+2ff
+4ff
+2ee
+4ee
+=8
+*M4/4
+2dd
+4r}
+{4ff
+=9
+4ee
+4cc
+4dd
+4ee
+=10
+2.ff}
+{4cc
+=11
+4dd
+4cc
+4dd
+4b-
+=12
+2a
+2ff}
+=13
+*M6/4
+{2ee
+4gg
+2ff
+4ee
+=14
+2dd
+2ee}
+{2a
+=15
+2b-/
+4a
+2g
+4g
+=16
+1a}
+==
+!!!GTL: Liebeslieder
+!!!AGN: Romanze, Ballade, Lied
+!! Dieselbe Melodie nach ihrem Rhythmus geordnet.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0376.iview2?x=-891.612634679675&y=1270.1215307812672&scale=0.3769446600792666&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/03
+*-

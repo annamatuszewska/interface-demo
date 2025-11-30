@@ -1,0 +1,24 @@
+ERK
+CUT[ES HATT EIN GASTWIRTH EINEN SOHN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien; Brandenburg]
+TRD[]
+FKT[]
+SIG[E0050D]
+KEY[E0050D  16 Bb 3/4]
+MEL[-5_  1_-5_1__3__  2_21-7__.
+    2_  1_-6_-6__1__  -5_-5-4-3__0_
+    -5_  1_1_3__1__  2__1__0_ //]
+BEM[]
+MEL_SEM[5 -5 5 4 -2 0 -2 -1 3 -2 -3 0 3 -5 0 -2 -1 3 5 0 4 -4 2 -2]
+MEL_RAW[-5  1-513  221-7
+    2  1-6-61  -5-5-4-30
+    -5  1131  210]
+NO_REP[-51-51321-7
+    21-61-5-4-30
+    -5131210]
+RTM[x_  x_x_x__x__  x_xxx__.
+    x_  x_x_x__x__  x_xxx__x_
+    x_  x_x_x__x__  x__x__x_]
+SCL_DEG[-3-4-5-6-7123]
+SCL_SEM[1 2 2 2 1 2 2]
+

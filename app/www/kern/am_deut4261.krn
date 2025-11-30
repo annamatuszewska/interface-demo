@@ -1,0 +1,97 @@
+!!!OTL: Lied von den sieben Worten Jesu am Kreuz. / Andere Lesart.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0541B
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/1	*
+*met(c|)	*
+*clefC4	*
+*k[]	*
+*E:phr	*
+!LO:TX:a:t=P:0B in the source:problem	!
+!LO:TX:a:t=phryg.	!
+!LO:N:vis=0	!
+{1B	Da
+=1	=1
+1c	Je-
+1B	-ſus
+1A	an
+1B	dem
+=2	=2
+1d	Creu-
+1c	-tʒe
+!LO:TX:a:t=P:0B in the source:problem	!
+!LO:N:vis=0	!
+1B	hung,
+2r}	.
+{2B	vnd
+=3	=3
+1c	ihm
+1B	ſein
+1c	Leichnam
+1A	.
+=4	=4
+1A	war
+1F	ver-
+!LO:TX:a:t=P:0E in the source:problem	!
+!LO:N:vis=0	!
+1E	-wund,
+2r}	.
+{2D	ſo
+=5	=5
+1E	gar
+1E	mit
+1G	bit-
+1G	-tern
+=6	=6
+*lig	*
+1E	ſchmer-
+1D	.
+*Xlig	*
+!LO:TX:a:t=P:0C in the source:problem	!
+!LO:N:vis=0	!
+1C	-tʒen,
+2r}	.
+{2G	die
+=7	=7
+1c	ſie-
+1B	-ben
+1A	wort,
+1G	die
+=8	=8
+1A	der
+1F	Herr
+1E	ſprach,
+2r}	.
+{2C	be-
+=9	=9
+1G	-tracht
+1G	in
+1A	dei-
+1A	-nen
+=10	=10
+*lig	*
+!LO:TX:a:t=P:0G in the source:problem	!
+!LO:N:vis=0	!
+1G	her-
+!LO:TX:a:t=P:0F in the source:problem	!
+!LO:N:vis=0	!
+1F	.
+*Xlig	*
+1E/ll}	-tʒen.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Leisentrits Gsgb. 1567 fol 91a.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Phrygian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0720.iview2?x=-495.6391625615763&y=1827.4433497493155&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/20/03
+*-	*-

@@ -1,0 +1,101 @@
+!!!OTL: 491. Ritters Abschied.
+!!!COM: Volksweise
+!!!ARE: Europa, Mitteleuropa, Deutschland, Rheinland
+!!!SCT: B0491
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+!! Mixed meters:  4/4; 3/4
+*M4/4	*
+*met(c)	*
+*k[]	*
+*C:	*
+=1	=1
+!LO:TX:a:t=Wehmüthig.	!
+{4g	Weh,
+8e	daß
+8g	wir
+4.cc	ſchei-
+8cc	-den
+=2	=2
+4cc	müſ-
+4b	-ſen!
+4r}	.
+{4g	Laſſ'
+=3	=3
+4.g	dich
+8cc	noch
+4ff	ein-
+4ee	-mal
+=4	=4
+4ee	küſ-
+4dd	-ſen!
+4r}	.
+{4cc	Jch
+=5	=5
+4.g	muß
+8a	an
+4b-	Kai-
+4b-	-ſers
+=6	=6
+4b-	Sei-
+4a	-ten
+4r}	.
+{4a	ins
+=7	=7
+4.a	fal-
+8b	-ſche
+4cc	Welſchland
+4cc	.
+=8	=8
+4cc	rei-
+4b	-ten.
+4r}	.
+{4g	Fahr'
+=9	=9
+*M3/4	*
+2g	wohl,
+4cc	fahr'
+=10	=10
+2ee	wohl,
+4cc	mein
+=11	=11
+2cc	ar-
+4a	-mes
+=12	=12
+2g}	Lieb!
+{4ee	Fahr'
+=13	=13
+2ff	wohl,
+4ee	fahr'
+=14	=14
+(4ee	wohl,
+4dd)	.
+4cc	mein
+=15	=15
+2cc	ar-
+4b	-mes
+=16	=16
+2cc	Lieb!
+4r}	.
+==	==
+!!!AGN: Abschieds - Lied
+!!!GTL: Abschiedslieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Rheinländiſche Volksweiſe (wohl. v. Johanna Kinkel um 1845?)
+!!@@COMMENT:"Gedicht und wahrſcheinlich auch die Muſik von Johanna Kinkel. Der am Rhein und Elſaß
+!!ſeht ʒerſungene Text (ſ. Liederhort III. Nr. 1410) ſtammt von dieſem ab und iſt kein Kriegers
+!!Abſchied von 1794, ſondern freie Dichtung. Die von Bonner Studenten geſungene Weiſe iſt ſehr abweichend von der Notation hier."
+!!@@END:
+!!!Text: Johanna Kinkel (?)
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n393/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/10/07
+*-	*-

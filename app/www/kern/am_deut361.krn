@@ -1,0 +1,98 @@
+!!!OTL: Der Jaegersknecht.
+!!!OTL-incipit: ICH BIN EIN FEINER JAEGERSKNECHT
+!!!COM: Volksweise
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0647
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+!! Mixed meters:  2/4; 3/4
+*M2/4	*
+*k[b-]	*
+*F:	*
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{8c	1._Jch
+=1	=1
+8f	bin
+8f	ein
+8a	fei-
+8f	-ner
+=2	=2
+8cc	Jä-
+16ccL	-gersknecht,
+16aJ	.
+4g}	.
+=3	=3
+{8f	ſchieß'
+16eL	auch
+16dJ	.
+4c	recht,
+=4	=4
+8cc	ſchieß
+16ccL	auch
+16b-J	.
+4a}	recht,
+=5	=5
+*M3/4	*
+{8.a	ſchieß'
+16a	mir
+8g	ei-
+8a	-nen
+8b-/	goldnen
+8a	.
+=6	=6
+4.g;	1._Specht!
+8r}	.
+{8f	die-
+16aL	-ſer
+16b-J	.
+=7	=7
+4cc	Specht
+4cc	hat
+8ff	ſchö-
+8dd	-ne
+=8	=8
+*M2/4	*
+(8ccL	Fe-
+8aJ)	.
+8cc	-dern.
+16r}	.
+{16cc	Wohl
+=9	=9
+8b-/	im
+8g	Ge-
+8a	-büſch,
+[16cc	wo
+16cc]	ich
+=10	=10
+*M3/4	*
+8b-/	1._ihn
+8g	er-
+8a}	-wiſch'
+{(>16f	ſchieß'
+16a)	ich
+8cc/	ihn
+16aL	auf'
+16fJ	.
+=12	=12
+4g	Le-
+4f;	-der.
+8r}	.
+==	==
+!!!AGN: Staende -, Jaeger - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: > = above
+!!!GTL: Soldaten- und Jaegerlieder
+!!Text: Volkslied
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 427
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=394
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/05
+*-	*-

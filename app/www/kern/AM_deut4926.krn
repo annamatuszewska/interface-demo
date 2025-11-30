@@ -1,0 +1,129 @@
+!!!Xfilter:transpose -t P8
+!!!OTL: Kluge Heirath.
+!!!OTL-incipit: ICH GING EINMAL LUSTWANDELN
+!!!ARE: Europa, Mitteleuropa, Deutschland, Hessen
+!!!SCT: Z1111
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M3/4	*
+*k[]	*
+*C:	*
+!LO:TX:a:t=Vorſänger.	!
+!LO:TX:a:t=Aus Heſſen.	!
+{4g	Jch
+=1	=1
+2cc	ging
+4cc	ein-
+=2	=2
+(4dd	-mal
+4ee)	.
+4cc	luſt-
+=3	=3
+2.b	-wan-
+=4	=4
+4a	-deln
+4r}	.
+{4a	in's
+=5	=5
+4cc	Feld-
+4cc	-chen,
+!LO:TX:a:t=Alle.	!
+4cc/	in's
+=6	=6
+4cc/	Feld-
+4g;}	-chen!
+!LO:TX:a:t=Vorſänger.	!
+{4g	be-
+=7	=7
+2cc	-geg-
+4cc	-ne-
+=8	=8
+(4dd	-te
+4ee)	.
+4cc	mir
+=9	=9
+2b	jun-
+4b	-gen
+=10	=10
+4a	Knab'
+4r}	.
+{4a	ein
+=11	=11
+4cc	Mädchen,
+4cc	.
+!LO:TX:a:t=Alle.	!
+4cc/	ein
+=12	=12
+4cc/	Mädchen!
+4g;}	.
+!LO:TX:a:t=Vorſänger.	!
+{4g	ich
+=13	=13
+2cc	ſprach
+4ee	ʒum
+=14	=14
+4.ee	Mäd-
+8dd	-chen
+4cc	haſt
+=15	=15
+4b/	du
+4a	dir
+4a	brav
+=16	=16
+4a	Geld,
+4r}	.
+{4a	ſonſt
+=17	=17
+4dd	mag
+4dd	ich
+4dd	dich
+=18	=18
+(4dd	gar
+4ee)	.
+4cc	nicht
+=19	=19
+2b	in
+(8ddL	der
+8bJ)	.
+=20	=20
+4g	Welt,
+4r}	.
+{4g	wenn
+=21	=21
+4cc	du
+4cc	noch,
+!LO:TX:a:t=Alle.	!
+4cc/	wenn
+=22	=22
+4cc/	du
+4g	noch,
+4cc/	wenn
+=23	=23
+4ee/	du
+4ee/	noch
+8ee/	ſo
+8ee/	viel
+=24	=24
+(>4.gg/	ſchö-
+8ff/)	.
+4ee/	-ner
+=25	=25
+2.dd/	wä-
+=26	=26
+4cc/	-reſt!
+4r}	.
+==	==
+!!!AGN: Romanze, Ballade
+!!!ONB: ESAC (Essen Associative Code) Database: ZUCCAL
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: >= above
+!!!GTL: II. Gau- Leuschen.
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11160573?page=236
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/02/04
+*-	*-

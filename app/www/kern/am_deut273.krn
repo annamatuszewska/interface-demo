@@ -1,0 +1,127 @@
+!!!OTL: Treuer Kampf.
+!!!OTL-incipit:DIE TREUE DIE UNS BRUEDER BAND
+!!!COM: Studentenweise
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0482
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[b-]	*
+*F:	*
+!LO:TX:a:t=Alle.	!
+!LO:TX:a:t=Kräftig.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{4c	1._Die
+=1	=1
+4.f	Treu-
+8g	-e
+4a	die
+4b-/	uns
+=2	=2
+4.cc	Brüder
+8a	.
+4f}	band,
+{4cc	ſei
+=3	=3
+4dd	beu-
+4cc	-ern-
+4b-/	-der
+4a	als
+=4	=4
+2.cc}	Erʒ!
+{4c	Von
+=5	=5
+4.f	ihr
+8g	ge-
+4a	-lei-
+4b-/	-tet
+=6	=6
+4.cc	Hand
+8a	in
+4f}	Hand,
+{4cc	be-
+=7	=7
+4dd	-waff-
+4cc	-net
+4b-/	ſich
+4a	das
+=8	=8
+2.cc}	Herʒ!
+!LO:TX:a:t=Einer.	!
+{4cc	Ʒur
+=9	=9
+4.g	teutſchen
+8a	.
+8cc/L	Fah-
+8b-J	.
+8aL	-ne
+8gJ	.
+=10	=10
+4a	ſchwör'
+4cc/	auch
+4ff}	ich,
+{4cc/	die
+=11	=11
+4dd/	Freiheit
+4cc/	.
+4b-/	ſei's
+4a	Pa-
+=12	=12
+2cc/	-nier!
+4r}	.
+!LO:TX:a:t=Alle.	!
+{4c	Wir
+=13	=13
+4.f	kämpfen
+8g	.
+4a	gut
+4b-/	und
+=14	=14
+4.cc/	rit-
+8a	-ter-
+4f}	-lich;
+{4dd	ſo,
+=15	=15
+4.cc	Brü-
+8a	-der,
+8cc/L	ſie-
+8b-J	.
+8aL	-gen
+8gJ	.
+=16	=16
+4a	wir,
+8b-/	val-
+8dd/	-le-
+4cc/}	-ra!
+{8ff/L	ſo
+8ddJ	.
+=17	=17
+4.cc/	Brü-
+8a	-der,
+8cc/L	ſie-
+8b-J	.
+8aL	-gen
+8gJ	.
+=18	=18
+2f	wir.
+4r}	.
+==	==
+!!!AGN: Studenten - Lied, national
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: > = above
+!!!GTL: Studentenlieder
+!!Text: Studentenlied
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 305
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=282
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/09
+*-	*-

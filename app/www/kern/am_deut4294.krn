@@ -1,0 +1,83 @@
+!!!OTL: Himmelfahrt.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0566
+!!!TXL: @@DE, (@@LAT)
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/1; 2/1
+*M4/1	*
+*met(c|)	*
+*clefC4	*
+*k[]	*
+*d:dor	*
+=1	=1
+!LO:TX:a:t=dor.	!
+{0A	Chriſt
+1G	fur
+1A	gen
+=2	=2
+*lig	*
+1c	Him-
+1d	.
+*Xlig	*
+1A	-mel,
+2r}	.
+{2A	was
+=3	=3
+1A	ſandt
+1G	er
+1A	vns
+1F	her-
+=4	=4
+*lig	*
+1E	-nie-
+1F	.
+*Xlig	*
+1D	-der?
+2r}	.
+{2D	er
+=5	=5
+1G	ſen-
+1G	-det
+1D	vns
+1C	den
+=6	=6
+1F	heil-
+1G	-gen
+1A	Geiſt
+2r}	.
+{2A	ʒu
+=7	=7
+1A	troſt
+1G	der
+1A	ar-
+1F	-men
+=8	=8
+1E	Chriſten-
+1F	.
+*lig	*
+1D	-heit.
+1E	.
+*Xlig	*
+=9	=9
+*M2/1	*
+2C	Al-
+2D	-le-
+1E	-lu-
+=10	=10
+0D/ll}	-ja!
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Walasser Kath. Gsgb 1561 fol. 180.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0745.iview2?x=-1583.232250273661&y=1455.754366060719&scale=0.2846028696088022&rotation=0&layout=singlePageLayout&logicalDiv=log_0021
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/21/03
+*-	*-

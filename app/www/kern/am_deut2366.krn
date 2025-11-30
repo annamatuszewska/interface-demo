@@ -1,0 +1,95 @@
+!!!OTL: 126. Dornroeschen.
+!!!COM: Alte Kirchenmelodie.
+!!!ARE: Europa, Mitteleuropa, Deutschland, Niederrhein (?)
+!!!SCT: B0126
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*M2/4	*
+*clefG2	*
+*k[b-e-]	*
+*g:	*
+=1	=1
+{4b-	Jm
+8a	tie-
+8g	-fen
+=2	=2
+4.f	Wald,
+8f	im
+=3	=3
+4g	Dor-
+4a	-nen-
+=4	=4
+2b-;}	-hag,
+=5	=5
+{4b-	da
+8a	ſchläft
+8g	die
+=6	=6
+4.f	Jung-
+8f	-frau
+=7	=7
+4g	hun-
+4a	-dert
+=8	=8
+2b-;}	Jahr,
+=9	=9
+{4b-	es
+8a	ſchläft
+8b-/	die
+=10	=10
+4g	Flieg
+8a	an
+8f#	der
+=11	=11
+4g	Wand,
+4r}	.
+=12	=12
+{4b-	in
+4cc	dem
+=13	=13
+4dd	Schloß
+4r	.
+=14	=14
+4b-	Hund
+4cc	und
+=15	=15
+4dd	Roß,
+4r}	.
+=16	=16
+{4dd	es
+8cc	ſchläft
+8b-	wol
+=17	=17
+4a	auf
+4g	dem
+=18	=18
+(4a	Heerd
+8g)	.
+8f#	der
+=19	=19
+4g	Brand.
+4r}	.
+==	==
+!!!AGN: Ballade, Romanze
+!!!GTL: Balladen und Romanzen
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT:"Mitgetheilt von Ʒuccalmaglio in Kretʒſchmers Volkslieder JJ. 29. Jn ſeinem handſchriftl.
+!!Verʒeichniß bat Ʒuccalmaglio bemerkt: "Wurde um 1830 noch in Odenthal am Niederrhein ge-
+!!ſungen. - Die Dornröschen- oder Brunhilde-Sage hängt mit der Siegfried-Sage und dem
+!!Sonnencultus ʒuſammen. - Die Melodie, welche Ʒuccalmaglio beifügt, iſt die altkatholiſche Volks-
+!!weiſe: "Als ich bei meinen Schafen wacht" (ſ. Bäumker J. Nr. 162 aus dem Cölner Gſgb.
+!!1623 u. Liederbort JJJ. 654). - Dadurch wird auch der Text in ſeinem Urſprung ſehr verdächtig
+!!und mag Erfindung von Ʒuccalmaglio ſein."
+!!@@END:
+!!Text: W. v. Zuccalmaglio (?)
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n131/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/18/06
+*-	*-

@@ -1,0 +1,107 @@
+!!!OTL: Lebewohl.
+!!!OTL-incipit:MORGEN MUSS ICH FORT VON HIER
+!!!COM: G. W. Fink
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0162
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[f#]	*
+*G:	*
+=1	=1
+!LO:TX:a:t=Mäßig langſam.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{4.b/	Morgen
+8b/	.
+8ddq	.
+4cc	muß
+4b	ich
+=2	=2
+4a	fort
+4g	von
+(>4g	hier,
+4a)}	.
+=3	=3
+{4b/	und
+4b/	muß
+4ee	Abſchied
+4dd	.
+=4	=4
+(2.dd	neh-
+4cc)	.
+=5	=5
+2.b	-men.
+4r}	.
+=6	=6
+{4.b	(O
+8b	du
+8ddq	.
+4cc	al-
+4b	-ler-
+=7	=7
+4a	-ſchön-
+4g	-ſte
+(>4g	Ʒier,
+4a)}	.
+=8	=8
+{4b/	Scheiden,
+4b/	.
+4ee	das
+4dd	bringt
+=9	=9
+(2.dd	Grä-
+4cc)	.
+=10	=10
+2.b	-men.
+4r}	.
+=11	=11
+{4.a	Hab'
+8a	ich
+4b/	dich
+4b/	ſo
+=12	=12
+4cc/	treu
+4b/	ge-
+4cc/	-liebt,
+4r}	.
+=13	=13
+{4.b/	ü-
+8b/	-ber
+4cc/	al-
+4cc/	-le
+=14	=14
+2dd/	Maa-
+4.ee;	-ßen
+8r}	.
+=15	=15
+{4.dd	und
+8cc/	ſoll
+4b/	dich
+8dd/L	ver-
+8ccJ	.
+=16	=16
+(>2b/	-laſ-
+2a)	.
+=17	=17
+2.g	-ſen!
+4r}	.
+==	==
+!!!AGN: Abschieds - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: > = above
+!!!GTL: Volkslieder
+!!Text: Des Knaben Wunderhorn
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 95
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=102,103
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/07/26
+*-	*-

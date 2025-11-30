@@ -1,0 +1,36 @@
+ERK
+CUT[ES GIENG EIN MAEDCHEN GRASEN]
+REG[Europa, Mitteleuropa, Deutschland, Frankfurt a.M., Darmstadt]
+TRD[]
+FKT[]
+SIG[E0071B]
+KEY[E0071B  16  G 2/4]
+MEL[-5_  1_3_3_5_  1_3_3_
+    5_  5_4_4_3_  3__2_
+    13  5_6_5_42  1_3_3_
+    33  3_222_44  6_5_5_
+    13  5_6_5_42  1_3_3_
+    3_  2_2_5_54  3__. //]
+BEM[]
+MEL_SEM[5 4 0 3 -7 4 0 3 0 -2 0 -1 0 -2 -2 4 3 2 -2 -2 -3 -2 4 0 0 0 0 -2 0 0 3 0 4 -2 0 -7 4 3 2 -2 -2 -3 -2 4 0 0 -2 0 5 0 -2 -1]
+MEL_RAW[-5  1335  133
+    5  5443  32
+    13  56542  133
+    33  322244  655
+    13  56542  133
+    3  22554  3]
+NO_REP[-513513
+    5432
+    135654213
+    32465
+    135654213
+    32543]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x__x_
+    xx  x_x_x_xx  x_x_x_
+    xx  x_xxx_xx  x_x_x_
+    xx  x_x_x_xx  x_x_x_
+    x_  x_x_x_xx  x__.]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

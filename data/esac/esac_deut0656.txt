@@ -1,0 +1,28 @@
+ERK
+CUT[ES WAR EIN REICHER KAUFMANNSSOHN]
+REG[Europa, Mitteleuropa, Deutschland, Wetzlar, Philippstein]
+TRD[]
+FKT[]
+SIG[E0053]
+KEY[E0053   16  G 6/8]
+MEL[-5_  1__1_3_2_1_  2__2_2__
+    32  1__3_5__3_  3__2_0__
+    3_  4_6_6_6_5_4_  3_5_5_5__
+    3_  2__2_5__2_  2__1_0__ //]
+BEM[]
+MEL_SEM[5 0 4 -2 -2 2 0 0 2 -2 -2 4 3 -3 0 -2 2 1 4 0 0 -2 -2 -1 3 0 0 -3 -2 0 5 -5 0 -2]
+MEL_RAW[-5  11321  222
+    32  1353  320
+    3  466654  3555
+    3  2252  210]
+NO_REP[-513212
+    32135320
+    3465435
+    325210]
+RTM[x_  x__x_x_x_x_  x__x_x__
+    xx  x__x_x__x_  x__x_x__
+    x_  x_x_x_x_x_x_  x_x_x_x__
+    x_  x__x_x__x_  x__x_x__]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

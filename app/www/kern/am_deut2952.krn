@@ -1,0 +1,118 @@
+!!!OTL: 759. Abendsegen.
+!!!COM: Volksweise
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0759
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M3/4	*
+*k[]	*
+*C:	*
+!LO:TX:a:t=Mäßig bewegt.	!
+{4g	Jch
+=1	=1
+2e	be-
+4f	-te
+=2	=2
+2g	an
+4cc	die
+=3	=3
+(4dd	Macht
+4cc)	.
+4b	der
+=4	=4
+2cc	Lie-
+4g}	-be,
+=5	=5
+{4a	die
+4cc	ſich
+4a	in
+=6	=6
+2g	Je-
+4e	-ſu
+=7	=7
+(4g	of-
+4f)	.
+4e	-fen-
+=8	=8
+2d}	-bart;
+{4g	ich
+=9	=9
+2e	geb'
+4f	mich
+=10	=10
+2g	hin
+4cc	dem
+=11	=11
+(4dd	frei-
+4cc)	.
+4b	-en
+=12	=12
+2cc	Trie-
+4g}	-be,
+=13	=13
+{4a	mit
+4cc	dem
+4a	ich
+=14	=14
+2g	Staub
+4e	ge-
+=15	=15
+(4g	-lie-
+4f)	.
+4e	-bet
+=16	=16
+2d}	ward;
+{4g	ich
+=17	=17
+2b	will,
+4g	an-
+=18	=18
+2cc	-ſtatt
+4g	an
+=19	=19
+(4ee	mich
+4dd)	.
+4cc	ʒu
+=20	=20
+2cc	den-
+4b}	-ken,
+=21	=21
+{4cc	ins
+4b	Meer
+4a	der
+=22	=22
+2g	Lie-
+4e	-be
+=23	=23
+(4a	mich
+4g)	.
+4f	ver-
+=24	=24
+(2.e	-ſen-
+=25	=25
+2.d)	.
+=26	=26
+2c}	-ken.
+==	==
+!!!AGN: geistliches Volks - Lied, religioes
+!!!GTL: Religioese Lieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Geistl. Volksweise.
+!!@@COMMENT:"Gedicht von Gerhard Terſtengen um 1750. Das Lied hat 8 Strophen (ſ. Knapps Lieder-
+!!ſchatʒ Nr. 2010). Mit dieſen 3 ausgewählten Strophen ſteht das Lied nebſt Melodie im "Preuß
+!!Soldatenliederbuch". Berlin 1881. Die Mel. iſt in den "Preuß. Ʒapfenſtreich" aufgenemmen und
+!!dadurch wahre Volksweiſe geworden. Sie ſoll vom ruſſ. Kirchenkomponiſten Dimitri Bortnianski (1751-1821) ſein."
+!!@@END:
+!!!Text: G. Terstengen
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n607/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/19/07
+*-	*-

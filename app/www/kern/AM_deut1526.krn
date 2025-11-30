@@ -1,0 +1,100 @@
+!!!OTL: 955. Der Vorreihen beim Bauerntanze.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: E0955
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M4/2	*
+*met(c|)	*
+*k[b-]	*
+*F:	*
+!LO:TX:a:t=Mel. für Sackpfeife.	!
+!LO:TX:a:t=Handſchriftl. Liederb. Ende des 16. Jahrh.	!
+{2c	Ein
+=1	=1
+2f	Sack-
+2g	-pſei-
+2a	-fer
+2b-	mit
+=2	=2
+2a	ſei-
+2g	-ner
+2f	Lyr
+=3	=3
+2r}	.
+{2c	der
+2f	macht
+2g	ſich
+=4	=4
+2a	fröh-
+2b-	-lich
+2a	bei
+2g	dem
+=5	=5
+1f	Bier.
+2r}	.
+{4.cc	Li-
+8b-	-rum
+=6	=6
+*M4/4	*
+*met(c)	*
+(8a/L	li-
+8b-)	.
+(8cc	-rum,
+8b-J)	.
+(8a/L	li-
+8b-)	.
+(8cc	-rum,
+8b-J)	.
+=7	=7
+4a	li-
+4g	-rum
+4a	li-
+4g	-rum
+=8	=8
+2a	li-
+2f}	-rum.
+=9	=9
+{2cc	Ri-
+2cc	-pup
+=10	=10
+4.f	li-
+8g	-rum
+4a	li-
+4b-	-rum
+=11	=11
+4cc	lo-
+4dd	-cken-
+2cc}	-dei,
+=12	=12
+{4.a	Stoppe-
+8a	.
+2cc	-ſack,
+=13	=13
+4.cc	Stoppe-
+8cc	.
+2f}	-ſack,
+=14	=14
+{4.g	Stoppe-
+8g	.
+2dd	-ſack
+=15	=15
+4b-	hat
+4dd	den
+2cc	Vor-
+=16	=16
+1a	-an.
+2r}	.
+==	==
+!!!AGN: Tanz - Lied, Reigen, Bauern - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK2
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Tanz- und Spiellieder.
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn745177662/iview2/phys_0729.iview2?x=-151.00528573090037&y=1106.0120179057121&scale=0.5208463313777512&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/12/20
+*-	*-

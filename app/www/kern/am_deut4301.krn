@@ -1,0 +1,120 @@
+!!!OTL: Wallfahrtsgesang.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0573
+!!!TXL: @@DE, (@@LAT)
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/2; 6/2
+*M6/2	*
+*met(c|)	*
+*clefC4	*
+*k[b-]	*
+*G:dor	*
+=1	=1
+!LO:TX:a:t=dor. tr.	!
+1ryy	.
+2ryy	.
+!LO:TX:a:t=*	!
+{2G	Ge-
+=2	=2
+2G	-lobt
+2G	ſey
+2B-	Gott
+2B-	der
+=3	=3
+1G	Vat-
+2F}	-ter,
+{2F	in
+=4	=4
+2B-	ſei-
+2B-	-nem
+2c	höch-
+2c	-ſten
+=5	=5
+1d	thron.
+2r}	.
+{2c	Ge-
+=6	=6
+2d	-lobt
+!LO:TX:a:t=**	!
+4d	ſey
+4d	der
+2d	ſe-
+2c	-lig-
+=7	=7
+1d	-ma-
+2B-}	-cher,
+{2c	ſein
+=8	=8
+2d	ein-
+2d	-ge-
+2c	-bor-
+2c	-ner
+=9	=9
+1B-	Son.
+2r}	.
+{2B-	Ge-
+=10	=10
+2c	-lobt
+2B-	ſey
+2c	auch
+2c	der
+=11	=11
+1d	Trö-
+2d}	-ſter,
+{2B-	der
+=12	=12
+2.c	le-
+4c	-bend
+2B-	ma-
+2B-	-chend
+=13	=13
+*M6/2	*
+*lig	*
+1G	Geiſt,
+1F	.
+*Xlig	*
+2r}	.
+{2F	der
+=14	=14
+*M4/2	*
+2c	ei-
+2B-	-nig
+2c	Gott
+2c	vnd
+=15	=15
+1d	herrſcher,
+2d}	.
+{2B-	die
+=16	=16
+2c	höchſt
+2B-	drey-
+2A/	-fal-
+2G	-tig-
+=17	=17
+*lig	*
+1c	-keit.
+1d}	.
+*Xlig	*
+=18	=18
+{4B-	Kyri-
+4B-	.
+2B-	-e-
+1A	-lei-
+=19	=19
+0G/ll}	-ſon.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Muenchner Gsgb 1586 fol. 70b
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0755.iview2?x=-171.61612513683053&y=2674.0993110914715&scale=0.5692057392176044&rotation=0&layout=singlePageLayout&logicalDiv=log_0021
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/21/03
+*-	*-

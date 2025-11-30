@@ -1,0 +1,80 @@
+!!!Xfilter:transpose -t P8
+!!!OTL: 761. Lebewohl!
+!!!ODT: 1889
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Elsass
+!!!SCT: E0761
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M4/4	*
+*met(c)	*
+*k[]	*
+*C:	*
+!LO:TX:a:t=Mäßig langsam.	!
+!LO:TX:a:t=Aus dem Elſaß. 1889	!
+{8.g	Le-
+16g	-be-
+=1	=1
+4.cc	-wohl,
+8g	du,
+8e	die
+8g	ich
+8.a	e-
+16g	-wig
+=2	=2
+4g	lie-
+4f	-be!
+4r}	.
+{8.b	Le-
+16cc	-be-
+=3	=3
+4.dd	-wohl,
+8g	Ge-
+8f#	-lieb-
+8g	-te
+8a	den-
+8b	-ke
+=4	=4
+2b	mein!
+8r}	.
+{8g	Ach
+8g	könn-
+8cc	-te
+=5	=5
+4.ee	ich,
+8dd	mit
+(8ccL	blu-
+8bJ)	.
+8a	-ti-
+8g	-gen
+=6	=6
+8gL	Thrä-
+8ffJ	.
+4ff	-nen
+8r}	.
+{8ff	grüb
+8ee	ich
+8dd	dein
+=7	=7
+4.ee	Bild
+8ee	tief
+8dd	in
+8dd	mein
+8a	Herʒ
+8b	hin-
+=8	=8
+2cc	-ein!
+4r}	.
+==	==
+!!!AGN: Abschieds - Lied, Liebe
+!!!ONB: ESAC (Essen Associative Code) Database: ERK2
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Abschieds- und Wanderlieder
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn745177662/iview2/phys_0570.iview2?x=192.47699748739979&y=297.7633030321449&scale=0.7029437510502773&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/12/16
+*-	*-

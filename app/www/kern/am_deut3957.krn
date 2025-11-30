@@ -1,0 +1,97 @@
+!!!OTL: Nesselkranz.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0222
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/2	*
+*met(3)	*
+*clefC3	*
+*k[]	*
+*G:mix	*
+=1	=1
+!LO:TX:a:t=mixolyd.	!
+!LO:N:vis=1	!
+2ryy	.
+!LO:N:vis=1	!
+2ryy	.
+!LO:N:vis=1	!
+{2G	Sich,
+=2	=2
+*lig	*
+!LO:N:vis=1	!
+2B	Baurnknecht,
+!LO:N:vis=1	!
+2B	.
+*Xlig	*
+!LO:N:vis=1	!
+2c	laß
+=3	=3
+!LO:N:vis=0	!
+1d	mir
+!LO:N:vis=1	!
+2d	die
+=4	=4
+!LO:N:vis=0	!
+1d	ro-
+!LO:N:vis=1	!
+2d	-ſen
+=5	=5
+!LO:N:vis=0	!
+1c}	ſtan,
+!LO:N:vis=1	!
+{2f	ſie
+=6	=6
+!LO:N:vis=1	!
+2e	ſein
+!LO:N:vis=0	!
+1d	nit
+=7	=7
+!LO:TX:a:t=P:1cc in the source:problem	!
+!LO:N:vis=0	!
+2c	dein;
+2r}	.
+!LO:N:vis=1	!
+{2A	du
+=8	=8
+!LO:N:vis=0	!
+1B	tregſt
+!LO:N:vis=1	!
+2c	noch
+=9	=9
+!LO:N:vis=0	!
+1d	wol
+!LO:N:vis=1	!
+2d	von
+=10	=10
+!LO:N:vis=0	!
+1d	neſ-
+!LO:N:vis=1	!
+2d	-ſel-
+=11	=11
+!LO:N:vis=0	!
+1A}	-kraut
+!LO:N:vis=1	!
+{2c	ein
+=12	=12
+!LO:N:vis=1	!
+2B	kren-
+!LO:N:vis=0	!
+1A	-tʒe-
+=13	=13
+1.G/ll}	-lein.
+==	==
+!!!GTL: Liebeslieder
+!!!AGN: Romanze, Ballade, Lied
+!! Joh. Ott III 1544 No. 24.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Mixolydian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0378.iview2?x=-891.612634679675&y=2047.1371577174868&scale=0.3769446600792666&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/03
+*-	*-

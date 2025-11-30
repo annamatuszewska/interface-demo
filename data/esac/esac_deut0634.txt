@@ -1,0 +1,32 @@
+ERK
+CUT[ES SOLLT EIN SCHAEFER HUETEN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Siebengebirge]
+TRD[]
+FKT[]
+SIG[E0043D]
+KEY[E0043D  16  E 6/8]
+MEL[-7b_  -7b_4_4_4_5_6b_  5_.45_3b__0_
+    4_5_6b_7b_.+17b_  6b__5_4__
+    45  6b__6b_6b__5_  3b__2_1__0_
+    1__1_2__0_  5__5_2__
+    2_  4_3b_2_3b_2_1_  2__5_1__ //]
+BEM[]
+MEL_SEM[0 7 0 0 2 1 -1 -2 2 -4 2 2 1 2 2 -2 -2 -1 -2 0 2 1 0 0 -1 -4 -1 -2 0 0 2 5 0 -5 0 3 -2 -1 1 -1 -2 2 5 -7]
+MEL_RAW[-7b  -7b44456b  5453b0
+    456b7b+17b  6b54
+    45  6b6b6b5  3b210
+    1120  552
+    2  43b23b21  251]
+NO_REP[-7b456b5453b0
+    456b7b+17b6b54
+    456b53b210
+    12052
+    243b23b21251]
+RTM[x_  x_x_x_x_x_x_  x_.xx_x__x_
+    x_x_x_x_.xx_  x__x_x__
+    xx  x__x_x__x_  x__x_x__x_
+    x__x_x__x_  x__x_x__
+    x_  x_x_x_x_x_x_  x__x_x__]
+SCL_DEG[-7b123b456b7b+1]
+SCL_SEM[2 2 1 2 2 1 2 2]
+

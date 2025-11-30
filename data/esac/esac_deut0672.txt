@@ -1,0 +1,20 @@
+ERK
+CUT[IDT LICHT SICH EIN SCHLOESSKEN]
+REG[Europa, Mitteleuropa, Deutschland, Niederdeutsch]
+TRD[]
+FKT[]
+SIG[E0061C]
+KEY[E0061C  04  F 3/2]
+MEL[3_  3_.32_  3_.34_  5__5_  3__
+    5_  5_.55_  3_.21_  2__^_  3_0_ //]
+BEM[]
+MEL_SEM[0 0 -2 2 0 1 2 0 -3 3 0 0 0 -3 -2 -2 2 2]
+MEL_RAW[3  332  334  55  3
+    5  555  321  2^  30]
+NO_REP[323453
+    53212^30]
+RTM[x_  x_.xx_  x_.xx_  x__x_  x__
+    x_  x_.xx_  x_.xx_  x__x_  x_x_]
+SCL_DEG[12345]
+SCL_SEM[2 2 1 2]
+

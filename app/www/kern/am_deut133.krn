@@ -1,0 +1,85 @@
+!!!OTL:Steckenpferdreiterlein.
+!!!OTL-incipit:HOPP HOPP HOPP ICH BIN EIN REITERSMANN
+!!!COM: Schlesische Volksweise
+!!!ARE: Europa, Mitteleuropa, Deutschland, Schlesien
+!!!SCT: F0258
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+!!mixed meter: 4/4, 2/4
+*M4/4	*
+*met(c)	*
+*k[f#c#]	*
+*D:	*
+=1	=1
+!LO:TX:a:t=Mäßig.	!
+!LO:TX:a:t=Schlesische Volksweise.	!
+8r	.
+{8a	1._Hopp
+8a	hopp!
+8a	ich
+=2	=2
+4.dd	bin
+8f#	ein
+4.a	Rei-
+8g	-ters-
+=3	=3
+(4g	-mann.
+4f#)	.
+4r}	.
+{8f#	Ei-
+8f#	-nen
+=4	=4
+*M2/4	*
+8a	Sä-
+8a	-bel
+8g	an
+8g	der
+=5	=5
+8e	Sei-
+8e}	-te
+{8g	reit'
+8g	ich
+=6	=6
+8b/	keck
+8b/	als
+8a	ging's
+8a	zum
+=7	=7
+8f#	Streite,
+8f#}	.
+{8a	in
+8a	den
+=8	=8
+8dd	Hän-
+8dd	-den
+8b	Schild
+8b	und
+=9	=9
+4ee}	Speer
+{8cc#	ei,
+8a	was
+=10	=10
+8a	will
+8a	ein
+8b	Rei-
+8cc#	-ter
+=11	=11
+*met4/4	*
+4dd	mehr?
+4r}	.
+==	==
+!!!AGN: Jugend - Lied, Kinder, Spiel, Kniereiter - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Jugendlieder
+!!Text: H. v. Fallersleben
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 155
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/03/12
+*-	*-

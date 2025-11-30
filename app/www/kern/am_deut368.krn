@@ -1,0 +1,78 @@
+!!!OTL: Beim Schlendern.
+!!!OTL-incipit: AUF EINEM BAUM EIN KUCKUCK
+!!!COM: Volksweise
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0660
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text	**text	**text
+*ICvox	*	*	*
+*clefG2	*	*	*
+!! Mixed meters:  3/4; 2/4
+*M3/4	*	*	*
+*k[f#]	*	*	*
+*G:	*	*	*
+=1	=1	=1	=1
+!LO:TX:a:t=Mäßig.	!	!	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!	!	!
+{4dd^^	1._Auf	2._Da	3._Der
+8b/	ei-	kam	ſchoß
+8g	-nem	ein	den
+8a	Baum	jun-	ar-
+8dd/	ein	-ger	-men
+=2	=2	=2	=2
+*M2/4	*	*	*
+8dd/L	Kuckuck	Jä-	Kuckuck
+8ccJ	.	.	.
+8a	.	-gers	.
+8r}	.	.	.
+=3	=3	=3	=3
+*M3/4	*	*	*
+{8g^^	ſim	ſim	ſim
+16g	ſa-	ſa-	ſa-
+16g	-la	-la	-la
+8g	dim	dim	dim
+8g	bam	bam	bam
+8g	ſa,	ſa,	ſa,
+16g	ſa-	ſa-	ſa-
+16g	-la	-la	-la
+=4	=4	=4	=4
+*M2/4	*	*	*
+8a^^	du,	du,	du,
+16f#	ſa-	ſa-	ſa-
+16f#	-la-	-la-	-la-
+8d	-dim,	dim,	dim,
+8r}	.	.	.
+=5	=5	=5	=5
+*M3/4	*	*	*
+{4dd^^/	1._auf	2._da	3._der
+8b/	ei-	kam	ſchoß
+8g	-nem	ein	den
+8a	Baum	jun-	ar-
+8dd/	ein	-ger	-men
+=6	=6	=6	=6
+*M2/4	*	*	*
+(8dd/L	Kuckuc	Jä-	Kuckuck
+8ccJ)	.	.	.
+8a	.	-gers-	.
+8r}	.	.	.
+=7	=7	=7	=7
+*M3/4	*	*	*
+{2g	ſaß.	-mann.	todt.
+4r}	.	.	.
+==	==	==	==
+!!!AGN: Staende -, Jaeger - Lied, Scherz, Tier - Geschichte
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: > = above
+!!!GTL: Soldaten- und Jaegerlieder
+!!Text: Volkslied
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 434
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=401
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/05
+*-	*-	*-	*-

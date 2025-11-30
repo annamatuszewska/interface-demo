@@ -1,0 +1,115 @@
+!!!OTL: Vom edlen Rebensaft.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0320
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c|)	*
+*clefC4	*
+*k[]	*
+*a:aeo	*
+!LO:TX:a:t=aeol.	!
+{1e	Man
+=1	=1
+2d	ſagt
+2B	wol:
+2c	in
+2A	dem
+=2	=2
+1B	Mei-
+1A	-en
+=3	=3
+1r}	.
+{1c	da
+=4	=4
+2A/	ſind
+2F	die
+2G	brün-
+2E	-lein
+=5	=5
+1D}	gſünd,}
+{1e	Ich
+=6	=6
+2d	glaubs
+2B	nit,
+2c	bei
+2A	mein
+=7	=7
+1B	treu-
+1A	-en,
+=8	=8
+1r}	.
+{1c	es
+=9	=9
+2A/	ſchwenckt
+2F	eim
+2G	nur
+2E	der
+=10	=10
+1D}	mund,}
+{1d	Vnd
+=11	=11
+2e	thut
+2d	im
+2c	ma-
+2A	-gen
+=12	=12
+1B	ſchwe-
+1c	-ben,
+=13	=13
+2r	.
+2c	drumb
+2A	wil
+2A	mirs
+=14	=14
+2G	auch
+2F	nit
+1E}	ein:
+=15	=15
+{2r	.
+2A	ich
+2A	lob
+2A	die
+=16	=16
+*lig	*
+2.c	ed-
+4B-i	.
+2A	.
+*Xlig	*
+2F	-len
+=17	=17
+1G	re-
+1F}	-ben,
+=18	=18
+{2r	.
+2c	die
+2c	brin-
+2A	-gen
+=19	=19
+2c	vns
+!LO:TX:a:t=P:1d in the source:problem	!
+!LO:N:vis=1	!
+2d	.
+!LO:TX:a:t=P:1c in the source:problem	!
+!LO:N:vis=1	!
+2c	.
+2B	gut
+=20	=20
+1All}	wein.
+==	==
+!!!GTL: Trink. und Zechlieder, incl. Fastnacht- u. Martinslieder
+!!!AGN: Romanze, Ballade, Lied, Trinklied
+!! Scandello, d. Liedlein 1578 No. 3.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!AMD: Aeolian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0472.iview2?x=-1625.8563452843127&y=470.77036515646614&scale=0.28036994991815867&rotation=0&layout=singlePageLayout&logicalDiv=log_0012
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/13/03
+*-	*-

@@ -1,0 +1,107 @@
+!!!OTL: 622. Schlummerlied.
+!!!COM: J. Haydn
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0622
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M2/4	*
+*k[b-e-a-]	*
+*E-:	*
+=1	=1
+!LO:TX:a:t=Sanft.	!
+{8e-	Al-
+8e-	-les
+8g	ſtill
+8g	in
+=2	=2
+8b-	ſü-
+8b-	-ßer
+4g}	Ruh',
+=3	=3
+{8a-	drum,
+8a-	mein
+8f	Kind,
+8f	ſo
+=4	=4
+8d	ſchlaf'
+8d	auch
+4B-}	du!
+=5	=5
+{8e-	Draußen
+8e-	.
+8g	ſäu-
+8g	-ſelt
+=6	=6
+8b-	ſchon
+8b-	der
+4ee-}	Wind,
+=7	=7
+{8ee-	ſu,
+8ee-	ſu,
+8a	ſu,
+8a	ſchlaf
+=8	=8
+8cc	ein,
+8b-	mein
+4b-}	Kind!
+=9||	=9||
+{4a-X	Su,
+4g	ſu,
+=10	=10
+8f	ſu,
+8f	ſu,
+8f}	ſu,
+{16a-L	ſchlaf
+16b-J	.
+=11	=11
+8cc	ein,
+8b-	mein
+8a-	lie-
+8g	-bes
+=12	=12
+4f	Kind!
+4r}	.
+=13	=13
+{8g	Su,
+8g	ſu,
+8b-	ſu,
+8b-	ſu,
+=14	=14
+8ee-	ſu,
+8ee-	ſu,
+4gg}	ſu,
+=15	=15
+{4ff	ſchlaf'
+16ee-L	ein,
+16ddJ	.
+16ccL	mein
+16b-J	.
+=16	=16
+4ee-	Kind!
+4r}	.
+==	==
+!!!AGN: Kinder -, Wiegen - Lied
+!!!GTL: Kinderlieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Mel. v. J. Haydn.
+!!@@COMMENT:"Text von Hoffmann v. Fallersleben 1827. Jch gebe eine Jnſtrumentalmelodie Haydens
+!!daʒu. Mit einer Volksmelodie 1838 durch Erk verſehen: in deſſen Germania Nr. 325. Mit einer
+!!Melodie von K. v. Winterfeld (1827) in Finks Hausſchatʒ. Trefflich hat der Dichter die ſchon in
+!!alten geiſtlichen Wiegenliedern des 15. und 16. Jahrhundert vorkommenden Säuſellaute (ſ. Suſaninna, 
+!!Liederhort III) nachgeahmt.
+!!Mit ſolchen Dichtungen wollen die Dichter (wie Hoffmann, Arndt u. A. ) gebildeten Müttern
+!!für die Hausmuſik eine Beiſteuer bringen, nicht dem Concerte."
+!!@@END:
+!!!Text: H. von Fallersleben
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n489/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/15/07
+*-	*-

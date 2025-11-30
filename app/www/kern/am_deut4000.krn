@@ -1,0 +1,87 @@
+!!!OTL: Alter Reihen um das erste Veilchen. / Notation des Prätorius:
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0280B
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*M4/4
+*met(c|)
+*clefC1
+*k[b-
+*g:
+=1
+1ryy
+2ryy
+{4g
+=2
+2g
+4g
+4g
+=3
+2f#
+4f#
+4f#
+=4
+4g
+4b-
+4a
+4g
+=5
+2f#
+4r}
+{4b-
+=6
+4b-
+4b-
+4b-
+4b-
+=7
+2a
+4a
+4a
+=8
+4g
+4g
+4f#
+4f#
+=9
+!LO:TX:a:t=P:2g in the score:problem
+!LO:N:vis=2
+2.g
+4r}
+{4b-
+=10
+4b-
+4b-
+4b-
+4b-
+=11
+2a
+4a
+4a
+=12
+4g
+4g
+4f#
+4f#
+=13
+!LO:TX:a:t=P:2g in the score:problem
+!LO:N:vis=2
+2.g
+4r}
+==
+!!!GTL: Tanz- und Kranzlieder
+!!!AGN: Romanze, Ballade, Lied
+!! Praetorius Mus. Sion. VIII 1610 No. 264
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT: "Sie ist aber scheinbar an« vorliegender Mollweise dadurch entstanden, daß Prätorins den Tenor irgend eines vorgefundenen Tonsatzes noch für die melodieführende Hauptstimme ansah 
+!! und zum Discant erhob, (während doch gegen Ende des 16. Jahrh. schon oft und sogar vorherrschend der Diseant den
+!!cantus firmus überwiesen bekommen hatte!).Dergleichen Verwechslungen sind Prätorius mehrfach (besonders bei Melodien aus Trillers Singbuche) nachzuweisen. Hier folge die Notation desPrätorius:"
+!!@@END:
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0439.iview2?x=-495.6391625615763&y=787.1399015109055&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0012
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/11/03
+*-

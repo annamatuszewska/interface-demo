@@ -1,0 +1,105 @@
+!!!Xfilter:transpose -t P8
+!!!OTL: 1924. Taeublein weiss. / [Adventslied.]
+!!!ODT: 1660
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: E1924
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M4/4	*
+*met(c)	*
+*k[]	*
+*C:	*
+!LO:TX:a:t=Corner 1631. Beuttner 1602 (1660).	!
+{4cc	Es
+=1	=1
+4cc	flog
+4dd	ein
+4cc	Täub-
+4b	-lein
+=2	=2
+2a	wei-
+4g}	-ße
+{4g	vom
+=3	=3
+2cc	Him-
+4dd	-mel
+4ff	her-
+=4	=4
+2ee	-ab
+4r}	.
+{4cc	im
+=5	=5
+4ee	en-
+4ee	-ge-
+4ff	-li-
+4ff	-ſchen
+=6	=6
+2gg	Klei-
+4ee}	-de
+{4gg	ʒu
+=7	=7
+4ff	ei-
+4ee	-ner
+4dd	Jung-
+4dd	-frau
+=8	=8
+2cc	ʒart
+4r}	.
+{4ee	Ge-
+=9	=9
+2gg	-grü-
+2ee	-ßet
+=10	=10
+2dd	ſeiſt
+2cc}	du,
+=11	=11
+{4a	wun-
+4cc	-der-
+4a	-ſchö-
+4g	-ne
+=12	=12
+2f	Magd!
+4r}	.
+{4f	Dein
+=13	=13
+4cc	Seel
+4ff	iſt
+4ee	hoch
+4gg	ge-
+=14	=14
+2ff	-ʒie-
+4ee}	-ret,
+{4dd	ge-
+=15	=15
+4cc	-ſeg-
+4a\	-net
+4b	iſt
+4cc	dein
+=16	=16
+(8.ddL	Leib.
+16eeJ	.
+4ff	.
+4ee)}	.
+{4dd	Ky-
+=17	=17
+4cc	-ri-
+4a\	-e-
+(4b	-lei-
+4cc)	.
+=18	=18
+2cc	-ſon.
+4r}	.
+==	==
+!!!AGN: geistlich, Fest - Lied, Weihnachten, Advent
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Geistliche Lieder. 1. Christliche Festlieder: a) Weihnachtskreis (Advent, Weihnachten, Neujahr und Dreikoenigstag).
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn745177999/iview2/phys_0636.iview2?x=188.9681574111819&y=214.5584657387808&scale=0.7014306698522895&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/09/01
+*-	*-

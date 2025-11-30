@@ -1,0 +1,63 @@
+!!!OTL: Der Reuter.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0081
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c)	*
+*k[]	*
+*G:	*
+!LO:TX:a:t=Mod?	!
+{4dd	Es
+=1	=1
+2dd	ritt
+2dd	gutt
+4dd/	Reut-
+4dd/	-ter-
+2dd	-lein
+=2	=2
+(2ee	ſchö-
+2dd)	.
+2cc	-ne
+4r}	.
+{4b	wol
+=3	=3
+4dd	ü-
+4dd	-ber
+2dd	ein
+(4b	Wie-
+4cc)	.
+4dd	-ſen
+4dd	was
+=4	=4
+*lig	*
+2cc	grü-
+4b	.
+4a	.
+*Xlig	*
+2g}	-ne,
+{2b	die
+=5	=5
+2cc	Wie-
+2b	-ſen
+2a	die
+2g	was
+=6	=6
+1f#	breit.
+!LO:N:vis=2	!
+!LO:TX:a:t=etc.	!
+2.r}	.
+==	==
+!!!GTL: Balladen und Romanzen (erzählende Volkslieder)
+!!!AGN: Romanze, Ballade, Lied
+!! Melodie aus M. Framck, Fascic. quodl. 1611 No. 2.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0241.iview2?x=-425.8853427895981&y=2100.238770691445&scale=0.4823261117445838&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/22/02
+*-	*-

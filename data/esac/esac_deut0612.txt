@@ -1,0 +1,36 @@
+ERK
+CUT[UND ALS ICH AUF GRUEN HEIDE KAM]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[E0040B]
+KEY[E0040B  08  F 4/4]
+MEL[-7b  -7b_.3b3b_1_  1_.-7b-7b_0
+    -7b  3b_.3b4_.4  5__.0
+    3b  2_.12_3b_  4__5__
+    1_.23b_1_  2_-5_-5_
+    3b_  2_.12_3b_  4__5_0
+    4  3b_1_2_-7_  1__0_. //]
+BEM[]
+MEL_SEM[0 5 0 -3 0 -2 0 0 5 0 2 0 2 -4 -1 -2 2 1 2 2 -7 2 1 -3 2 -7 0 8 -1 -2 2 1 2 2 -2 -2 -3 2 -3 1]
+MEL_RAW[-7b  -7b3b3b1  1-7b-7b0
+    -7b  3b3b44  50
+    3b  2123b  45
+    123b1  2-5-5
+    3b  2123b  450
+    4  3b12-7  10]
+NO_REP[-7b3b1-7b0
+    -7b3b450
+    3b2123b45
+    123b12-5
+    3b2123b450
+    43b12-710]
+RTM[x  x_.xx_x_  x_.xx_x
+    x  x_.xx_.x  x__.x
+    x  x_.xx_x_  x__x__
+    x_.xx_x_  x_x_x_
+    x_  x_.xx_x_  x__x_x
+    x  x_x_x_x_  x__x_.]
+SCL_DEG[-5-7b-7123b45]
+SCL_SEM[3 1 1 2 1 2 2]
+

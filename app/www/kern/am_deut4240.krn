@@ -1,0 +1,112 @@
+!!!OTL: Wiegenlied am Christkripplein.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0525
+!!!TXL: @@GMH, (@@LAT)
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/1	*
+*met(3)	*
+*clefC1	*
+*k[b-]	*
+*F:ion	*
+=1	=1
+!LO:TX:a:t=jon.	!
+1ryy	.
+1ryy	.
+{1a	Ein
+=2	=2
+0a	kind
+1f	ge-
+=3	=3
+*lig	*
+1cc	-born
+1b-	.
+*Xlig	*
+1g	ʒu
+=4	=4
+*lig	*
+1f	Beth-
+1g	.
+*Xlig	*
+1a	-le-
+=5	=5
+0.f}	-hem,
+=6||	=6||
+{0.cc	[Ei-
+=7	=7
+0.a	-a,
+=8	=8
+0.cc	Ei-
+=9	=9
+0.a}	-a!
+=10	=10
+{1f	Su-
+1g	-ſa-
+1a	-ni
+=11	=11
+1cc	Su-
+1b-	-ſa-
+1a	-ni
+=12	=12
+0f	Sus
+1e	Sus
+=13	=13
+0f}	Sus]
+{1cc	Deß
+=14	=14
+0cc	frew-
+1b-	-et
+=15	=15
+0a	ſich
+1dd	Je-
+=16	=16
+*lig	*
+1cc	-ru-
+1b-	.
+*Xlig	*
+1a	-ſa-
+=17	=17
+0g}	-lem.
+{1cc	[Al-
+=18	=18
+*lig	*
+1g	-le-
+1a	.
+*Xlig	*
+1b-	-lu-
+=19	=19
+0cc	-ja,
+1f	Al-
+=20	=20
+0f	-le-
+1e	-lu-
+=21	=21
+0f}	-ja!
+{1b-	Ge-
+=22	=22
+1b-	-lo-
+1a	-bet
+1g	ſey
+=23	=23
+1a	Je-
+1b-	-ſus
+1cc	und
+=24	=24
+0g	Ma-
+1a	-ri-
+=25	=25
+0.f/ll}	-a!]
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Paderborner Gsgb 1609 S. 33
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0702.iview2?x=-1272.8135649766991&y=1551.6449346528389&scale=0.3197610882076923&rotation=0&layout=singlePageLayout&logicalDiv=log_0018
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/19/03
+*-	*-

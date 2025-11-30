@@ -1,0 +1,92 @@
+!!!OTL: Der Dieb. Ein Kinderspiel.
+!!!OTL-incipit:FUCHS DU HAST DIE GANS GESTOHLEN
+!!!COM: Volksweise
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0243
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M2/4	*
+*k[b-]	*
+*F:	*
+=1	=1
+!LO:TX:a:t=Mäßig.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{8f	1._Fuchs,
+8g	du
+8a	haſt
+8b-/	die
+=2	=2
+8cc	Gans
+8cc	ge-
+8cc	-ſtohlen,
+8cc}	.
+=3	=3
+{8dd	gieb
+8b-/	ſie
+8ff	wieder
+8dd	.
+=4	=4
+4cc/	her,
+4r}	.
+=5	=5
+{8dd	gieb
+8b-/	ſie
+8ff	wieder
+8dd	.
+=6	=6
+4cc	her!
+4r}	.
+=7	=7
+{8cc/	ſonſt
+8b-/	wird
+8b-/	ſie
+8b-/	der
+=8	=8
+8b-/	Jä-
+8a	-ger
+8a	ho-
+8a}	-len
+=9	=9
+{8a	mit
+8g	dem
+8g	Schießgewehr,
+8c	.
+=10	=10
+4a	.
+4r}	.
+=11	=11
+{8cc/	ſonſt
+8b-/	wird
+8b-/	ſie
+8b-/	der
+=12	=12
+8b-/	Jä-
+8a	-ger
+8a	ho-
+8a}	-len
+=13	=13
+{8a	mit
+8g	dem
+8g	Schießge-
+8a	.
+=14	=14
+4f	-wehr.
+4r}	.
+==	==
+!!!AGN: Jugend - Lied, Kinder, Spiel
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Jugendlieder
+!!Text: Volkslied
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 146
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=144,145
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/07/26
+*-	*-

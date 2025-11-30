@@ -1,0 +1,100 @@
+!!!OTL: Treulieb.
+!!!OTL-incipit: TREULIEB IST NIMMER WEIT
+!!!COM: F. Wollank
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0908
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M6/8	*
+*k[b-e-a-]	*
+*E-:	*
+!LO:TX:a:t=Larghetto.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{8b-/	1._Treulieb
+=1	=1
+4g	.
+8g	iſt
+8.b-/L	nim-
+16a-	.
+16gJ	.
+16f	-mer
+=2	=2
+[>4.e-	weit,
+8e-]	.
+8r}	.
+{8e-	nach
+=3	=3
+8ee-/L	Kum-
+8ddJ	.
+8cc/	-mer
+8cc/L	und
+8b-J	.
+8an	nach
+=4	=4
+4.b-/}	Leid
+{(8g/L	kehrt
+8ee-	.
+8ccJ)	.
+=5	=5
+4b-/	wie-
+16ee-/L	-der
+16ddJ	.
+4cc/	Lieb'
+16dd/L	und
+16ccJ	.
+=6	=6
+[>4.b-/	Freud.
+8b-/]	.
+8r}	.
+{8cc/	Dann
+=7	=7
+8b-/L	kehrt
+8a-J	.
+8g	der
+8b-/L	hol-
+8a-J	.
+8g	-de
+=8	=8
+2.a-;}	Gruß,
+=9	=9
+{4g	Hän-
+8b-/	-de-
+8b-/L	-drü-
+8a-J	.
+8a-	-cken,
+=10	=10
+8gL	ʒärt-
+8b-J	.
+8ee-/	-lich
+8ee-/L	bli-
+8ddJ	.
+8dd/}	-cken,
+=11	=11
+{4ee-/	Lie-
+8dd-/	-bes-
+4.cc/;	-kuß,
+=12	=12
+!LO:TX:a:t=poco rall.	!
+8cc/L	Lie-
+8b-J	.
+8d	-beskuß.
+4e-}	.
+==	==
+!!!AGN: Liebes - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Text: L. Tieck.
+!!!RDF**kern: > = above
+!!!GTL: Minnelieder
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 672
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=582
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/07
+*-	*-

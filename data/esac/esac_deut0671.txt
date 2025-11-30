@@ -1,0 +1,28 @@
+ERK
+CUT[ES LIEGT EIN SCHLOSS IN OESTERREICH]
+REG[Europa, Mitteleuropa, Deutschland, Niederlausitz]
+TRD[]
+FKT[]
+SIG[E0061B]
+KEY[E0061B  08  G 4/4]
+MEL[1_  5_5_5_3b_  7b_7b_6b5
+    7b_  +1_5_4_3b_  4_5__
+    7b6b  4_7b6b5_4_  3b_2_1_
+    2_  3b_4_5_43b  23b1__ //]
+BEM[]
+MEL_SEM[7 0 0 -4 7 0 -2 -1 3 2 -5 -2 -2 2 2 3 -2 -3 5 -2 -1 -2 -2 -1 -2 2 1 2 2 -2 -2 -1 1 -3]
+MEL_RAW[1  5553b  7b7b6b5
+    7b  +1543b  45
+    7b6b  47b6b54  3b21
+    2  3b4543b  23b1]
+NO_REP[153b7b6b5
+    7b+1543b45
+    7b6b47b6b543b21
+    23b4543b23b1]
+RTM[x_  x_x_x_x_  x_x_xx
+    x_  x_x_x_x_  x_x__
+    xx  x_xxx_x_  x_x_x_
+    x_  x_x_x_xx  xxx__]
+SCL_DEG[123b456b7b+1]
+SCL_SEM[2 1 2 2 1 2 2]
+

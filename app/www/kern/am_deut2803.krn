@@ -1,0 +1,85 @@
+!!!OTL: 615. Postillons Signal.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0615
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M3/8	*
+*k[]	*
+*C:	*
+=1	=1
+!LO:TX:a:t=Munter.	!
+{8c	Hört
+8e	ihr,
+8g	wie
+=2	=2
+8cc	ſchön
+8g	heut'
+8e	der
+=3	=3
+8.g	Poſ-
+16g	-til-
+8g	-lon
+=4	=4
+8cc	blä-
+8g}	-ſet,
+{8e	er
+=5	=5
+8c	brin-
+8e	-get
+8g	uns
+=6	=6
+8cc	Brie-
+8g	-fe
+8e	von
+=7	=7
+8.g	fer-
+16g	-ne
+8g	und
+=8	=8
+4cc	nah',
+8r	.
+=9	=9
+8.g	fer-
+16g	-ne
+8g	und
+=10	=10
+4cc	nah';
+8r}	.
+=11	=11
+{8.cc	ſeht
+16cc	ihr,
+8cc	jetʒt
+=12	=12
+8.g	iſt
+16g	er,
+8g	jetʒt
+=13	=13
+8.e	iſt
+16e	er
+8e	ſchon
+=14	=14
+4c	da,
+8r}	.
+=15	=15
+{4.c^	da,
+=16	=16
+4.c^	da,
+=17	=17
+4.c^}	da!
+==	==
+!!!AGN: Staende - Lied, Postillon
+!!!GTL: Seemanns-, Bergmanns-, Bauern- und Handwerkerlieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!K. Steins Liedersammlung für Schulen. Potsdam 1855.
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n487/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/15/07
+*-	*-

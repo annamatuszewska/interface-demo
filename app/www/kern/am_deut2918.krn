@@ -1,0 +1,126 @@
+!!!OTL: 730. Die Melodie vom Mars-Liede. / I. "Hafen-Liedt."
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0730
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*clefG2
+*M4/4
+*met(c)
+*k[]
+*C:
+=1
+{4g
+4g
+4g
+8aL
+8bJ
+=2
+4cc
+4g
+4e
+4c}
+=3
+{2cc
+2dd
+=4
+1ee}
+=5
+{4g
+4g
+4g
+8aL
+8bJ
+=6
+4cc
+4g
+4e
+4c}
+=7
+{2cc
+2dd
+=8
+1ee}
+=9
+{4ee
+4ee
+8eeL
+8dd
+8cc
+8bJ
+=10
+4a
+4a
+2a}
+=11
+{4dd
+4dd
+8ddL
+8cc
+8b
+8aJ
+=12
+8gL
+8g
+8g
+8gJ
+8aL
+8bJ
+4cc
+=13
+4cc
+4b
+2cc}
+=14
+{4ee
+4ee
+8eeL
+8dd
+8cc
+8bJ
+=15
+4a
+4a
+2a}
+=16
+{4dd
+4dd
+8ddL
+8cc
+8b
+8aJ
+=17
+8gL
+8g
+8g
+8gJ
+8aL
+8bJ
+4cc
+=18
+4cc
+4b
+2cc}
+==
+!!!AGN: ???
+!!!GTL: Auslaendische Weisen, die in Deutschland gesungen wurden
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Lautenbuch 1619, auf der Leipʒiger Stadtbibl.
+!!@@COMMENT:"Jm 17. und 18. Jahrh. gab es eine Melodie, die gleichʒeitig in Deutſchland, Holland und
+!!Frankreich unter verſchiedenem Titel vorkommt, deren Urſprung bis jetʒt aber nicht nachgewieſen iſt.
+!!Der Mufikforſcher W. Tappert in Berlin hat die vorhandenen Notationen chronologiſch und mit
+!!Erläuterungen ʒuſammengeſtellt in der "Neuen Berliner Muſikʒeitung 1893 Nr. 25 und 26. Aus
+!!dieſer Ʒuſammenſtellung erlaube ich mir hier die wichtigſten mit kurʒer Quellenangabe ʒu wiederholen:I. "Hafen-Liedt.
+!!Aelteſte Quelle. Der Text vom Haſenlied nicht iſt bekannt. Der Anfang vermuthlich: Hat eier
+!!Vater viel Haſen gefängt". So lautet die Ueberſchrift über einer ʒweiten Bearbeitung der
+!!Melodie in derſelben Handſchrift. "
+!!@@END:
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n581/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/18/07
+*-

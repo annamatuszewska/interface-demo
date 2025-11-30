@@ -1,0 +1,80 @@
+!!!OTL: Buchsbaum und Felbinger. / (Wettstreitlied.) / a. Aelteste Notation.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0273A
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  6/2; 4/2
+*M4/2	*
+*met(c|)	*
+*clefC4	*
+*k[]	*
+*G:mix	*
+=1	=1
+!LO:TX:a:t=mixolyd.	!
+1ryy	.
+2ryy	.
+{2G	I._Vnd
+=2	=2
+*M6/2	*
+1G	wölt
+1G	ir
+2A	hö-
+2B	-ren
+=3	=3
+1c	new-
+2c	-e
+1c}	mär
+{2c	vom
+=4	=4
+1c	buchsbaum
+1c	.
+2B	vnd
+2A	dem
+=5	=5
+*lig	*
+2B	fel-
+2A	.
+*Xlig	*
+2G	-bin-
+1A}	-gêr:
+{2A	ſie
+=6	=6
+1F	ʒo-
+!LO:SIC:o:2f#:v	!
+2F	-gen
+1E	mit
+2E	ein-
+=7	=7
+2.D	-an-
+4E	-der
+2F	da-
+!LO:TX:a:t=P:1g in the source:problem	!
+!LO:N:vis=1	!
+2G	-her
+2r}	.
+{2G	vnd
+=8	=8
+*M4/2	*
+2c	kriegten
+2B	.
+2A	mit
+2G	ein-
+=9	=9
+1A	-an-
+1G}	-der.
+==	==
+!!!GTL: Raethsel-, Wett-, Wunsch- und Luegenlieder
+!!!AGN: Romanze, Ballade, Lied
+!! Finck 1536 No. 46
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Mixolydian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0429.iview2?x=-495.6391625615763&y=711.5364532242529&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0011
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/11/03
+*-	*-

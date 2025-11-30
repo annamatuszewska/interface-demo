@@ -1,0 +1,150 @@
+!!!OTL: Das Abendlaeuten.
+!!!OTL-incipit: AUS DEM DOERFLEIN DA DRUEBEN
+!!!COM: G. W. Fink
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0790
+!!!TXL: @@DA
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*I"Sopran	*
+*clefG2	*
+*M3/4	*
+*k[b-e-a-]	*
+*E-:	*
+!LO:TX:a:t=Mit halber Stimme. Mäßig langſam.	!
+!LO:TX:a:t=Beſſer dreiſtimmig ohne, als einſtimmig mit Begleitung.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{16e-	1._Aus
+16f	dem
+=1	=1
+8g	Dörflein
+16g	.
+16a-	da
+4b-/	drü-
+8g	-ben
+8b-/^^	vom
+=2	=2
+8ee-	Thurme
+16dd/L	.
+16ccJ	her-
+4b-	-ab,
+8r}	.
+{16b-\L	da
+16a-J	.
+=3	=3
+8g	läu-
+16g	-ten
+16a-	die
+4b-/	Menſchen
+8g	.
+8ee-	den
+=4	=4
+!LO:TX:a:t=langſam.	!
+8b-	Tag
+8g	ʒu
+4e-;	Grab.
+8r}	.
+!LO:TX:a:t=Im ersten Ʒeitmaße.	!
+{8f	Sie
+=5	=5
+4f	lau-
+8f	-ten
+8f	und
+8f	lau-
+16f	-ten,
+16f	und
+=6	=6
+8.g	ich
+16g	und
+4g	du,
+8r}	.
+{16e-L	wir
+16fJ	.
+=7	=7
+4g	hö-
+8g	-ren
+8g	gar
+16a-L	ger-
+16gJ	.
+16f	-ne
+16g	dem
+=8	=8
+8a-	Lau-
+8a-	-ten
+4a-;	ʒu.
+4r	.
+=9	=9
+4d;	Baum!
+4r	.
+8r}	.
+!LO:TX:a:t=Mit voller Stimme.	!
+{16e-L	Sie
+16fJ	.
+=10	=10
+8g	lau-
+16g	-ten
+16a-	und
+4b-/	lauten,
+8g	.
+8b-/^^	und
+=11	=11
+8ee-	ich
+16ddL	und
+16ccJ	.
+4b-	du,
+8r}	.
+{16e-L	wir
+16fJ	.
+=12	=12
+8g	hö-
+16g	-ren
+16a-	gar
+4b-/	gerne
+8g	.
+8e-	dem
+=13	=13
+8f	Lau-
+8f	-ten
+4e-	ʒu.
+8r}	.
+!LO:TX:a:t=Alle. Geſchwinder und wohl markirt.	!
+{16gL	Wir
+16a-J	.
+=14	=14
+4b-/	hö-
+4b-/	-ren
+4b-/	gar
+=15	=15
+4cc/	ger-
+4cc/}	-ne
+{4cc/	dem
+=16	=16
+(>4.dd/	Lau-
+8cc/)	.
+4dd/	-ten
+=17	=17
+4ee-/;	ʒu.
+4r	.
+!LO:TX:a:t=Solo, mit halber Stimme.	!
+!LO:TX:a:t=Im ersten Ʒeitmaße.	!
+4B-	Baum,
+=18	=18
+2B-;	baum!
+8r}	.
+==	==
+!!!AGN: Geselligkeits -, Tageszeiten - Lied, Abend
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Text: G. W. Fink
+!!!RDF**kern: > = above
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 546
+!!!GTL: Liedertafel- und Gesellschaftslieder
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=496
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/06
+*-	*-

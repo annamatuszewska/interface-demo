@@ -1,0 +1,24 @@
+ERK
+CUT[ES WOLLT EIN MUELLER FRUEH AUFSTEHN]
+REG[Europa, Mitteleuropa, Deutschland, Altmark, Mieste]
+TRD[]
+FKT[]
+SIG[E0058B]
+KEY[E0058B  08  F 4/4]
+MEL[-5_  1_1_2_54  3_.21_
+    12  3_2_3_46  5_.43_
+    13  5_5_653_  2__1_ //]
+BEM[]
+MEL_SEM[5 0 2 5 -2 -1 -2 -2 0 2 2 -2 2 1 4 -2 -2 -1 -4 4 3 0 2 -2 -3 -2 -2]
+MEL_RAW[-5  11254  321
+    12  32346  543
+    13  55653  21]
+NO_REP[-51254321
+    1232346543
+    13565321]
+RTM[x_  x_x_x_xx  x_.xx_
+    xx  x_x_x_xx  x_.xx_
+    xx  x_x_xxx_  x__x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

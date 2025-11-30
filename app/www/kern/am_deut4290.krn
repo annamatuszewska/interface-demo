@@ -1,0 +1,117 @@
+!!!OTL: Osterruf von Sanct Thoman.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0563
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/2	*
+*met(C|3)	*
+*clefC3	*
+*k[]	*
+*C:ion	*
+!LO:TX:a:t=P:2r, 2r in the source:problem	!
+!LO:TX:a:t=jon.	!
+{2c	Nun
+=1	=1
+!LO:N:vis=0	!
+1e	ſin-
+!LO:N:vis=1	!
+2f	-get
+=2	=2
+!LO:N:vis=0	!
+1g	all
+!LO:N:vis=1	!
+2e	mit
+=3	=3
+!LO:N:vis=0	!
+1f	rei-
+!LO:N:vis=1	!
+2g	-chem
+=4	=4
+!LO:N:vis=0	!
+1c}	ſchall
+{2c	Nun
+=5	=5
+!LO:N:vis=0	!
+1e	ſin-
+!LO:N:vis=1	!
+2f	-get
+=6	=6
+!LO:N:vis=0	!
+1g	all
+!LO:N:vis=1	!
+2e	mit
+=7	=7
+!LO:N:vis=0	!
+1f	rei-
+!LO:N:vis=1	!
+2g	-chem
+=8	=8
+!LO:N:vis=0	!
+1c}	ſchall
+!LO:N:vis=1	!
+{2f	ein
+=9	=9
+!LO:N:vis=1	!
+2e	ſchö-
+!LO:N:vis=1	!
+2d	-nes
+!LO:N:vis=1	!
+2c	lob-
+=10	=10
+!LO:N:vis=0	!
+1A	-gſang,
+!LO:N:vis=1	!
+2G	das
+=11	=11
+*lig	*
+!LO:N:vis=1	!
+2d	gott
+!LO:N:vis=1	!
+2f	.
+*Xlig	*
+!LO:N:vis=1	!
+2d	ge-
+=12	=12
+!LO:N:vis=0	!
+1c}	-fall.
+{2f	ein
+=13	=13
+!LO:N:vis=1	!
+2e	ſchö-
+!LO:N:vis=1	!
+2d	-nes
+!LO:N:vis=1	!
+2c	lob-
+=14	=14
+!LO:N:vis=0	!
+1A	-gſang,
+!LO:N:vis=1	!
+2G	das
+=15	=15
+*lig	*
+!LO:N:vis=1	!
+2d	gott
+!LO:N:vis=1	!
+2f	.
+*Xlig	*
+!LO:N:vis=1	!
+2d	ge-
+=16	=16
+!LO:N:vis=0	!
+1c;\ll}	-fall.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Corner, gr. Gsgb 1625 und 1631 No. 143.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Ionian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0744.iview2?x=-1583.232250273661&y=746.7859462052584&scale=0.2846028696088022&rotation=0&layout=singlePageLayout&logicalDiv=log_0021
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/21/03
+*-	*-

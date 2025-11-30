@@ -1,0 +1,85 @@
+!!!OTL: Ringeltanz.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0286
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/2	*
+*met(C|3)	*
+*clefF3	*
+*k[b-]	*
+*F:ion	*
+=1	=1
+!LO:TX:a:t=jon. F.	!
+2ryy	.
+2ryy	.
+{2F	E-
+=2	=2
+1F	-wi-
+2F	-ger
+=3	=3
+2.E	Got,
+4F/	.
+2G	ach
+=4	=4
+!LO:TX:a:t=P:coloured notes:problem	!
+2F	Va-
+1D	-ter
+=5	=5
+1C	mein,
+2F	bi-
+=6	=6
+2F	-ſtu
+1D	al-
+=7	=7
+1C}	-lein:
+{2C	hilff
+=8	=8
+1G	dei-
+2G	-nen
+=9	=9
+1A	Kin-
+!LO:TX:a:t=*	!
+2G	-dern
+=10	=10
+!LO:TX:a:t=*	!
+2F	aus
+2E	al-
+2D	-ler
+=11	=11
+1E	not.
+2r}	.
+=12	=12
+{2C	Herr,
+2D	das
+2E	bit
+=13	=13
+1F	ich,
+2r	.
+=14	=14
+2C	Ge-
+2D	-wehr
+2E	du
+=15	=15
+1.Fll}	mich.
+==	==
+!!!GTL: Tanz- und Kranzlieder
+!!!AGN: Romanze, Ballade, Lied
+!! Geistliche Ringeltentze 1550 No. 1
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT:"Ueberschrist: „Ein Ringeltantz, offs Vater unser gestellt von Balten Vogt." Vollständiger Textabdruck WK. III. No. 1245. 
+!!Welchem weltlichen Texte diese Melodie angehörte, ist mir unbekannt. Fr. Hommel (geistl. VL. No. 8) hat
+!!sie einem Weihnachtstexte (Es ist ein Kindelein geborn zu Bethlehem!) angepaßt. Aller Wahrscheinlichkeit nach hat sichdie Melodie 
+!!zum weltlichen Tanz durchweg im 3/2-Takt bewegt. Im Orig. fehlen l. Vorzeichnung, 2. die 3 am Tempuszeichen, 3. der Strich an den Noten * *, 
+!!4. die Pause vor der Schlußzeile."
+!!@@END:
+!!!RDF**kern: l = terminal long
+!!!AMD: Ionian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0442.iview2?x=-495.6391625615763&y=780.6596059128642&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0012
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/12/03
+*-	*-

@@ -1,0 +1,36 @@
+ERK
+CUT[ES WOLLT EIN MAEDCHEN GRASEN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Bayern]
+TRD[]
+FKT[]
+SIG[E0071A]
+KEY[E0071A  08  G 4/4]
+MEL[-5_  1_1_2_2_  32121_
+    2_  3_335434  5__0_
+    13  5_5_5_+1_  6__5_
+    13  5555544_  3__0_
+    13  5_5_5_+1_  6__5_
+    13  5555544_  3__0_ //]
+BEM[]
+MEL_SEM[5 0 2 0 2 -2 -2 2 -2 2 2 0 0 3 -2 -1 1 2 -7 4 3 0 0 5 -3 -2 -7 4 3 0 0 0 0 -2 0 -1 -4 4 3 0 0 5 -3 -2 -7 4 3 0 0 0 0 -2 0 -1]
+MEL_RAW[-5  1122  32121
+    2  3335434  50
+    13  555+1  65
+    13  5555544  30
+    13  555+1  65
+    13  5555544  30]
+NO_REP[-51232121
+    23543450
+    135+165
+    135430
+    135+165
+    135430]
+RTM[x_  x_x_x_x_  xxxxx_
+    x_  x_xxxxxx  x__x_
+    xx  x_x_x_x_  x__x_
+    xx  xxxxxxx_  x__x_
+    xx  x_x_x_x_  x__x_
+    xx  xxxxxxx_  x__x_]
+SCL_DEG[-5123456+1]
+SCL_SEM[5 2 2 1 2 2 3]
+

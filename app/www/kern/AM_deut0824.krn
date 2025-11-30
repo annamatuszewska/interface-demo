@@ -1,0 +1,75 @@
+!!!Xfilter: transpose -t P8
+!!!OTL: 149. Der Bauer ins Holz.
+!!!ODT: 1669
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: E0149A
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text	**text
+*ICvox	*	*
+!! Mixed meters:  4/4; 3/4
+*M4/4	*	*
+*met(c)	*	*
+*k[]	*	*
+*C:	*	*
+!LO:TX:a:t=Mel. 1669.	!	!
+{4cc	1._Es	2._Da
+=1	=1	=1
+4.cc	fuhr,	kam,
+8cc	es	da
+4.b	fuhr,	kam,
+8b	es	da
+=2	=2	=2
+4.a	fuhr,	kam,
+8a	es	da
+4.g}	fuhr	kam,
+{8g	ein	der
+=3	=3	=3
+*M3/4	*	*
+*met(3)	*	*
+4.e	Bau-	Schrei-
+8f	-er	-ber
+4g	ins	ge-
+=4	=4	=4
+4c	Holʒ,	-gangn,
+4r}	.	.
+{4cc	drei	er
+=5	=5	=5
+*M4/4	*	*
+*met(c)	*	*
+4cc	Stun-	ward
+4b	-den	vons
+4cc	vor	Bau-
+4dd	dem	-ers
+=6	=6	=6
+2ee	Ta-	Frau-
+4dd}	-ge	-en
+{4ee	mit	gar
+=7	=7	=7
+4ff	ſei-	ſchö-
+4ee	-nem	-ne
+4dd	Röß-	ſchön
+4cc	-lein	em-
+=8	=8	=8
+2cc	ſtolʒ,	-pfangn,
+4dd	Röß-	ſchön
+4b	-lein	em-
+=9	=9	=9
+2cc	ſtolʒ,	-pfangn,
+4dd	Röß-	ſchön
+4b	-lein	em-
+=10	=10	=10
+2cc	ſtolʒ.	-pfangn.
+4r}	.	.
+==	==	==
+!!!AGN: erzaehlendes Volks - Lied, Scherz, Schwank, betrogener Ehemann, Ballade ?
+!!!ONB: ESAC (Essen Associative Code) Database: ERK1
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Schwaenke in Liedform (scherzhafte Erzaehlungen, mitunter satirisch)
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn745146120/iview2/phys_0549.iview2?x=-725.3371323957147&y=-370.1441155686043&scale=0.4088357090269527&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/03/12
+*-	*-	*-

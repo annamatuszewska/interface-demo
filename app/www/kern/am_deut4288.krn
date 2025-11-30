@@ -1,0 +1,120 @@
+!!!OTL: Osterlied des 15. Jahrhunderts. / B. Andere, verbreitetste Lesart der Melodie.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0561B
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/1	*
+*met(c|)	*
+*clefF3	*
+*k[]	*
+*C:mix	*
+!LO:TX:a:t=mixolyd. tr.	!
+!LO:TX:a:t=P:1r, 2r in the source:problem	!
+2ryy	.
+{2G	Frewet
+=1	=1
+1G	.
+1G	euch
+1G	al-
+1B-	-le
+=2	=2
+1A	Chri-
+1G	-ſten-
+1F	-heit,
+2r}	.
+{2G	Je-
+=3	=3
+1E	-ſus
+1C	hat
+1E	v-
+1F	-ber-
+=4	=4
+*lig	*
+!LO:TX:a:t=P:0g in the source:problem	!
+!LO:N:vis=0	!
+1G	-wun-
+!LO:TX:a:t=P:0a in the source:problem	!
+!LO:N:vis=0	!
+1A	.
+*Xlig	*
+1G}	-den,}
+{2r	.
+2G	Die
+=5	=5
+1G	groſ-
+1G	-ſe
+1G	mar-
+1B-	-ter,
+=6	=6
+1A	die
+1G	er
+1F	leidt,
+2r}	.
+{2G	die
+=7	=7
+1E	hat
+1C	vns
+1E	nun
+1F	ent-
+=8	=8
+*lig	*
+!LO:TX:a:t=P:0g in the source:problem	!
+!LO:N:vis=0	!
+1G	-bun-
+!LO:TX:a:t=P:0a in the source:problem	!
+!LO:N:vis=0	!
+1A	.
+*Xlig	*
+1G	-den,}
+1r}	.
+=9	=9
+{1c	Groſſe
+1B	.
+1A	ſorg
+1B	war
+=10	=10
+1c	vns
+1A	be-
+1G	-reit,
+2r}	.
+{2G	Die
+=11	=11
+1c	iſt
+1F	jetʒ-
+1G	-undt
+1C	gar
+=12	=12
+2E	hin-
+2A	.
+2G	-ge-
+2F	.
+1E	-leit,
+2r}	.
+{2C	Er-
+=13	=13
+2D	-ſtan-
+2E	-den
+2F	iſt
+2G	vns
+1E	groſ-
+1D	-ſe
+=14	=14
+1AA	ſe-
+1BB	-lig-
+1C/ll}	-keit.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Muenchner Gsgb. 1586. Verbreitetste Lesart.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Mixolydian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0742.iview2?x=-1583.232250273661&y=-1725.2512980867177&scale=0.2846028696088022&rotation=0&layout=singlePageLayout&logicalDiv=log_0021
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/20/03
+*-	*-

@@ -1,0 +1,103 @@
+!!!OTL: Matrosenlied. / Als Volkslied.
+!!!OTL-incipit: AUF MATROSEN DIE ANKER GELICHTET
+!!!COM: Nach A. Pohlenz
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0754
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M4/4	*
+*k[]	*
+*C:	*
+!LO:TX:a:t=Mäßig bewegt.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{8g	1._Auf,
+8g	Ma-
+=1	=1
+4cc/	-tro-
+8cc/	-ſen,
+8cc/	die
+4cc/	An-
+8b/	-ker
+8cc/	ge-
+=2	=2
+4dd/	-lich-
+4g}	-tet,
+{4g	Se-
+[>8g	-gel
+8g]	ge-
+=3	=3
+4g	-ſpannt,
+8r	.
+8g	den
+4ff	Kompaß
+8ee	.
+8dd/	ge-
+=4	=4
+4dd/	-rich-
+4cc/	-tet!
+2r}	.
+=5	=5
+{2cc/	Liebchen,
+4b/	.
+4b/	A-
+=6	=6
+2a	-de!
+2r}	.
+=7	=7
+{2g	Scheiden
+4a	.
+4b/	thut
+=8	=8
+2cc/}	weh!
+{8dd/L	Morgen,
+8ccJ	.
+8b/	.
+8cc/	dann
+=9	=9
+4dd/	gehr's
+8dd/	in
+8dd/	die
+8ee/L	wo-
+8ddJ	.
+(>8cc/	-gen-
+8dd/)	-de
+=10	=10
+2ee/}	See,
+{8dd/L	morgen,
+8ffJ	.
+8ee/	.
+8dd/	dann
+=11	=11
+4cc/	geht's
+8cc/	in
+8cc/	die
+8cc/L	wo-
+8bJ	.
+(>8a	-gen-
+8b/)	-de
+=12	=12
+2cc/	See.
+4r}	.
+==	==
+!!!AGN: Staende -, Matrosen - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Text: Volkstext
+!!!RDF**kern: > = above
+!!!GTL: Liedertafel- und Gesellschaftslieder
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 517
+!!@@COMMENT:"*) Nicht von A. E. Rodatʒ, wie in einigen Schriften ſonderbarer Weiſe ʒu leſen iſt. Das Lied bildet den Anfang des 
+!!äten Heftes der Geſänge mit Begleitung des Pianoforte von Aug. Pohlenʒ. Unſere Bearbeitung iſt, wie man ſieht, vier-
+!!ſtimmig. Fügen wir ſogleich noch das Original bei, deſſen Tert von Wilh. Gerhard mit der vollsthümlichen Abände-
+!!rung verglichen werden mag. Es dürfte nicht blos ʒum Vergnügen, ſondern auch ʒum Nutʒen gereichen."
+!!@@END:
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=468
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/06/08
+*-	*-

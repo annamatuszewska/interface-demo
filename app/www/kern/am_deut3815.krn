@@ -1,0 +1,93 @@
+!!!OTL: Der Koenigssohn.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0049
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c|)	*
+*clefC4	*
+*k[b-]	*
+*F:ion	*
+=1	=1
+!LO:TX:a:t=jon.	!
+1ryy	.
+2ryy	.
+{2F	Es
+=2	=2
+2F	wurb
+2G	ein-
+2A	-man
+2.c	eins
+=3	=3
+.	.
+4B-	.
+4A	.
+4B-	.
+2G	Kö-
+2G	-nigs
+=4	=4
+0F}	ſon
+=5	=5
+{2r	.
+2F	wol
+2c	vmb
+2c	ein
+=6	=6
+1d	Key-
+2c	-ſe-
+!LO:TX:a:t=P:another grouping in the source:problem	!
+*lig	*
+1c	-rin-
+=7-	=7-
+.	.
+2Bi	.
+*Xlig	*
+1c}	ne,
+=8	=8
+{1c	Er
+2c	wurb
+2c	wol
+=9	=9
+2.A	ſi-
+4c	-ben
+2.B-	gan-
+4A	-tʒe
+=10	=10
+1G	jar,
+2r}	.
+{2c	er
+=11	=11
+2B-	kont
+2G	ſie
+2A/	nit
+2F	ge-
+=12	=12
+2.A	-win-
+4B-	.
+2c	.
+2.B-	.
+=13	=13
+.	.
+4A/	.
+4G/	.
+4F/	.
+1G/	.
+=14	=14
+0F/ll}	-nen
+==	==
+!!!GTL: Balladen und Romanzen (erzählende Volkslieder)
+!!!AGN: Romanze, Ballade, Lied
+!! Melodie bei Forster V. 1556 No. 11.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!AMD: Ionian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0204.iview2?x=-425.8853427895981&y=174.98534280445892&scale=0.4823261117445838&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/19/02
+*-	*-

@@ -1,0 +1,64 @@
+!!!OTL: Lob- und Danklied.
+!!!OTL-incipit:WIR DANKEN DEM HERRN
+!!!COM: C. Schulz
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0340
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[]	*
+*C:	*
+!LO:TX:a:t=Feierlich.	!
+!LO:TX:a:t=Vierſtimmig.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{4g	Wir
+=1	=1
+2cc/	dan-
+4dd/	-ken
+4dd/	dem
+=2	=2
+2ee	Herrn,
+4r}	.
+{4ee	denn
+=3	=3
+2ff	er
+2ee	iſt
+=4	=4
+2ee	freundlich,
+4dd}	.
+{4dd	und
+=5	=5
+(2dd	ſei-
+4ee)	.
+4ff	-ne
+=6	=6
+4gg	Gü-
+4gg}	-te
+{8ggL	wäh-
+8ffJ	.
+8eeL	-ret
+8ddJ	.
+=7	=7
+2cc/	e-
+2b/	-wig-
+=8	=8
+2cc/	-lich.
+4r}	.
+==	==
+!!!AGN: Jugend - Lied, Lob , Dank, religioes
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Text: C. F. W. Herrosee
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 201
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=198,199
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/07/30
+*-	*-

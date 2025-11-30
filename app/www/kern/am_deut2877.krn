@@ -1,0 +1,95 @@
+!!!OTL: 683. Am Andreas-Abend.
+!!!COM: Volksmelodie
+!!!ARE: Europa, Mitteleuropa, Deutschland, Thueringen, Hessen, Sachsen
+!!!SCT: B0683
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M3/4	*
+*k[b-]	*
+*F:	*
+!LO:TX:a:t=Solo.	!
+{8c	Ach
+8c	An-
+=1	=1
+4.f	-dre-
+8f	-as,
+8f	heil'-
+8f	-ger
+=2	=2
+8e	Schutʒ-
+8g	-pa-
+4c}	-tron,
+{8c	ſchen-
+8e	-ke
+=3	=3
+4.g	mir
+8g	doch
+8f	ei-
+8g	-nen
+=4	=4
+4a	Mann!
+4r}	.
+{8c	Sieh
+8c	he-
+=5	=5
+4.f	-rab
+8f	auf
+8f	mei-
+8f	-nen
+=6	=6
+8e	Spott
+8g	und
+4c}	Hohn,
+{8c	ſieh
+8e	mein
+=7	=7
+4.g	ho-
+8g	-hes
+8f	Al-
+8g	-ter
+=8	=8
+4a	an!
+4r}	.
+{8a	Krieg'
+8b-	ich
+=9	=9
+4.cc	ei-
+8f	-nen
+8g	o-
+8a	-der
+=10	=10
+2.g	kei-
+=11	=11
+4f	-nen?
+4r	.
+4r	.
+=12	=12
+!LO:TX:a:t=Echo.	!
+2.g	Ei-
+=13	=13
+4f	-nen!
+4r}	.
+==	==
+!!!AGN: Scherz - Lied (Echo)
+!!!GTL: Scherzlieder und Gemischtes
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Aeltere Volksmel. Aus Thüringen, Heſſen, Sachſen, Brandenburg.
+!!@@COMMENT:"
+!!Text von Jnnocent Wilhelm v. Beuſt, ʒuerſt in deſſen "Vermiſchte Gedichte". Andere Aufl. Gotha 1772. S. 25. 
+!!(Nach dem Bildniß des Buches iſt der Verf. damals Sachſen-Gotbaiſcher Landkammerrath auf Reinſtett und 
+!!Moßbach (bei Neuſtadt a. d. Orla). - Die 1. Aufl. erſchien ʒu Jena 1765, die 3. ebendaſelbſt 1775 und die 4. ohne Angabe des Druckortes unter dem Titel: Satyriſch-moraliſche Gedichte 1777. Das Lied von der alten Jungpfer verbreitete ſich ſehr und wurde über hundert Jahre lang in verſchiedenen Lesarten, nach mehreren Melodien in ganʒ Deutſch- land geſungen. Die beigebrachte iſt wohl die verbreitetſte und die älteſte. Jch gebe ſie nach Erk, Volkslieder JJ. Bd. 4/5. Nr. 65 und J. 4, 51. ) Sie erſchienen ſchon mit dem Titel. "Bitte einer alten Jungſer für Fortepiano und Guitarre. Altenburg 1808. [...]
+!!Das Echo oder der "Widerſchall" war eine beliebte Spielerei mancher Dichter beſonders im 17. Jahrhundert; auch die Romantiker haben noch manche Echoſpiele geliefert.[...]"
+!!@@END:
+!!!Text: I. W. von Beust
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n535/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/17/07
+*-	*-

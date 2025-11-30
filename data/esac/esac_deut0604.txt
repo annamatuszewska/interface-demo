@@ -1,0 +1,32 @@
+ERK
+CUT[ES WAR EIN JAEGER DER BLIES INS HORN]
+REG[Europa, Mitteleuropa, Deutschland, Siebengebirge]
+TRD[]
+FKT[]
+SIG[E0019F]
+KEY[E0019F  08 Bb 6/8]
+MEL[-5  1_1111  2_22_.
+    1234_3  2_0_.
+    -5  2_2234  3231_.
+    123123  2_-5-5_.
+    3332_2  1_0_. //]
+BEM[]
+MEL_SEM[5 0 0 0 0 2 0 0 -2 2 2 1 -1 -2 -7 7 0 0 2 1 -1 -2 2 -4 0 2 2 -4 2 2 -2 -7 0 9 0 0 -2 0 -2]
+MEL_RAW[-5  11111  222
+    12343  20
+    -5  22234  3231
+    123123  2-5-5
+    33322  10]
+NO_REP[-512
+    1234320
+    -52343231
+    1231232-5
+    3210]
+RTM[x  x_xxxx  x_xx_.
+    xxxx_x  x_x_.
+    x  x_xxxx  xxxx_.
+    xxxxxx  x_xx_.
+    xxxx_x  x_x_.]
+SCL_DEG[-51234]
+SCL_SEM[5 2 2 1]
+

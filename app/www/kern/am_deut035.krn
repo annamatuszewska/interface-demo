@@ -1,0 +1,99 @@
+!!!OTL: Liebhaber in allen Gestellten.
+!!!OTL-incipit: ICH WOLLT ICH WAER EIN FISCH
+!!!COM: Volksweise
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0101
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M3/8	*
+*k[f#]	*
+*G:	*
+!LO:TX:a:t=Froh und friſch.	!
+!LO:TX:a:t=P:only higher voice encoded:problem	!
+{16bL	1._Ich
+16ccJ	.
+=1	=1
+8dd	wollt'
+8dd	ich
+16b	wär'
+16cc	ein
+=2	=2
+8dd	Fiſch,
+8r}	.
+{16ggL	ſo
+16ddJ	.
+=3	=3
+8b/	hur-
+8b/	-tig
+8a	und
+=4	=4
+8g	friſch!
+8r}	.
+{16bL	und
+16aJ	.
+=5	=5
+8a	kämſt
+8a	du
+8a	ʒu
+=6	=6
+8dd/	an-
+8a}	-geln,
+{16f#L	ich
+16gJ	.
+=7	=7
+8a	wür-
+8a	-de
+8a	nicht
+=8	=8
+8dd/	man-
+8a}	-geln,
+{16ddL	ich
+16eeJ	.
+=9	=9
+8.ff#;L	wür-
+16ggJ	.
+16ff#	-de
+16ee	nicht
+=10	=10
+16.eeL	man-
+32ddJ	.
+16dd	-geln.
+16r;}	.
+{16.bL	Ich
+32ccJ	.
+=11	=11
+8dd	wollt'
+8dd	ich
+16b	wär'
+16cc	ein
+=12	=12
+8dd	Fiſch,
+8r}	.
+{16ggL	ſo
+16ddJ	.
+=13	=13
+8b/	hur-
+8b/	-tig
+8a	und
+=14	=14
+4g}	friſch.
+==	==
+!!!AGN: Liebes - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL:Volkslieder
+!!@@COMMENT:"Im dritten Hefr der Lieder, Romanzen und Balladen von Zelter. Verlin, jetzt bei Schlesinger.[...]"
+!!@@END:
+!!Text: J. W. Goethe
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 62
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=70,71
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/25/07
+*-	*-

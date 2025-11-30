@@ -1,0 +1,82 @@
+!!!Xfilter:transpose -t P8
+!!!OTL: Die Heimath.
+!!!OTL-incipit:WENN ICH DEN WANDRER FRAGE
+!!!COM: R. Tschirch
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0459
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M4/4	*
+*met(c)	*
+*k[]	*
+*C:	*
+=1	=1
+!LO:TX:a:t=Ziemlich langsam.	!
+!LO:TX:a:t=Fuer gemischte Stimmen.	!
+{4e	1._Wenn
+8.e	ich
+16d	den
+4c	Wand-
+4e	-rer
+=2	=2
+2a	fra-
+4g	-ge:
+4r}	.
+=3	=3
+{2g	"wo
+4g	kommſt
+4g	du
+=4	=4
+2dd/	her?"
+4r}	.
+{4g	"von
+=5	=5
+2g	Hau-
+4e	-ſe,
+4cc/	von
+=6	=6
+2ee/	Hau-
+4cc/}	-ſe",
+{4a	ſpricht
+=7	=7
+4.g	er
+8g	und
+(8bL	ſeuf-
+8aJ)	.
+(8gL	-zet
+8fJ)	.
+=8	=8
+2e	ſchwer;
+4r}	.
+{4g	"von
+=9	=9
+2g	Hau-
+4e	-ſe,
+4cc/	von
+=10	=10
+2ee/	Hau-
+4cc/}	-ſe"
+{4a	ſpricht
+=11	=11
+4.g	er
+8g	und
+4g	ſeuf-
+4g	-ʒet
+=12	=12
+2.g	ſchwer.
+4r}	.
+==	==
+!!!AGN: Heimat - Lied, Heimweh
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Vaterlands- und Heimathslieder.
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 285
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/03/14
+*-	*-

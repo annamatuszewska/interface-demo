@@ -1,0 +1,24 @@
+ERK
+CUT[ES RITTEN DREI REITER WOL UEBER DEN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+TRD[]
+FKT[]
+SIG[E0057]
+KEY[E0057   08  G 2/4]
+MEL[-5  1_-71  2_12  3_43  2_0
+    5  4_24  3_13  2_-7-5  135
+    5  4_24  3_13  2_-7-5  1_0 //]
+BEM[]
+MEL_SEM[5 -1 1 2 -2 2 2 1 -1 -2 5 -2 -3 3 -1 -4 4 -2 -3 -4 5 4 3 0 -2 -3 3 -1 -4 4 -2 -3 -4 5]
+MEL_RAW[-5  1-71  212  343  20
+    5  424  313  2-7-5  135
+    5  424  313  2-7-5  10]
+NO_REP[-51-7121234320
+    54243132-7-5135
+    54243132-7-510]
+RTM[x  x_xx  x_xx  x_xx  x_x
+    x  x_xx  x_xx  x_xx  xxx
+    x  x_xx  x_xx  x_xx  x_x]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

@@ -1,0 +1,94 @@
+!!!OTL:Die Lerche.
+!!!OTL-incipit:HOERT DIE LERCHE SIE SINGT
+!!!COM: Nach A. Harder
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0281
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M6/8	*
+*k[f#c#]	*
+*D:	*
+=1	=1
+!LO:TX:a:t=Heiter.	!
+!LO:TX:a:t=Ges. v. H. Langer	!
+!LO:TX:a:t=Ein- oder Zweistimmig zu singen.	!
+{4f#	1._Hört
+8f#	die
+8.g	Ler-
+16f#	-che,
+8g	ſie
+=2	=2
+(4.a	ſingt!
+4dd)	.
+8r}	.
+=3	=3
+{8.ff#/	Hoch
+16ee/	in
+8dd/	den
+8.dd/	bläu-
+16cc#/	-li-
+8b/	-chen
+=4	=4
+4.a	Lüf-
+4f#	-ten
+8r}	.
+=5	=5
+{8.ff#/	ü-
+16ee/	-ber
+8dd/	den
+8.dd/	grü-
+16cc#/	-nen-
+8b/	-der
+=6	=6
+4.a	Trif-
+4f#	-ten
+8r}	.
+=7	=7
+{8.e	tö-
+16f#	-net
+8g#	ihr
+8.a	Lied!
+16b/	Wie
+8g#	er
+=8	=8
+(4.a	klingt
+4.g)}	.
+=9	=9
+{8.f#	ih-
+16e	-re
+8f#	me-
+8.g	-lo-
+16f#	-di-
+8g	-ſche
+=10	=10
+(<4a	Bruſt
+8dd/	.
+4.ff#/)}	.
+=11	=11
+{8dd/L	uns
+8aJ	.
+8f#	ʒur
+8a	Freu-
+8g	-de
+8e	und
+=12	=12
+[<4.d	Luſt.
+4d]	.
+8r}	.
+==	==
+!!!AGN: Jugend - Lied, Natur
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: >= above
+!!!GTL: Jugendlieder
+!!Text: F. A. Krummacher
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 168
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/03/13
+*-	*-

@@ -1,0 +1,129 @@
+!!!OTL: Kloesterlein oder Abtweihe.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0360
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/2; 6/2
+*M4/2	*
+*met(c|)	*
+*clefC3	*
+*k[b-]	*
+*G:dor	*
+=1	=1
+!LO:TX:a:t=dor. tr.	!
+!LO:TX:a:t=P:1r, 2r, 2d in the source:problem	!
+1ryy	.
+2ryy	.
+{2d	Ein
+=2	=2
+2d	abt
+2d	den
+2d	wöll
+2d	wir
+=3	=3
+*M6/2	*
+1d	wey-
+1d	-hen,
+2r}	.
+{2d	iſt
+=4	=4
+*M4/2	*
+*lig	*
+2d	auß
+2d	.
+*Xlig	*
+*lig	*
+2f	der
+2f	.
+*Xlig	*
+=5	=5
+1c	ma-
+1A	-ßen
+=6	=6
+1G	gut;}
+2r}	.
+{2d	Ein
+=7	=7
+2d	klo-
+2d	-ſter
+2d	wöll
+2d	wir
+=8	=8
+*M6/2	*
+1d	baw-
+1d	-en,
+2r}	.
+{2d	liegt
+=9	=9
+*M4/2	*
+*lig	*
+2d	ſo
+2d	in
+*Xlig	*
+*lig	*
+2f	gro-
+2f	-ßer
+*Xlig	*
+=10	=10
+1c	ar-
+1A	.
+=11	=11
+1G	gut;}
+2r}	.
+{2G	Dar-
+=12	=12
+1A	-in-
+1A	-nen
+=13	=13
+1c	wo-
+1c	-net
+=14	=14
+1d	man-
+1d	-cher
+=15	=15
+1.d	brů-
+2c	-der
+=16	=16
+1B-	on
+1G	par
+=17	=17
+0F;}	gelt,
+=18	=18
+{1.A	vn-
+2B-	-ſer
+=19	=19
+1c	or-
+2c	-den
+2c	re-
+=20	=20
+1.f}	-giert
+{2e	in
+=21	=21
+1.d	al-
+2c	-ler
+=22	=22
+*lig	*
+2B-	di-
+4A	.
+4G	.
+2A	.
+*Xlig	*
+2A	-ſer
+=23	=23
+0G/ll}	welt.
+==	==
+!!!GTL: Trink. und Zechlieder, incl. Fastnacht- u. Martinslieder
+!!!AGN: Romanze, Ballade, Lied
+!! J. Ott III Nuernberg 1544 No. 23.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0506.iview2?x=-495.6391625615763&y=460.1009852557909&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0013
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/13/03
+*-	*-

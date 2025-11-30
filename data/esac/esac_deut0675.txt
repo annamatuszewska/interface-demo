@@ -1,0 +1,28 @@
+ERK
+CUT[ES STEHT EIN SCHLOSS IN OESTERREICH]
+REG[Europa, Mitteleuropa, Deutschland, Pommern, Fiddichow, Brusenfelde]
+TRD[]
+FKT[]
+SIG[E0061F]
+KEY[E0061F  16  D 3/4]
+MEL[-5_  1_3_5__4_-7_  2_.44__3_
+    -5_  1_3_5__1_3_  3__2__0_
+    5_  3_5_+1__7_6_  6_5_3__0_
+    +1_  5_3_4__-7_2_  2__1__0_ //]
+BEM[]
+MEL_SEM[5 4 3 -2 -6 3 3 0 -1 -9 5 4 3 -7 4 0 -2 5 -3 3 5 -1 -2 0 -2 -3 8 -5 -3 1 -6 3 0 -2]
+MEL_RAW[-5  1354-7  2443
+    -5  13513  320
+    5  35+176  6530
+    +1  534-72  210]
+NO_REP[-51354-7243
+    -51351320
+    535+176530
+    +1534-7210]
+RTM[x_  x_x_x__x_x_  x_.xx__x_
+    x_  x_x_x__x_x_  x__x__x_
+    x_  x_x_x__x_x_  x_x_x__x_
+    x_  x_x_x__x_x_  x__x__x_]
+SCL_DEG[-5-71234567+1]
+SCL_SEM[4 1 2 2 1 2 2 2 1]
+

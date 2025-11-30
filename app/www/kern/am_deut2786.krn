@@ -1,0 +1,115 @@
+!!!OTL: 596. Der verliebte Jaeger.
+!!!COM: Volksweise
+!!!ARE: Europa, Mitteleuropa, Deutschland, Rheinland, Thueringen
+!!!SCT: B0596
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M6/8	*
+*k[f#c#]	*
+*D:	*
+!LO:TX:a:t=Bewegt.	!
+{8a	Ein
+=1	=1
+4a	Jä-
+8f#	-ger
+4dd	ʒog
+8cc#	ʒu
+=2	=2
+4.cc#	Wal-
+4b}	-de,
+{(16gL	dort
+16eJ)	.
+=3	=3
+4d	äſ't
+8A	ein
+4f#	gu-
+8e	-ter
+=4	=4
+4d	Hirſch.
+8r	.
+4r}	.
+{8a	Hal-
+=5	=5
+4a	-loh,
+8f#	be-
+4dd	-glück-
+8cc#	-ter
+=6	=6
+4.cc#	Jä-
+4b}	-ger,
+{(16gL	heut'
+16eJ)	.
+=7	=7
+4d	haſt
+8A	du
+4f#	gu-
+8e	-te
+=8	=8
+4d	Birſch!
+8r	.
+4r}	.
+{8a	Doch
+=9	=9
+4a	trüb
+8g	iſt
+8eL	Jä-
+8f#J	.
+8g	-gers
+=10	=10
+(4a	Au-
+8f#)	.
+4d}	-ge;
+{8dd	was
+=11	=11
+4cc#	ſehlt
+8b	dem
+4a	Wai-
+8g#	-de-
+=12	=12
+(4f#Ss	-mann?
+16.bL	.
+32aJ	.
+4a);}	.
+{8a	Er
+=13	=13
+4a	ſieht
+8f#	den
+4dd	Hirſch
+8cc#	nicht
+=14	=14
+4.cc#	ä-
+4b}	-ſen,
+{16gL	was
+16eJ	.
+=15	=15
+4d	iſt
+8A	wohl
+4f#	Schuld
+8e	da-
+=16	=16
+4d;	-ran?
+8r	.
+4r}	.
+==	==
+!!!AGN: Staende -, Jaeger - Lied; Liebe
+!!!GTL: Jägerlieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Volksweiſe am Rhein und Thüringen.
+!!@@COMMENT:"Gedicht von Franʒ v. Kobell, 1843. Mit anderer Mel. in Jägerlieder von Pocci, Richter
+!!und Scherer (um 1849) und Härtels Lerikon 1864.
+!!Var. im Volksmunde: 1. 1 ʒog ʒu Holʒe. 1. 2 feiſter Hirſch. 2, 2 balʒt. 2, 3 Nun auf.
+!!beglückter Jäger. 3, 1 Ein ſchönes Kind, ein Mägdlein. 3, 5 lieber Waidmann. 3, 7 ſein Herʒ."
+!!@@END:
+!!!Text: F. von Kobell
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n471/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/15/07
+*-	*-

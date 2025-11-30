@@ -1,0 +1,123 @@
+!!!OTL: Neujahrslied. / c. Dritte Lesart.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0529B
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c|)	*
+*clefC3	*
+*k[b-]	*
+*g:dor	*
+=1	=1
+!LO:TX:a:t=dor. tr.	!
+{1G	Je-
+1d	-ſus
+=2	=2
+*lig	*
+2A	iſt
+2B-	.
+*Xlig	*
+*lig	*
+2c	ein
+2d	.
+*Xlig	*
+=3	=3
+1B-	ſüſ-
+1A	-ſer
+=4	=4
+1G	nam,
+2r}	.
+{2G	den
+=5	=5
+2d	ruf-
+2d	-fen
+1e	wir
+=6	=6
+1f	ar-
+1e	-me
+=7	=7
+1d	Sün-
+1c#i	-der
+=8	=8
+1d	an,
+2r}	.
+{2d	dar-
+=9	=9
+1g	-durch
+1e	wir
+=10	=10
+1f	huld
+1d	er-
+=11	=11
+*lig	*
+1c	-lan-
+1B-	.
+*Xlig	*
+=12	=12
+1A	-gen,
+2r}	.
+{2A	vmb
+=13	=13
+1G	all
+2d	vn-
+2d	-ſer
+=14	=14
+*lig	*
+2A	Sünd
+2B-	.
+*Xlig	*
+*lig	*
+2c	be-
+2d	.
+*Xlig	*
+=15	=15
+*lig	*
+1B-	-gan-
+1A	.
+*Xlig	*
+=16	=16
+1G	-gen.
+2r}	.
+!LO:TX:a:t=Anhang.	!
+{2G	Ge-
+=17	=17
+!LO:SIC:o:1f:v	!
+1F#	-nad,
+2G	Herr,
+2G	ge-
+=18	=18
+2A	-nad,
+2d	.
+2c/	.
+4B-	.
+4A	.
+=19	=19
+1G	.
+2r}	.
+{2d	vmb
+=20	=20
+1d	all
+2c	vn-
+2d	-ſer
+=21	=21
+1B-	Miſ-
+1A	-ſe-
+=22	=22
+0G/ll}	-that.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Muenchner Gsgb. 1586 fol 8b.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0708.iview2?x=-2231.2783251231526&y=-79.49162560328841&scale=0.2314709236031927&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/20/03
+*-	*-

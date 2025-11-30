@@ -1,0 +1,80 @@
+!!!OTL: Alter Reihentanz um das erste Veilchen.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0279
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c|)	*
+*clefC4	*
+*k[b-]	*
+*F:ion	*
+=1	=1
+!LO:TX:a:t=jon.	!
+1ryy	.
+2ryy	.
+{2F	Der
+=2	=2
+1c	Mey-
+2c	-e,
+2F	der
+=3	=3
+1c	Mey-
+2c}	-e
+{2e-	bringt
+=4	=4
+2d	vns
+2c	der
+2B-	blůmlein
+2A	.
+=5	=5
+*lig	*
+4B-	vil,
+4c	.
+4d	.
+4B-	.
+2c}	.
+*Xlig	*
+{2A	ich
+=6	=6
+2A	trag
+2A	ein
+2B-	frei
+2B-	ge-
+=7	=7
+1c	-mů-
+2A}	-te,
+{2A	gott
+=8	=8
+2B-	weiß
+2B-	wol
+2c	wem
+2c	ichs
+=9	=9
+*lig	*
+1A	wil,
+2F}	.
+*Xlig	*
+{2F	gott
+=10	=10
+2B-	weiß
+2B-	wol
+2G	wem
+2G	ichs
+=11	=11
+0F/ll}	wil.
+==	==
+!!!GTL: Tanz- und Kranzlieder
+!!!AGN: Romanze, Ballade, Lied
+!! Klieber Vier geistliche Reyenlieder  Nuernberg 1530.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Ionian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0438.iview2?x=-495.6391625615763&y=973.7724138253834&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0012
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/11/03
+*-	*-

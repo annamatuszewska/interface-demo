@@ -1,0 +1,77 @@
+!!!OTL: Guter Rath.
+!!!OTL-incipit: SINGT UND TRINKT
+!!!COM: Volksweise
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0139
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M2/4	*
+*k[f#]	*
+*G:	*
+=1	=1
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{8g	1._Singt
+8a	und
+8b/	trinkt,
+8r	.
+=2	=2
+8b/	trinkt
+8cc/	und
+8dd/	ſingt!
+8r}	.
+=3	=3
+{8ee	Wo
+8ee	ein
+8ee	frei-
+8ee	-es
+=4	=4
+8dd/	Lied
+8cc/	erklingt,
+8b/	.
+8r}	.
+=5	=5
+{8a	wo
+8g	im
+8a	Becher
+8g	.
+=6	=6
+8a	glüht
+8b/	der
+4cc}	Wein,
+=7	=7
+{8b/	kehrt
+8a/	die
+8b/	Freud'
+8a/	am
+=8	=8
+8b/	lieb-
+8cc	-ſten
+4dd}	ein,
+=9	=9
+{4.ee	kehrt
+8ee	die
+=10	=10
+8dd	Freud'
+8cc/	am
+8b/	lieb-
+8a	-ſten
+=11	=11
+4g	ein.
+4r}	.
+==	==
+!!!AGN: Trink - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Volkslieder
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 82
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=90,91
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/26/07
+*-	*-

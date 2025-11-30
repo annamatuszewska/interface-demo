@@ -1,0 +1,28 @@
+ERK
+CUT[ICH WEISS EIN EWIGES HIMMELREICH]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0061D]
+KEY[E0061D  08  F 3/4]
+MEL[1_  1__2_  3__4_  5__5_  3__
+    5_  5__3_  4__3_  2__.  1__
+    5_  2__54  3__2_  1__-7_  -6__
+    -5_  1__34  5_.43_  2__.  1__ //]
+BEM[]
+MEL_SEM[0 2 2 1 2 0 -3 3 0 -3 1 -1 -2 -2 7 -5 5 -2 -1 -2 -2 -1 -2 -2 5 4 1 2 -2 -1 -2 -2]
+MEL_RAW[1  12  34  55  3
+    5  53  43  2  1
+    5  254  32  1-7  -6
+    -5  134  543  2  1]
+NO_REP[123453
+    534321
+    5254321-7-6
+    -513454321]
+RTM[x_  x__x_  x__x_  x__x_  x__
+    x_  x__x_  x__x_  x__.  x__
+    x_  x__xx  x__x_  x__x_  x__
+    x_  x__xx  x_.xx_  x__.  x__]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

@@ -1,0 +1,110 @@
+!!!OTL: Bringt mir Blut der edlen Reben.
+!!!OTL-incipit: BRINGT MIR BLUT DER EDLEN REBEN
+!!!COM: Nach E. M. Arndt
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0500
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M4/4	*
+*k[f#c#]	*
+*D:	*
+=1	=1
+!LO:TX:a:t=Heiter.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{4a	1._Bringt
+4a	mir
+4.dd	Blut
+8a	der
+=2	=2
+4f#	ed-
+4f#	-len
+4.a	Re-
+8f#}	-ben,
+=3	=3
+{2d	bringt
+2e	mir
+=4	=4
+2f#	Wein!
+2r}	.
+=5	=5
+{4dd/	Wie
+4cc#/	ein
+4b/	Frühlingsvo-
+4a	.
+=6	=6
+4.b/	.
+8a/	-gel
+4g	le-
+4f#}	-ben,
+=7	=7
+{4e	in
+4f#	den
+4g	Lüften
+4e	.
+=8	=8
+4.a	will
+8g	ich
+4f#	ſchweben
+4e}	.
+=9	=9
+{2dd/	bei
+2ee/	dem
+=10	=10
+(>4ff#/	Wein,
+2.dd/)}	.
+=11	=11
+{2a	bei
+2cc#	dem
+=12	=12
+2dd/	Wein!
+2r}	.
+=13	=13
+{4dd/	Wie
+4cc#/	ein
+4b/	Frühlingsvo-
+4a/	.
+=14	=14
+4.b/	.
+8a	-gel
+4g	le-
+4f#}	-ben,
+=15	=15
+{4e	in
+4f#	den
+4g	Lüften
+4e	.
+=16	=16
+4.a	will
+8g	ich
+4f#	ſchweben
+4e}	.
+=17	=17
+{2dd/	bei
+2ee/	dem
+=18	=18
+(>4ff#/	Wein,
+2.dd/)}	.
+=19	=19
+{2a	bei
+2cc#	dem
+=20	=20
+2dd/	Wein!
+2r}	.
+==;	==;
+!!!AGN: Studenten -, Trink - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: > = above
+!!!GTL: Studentenlieder
+!!Text: E. M. Arndt
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 317
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=277
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/01/08
+*-	*-

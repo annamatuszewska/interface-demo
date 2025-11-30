@@ -1,0 +1,28 @@
+ERK
+CUT[CHRISTINCHEN GIENG IN GARTEN]
+REG[Europa, Mitteleuropa, Deutschland, Hildesheim]
+TRD[]
+FKT[]
+SIG[E0002D]
+KEY[E0002D  16  F 6/8]
+MEL[-5_  3__3_2_3_2_  1_-5_0__.
+    -5_  3__3_2_3_2_  1_-5_0__.
+    1_  1__1_+1__6_  6_.55_3__
+    3_  3__2_5__4_  4__3_3__ //]
+BEM[]
+MEL_SEM[9 0 -2 2 -2 -2 -5 0 9 0 -2 2 -2 -2 -5 5 0 0 12 -3 0 -2 0 -3 0 0 -2 5 -2 0 -1 0]
+MEL_RAW[-5  33232  1-50
+    -5  33232  1-50
+    1  11+16  6553
+    3  3254  433]
+NO_REP[-532321-50
+    -532321-50
+    1+1653
+    32543]
+RTM[x_  x__x_x_x_x_  x_x_x__.
+    x_  x__x_x_x_x_  x_x_x__.
+    x_  x__x_x__x_  x_.xx_x__
+    x_  x__x_x__x_  x__x_x__]
+SCL_DEG[-5123456+1]
+SCL_SEM[5 2 2 1 2 2 3]
+

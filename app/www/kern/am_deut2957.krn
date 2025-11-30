@@ -1,0 +1,89 @@
+!!!OTL: 764. Neujahrslied.
+!!!COM: F. Mendelssohn
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0764
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[b-e-a-]	*
+*E-:	*
+=1	=1
+!LO:TX:a:t=Sehr getragen.	!
+{4b-	Mit
+4b-	der
+4.ee-	Freu-
+8b-	-de
+=2	=2
+4g	ʒieht
+4a-	der
+2b-}	Schmerʒ
+=3	=3
+{4b-	trau-
+4bn	-lich
+4cc	durch
+4ff	die
+=4	=4
+2ee-	Ʒei-
+2dd}	-ten
+=5	=5
+{4.ee-	ſchwe-
+8cc	-re
+4bn	Stür-
+4g	-me,
+=6	=6
+4.ee-	mil-
+8cc	-de
+4cc	We-
+4bn}	-ſte,
+=7	=7
+{4.cc	ban-
+8a-	-ge
+4g	Sor-
+4c	-gen,
+=8	=8
+4.cc	fro-
+8a-	-he
+4a-	Fe-
+4g}	-ſte
+=9	=9
+{4f	wandeln
+4g	.
+4a-	ſich
+4an	ʒur
+=10	=10
+(4.b-	Sei-
+8cc)	.
+2b-}	-ten,
+=11	=11
+{4bn	wandeln
+4cc	.
+4dd	ſich
+4ee-	ʒur
+=12	=12
+(2e-	Sei-
+4.g	.
+8f)	.
+=13	=13
+2.e-	-ten.
+4r}	.
+==	==
+!!!AGN: Moral - Lied, religioes
+!!!GTL: Religioese Lieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT:"Gedicht von J. P. Hebel (um 1811), von Mendelson 
+!!fuer gem. Chor komponirt."
+!!@@END:
+!!!Text: J. P. Hebel
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n611/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/19/07
+*-	*-

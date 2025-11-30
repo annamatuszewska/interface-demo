@@ -1,0 +1,123 @@
+!!!OTL: 123. Warnung vor dem Elfenreihen.
+!!!ARE: Europa, Mitteleuropa, Deutschland; Norwegen
+!!!SCT: B0123
+!!!TXO: @@NOR
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*M3/4	*
+*clefG2	*
+*k[b-]	*
+*d:	*
+=1	=1
+!LO:TX:a:t=Etwas langſam.	!
+{8.a	Wenn
+16b-/	der
+8g	Lenʒ
+8b-	er-
+4a	-wacht,
+=2	=2
+8.dd	und
+16ff	in
+8.ee	Blüthenpracht
+16dd	.
+4cc#}	.
+=3	=3
+{8.a	An-
+16b-/	-ger,
+8.g	Feld
+16b-	und
+8.a	Hei-
+16cc#	-de
+=4	=4
+4cc#	ſte-
+2dd}	-hen,
+=5	=5
+{8.a	Wenn
+16b-/	im
+8g	grü-
+8b-	-nen
+4a	Wald
+=6	=6
+8.dd	ſü-
+16ff	-ßer
+8.ee	Sang
+16dd	er-
+4cc#}	-ſchallt,
+=7	=7
+{8.a	und
+16b-/	die
+8.g	war-
+16b-	-men
+8.a	Lüf-
+16cc#	-te
+=8	=8
+4cc#	we-
+2dd}	-hen;
+=9	=9
+{8.ee	ſchlin-
+16ff	-get
+8.gg	ſich
+16ee	bei
+8.ff	mit-
+16cc#	-ter-
+=10	=10
+8.dd	-nächt'-
+16ff	-gem
+8.ee	Mon-
+16dd	-denſchein,
+4cc#}	.
+=11	=11
+{8.ee	ſchlin-
+16ff	-get
+8.gg	ſich
+16ee	der
+8.ff	El-
+16cc#	-fen
+=12	=12
+8.dd	Rin-
+16ff	-gel-
+8.ee	-Rin-
+16dd	-gel-
+4cc#}	-Reihn,
+=13	=13
+{8.a	wenn
+16b-/	der
+8g	Lenʒ
+8b-/	er-
+4a	-wacht
+=14	=14
+8.dd	und
+16ff	in
+8.ee	Blü-
+16dd	-thenpracht
+4cc#}	.
+=15	=15
+{8.a	An-
+16b-/	-ger
+8.g	Feld
+16b-/	und
+8.a	Hei-
+16cc#	-de
+=16	=16
+4cc#	ſte-
+2dd}	hen.
+==	==
+!!!AGN: Ballade, Romanze
+!!!GTL: Balladen und Romanzen
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT:"Gedicht von Franʒ Kugler, Skiʒʒenbuch. Berlin, 1830, S. 138. Die Norwegiſche Melodie
+!!ſchon 1794 bekannt, 1818 von C. M. v. Webet ʒu Variationen benutʒt, iſt hier nach Lindemanns
+!!Sammlung, Norske Nationallieder. Chriſtiania 1840 gegeben."
+!!@@END:
+!!Text: F. Kugler
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n129/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/18/06
+*-	*-

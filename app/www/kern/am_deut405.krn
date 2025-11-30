@@ -1,0 +1,136 @@
+!!!OTL: Rundgesang.
+!!!OTL-incipit: GLUECKLICH WER IM HOLDEN BUNDE
+!!!COM: C. G. Hering
+!!!ODT: 1789
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0750
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M3/8	*
+*k[]	*
+*C:	*
+=1	=1
+!LO:TX:a:t=Einer.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{4ee/	1._Glücklich,
+8dd/	.
+=2	=2
+4cc/	wer
+8b/	in
+=3	=3
+8aL	hol-
+8bJ	.
+8cc/	-den
+=4	=4
+4a	Bunde
+8g}	.
+=5	=5
+{4ff	mit
+8dd	der
+=6	=6
+4ee	Göt-
+8cc	-tin
+=7	=7
+4b/	Freude
+8cc/	.
+=8	=8
+4dd	lebt,
+8r}	.
+=9	=9
+{8eeL	dem
+8ffJ	.
+8ee	ſich
+=10	=10
+8eeL	friedlich
+8ddJ	.
+8dd	.
+=11	=11
+8ccL	Stund'
+8ddJ	.
+8cc	an
+=12	=12
+8ccL	Stunde,
+8b-J	.
+8b-}	.
+=13	=13
+{8aL	wie
+8bJ	.
+8cc#	ein
+=14	=14
+8ddL	Kranʒ
+8eeJ	.
+8ff	von
+=15	=15
+(8eeL	E-
+8ffJ)	.
+8dd	-pheu
+=16	=16
+4cc	webt!
+8r}	.
+=17	=17
+!LO:TX:a:t=Alle.	!
+{4cc/	Glücklich,
+8cc/	.
+=18	=18
+4g	wer
+8g	in
+=19	=19
+4ee	ſei-
+8ee	-ner
+=20	=20
+4cc	Brüder
+8cc}	.
+=21	=21
+{4ff	trauli-
+8dd	.
+=22	=22
+4ee	-che
+8cc	Ge-
+=23	=23
+4b/	-ſän-
+8cc	-ge
+=24	=24
+4dd	ſtimmt,
+8r}	.
+=25	=25
+{4ee	und
+8ee	beim
+=26	=26
+4dd	Klang
+8dd	der
+=27	=27
+4ff	Evan-
+8ff	.
+=28	=28
+4ee	-lie-
+8ee}	-der
+=29	=29
+{4aa	feu-
+8aa	-rig
+=30	=30
+4gg	ſei-
+8ee	-nen
+=31	=31
+8ffL	Be-
+8eeJ	.
+8dd	-cher
+=32	=32
+4cc	nimmt.
+8r;}	.
+==	==
+!!!AGN: Geselligkeits -, Trink - Lied, Rundgesang
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Liedertafel- und Gesellschaftslieder
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 513
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=464
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/08
+*-	*-

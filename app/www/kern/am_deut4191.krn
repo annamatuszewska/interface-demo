@@ -1,0 +1,69 @@
+!!!OTL: Der Bauer ins Holz./ a. Melodie in alter Form. 1536.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0472A
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c|)	*
+*clefC4	*
+*k[]	*
+*D:dor	*
+!LO:TX:a:t=dor.	!
+{2D	[Ach]
+=1	=1
+2D	Fraw-
+2D	-e,
+2A	lieb-
+2B	-ſte
+=2	=2
+1c	Fraw-
+2B}	-e,
+{2A	vnd
+=3	=3
+2d	wo
+2A	iſt
+2A	eu-
+*lig	*
+4G	-er
+4F	.
+*Xlig	*
+=4	=4
+2E	Mau,
+2E	Mau,
+2E}	Man?
+{2D	Er
+=5	=5
+2D	iſt
+2D	wol
+2A	in
+2B	die
+=6	=6
+1c	kir-
+2B}	-chen
+{2A	vnd
+=7	=7
+2A/	bet
+2G	die
+2F	heyl-
+2E	-gen
+=8	=8
+2D	au,
+2D	au,
+!LO:TX:a:t=P:1r in the source:problem	!
+!LO:N:vis=1	!
+2D}	an?
+==	==
+!!!GTL: Scherz-, Spott- und Schandlieder
+!!!AGN: Romanze, Ballade, Lied
+!! Pet. Schoeffer II 1536 No. 56.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0659.iview2?x=-1272.8135649766991&y=849.3885948960669&scale=0.3197610882076923&rotation=0&layout=singlePageLayout&logicalDiv=log_0018
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/19/03
+*-	*-

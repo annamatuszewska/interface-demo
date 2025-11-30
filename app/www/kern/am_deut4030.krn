@@ -1,0 +1,142 @@
+!!!OTL: Der lustige Bauer.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0306
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/2; 3/2
+*M4/2	*
+*met(c|)	*
+*clefC4	*
+*k[b-]	*
+*F:ion	*
+=1	=1
+!LO:TX:a:t=jon. F.	!
+!LO:N:vis=00	!
+0ryy	.
+=2	=2
+{2.c	Bau-
+4c	-er,
+2.c	bau-
+4c	-er,
+=3	=3
+2c	was
+1c	tregſt
+2d	im
+=4	=4
+1c	ſa-
+!LO:TX:a:t=P:unclear beginning of the next repetition:problem	!
+1F}	-cke?
+=5	=5
+{2.c	Bau-
+4c	-er,
+2.c	bau-
+4c	-er,
+=6	=6
+2c	was
+1c	tregſt
+2d	im
+=7	=7
+1c	ſa-
+!LO:TX:a:t=P:unclear beginning of the next repetition:problem	!
+1F}	-cke?
+=8||	=8||
+{1r	.
+1F	nichts,
+=9	=9
+1F	nichts,
+2F	denn
+*lig	*
+1F	keß
+=10-	=10-
+.	.
+2E	.
+*Xlig	*
+2D	und
+2D	butter.
+=11	=11
+0C}	.
+=12	=12
+{1r	.
+1F	nichts,
+=13	=13
+1F	nichts,
+2F	denn
+*lig	*
+1F	keß
+=14-	=14-
+.	.
+2E	.
+*Xlig	*
+2D	und
+2D	butter.
+=15	=15
+0C}	.
+=16	=16
+*M3/2	*
+*met(C|3)	*
+!LO:N:vis=0	!
+{1F	Solt
+!LO:N:vis=1	!
+2C	der
+=17	=17
+!LO:N:vis=0	!
+1F	baur
+!LO:N:vis=1	!
+2G	nit
+=18	=18
+!LO:N:vis=0.	!
+1.A	vol
+=19	=19
+!LO:N:vis=0.	!
+1.G}	ſein,
+=20||	=20||
+!LO:N:vis=0	!
+{1F	trink
+!LO:N:vis=1	!
+2C	er
+=21	=21
+!LO:N:vis=0	!
+1F	nichts
+!LO:N:vis=1	!
+2G	denn
+=22	=22
+!LO:N:vis=0	!
+1A	ků-
+!LO:N:vis=1	!
+2B-	-len
+=23	=23
+!LO:N:vis=0	!
+1c}	wein:
+!LO:N:vis=1	!
+{2c	pfeiff
+=24	=24
+!LO:N:vis=0	!
+1B-	auff,
+!LO:N:vis=1	!
+2A	der
+=25	=25
+!LO:N:vis=0	!
+1B-	baur
+!LO:N:vis=1	!
+2G	wil
+=26	=26
+!LO:N:vis=0.	!
+1.F	tan-
+=27	=27
+1.F/ll}	-tʒen!
+==	==
+!!!GTL: Tanz- und Kranzlieder
+!!!AGN: Romanze, Ballade, Lied
+!! 68 Lieder. Nuernberg 1542 bei Berg und Newber. No. 10.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Ionian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0461.iview2?x=-495.6391625615763&y=1550.5187192354351&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0012
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/12/03
+*-	*-

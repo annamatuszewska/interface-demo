@@ -1,0 +1,92 @@
+!!!OTL: Das Geleite.
+!!!OTL-incipit:WAS KLINGET UND SINGET DIE STRASSEN HERAUF
+!!!COM: G. W. Fink
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0212
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text	**text	**text
+*ICvox	*	*	*
+*clefG2	*	*	*
+*M6/8	*	*	*
+*k[b-]	*	*	*
+*F:	*	*	*
+!LO:TX:a:t=Nach den Strophen.	!	!	!
+!LO:TX:a:t=Dreiſtimmig ohne, einſtimmig mit Begleitung.	!	!	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!	!	!
+{8f	1._Was	2._Wohl	3._Wohl
+=1	=1	=1	=1
+[>8f	klin-	jauchʒen	klingen
+8f]	-get	.	.
+8f	und	die	die
+[>8a	ſin-	Andern	Kannen,
+8a]	-get	.	.
+8a	die	und	wohl
+=2	=2	=2	=2
+[8cc	Straßen	ſchwingen	funkelt
+8cc]	.	.	.
+8cc/	herauf?	die	der
+4a}	.	Hüt',	Wein:
+{8f	Jhr	viel	trinkt
+=3	=3	=3	=3
+4dd/	Jungfrau'n,	Bänder	aus
+8dd/	.	dar-	und
+(8ff	machet	-auf	trinkt
+8ee)	.	und	wieder,
+8dd	die	viel	lieb
+=4	=4	=4	=4
+[8cc	Fen-	ed-	Bru-
+8cc]	.	-le	.
+8cc/	-ſter	Blüth':	-der
+4a}	auf!	doch	mein!
+{8cc	Es	dem	"Mit_dem
+=5	=5	=5	=5
+(8cc/	1._ʒiehet	2._Burſchen	Ab-
+8g)	.	.	.
+8g	der	gefällt	-ſchiedswei-
+8g	Burſch	.	.
+8a	in	nicht	-ne
+8b-/	die	die	mir
+=6	=6	=6	=6
+4.a	Weite,	Sit-	flie-
+8cc/	.	-te,	-het,
+8r}	.	.	.
+{8cc/	ſie	geht	was
+=7	=7	=7	=7
+(8cc/	geben	ſtill	darinnen
+8g)	.	.	.
+8g	ihm	und	im
+(>8g	das	bleich	Herʒen
+8a)	.	in	.
+8b-/	Ge-	der	.
+=8	=8	=8	=8
+4.a	-lei-	Mit-	glühet,
+8cc/	-te.	-te,	.
+8r}	.	.	.
+{8cc/	ſie	geht	was
+=9	=9	=9	=9
+(8cc/	geben	ſtill	darinnen
+8a)	.	.	.
+8b-/	ihm	und	im
+4cc/	das	bleich	Herʒen
+8ff/	Ge-	in_der	mir
+=10	=10	=10	=10
+4.ee/	-leite.	Mitte.	glühet!"
+8ff/	.	.	.
+8r;}	.	.	.
+==	==	==	==
+!!!AGN: Abschieds - Lied, Liebe
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: > = above
+!!!GTL: Volkslieder
+!!Text: L. Uhland
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 123
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=130,131
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/07/29
+*-	*-	*-	*-

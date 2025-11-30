@@ -1,0 +1,84 @@
+!!!OTL: Schwimmersage.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0025
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/2	*
+*met(C|3)	*
+*clefC1	*
+*k[b-]	*
+*g:dor	*
+!LO:TX:a:t=dor.	!
+=1	=1
+2ryy	.
+2ryy	.
+{2g	Es
+=2	=2
+1g	warp
+2b-	ein
+=3	=3
+1a	ſchö-
+2g	-ner
+=4	=4
+*lig	*
+2.a	jun-
+4b-	.
+2cc	-ge-
+*Xlig	*
+=5	=5
+!LO:TX:a:t=?	!
+1cc}	-lingk
+{2dd	ü-
+=6	=6
+1cc	-ber
+2a	ein
+=7	=7
+2b-	brei-
+1a	-ten
+=8	=8
+!LO:TX:a:t=?	!
+1.g	ſee
+=9	=9
+2r	.
+2r}	.
+{2f	vmb
+=10	=10
+1a	ei-
+2b-	-nes
+=11	=11
+1cc	kö-
+2b-	-nigs
+=12	=12
+*lig	*
+2.g	toch-
+4a	.
+2b-	.
+*Xlig	*
+=13	=13
+1a}	-ter,
+{2g	nach
+=14	=14
+2f	leid
+1d	ge-
+=15	=15
+1g	-ſchach
+2f#i	ihm
+=16	=16
+1.gll}	wee.
+==	==
+!!!GTL: Balladen und Romanzen (erzählende Volkslieder)
+!!!AGN: Romanze, Ballade, Lied
+!! Melodie und Text bei Forster II. 1540 No. 49
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0166.iview2?x=-2091.770685579196&y=-236.35460992879234&scale=0.2411630558722919&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/19/02
+*-	*-

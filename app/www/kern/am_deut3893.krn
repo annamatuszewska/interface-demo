@@ -1,0 +1,122 @@
+!!!OTL: Jahreszeiten und Liebe.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0151A
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/2	*
+*met(C|3)	*
+*clefC1	*
+*k[b-]	*
+*g:dor	*
+=1	=1
+!LO:TX:a:t=dor. tr. (moll.)	!
+2ryy	.
+2ryy	.
+!LO:N:vis=1	!
+{2g	Der
+=2	=2
+!LO:N:vis=0	!
+1g	fa-
+!LO:N:vis=1	!
+2g	-ſtel-
+=3	=3
+!LO:N:vis=0	!
+1dd	-a-
+!LO:N:vis=1	!
+2dd	-bend
+=4	=4
+*lig	*
+!LO:N:vis=1.	!
+2.dd	trit
+!LO:N:vis=2	!
+4cc	.
+*Xlig	*
+!LO:N:vis=1	!
+2b-	her-
+=5	=5
+!LO:N:vis=0	!
+1a}	-an,
+!LO:N:vis=1	!
+{2g	es
+=6	=6
+!LO:N:vis=0	!
+1cc	len-
+!LO:N:vis=1	!
+2cc	-gen
+=7	=7
+!LO:N:vis=0	!
+1dd	ſich
+!LO:N:vis=1	!
+2cc	die
+=8	=8
+!LO:TX:a:t=P:coloured notes m. 8:problem	!
+2b-	ta-
+1a	.
+=9	=9
+!LO:N:vis=0	!
+1g}	-ge,
+!LO:N:vis=1	!
+{2g	mein
+=10	=10
+!LO:N:vis=0	!
+1a	lieb
+!LO:N:vis=1	!
+2a	bot
+=11	=11
+!LO:N:vis=0	!
+1a	mir
+!LO:N:vis=1	!
+2cc	ein
+=12	=12
+!LO:N:vis=0	!
+1b-	kren-
+!LO:N:vis=1	!
+2a	-ʒe-
+=13	=13
+!LO:N:vis=0	!
+1g}	-lein,
+!LO:N:vis=1	!
+{2b-	von
+=14	=14
+!LO:N:vis=0	!
+1a	per-
+!LO:N:vis=1	!
+2g	-len
+=15	=15
+!LO:N:vis=0	!
+1f#i	fein,
+!LO:N:vis=1	!
+2g	das
+=16	=16
+!LO:N:vis=0	!
+1a	ſolt
+!LO:N:vis=1	!
+2a	ich
+=17	=17
+!LO:N:vis=0	!
+1dd	lu-
+!LO:N:vis=1	!
+2cc	-ſtig
+=18	=18
+!LO:TX:a:t=P:coloured notes m. 18:problem	!
+2b-	tra-
+1a	.
+=19	=19
+1.g\ll}	-gen.
+==	==
+!!!GTL: Liebeslieder
+!!!AGN: Romanze, Ballade, Lied
+!! Praetorius, Mus. Sion. VII. 1609 No. 239
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0319.iview2?x=-2231.2783251231526&y=-179.72019706643187&scale=0.2314709236031927&rotation=0&layout=singlePageLayout&logicalDiv=log_0009
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/26/02
+*-	*-

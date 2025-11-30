@@ -1,0 +1,94 @@
+!!!OTL: Von einem stolzen Dirnelein. / (Mel.: "Ich weiss nit was der Lilgen brist.")
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0201A
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  3/2; 4/2
+*M3/2	*
+*met(3)	*
+*clefC4	*
+*k[b-]	*
+*F:ion	*
+=1	=1
+!LO:TX:a:t=jon. F	!
+{2F	Jch
+2F	ſing
+2F	ein
+=2	=2
+1c	Lied
+2A	vnd
+=3	=3
+1B-	weiß
+2G	nit
+=4	=4
+1.A}	wie,
+=5	=5
+{2F	von
+2F	ei-
+2F	-nem
+=6	=6
+1c	Mann
+2A	der
+=7	=7
+1B-	iſt
+2G	nit
+=8	=8
+1A}	hie,
+{2F	er
+=9	=9
+*M4/2	*
+*met(c|)	*
+2F	iſt
+2F	in
+!LO:TX:a:t=*	!
+2F	frembde
+2F	.
+=10	=10
+1F	Lan-
+2G}	-de:
+{2A/	Er
+=11	=11
+*M3/2	*
+*met(3)	*
+1B-	barf
+2G	nit
+=12	=12
+1F	mehr
+2A	ʒu
+=13	=13
+1B-	uns
+2G	da-
+=14	=14
+1F}	-her,
+{2F	iſt
+=15	=15
+*M4/2	*
+*met(c|)	*
+2A	ihm
+2A	ein
+!LO:TX:a:t=**	!
+2B-	gro-
+2B-	-ße
+=16	=16
+1c	ſchan-
+2B-	-de,
+2A	ja
+=17	=17
+1G	ſchande.
+1F/ll}	.
+==	==
+!!!GTL: Liebeslieder
+!!!AGN: Romanze, Ballade, Lied
+!! J Werlin Hs. 1646 S. 234.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Ionian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0356.iview2?x=-495.6391625615763&y=1944.5195030933246&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0009
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/07/03
+*-	*-

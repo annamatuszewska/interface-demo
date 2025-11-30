@@ -1,0 +1,28 @@
+ERK
+CUT[ES JUG EIN JAEGER WILD UND SCHWEIN]
+REG[Europa, Mitteleuropa, Deutschland, Frankfurt, Odenthal]
+TRD[]
+FKT[]
+SIG[E0019G]
+KEY[E0019G  16  F 4/4]
+MEL[13  5__3__+1__6__  5__5_4_3___
+    3__3__5__3__  3__2__2___
+    1_2_3__2_2_2__  1__+1__5___
+    3_3_3__5__5_4_  3___0__. //]
+BEM[]
+MEL_SEM[4 3 -3 8 -3 -2 0 -2 -1 0 0 3 -3 0 -2 0 -2 2 2 -2 0 0 -2 12 -5 -3 0 0 3 0 -2 -1]
+MEL_RAW[13  53+16  5543
+    3353  322
+    123222  1+15
+    333554  30]
+NO_REP[1353+16543
+    3532
+    12321+15
+    35430]
+RTM[xx  x__x__x__x__  x__x_x_x___
+    x__x__x__x__  x__x__x___
+    x_x_x__x_x_x__  x__x__x___
+    x_x_x__x__x_x_  x___x__.]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

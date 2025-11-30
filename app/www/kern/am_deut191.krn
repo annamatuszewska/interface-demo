@@ -1,0 +1,119 @@
+!!!OTL: Morgenlied.
+!!!OTL-incipit:DIE DUNKELN SCHATTEN FLIEHEN
+!!!COM: C. G. Glaeser
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0339
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+!! Mixed meters:  4/4; 3/4
+*M4/4	*
+*met(c)	*
+*k[f#c#g#]	*
+*A:	*
+!LO:TX:a:t=Ʒu Ʒweien.	!
+!LO:TX:a:t=Ernſt gemüthlich.	!
+!LO:TX:a:t=Ʒweu- und dreiſtimmih ohne, einſtimmig mit begleitung.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{4e	1._Die
+=1	=1
+4a	dunkeln
+4b/	.
+4cc#	Schatten
+4dd	.
+=2	=2
+4ee	fliehen,
+4cc#	.
+4r}	.
+{4ee	der
+=3	=3
+4ff#	Morgenhimmel
+4ee	.
+4dd	.
+4cc#	.
+=4	=4
+2b	glänʒt,
+4r}	.
+{4e	der
+=5	=5
+4a	Berge
+4b/	.
+4cc#/	Spitʒen
+4dd	.
+=6	=6
+4ee	glühen,
+4cc#	.
+4r}	.
+{4ee	vom
+=7	=7
+4ee	jungen
+4dd	.
+4cc#	Licht
+4b/	um-
+=8	=8
+2a	-kränʒt
+2r}	.
+=9	=9
+*M3/4	*
+!LO:TX:a:t=Alle.	!
+!LO:TX:a:t=Etwas langſamer.	!
+{4a	Sei
+4a	uns
+4a	ge-
+=10	=10
+2dd/	-grüßt,
+4dd/	du
+=11	=11
+(>4ee/	hol-
+4dd/)	.
+4ee/	-des
+=12	=12
+2ff#/}	Licht!
+{4a	du
+=13	=13
+(>4a	ſäu-
+4ff#/)	.
+4ff#/	-meſt,
+=14	=14
+(>4ee/	doch
+4dd/)	.
+4cc#/	ver-
+=15	=15
+(>4b/	-läßt
+4cc#/)	.
+4dd/	uns
+=16	=16
+2cc#/}	nicht,
+{4cc#/	du
+=17	=17
+2ee/	ſäu-
+4cc#/	-meſt,
+=18	=18
+(>4ee/	doch
+4dd/)	.
+4cc#/	ver-
+=19	=19
+(>4b/	-läßt
+4cc#/)	.
+4b/	uns
+=20	=20
+2a	nicht.
+4r}	.
+==	==
+!!!AGN: Jugend - Lied, Tageszeiten, Morgen, religioes
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: > = above
+!!Text: Nach Friedr. Adolph Krummacher
+!!!GTL: Jugendlieder
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 200
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=198,199
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/07/30
+*-	*-

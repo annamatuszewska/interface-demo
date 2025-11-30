@@ -1,0 +1,83 @@
+!!!OTL: Lichtmessgesang.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0600
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c|)	*
+*clefC4	*
+*k[b-]	*
+*G:dor	*
+=1	=1
+!LO:TX:a:t=dor. tr.	!
+1ryy	.
+2ryy	.
+{2A	Jn
+=2	=2
+1A	Got-
+1A	-tes
+=3	=3
+1c	Na-
+1B-	-men
+=4	=4
+2A	he-
+2B-	-ben
+1c	wir
+=5	=5
+1B-	an,
+2r}	.
+{2B-	der
+=6	=6
+1A	al-
+1G	-le
+=7	=7
+*lig	*
+2A/	ding
+2G	.
+*Xlig	*
+*lig	*
+2F	er-
+2E	.
+*Xlig	*
+=8	=8
+*lig	*
+2D	-hal-
+2E	.
+*Xlig	*
+1F#	-ten
+=9	=9
+*	*^
+1G	kan.	Oder:
+2r}	.	.
+{2G	Ge-	Wir
+=10	=10	=10
+2D	-lo-	lo-
+2E	-bet	-ben
+1F#	ſei	Gott
+=11	=11	=11
+1.G	Gott	ſchon
+2c	vnd	in
+=12	=12	=12
+2B-	vn-	ſei-
+2B-	-ſer	-nem
+2A	lie-	höchſten
+2A	-be	.
+=13	=13	=13
+0G/ll}	Fraw!	Thron.
+*	*v	*v
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Beuttner 1602 II No. 82.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0781.iview2?x=143.2775742772492&y=1911.0615873918869&scale=0.7052832894250849&rotation=0&layout=singlePageLayout&logicalDiv=log_0021
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/22/03
+*-	*-

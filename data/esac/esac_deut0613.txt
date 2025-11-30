@@ -1,0 +1,28 @@
+ERK
+CUT[ALS SCHONDILG NOCH EIN KLEIN KIND WAR]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein]
+TRD[]
+FKT[]
+SIG[E0041A]
+KEY[E0041A  08  E 3/4]
+MEL[-7b3b4  5_.6b54  3b_.
+    -7b3b4  5_.6b54  3b_.
+    212  3b_453b2  1_.
+    212  3b_453b2  1_. //]
+BEM[]
+MEL_SEM[5 2 2 1 -1 -2 -2 -5 5 2 2 1 -1 -2 -2 -1 -2 2 1 2 2 -4 -1 -2 2 -2 2 1 2 2 -4 -1 -2]
+MEL_RAW[-7b3b4  56b54  3b
+    -7b3b4  56b54  3b
+    212  3b453b2  1
+    212  3b453b2  1]
+NO_REP[-7b3b456b543b
+    -7b3b456b543b
+    2123b453b21
+    2123b453b21]
+RTM[xxx  x_.xxx  x_.
+    xxx  x_.xxx  x_.
+    xxx  x_xxxx  x_.
+    xxx  x_xxxx  x_.]
+SCL_DEG[-7b123b456b]
+SCL_SEM[2 2 1 2 2 1]
+

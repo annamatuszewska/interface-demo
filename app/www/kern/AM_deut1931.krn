@@ -1,0 +1,103 @@
+!!!Xfilter:transpose -t P8
+!!!OTL: 1594. Abschied des Handwerksgesellen.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: E1594
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M4/4	*
+*met(c)	*
+*k[f#c#]	*
+*D:	*
+!LO:TX:a:t=Mäßig.	!
+!LO:TX:a:t=Bei Silcher 11, Nr. 11.	!
+{4a	A-
+=1	=1
+4dd	-de,
+4d	du
+4f#	lie-
+4a	-bes
+=2	=2
+(4.dd	Städt-
+8b)	.
+4a}	-chen!
+{4a	a-
+=3	=3
+4b	-de,
+4b	ihr
+8bL	lie-
+8cc#J	.
+8ddL	-ben
+8bJ	.
+=4	=4
+(8aL	Mäd-
+8g	.
+8f#	.
+8gJ)	.
+4a}	-chen!
+{4dd	von
+=5	=5
+4d	euch
+4e	muß
+4f#	ich
+4g	jetʒt
+=6	=6
+8aL	fort,
+8g#J	.
+8aL	fort,
+8bJ	.
+4a}	fort
+{4dd	an
+=7	=7
+2b	ei,
+4r	.
+4ee	an
+=8	=8
+2cc#	ei,
+4r	.
+4gg	an
+=9	=9
+4ff#	ei-
+8ggL	-nen
+8eeJ	.
+4dd	an-
+4cc#	-dern
+=10	=10
+2dd}	Ort,
+{2dd^	an
+=11	=11
+8b	ei-
+8b	-nen
+8b	andern
+8b	.
+4b	Ort,
+4ee	an
+=12	=12
+8cc#	ei-
+8a	-nen
+8a	andern
+8a	.
+4a}	Ort,
+{4gg	an
+=13	=13
+4ff#	ei-
+8ggL	-nen
+8eeJ	.
+4dd	an-
+4cc#	-dern
+=14	=14
+2dd	Ort.
+4r}	.
+==	==
+!!!AGN: Staende -, Handwerker -, Gesellen - Lied; Abschied, Wanderschaft
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Staendelieder (Berufslieder). 8. Handwerkerlieder.
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn745177999/iview2/phys_0423.iview2?x=-2.183608997567262&y=111.09606091491878&scale=0.6468447934588498&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/08/01
+*-	*-

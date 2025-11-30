@@ -1,0 +1,76 @@
+!!!OTL: Der Boehmische Wind.
+!!!OTL-incipit: ICH HAB MIR MEIN WAIZEN AM BERG GESAET
+!!!COM: Volksweise
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0155
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M3/8	*
+*k[]	*
+*C:	*
+=1	=1
+!LO:TX:a:t=Munter, doch nicht ʒu ſchnell.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{8c	1._Jch_hab'
+8e	mir
+8g	mein'n
+=2	=2
+8.cc/	Waiʒen
+16cc	.
+8a	am
+=3	=3
+8.a	Berg'
+16g	ge-
+8g	-ſä't,
+=4	=4
+8.a	Berg'
+16g	ge-
+8g}	-ſä't,
+=5	=5
+{8e	hat
+8e	mir'n
+8e	der
+=6	=6
+4g	Böhm'ſche
+8d	.
+=7	=7
+8.f	Wind
+16e	verweht,
+8e	.
+=8	=8
+8.f	Wind
+16e	verweht,
+8e}	.
+=9	=9
+{8c	hat
+8e	mir'n
+8g	der
+=10	=10
+4cc/	Böhm'ſche
+8ee	.
+=11	=11
+4dd/	Wind
+8b/	ver-
+=12	=12
+4cc/	weht.
+8r}	.
+==	==
+!!!AGN: Moral - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL:Volkslieder
+!!Text: Volkslied
+!!@@COMMENT:"Anmerk. Die übrigen Strophen, die bunt unter einander noch angegeben werden, habe ich nie vom Volke ſingen gehört."
+!!@@END:
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 91
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=98,99
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/26/07
+*-	*-

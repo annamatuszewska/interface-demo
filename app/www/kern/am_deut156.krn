@@ -1,0 +1,108 @@
+!!!OTL: Glockenruf.
+!!!OTL-incipit:RUFEN NICHT DIE GLOCKENTOENE
+!!!COM: L. Breul
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0292
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M6/8	*
+*k[b-e-a-]	*
+*E-:	*
+=1	=1
+!LO:TX:a:t=Gehend.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{4g	1._Ru-
+8e-	-fen
+4g	nicht
+8e-	die
+=2	=2
+4b-	Glocken-
+8g	.
+4b-	-tö-
+8g}	-ne
+=3	=3
+{4f	Komm,
+8r	.
+4.b-	o
+=4	=4
+4g	komm!
+8r	.
+4r	.
+8r}	.
+=5	=5
+{4g	Er-
+8e-	-den-
+4b-	-töchter,
+8g	.
+=6	=6
+4an	Er-
+8f	-den-
+4cc	-ſöh-
+8a}	-ne,
+=7	=7
+{4.b-	wer-
+4.f	-det
+=8	=8
+4d	fromm!
+8r	.
+4r	.
+8r}	.
+=9	=9
+{4ee-	Mächtig
+8b-	.
+4b-	tö-
+8g	-nen
+=10	=10
+8fL	ſie
+8gJ	.
+8a-	her-
+4g	-nie-
+8e-}	-der;
+=11	=11
+{8dL	tief
+8e-J	.
+8f	im
+4e-	Herʒen
+8e-	.
+=12	=12
+4cc	hallt
+8cc	es
+4b-	wieder
+8a-}	.
+=13	=13
+{4g	Kindlein,
+8e-	.
+4b-	wandle
+8g	.
+=14	=14
+4ee-	fromm!
+8r	.
+4r	.
+8r}	.
+=15	=15
+{4b-	Kindlein,
+8g	.
+4a-	wandle
+8f	.
+=16	=16
+4e-	fromm!
+8r	.
+4r	.
+8r}	.
+==	==
+!!!AGN: Jugend - Lied, religioes
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Jugendlieder
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 175
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=172,173
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/07/30
+*-	*-

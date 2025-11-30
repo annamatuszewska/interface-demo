@@ -1,0 +1,106 @@
+!!!OTL: Liebeslied. / B. Sterbelied.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0220C
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c|)	*
+*clefC1	*
+*k[]	*
+*e:phr	*
+=1	=1
+!LO:TX:a:t=phryg.	!
+{1e	Herʒ-
+1a	-lich
+=2	=2
+2g/	thut
+1f	mich
+2e	ver-
+=3	=3
+1d	-lan-
+1e}	-gen
+=4	=4
+{1b	nach
+1cc	ei-
+=5	=5
+2cc	-nem
+1b	ſel-
+!LO:TX:a:t=P:1b in the source:problem	!
+!LO:N:vis=1	!
+2b	-gen
+=6	=6
+0a}	End
+=7	=7
+{1e	Weil
+1a	ich
+=8	=8
+2g/	hier
+1f	bin
+2e	ge-
+=9	=9
+1d	-fan-
+1e}	-gen,
+=10	=10
+{1b	mit
+1cc	Trübſal
+=11	=11
+2cc	.
+1b	und
+!LO:TX:a:t=P:1b in the source:problem	!
+!LO:N:vis=1	!
+2b	E-
+=12	=12
+1a	-lend;
+2r}	.
+{2cc	ich
+=13	=13
+2b	hab
+2a	Luſt
+2a	ab-
+2b	-ʒu-
+=14	=14
+1cc	-ſchei-
+2cc}	-den
+{2g	von
+=15	=15
+2a	die-
+2g	-ſer
+2a	ar-
+2f	-gen
+=16	=16
+0e}	Welt,
+=17	=17
+{1cc	ſehn
+1b	mich
+=18	=18
+2dd	nach
+1cc	ew-
+2b	-gen
+=19	=19
+1a	Freu-
+1b}	-den,
+=20	=20
+{1e	o
+1f	Je-
+=21	=21
+2e	-ſu
+1d	komm
+2d	nur
+=22	=22
+0e/ll;}	bald.
+==	==
+!!!GTL: Liebeslieder
+!!!AGN: Romanze, Ballade, Lied
+!! Herm. Schein, in Scheins Gesangbuch 1627
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Phrygian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0376.iview2?x=-891.612634679675&y=1800.7033938001841&scale=0.3769446600792666&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/03
+*-	*-

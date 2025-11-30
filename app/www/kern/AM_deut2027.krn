@@ -1,0 +1,59 @@
+!!!OTL: 1752. Der Fink ist todt. / [Altes Scherzlied zur Faschingszeit.]
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: E1752A
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M4/4	*
+*met(c|)	*
+*k[b-]	*
+*F:	*
+=1	=1
+!LO:TX:a:t=Canon ʒu 3 Stimmen, mit begleitendem Baß.	!
+{2cc	Hey,
+4a	Mutter,
+8a	.
+8a	der
+=2	=2
+4g	Fink
+4g	iſt
+2f}	todt!
+=3	=3
+{4g	Hätt
+8g	ihr
+8g	dem
+8a	Fin-
+8a	-ken
+4a	ʒu
+=4	=4
+8cc	trin-
+8cc	-ken
+4cc	ge-
+4a	-ge-
+4a}	-ben,
+=5	=5
+{8g	wä-
+8g	-re
+4g	der
+8f	Fin-
+8f	-ke
+4f	ge-
+=6	=6
+8g	-blie-
+8g	-ben
+4g	am
+4a	Le-
+4a}	-ben.
+==	==
+!!!AGN: Scherz - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Scherz-, Spiel- und Spottlieder.
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn745177999/iview2/phys_0541.iview2?x=-449.8344612962892&y=224.46847155853175&scale=0.47549036216460333&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/08/01
+*-	*-

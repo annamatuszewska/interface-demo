@@ -1,0 +1,138 @@
+!!!OTL: Der Wein ist Goldes werth.
+!!!OTL-incipit: DER WEIN DER WEIN IST GOLDES WERTH
+!!!COM: Ae. Kunzen
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0724
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[]	*
+*C:	*
+!LO:TX:a:t=Vergügt.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{8g	1._Der
+=1	=1
+4.g	Wein,
+8cc/	der
+4.cc/	Wein
+8ee/	iſt
+=2	=2
+(8ee/L	Gol-
+8ddJ)	.
+(8cc/L	-des
+8bJ)	.
+4cc/}	werth,
+{4ee	er
+=3	=3
+(8eeL	lin-
+8ddJ)	.
+(8ccL	-dert
+8bJ)	.
+8b/L	al-
+8aJ	.
+8gL	-le
+8f#J	.
+=4	=4
+2a	Schmerʒen;
+4g	.
+8r}	.
+{8g	er
+=5	=5
+4.g	macht
+8cc/	den
+4.cc/	Dummen
+8ee//	.
+=6	=6
+(8ee/L	oft
+8ddJ)	.
+(8cc/L	gelehrt,
+8bJ)	.
+4cc/}	.
+{4ee	und
+=7	=7
+(8eeL	beſ-
+8ddJ)	.
+(8ccL	-ſert
+8bJ)	.
+8b/L	bö-
+8aJ	.
+8gL	-ſe
+8f#J	.
+=8	=8
+2a	Her-
+4g	-ʒen;
+8r}	.
+!LO:TX:a:t=das ʒweite Mal Alle.	!
+{8dd	gießt
+=9	=9
+4.dd	Feu-
+8cc	-er
+(8ccL	in
+8bJ)	.
+(8a\L	des
+8gJ)	.
+=10	=10
+8gL	Al-
+8aJ	.
+8gL	-ten
+8fJ	.
+4e}	Blut,
+{4cc	und
+=11	=11
+4a	macht
+4cc/	den
+4g	Menſchen
+4cc/	.
+=12	=12
+8ee/L	froh
+8ddJ	.
+8cc/L	und
+8bJ	.
+4cc/	gut.
+8r}	.
+{8dd	gießt
+=13	=13
+4.dd	Feu-
+8cc	-er
+(8ccL	in
+8bJ)	.
+(8a\L	des
+8gJ)	.
+=14	=14
+8gL	Al-
+8aJ	.
+8gL	-ten
+8fJ	.
+4e}	Blut,
+{4cc	und
+=15	=15
+4a	macht
+4cc/	den
+4g	Menſchen
+4cc/	.
+=16	=16
+8ee/L	froh
+8ddJ	.
+8cc/L	und
+8bJ	.
+4cc/	gut.
+8r}	.
+==	==
+!!!AGN: Geselligkeits -, Trink - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: > = above
+!!!GTL: Liedertafel- und Gesellschaftslieder
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 494
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=445
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/05
+*-	*-

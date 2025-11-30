@@ -1,0 +1,174 @@
+!!!OTL: Frau Fischerin.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0045
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/1	*
+*met(3)	*
+*clefC3	*
+*k[b-]	*
+*d:	*
+=1	=1
+!LO:TX:a:t=Mod. ? 1)	!
+{1d	Jch
+1d	weiß
+1d	ein
+=2	=2
+1.f	hüp-
+2e	-ſche
+1d	fraw
+=3	=3
+!LO:TX:a:t=P:coloured note:problem	!
+1e	ſi-
+!LO:TX:a:t=P:coloured note:problem	!
+0f	-ſche-
+=4	=4
+0g}	-rin,
+{1g	die
+=5	=5
+*lig	*
+1f	fur
+1e	.
+*Xlig	*
+1d	wol
+=6	=6
+1c#i	v-
+0d	-ber
+=7	=7
+0.e}	ſee,
+=8	=8
+{1d	Mit
+1d	i-
+1d	-rem
+=9	=9
+1.f	klei.
+2e	.
+1d	-nen
+=10	=10
+!LO:TX:a:t=P:coloured note:problem	!
+1e	ſchif-
+!LO:TX:a:t=P:coloured note:problem	!
+0f	-fe-
+=11	=11
+0g}	-lein,
+{1g	nach
+=12	=12
+*lig	*
+1f	fi-
+1e	.
+*Xlig	*
+1d	-ſchen
+=13	=13
+1c#i	was
+0d	ie
+=14	=14
+0e}	we.
+!LO:TX:a:t=P:in source two rests 2r:problem	!
+!LO:TX:a:t=2)	!
+{1d	Und
+=15	=15
+0d	ſie
+1d	fur
+=16	=16
+0B-	hin
+1B-	und
+=17	=17
+*lig	*
+0c	wi-
+1B-	-der
+*Xlig	*
+=18	=18
+0A}	her,
+{1A	ſie
+=19	=19
+*lig	*
+1B-	fur
+1B-	.
+*Xlig	*
+1c	wol
+=20	=20
+*lig	*
+1.d	an
+2c	.
+*Xlig	*
+1B-	das
+=21	=21
+*lig	*
+1A	wil-
+0d	-de
+*Xlig	*
+=22	=22
+0c}	mer
+!LO:TX:a:t=3)	!
+{1d	die
+=23	=23
+1.c	nacht
+2B-	.
+1A	bis
+=24	=24
+1B-	an
+0G	den
+=25	=25
+0F}	tag.
+{1d	Was
+=26	=26
+0d	fürt
+1d	das
+=27	=27
+0B-	ſel-
+1B-	-big
+=28	=28
+*lig	*
+0c	frew-
+1B-	-lein
+*Xlig	*
+=29	=29
+0A}	fein
+{1A	in
+=30	=30
+*lig	*
+1B-	i-
+1B-	.
+*Xlig	*
+1c	-rem
+=31	=31
+*lig	*
+1.d	klei-
+2c	.
+*Xlig	*
+1B-	-nen
+=32	=32
+*lig	*
+1A	ſchif-
+0d	-fe
+*Xlig	*
+=33	=33
+0c}	lein?
+!LO:TX:a:t=3)	!
+{1d	drei
+=34	=34
+1.c	fiſch-
+2B-	.
+1A	-lein
+=35	=35
+1B-	klei-
+0G	.
+=36	=36
+0F}	-ne,
+==	==
+!!!GTL: Balladen und Romanzen (erzählende Volkslieder)
+!!!AGN: Romanze, Ballade, Lied
+!! Melodie von Boehme aus drei Fragmenten zusammengesetzt: Schmeltzel
+!!    1544 Quodlibet 2 und 19.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0196.iview2?x=-425.8853427895981&y=2226.709219868877&scale=0.4823261117445838&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/19/02
+*-	*-

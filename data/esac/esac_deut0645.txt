@@ -1,0 +1,24 @@
+ERK
+CUT[ES WARN EINMAL ZWEI BAUERNSOEHN]
+REG[Europa, Mitteleuropa, Deutschland, Odenwald]
+TRD[]
+FKT[]
+SIG[E0050]
+KEY[E0050   08  G 3/4]
+MEL[1  331_3_  22-7_.
+    2  11-6_2_  -7-7-5_0
+    3  432_1_  2_1_0 //]
+BEM[]
+MEL_SEM[4 0 -4 4 -2 0 -3 3 -2 0 -3 5 -3 0 -4 9 1 -1 -2 -2 2 -2]
+MEL_RAW[1  3313  22-7
+    2  11-62  -7-7-50
+    3  4321  210]
+NO_REP[13132-7
+    21-62-7-50
+    34321210]
+RTM[x  xxx_x_  xxx_.
+    x  xxx_x_  xxx_x
+    x  xxx_x_  x_x_x]
+SCL_DEG[-5-6-71234]
+SCL_SEM[2 2 1 2 2 1]
+

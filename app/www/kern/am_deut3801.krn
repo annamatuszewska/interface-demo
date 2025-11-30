@@ -1,0 +1,98 @@
+!!!OTL: Der gefangene Hans.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!TXL: @DUM
+!!!SCT: A0032
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/2	*
+*met(3)	*
+*clefC4	*
+*k[]	*
+*e:phr	*
+=1	=1
+!LO:TX:a:t=phryg.	!
+2ryy	.
+2ryy	.
+{2E	1._Doen
+=1	=1
+2.G	Han-
+4G	-se-
+2G	-lyn
+=2	=2
+2.G	o-
+4G	-ver
+2G	der
+=3	=3
+1A	hei-
+2G	-de
+=4	=4
+1A}	reet,
+{2A	hoe
+=5	=5
+1c	hae-
+2c	-stich
+=6	=6
+2B	wert
+2A	hy
+2G	ghe-
+=7	=7
+*lig	*
+1F	-van-
+4E	.
+4D	.
+*Xlig	*
+=8	=8
+1E}	-ghen,
+{2E	Hy
+=9	=9
+2A	wert
+2A	al
+2A	op
+=10	=10
+!LO:TX:a:t=..	!
+1A	eenen
+2A	to-
+=11	=11
+!LO:TX:a:t=..	!
+1G	-ren
+2E	ghe-
+=12	=12
+1C}	-leit,
+{2C	gheboyet
+=13	=13
+!LO:TX:a:t=..	!
+1G	.
+2E	wel
+=14	=14
+1F	al-
+2G	-so
+=15	=15
+1.A	stran-
+=16	=16
+1G}	-ghe,
+{2c	so
+=17	=17
+2.B	stran-
+4A	.
+4G	.
+4F	.
+=18	=18
+1.E/ll}	-ghe.
+==	==
+!!!GTL: Balladen und Romanzen (erzählende Volkslieder)
+!!!AGN: Romanze, Ballade, Lied
+!! Melodie: Souterliedekens 1540 ad Ps. 69.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!@@COMMENT: "Melodie und die erste Zeile: »Doen Hanselyn Over de beide reed« in Souterliedekens 1540 ad Ps. 69. Vollständiger Text im Oudt Amst. LB. Bl. 44.
+!!Daraus bei Hoffmann, Nieder!. Volksl. No. 68. Diese altuiederländische Romanze erzählt, wie ein gefangener Landsknechtdurch ein Mädchen, die Tochter eines ZwingHerrn, befreit wird. Ein deutsches Lied desselben Inhalts kenne ich nicht."
+!!@@END:
+!!!AMD: Phrygian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0176.iview2?x=-425.8853427895981&y=1447.1536643024301&scale=0.4823261117445838&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/19/02
+*-	*-

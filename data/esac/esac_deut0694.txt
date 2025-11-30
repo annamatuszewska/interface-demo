@@ -1,0 +1,28 @@
+ERK
+CUT[HANI EN BLAUEN STORKEN GSEH]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+TRD[]
+FKT[]
+SIG[E0071]
+KEY[E0071   08  G 4/4]
+MEL[-5_  1_.-51_2_  3_2_1_
+    34  5_.55_3_  2__0_
+    13  5_5_5_3_  6__5_
+    34  5_5_3_2_  1__0_ //]
+BEM[]
+MEL_SEM[5 -5 5 2 2 -2 -2 4 1 2 0 0 -3 -2 -2 4 3 0 0 -3 5 -2 -3 1 2 0 -3 -2 -2]
+MEL_RAW[-5  1-512  321
+    34  5553  20
+    13  5553  65
+    34  5532  10]
+NO_REP[-51-512321
+    345320
+    135365
+    3453210]
+RTM[x_  x_.xx_x_  x_x_x_
+    xx  x_.xx_x_  x__x_
+    xx  x_x_x_x_  x__x_
+    xx  x_x_x_x_  x__x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

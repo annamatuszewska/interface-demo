@@ -1,0 +1,73 @@
+!!!Xfilter:transpose -t P8
+!!!OTL: Kleiner feiner Almanach.
+!!!OTL-incipit: MAN SINGT VON SCHOENEN FRAEULEIN VIEL
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: Z0275
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M2/4	*
+*k[]	*
+*C:	*
+!LO:TX:a:t=Altes Lied.	!
+{8g	Man
+=1	=1
+8cc	ſingt
+8dd	vom
+8ee	ſchö-
+8ff	-nen
+=2	=2
+8.gg	Fräu-
+16ee	-lein
+8dd}	viel,
+{8g	ihr
+=3	=3
+8cc	Lob
+8dd	ich
+8ee	all-
+8ff	-ʒeit
+=4	=4
+8.gg	prei-
+16ee	-ſen
+8dd}	will,
+{8ee	ſo-
+=5	=5
+8dd	-gar
+8cc	ein
+8b/	ſchönes
+8a	.
+=6	=6
+4g	Wei-
+8g}	-be.
+{8g	Jhr
+=7	=7
+8dd	Ehr,
+8g	ihr
+8dd	Gut,
+8g	ihr
+=8	=8
+8ee	ſtol-
+8cc	-ʒer
+8ee}	Muth,
+{8cc	könnt
+=9	=9
+8ff	ich
+8ee	ſie
+8dd	ü-
+8cc	-ber-
+=10	=10
+4dd	-win-
+8cc}	-den.
+==	==
+!!!AGN: Lyrisches Lied, Romanze
+!!!ONB: ESAC (Essen Associative Code) Database: ZUCCAL
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: IV. Lyrische Lieder.
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11160571?page=499
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/01/30
+*-	*-

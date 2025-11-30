@@ -1,0 +1,116 @@
+!!!OTL: Der 12. Psalm: Salvum me fac domine. / (Dr. Martin Luther.)
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0627
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/1; 6/1
+*M6/1yy	*
+*clefC4	*
+*k[b-]	*
+*A:hphr	*
+!LO:TX:a:t=hypophryg.	!
+!LO:TX:a:t=P:0A in the source:problem	!
+!LO:N:vis=0	!
+{1A	Ach
+=1	=1
+*M4/1	*
+1B-	Gott
+1A	von
+1G	hi-
+1d	-mel
+=2	=2
+1d	ſich
+1B-	dar-
+1A	-ein,
+2r}	.
+{2A	vnd
+=3	=3
+1B-	las
+1A	dich
+1G	des
+1c	er-
+=4	=4
+*M6/2	*
+*lig	*
+0B-	-bar-
+0A	.
+*Xlig	*
+1G}	-men,}
+{1A	Wie
+=5	=5
+*M4/1	*
+1B-	we-
+1A	-nig
+1G	ſind
+1d	der
+=6	=6
+1d	heiligen
+1B-	.
+1A	dein,
+2r}	.
+{2A	ver-
+=7	=7
+1B-	-laſ-
+1A	-ſen
+1G	ſind
+1c	wir
+=8	=8
+*M6/2	*
+*lig	*
+0B-	ar-
+0A	.
+*Xlig	*
+1G	-men,}
+2r}	.
+{2G	Dein
+=9	=9
+*M4/1	*
+1A	wort
+1F	leſſt
+1E	man
+1D	nicht
+=10	=10
+1F	ha-
+1G	-ben
+1A	war,
+2r}	.
+{2F	der
+=11	=11
+1G	glaub
+1B-	der
+1A	iſt
+1B-	ver-
+=12	=12
+1G	-laſ-
+1F	-ſen
+1G	gar
+2r}	.
+{2G	bey
+=13	=13
+1d	al-
+1B-	-len
+1c	men-
+1d	-ſchen-
+=14	=14
+*M6/1	*
+*lig	*
+0c	-kin-
+0B-	.
+*Xlig	*
+1A\ll}	-den.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Erfurter Enchiridion I. 1524 No. 13.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Hypophrygian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0808.iview2?x=113.63509606070716&y=965.2206721720286&scale=0.7106933083589261&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/25/03
+*-	*-

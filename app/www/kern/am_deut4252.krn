@@ -1,0 +1,102 @@
+!!!OTL: Am Weihnachtsabend.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0533
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/1; 2/1
+*M4/1	*
+*met(c|)	*
+*clefC4	*
+*k[b-]	*
+*G:dor	*
+!LO:TX:a:t=dor. tr	!
+1ryy	.
+2ryy	.
+{2G	Am
+=1	=1
+1G	Weyhnachta-
+1d	.
+1d	.
+1d	-bend
+=2	=2
+1c	in
+1B-	der
+1A	ſtill,
+2r}	.
+!LO:TX:a:t=P:2c 2A in the source:problem	!
+{2c	Ein
+=3	=3
+1c	tief-
+1c	-fer
+1c	Schlaff
+1c	mich
+=4	=4
+*lig	*
+2B-	v-
+2d	.
+*Xlig	*
+*lig	*
+2c	-ber-
+2B-	.
+*Xlig	*
+1A	-fiel,
+2r}	.
+{2d	Mit
+=5	=5
+!LO:TX:a:t=P:1d 1B- in the source:problem	!
+1d	Frewden
+!LO:TX:a:t=P:2d 2B- in the source:problem	!
+2d	.
+1c	ganʒ
+2B-	be-
+1A	-goſ-
+=6	=6
+*M2/1	*
+1G	-ſen:
+2r}	.
+{2G	Mein
+=7	=7
+*M4/1	*
+1A	Seel
+1B-	em-
+1c	-pfieng
+1c	viel
+=8	=8
+*lig	*
+2B-	Süſ-
+2d	.
+*Xlig	*
+*lig	*
+2c	-ſig-
+2B-	.
+*Xlig	*
+1A	-keit
+2r}	.
+!LO:TX:a:t=P:2d 2G in the source:problem	!
+{2d	für
+=9	=9
+!LO:TX:a:t=P:1d 1B- in the source:problem	!
+1d	Ho-
+!LO:TX:a:t=P:2d 2B- in the source:problem	!
+2d	-nig
+1c	vnd
+2B-	für
+1A	Ro-
+=10	=10
+0G/ll}	-ſen.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Speiersches Gsgb 1617. fol 17b.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0711.iview2?x=-2231.2783251231526&y=449.30049262661487&scale=0.2314709236031927&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/20/03
+*-	*-

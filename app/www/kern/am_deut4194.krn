@@ -1,0 +1,49 @@
+!!!OTL: Der Bauer ins Holz./ d. Locheimer Ldb. c. 1452 S. 91 der Hs.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0472D
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+!! Irregular meter.
+*MX
+*clefC3
+*k[b-]
+*F:
+{0d
+0A
+1c
+1B-}
+=1
+{0d
+0A
+1c
+1B-}
+=2
+{2A
+2c/
+2B-
+2A
+0G}
+{0c
+0c
+0B-
+0B-
+2A
+2A
+2F
+1G
+2G
+0F/ll}
+==
+!!!GTL: Scherz-, Spott- und Schandlieder
+!!!AGN: Romanze, Ballade, Lied
+!! Locheimer Liederbuch 1452 S. 91 der Hs.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0659.iview2?x=-1272.8135649766991&y=849.3885948960669&scale=0.3197610882076923&rotation=0&layout=singlePageLayout&logicalDiv=log_0018
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/19/03
+*-

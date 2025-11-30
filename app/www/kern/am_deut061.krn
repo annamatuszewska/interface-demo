@@ -1,0 +1,109 @@
+!!!OTL: Russisches Nationallied. / (Uebersetzung des kleinrussischen Nazionalliedes.)
+!!!OTL-incipit:EIN KOSAK RITT IN DEN KRIEG
+!!!COM: Originalweise
+!!!ARE: Europa, Mitteleuropa, Deutschland; Rossiya ?
+!!!SCT: F0157
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M2/4	*
+*k[]	*
+*a:	*
+=1	=1
+!LO:TX:a:t=Andante.	!
+{8a	1._Ein
+8a	Ko-
+8a	-ſak
+8a	ritt
+=2	=2
+8a	in
+8cc	den
+(8b/L	Krieg,
+8aJ)}	.
+=3	=3
+{8g#	ſagt
+8g#	dem
+8g#	Mädchen
+8g#	.
+=4	=4
+8g#	Le-
+8b/	-be-
+(8aL	-wohl
+8g#J)}	.
+=5	=5
+{8a	Nun,
+8a	ihr
+8a	meine
+8a	.
+=6	=6
+8a	lie-
+8cc	-ben
+8b/	Rappen
+8a}	.
+=7	=7
+{8g#	lau-
+8ee	-fet
+8e	was
+8g#	ihr
+=8	=8
+4a	könnt.
+4r}	.
+=9||	=9||
+!LO:TX:a:t=Sie.	!
+{8cc	Wart'
+8cc	doch,
+8cc	wart'
+8cc	doch
+=10	=10
+8cc	mein
+8ee	Ko-
+8dd/L	-ſak,
+8ccJ}	.
+=11	=11
+{8b	ſieh,
+8b	dein
+8b	Mädchen
+8b	.
+=12	=12
+8b/	weint
+8dd/	um
+8cc/L	dich!
+8bJ}	.
+=13	=13
+{8a	Wenn
+8a	du
+8a	mich
+8a	nun
+=14	=14
+8a	auch
+8cc	ver-
+8b	-läſ-
+8a}	-ſeſt,
+=15	=15
+{8g#	den-
+8b	-ke
+16eeL	doch
+16ddJ	.
+16ccL	an
+16bJ	.
+=16	=16
+4a	mich.
+4r}	.
+==	==
+!!!AGN: Kriegs - Lied, national; Liebe
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: > = above
+!!!GTL: Volkslieder
+!!Text: Russisches Nationallied.
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 92
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=100
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/09
+*-	*-

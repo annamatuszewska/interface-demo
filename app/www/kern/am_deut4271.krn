@@ -1,0 +1,103 @@
+!!!OTL: Vom Osterlamb, so Christus der Herr gessen vor sein h. Passion.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0547
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/1	*
+*met(c|)	*
+*clefC3	*
+*k[b-]	*
+*G:dor	*
+!LO:TX:a:t=dor. tr.	!
+!LO:TX:a:t=P:1r, 2r in the source:problem	!
+{2G	Nun
+=1	=1
+1G	woll
+1G	wir
+1.d	a-
+2c	-ber
+=2	=2
+*lig	*
+2d	he-
+2c	.
+*Xlig	*
+1B-	-ben
+1A	an,
+2r}	.
+{2B-	wolln
+=3	=3
+*lig	*
+2c	ſingn
+2c	.
+*Xlig	*
+*lig	*
+2c	von
+2c	dem
+*Xlig	*
+1c	hei-
+2d	-li-
+2c	-gen
+=4	=4
+1B-	O-
+1A	-ſterlamb,
+1G	.
+2r}	.
+{2d	das
+=5	=5
+1d	vn-
+*lig	*
+2c/	-ſer
+2B-	.
+*Xlig	*
+1A	ſünd
+1c	thut
+=6	=6
+*lig	*
+2A	tra-
+2F	.
+1G	.
+*Xlig	*
+1F	-gen
+2r}	.
+{2A	hin
+=7	=7
+1B-	an
+*lig	*
+2A	wol
+2G	.
+*Xlig	*
+1B-	an
+1c	des
+=8	=8
+1d	Creu-
+1d	-tʒes
+1.G}	ſtamm,
+{2A	vnd
+=9	=9
+1B-	das
+1c	war
+1d	hoch
+1c	ʒu
+=10	=10
+*lig	*
+2B-	kla-
+2c/	.
+1A	.
+*Xlig	*
+1.G/ll}	-gen.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Variante von A0375.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0728.iview2?x=-494.5591133004925&y=1032.0950738629326&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/20/03
+*-	*-

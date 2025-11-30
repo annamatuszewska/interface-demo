@@ -1,0 +1,75 @@
+!!!OTL: 400. Liebes-ABC.
+!!!COM: A. Pohlenz
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0400
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M3/4	*
+*k[b-]	*
+*F:	*
+=1	=1
+!LO:TX:a:t=Mäßig ſchnell.	!
+{4f	A
+4e	B
+4f	C
+=2	=2
+2g	D,
+4r}	.
+=3	=3
+{4g	wenn
+4f	ich
+4g	dich
+=4	=4
+2a	ſeh',
+4r}	.
+=5	=5
+{4a	dich,
+4a	mei-
+4dd	-ne
+=6	=6
+4.cc	ſü-
+8b-	-ße
+4b-}	Luſt,
+=7	=7
+{4g	klopft
+4g	die
+4cc	be-
+=8	=8
+4.b-	-weg
+8a	te
+4a}	Bruſt,
+=9	=9
+{4f	wird
+4e	mit
+4f	ſo
+=10	=10
+4.ee	wohl,
+8dd	ſo
+4dd}	weh,
+=11	=11
+{8ddL	wenn
+8eJ	.
+4e	ich
+4e	dich
+=12	=12
+2f	ſeh'.
+4r}	.
+==	==
+!!!AGN: Liebes - Lied, Liebes - Lust
+!!!GTL: Liebeslieder - Liebeslust
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT:"Gedicht von Wilh. Gerhard 1820. Musik von Aug. Pohlenz’."
+!!@@END:
+!!!Text: W. Gerhard
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n331/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/07
+*-	*-

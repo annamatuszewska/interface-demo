@@ -1,0 +1,103 @@
+!!!Xfilter:transpose -t P8
+!!!OTL: Die Spinnerinnen.
+!!!OTL-incipit: SPINNT IHR MAEDCHEN
+!!!ARE: Europa, Mitteleuropa, Deutschland, Niederrhein
+!!!SCT: Z1292
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M2/4	*
+*k[]	*
+*C:	*
+=1	=1
+!LO:TX:a:t=Vom Niederrhein.	!
+{8.cc/	Spinnt,
+16dd/	ihr
+8cc/	Mäd-
+8g	-chen,
+=2	=2
+8a	ſpin-
+8f	-net,
+8g	ſpin-
+8g}	-net,
+=3	=3
+{8.cc/	daß
+16dd/	ihr
+8cc/	eu-
+8g	-re
+=4	=4
+8a	Koſt
+8f	ge-
+8g	-winnet,
+8g}	.
+=5	=5
+{8cc/	ſpinnt
+8cc/	den
+8b/	Flachs
+8cc/	ſo
+=6	=6
+8ff/	fein
+8ee/	wie
+4dd/}	Haar,
+=7	=7
+{8cc/	ſpin-
+8ee/	-net
+8dd/	ihn
+8cc/	wie
+=8	=8
+8ccq	.
+8b/	Spinnweb'
+8a	.
+4g}	klar!
+=9	=9
+{8.e	Die
+16f	be-
+8g	-kommt
+8g	den
+=10	=10
+8a	be-
+8b/	-ſten
+4cc/}	Mann,
+=11	=11
+{8ff/	die
+8dd/	am
+8ee/	be-
+8cc/	-ſten
+=12	=12
+16ee/L	ſpin-
+16ddJ	.
+16cc/L	-nen
+16bJ	.
+4cc/}	kann.
+=13	=13
+!LO:TX:a:t=Alle.	!
+{8.cc/	Die
+16dd/	be-
+8ee/	-kommt
+8ee/	den
+=14	=14
+8ff/	be-
+8aa/	-ſten
+4gg/}	Mann,
+=15	=15
+{8ff/	die
+8dd/	am
+8ee/	be-
+8cc/	-ſten
+=16	=16
+8dd/	ſpin-
+8b/	-nen
+4cc/}	kann.
+==	==
+!!!AGN: Handwerker -, Bauern - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ZUCCAL
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: VII. Jagd-, Bunkt- und GewerksLieder.
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11160573?page=533
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/02/07
+*-	*-

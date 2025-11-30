@@ -1,0 +1,88 @@
+!!!OTL: Niederdeutsche Lesart derselben Ballade
+!!!ARE: Europa, Mitteleuropa, Deutschland, Niederdeutschland
+!!!ODT: 17 Jahrh.
+!!!SCT: A0017
+!!!OPR: 16. Es taget in dem Osten
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/2	*
+*met(3)	*
+*k[]	*
+*clefC3	*
+*G:mix	*
+=1	=1
+!LO:TX:a:t=mixolyd.	!
+2ryy	.
+2ryy	.
+{2G	Es
+=2	=2
+1G	ta-
+2c	-get
+=3	=3
+1B	min-
+2A	-ne-
+=4	=4
+2c	-cli-
+2d	.
+2B	.
+=5	=5
+1A}	-che
+{2e	die
+=6	=6
+1d	ſunn
+2d	der
+=7	=7
+1B	gna-
+2B	-den
+=8	=8
+2c	vol,
+2d	.
+2B	.
+=9	=9
+1A}	.
+{2G	Je-
+=10	=10
+1B	-ſus
+2c	von
+=11	=11
+1d	hi-
+2e	-mel-
+=12	=12
+2d	-ri-
+4c	.
+4B	.
+2A	.
+=13	=13
+1G}	-che
+{2A	muß
+=14	=14
+1d	vns
+2c	be-
+=15	=15
+1B	-hü-
+2A	-ten
+=16	=16
+1.G/ll}	wol.
+==	==
+!!!GTL: Balladen und Romanzen (erzählende Volkslieder)
+!!!AGN: Romanze, Ballade, Lied
+!! Melodie: Strassburger Hs.(1421),121 Bl. 128b
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Mixolydian
+!!@@COMMENT: "Niederdeutsches Liederbuch (Anfang des 17. Jahrh.) No. 120. Daraus bei Uhlant 95 A unt nach ihm hier. Diese nieterdeutsche Lesart stimmt ziemlich mit
+!! der niederländischen überein, nur die elfte Strophe des nieterländischen Textes fehlt hier und Strophe 9 ist durch Einschiebselmetrisch verdorben. Die im
+!! niederläntischen und niederdeutschen Urtexte stehende Wiederholung der je dritten Zeile nach ter vierten, wie Hoffmann unt Uhlant sie beibehalten,
+!! scheint mir nach Maßgabe der Melodie unrichtig und störend. Die Sänger haben sehr wahrscheinlich die drille und vierte Zeile jeder Strophe wiederholt,
+!! und solches scheint mir der alle Druck andeuten zu sollen. — Die beistehende Melodie mit ihrem geistlichen Texte, 
+!! eine Parodie des Balladentextes „Id daget in dal osten", wie mit der Jahrzahl 142t beigeschriebensteht, findet sich in der Straßburger Handschrift 121 Bl, 128b. Vollständiger Textabdruck bei WK. II. No. 709.
+!!@@END:
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0141.iview2?x=-955.4044398057085&y=1608.823776639998&scale=0.35505986316989735&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/16/02
+*-	*-

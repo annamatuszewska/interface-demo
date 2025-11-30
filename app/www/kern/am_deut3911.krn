@@ -1,0 +1,75 @@
+!!!OTL: Nun laube, Lindlein, laube!
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0175
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c|)	*
+*clefC1	*
+*k[]	*
+*G:mix	*
+=1	=1
+!LO:TX:a:t=mixol.	!
+{1cc	Nun
+2g	lau-
+2a	-be,
+=2	=2
+2cc	lind-
+2b	-lein,
+!LO:TX:a:t=+	!
+1a	lau-
+=3	=3
+1g	-be!
+2r}	.
+{2dd	nicht
+=4	=4
+2ee	län-
+2dd	-ger
+2cc	ichs
+2b	er-
+=5	=5
+*lig	*
+!LO:TX:a:t=P:notes bined together "as ligature":problem	!
+1a/ll	-trag:
+1gll}	.
+*Xlig	*
+=6	=6
+{2r	.
+2a	ich
+2b-	hab
+2a	mein
+=7	=7
+2g	lieb
+2b-	ver-
+!LO:TX:a:t=+	!
+1g	-lo-
+=8	=8
+1f	-ren,
+2r}	.
+{2a	hab
+=9	=9
+2cc	gar
+2a	ein
+2g	trau-
+2a	-rig
+=10	=10
+0gll}	tag.
+==	==
+!!!GTL: Liebeslieder
+!!!AGN: Romanze, Ballade, Lied
+!! In Trillers Singbuch 1555 zu einem geistlichen Text.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT:"An den beiden durch + bezeichneten Stellen besserte Prätorius die
+!!Melodie, indem er eine Note von zwei Zeiten setzte, während Triller dafür nur einzeitige hat."
+!!@@END:
+!!!RDF**kern: l = terminal long
+!!!AMD: Mixolydian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0337.iview2?x=-495.6391625615763&y=930.5704433524515&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0009
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/07/03
+*-	*-

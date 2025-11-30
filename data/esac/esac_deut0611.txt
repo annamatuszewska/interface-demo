@@ -1,0 +1,36 @@
+ERK
+CUT[STOLZ SYBURG WOLLTE FREIEN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[E0040A]
+KEY[E0040A  16  A 2/4]
+MEL[-5_  1_.23b_2_  1_-7_1_
+    2_  3b_.45_4_  3b__0_
+    3b_  2_.3b4_2_  3b_5_5__
+    1_.3b2_1_  -7_-6_-5_
+    2_  3b_3b_2_2_  3b_.45_
+    4_  3b_1_2_.2  1__0_ //]
+BEM[]
+MEL_SEM[5 2 1 -1 -2 -1 1 2 1 2 2 -2 -2 0 -1 1 2 -3 1 4 0 -7 3 -1 -2 -1 -2 -2 7 1 0 -1 0 1 2 2 -2 -2 -3 2 0 -2]
+MEL_RAW[-5  123b2  1-71
+    2  3b454  3b0
+    3b  23b42  3b55
+    13b21  -7-6-5
+    2  3b3b22  3b45
+    4  3b122  10]
+NO_REP[-5123b21-71
+    23b4543b0
+    3b23b423b5
+    13b21-7-6-5
+    23b23b45
+    43b1210]
+RTM[x_  x_.xx_x_  x_x_x_
+    x_  x_.xx_x_  x__x_
+    x_  x_.xx_x_  x_x_x__
+    x_.xx_x_  x_x_x_
+    x_  x_x_x_x_  x_.xx_
+    x_  x_x_x_.x  x__x_]
+SCL_DEG[-5-6-7123b45]
+SCL_SEM[2 2 1 2 1 2 2]
+

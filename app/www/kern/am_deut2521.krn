@@ -1,0 +1,154 @@
+!!!OTL: 304. Gesellschaftslied.
+!!!COM: H. G. Naegeli
+!!!ODT: 1793
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0304
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M6/8	*
+*k[b-]	*
+*F:	*
+=1	=1
+!LO:TX:a:t=Chor.	!
+!LO:TX:a:t=Munter.	!
+{4.a	Freut
+8b-L	euch
+8aJ	.
+8b-/	des
+=2	=2
+4.cc	Le-
+4ff	-bens,
+8r}	.
+=3	=3
+{4.f	weil
+8gL	noch
+8fJ	.
+8g	das
+=4	=4
+8aL	Lämp-
+8b-J	.
+8a	-chen
+4g	glüht;
+8r}	.
+=5	=5
+{4.a	pflü-
+8b-L	-cket
+8aJ	.
+8b-/	die
+=6	=6
+4.cc	Ro-
+4.ff}	-ſe,
+=7	=7
+{4.a	eh'
+8gL	ſie
+8fJ	.
+8g	ver-
+=8	=8
+4.f	-blüht!
+4r}	.
+!LO:TX:a:t=Einʒelne.	!
+{8a	1._Man
+=9	=9
+4cc	ſchafft
+8b-	ſo
+8gL	gern
+8aJ	.
+8b-	ſich
+=10	=10
+4cc	Sorg'
+8a	und
+4f}	Müh',
+{8cc	ſucht
+=11	=11
+4cc	Dor-
+8b-	-nen
+8gL	auf
+8aJ	.
+8b-	und
+=12	=12
+4cc	fin-
+8a	-det
+4f}	ſie,
+{8cc	und
+=13	=13
+4dd	läßt
+8dd	das
+8.ffL	Veil-
+16eeJ	.
+8dd	-chen
+=14	=14
+4cc	un-
+8a	-be-
+4ff}	-merkt,
+{8cc	das
+=15	=15
+8ccL	dort
+8ddJ	.
+8cc	am
+8ccL	We-
+8b-J	.
+8a	-ge
+=16	=16
+(4.a	blüht.
+4g)	.
+8r}	.
+=17	=17
+!LO:TX:a:t=Chor.	!
+{4.a	Freut
+8b-L	euch
+8aJ	.
+8b-/	des
+=18	=18
+4.cc	Le-
+4ff	-bens,
+8r}	.
+=19	=19
+{4.f	weil
+8gL	noch
+8fJ	.
+8g	das
+=20	=20
+8aL	Lämp-
+8b-J	.
+8a	-chen
+4g	glüht
+8r}	.
+=21	=21
+{4.a	pflü-
+8b-L	-cket
+8aJ	.
+8b-/	die
+=22	=22
+4.cc	Ro-
+4.ff}	-ſe,
+=23	=23
+{4.a	eh'
+8gL	ſie
+8fJ	.
+8g	ver-
+=24	=24
+4.f	-blüht!
+4.r;}	.
+==	==
+!!!AGN: Gesellschafts - Lied, Freude
+!!!GTL: Lieder der Freude und Geseligkeit
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT:"Gedicht von Martin Uſteri 1793. Text ohne Namen des Verfaſſers im Muſenalmanach für
+!!1796 S. 27, ʒugleich mit der heute noch geſungenen Melodie von Nägeli. - Nägeli's Melodie
+!!ſteht ſchon in "Freimaurer Lieder" von Böheim. Berlin 1794. Mit Uſteri's Namen in "Neue
+!!ſchweiʒeriſche Blumenleſe", 1. Theil. St. Gallen 1798 S. 49. - Dies einfache Lied wurde in
+!!Deutſchland und der Schweiʒ ſehr vielmal gedruckt und ungeʒähliemal ʒur Erheiterung der Geſellſchaft geſungen"
+!!@@END:
+!!!Text: J. M. Usteri
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n255/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/04/07
+*-	*-

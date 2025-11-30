@@ -1,0 +1,109 @@
+!!!OTL: 730. Die Melodie vom Mars-Liede. / II. Die "Mars-Melodie".
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0730A
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[]	*
+*C:	*
+=1	=1
+{4g	Ehr-
+4g	-lich,
+4g	freund-
+8aL	-lich
+8bJ	und
+=2	=2
+4cc	ſchön
+4g	da-
+4e}	-bei,
+{4c	das
+=3	=3
+2cc	ſind
+2dd	die
+=4	=4
+1ee}	drei,
+=5	=5
+{4g	da-
+4g	-durch
+4g	ich
+8aL	mich
+8bJ	in-
+=6	=6
+4cc	-a-
+4g	-mo-
+4e}	-rirt;
+{4c	be-
+=7	=7
+2cc	-ken-
+2dd	-ne
+=8	=8
+1ee}	frei.
+=9	=9
+{4ee	Jung-
+4ee	-fräulein.
+2ee	.
+=10	=10
+4a	kann
+4a	es
+4a	ſein,
+8bL	laßt
+8ccJ	.
+=11	=11
+4.dd	mich
+8cc	er-
+4b	-le-
+4a}	-ben
+=12	=12
+{4g	heut'
+8ccL	die
+8ddJ	er-
+4ee	-wün-
+4dd	-ſchte
+=13	=13
+1cc}	Ʒeit.
+=14	=14
+{4ee	Jung-
+4ee	-fräulein.
+2ee	.
+=15	=15
+4a	kann
+4a	es
+4a	ſein,
+8bL	laßt
+8ccJ	.
+=16	=16
+4.dd	mich
+8cc	er-
+4b	-le-
+4a}	-ben
+=17	=17
+{4g	heut'
+8ccL	die
+8ddJ	er-
+4ee	-wün-
+4dd	-ſchte
+=18	=18
+1cc}	Ʒeit.
+==	==
+!!!AGN: Liebes - Lied
+!!!GTL: Auslaendische Weisen, die in Deutschland gesungen wurden
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Handſchr. 1617 Jahrh. in K. Staatsarchiv ʒu Aurich.
+!!@@COMMENT:"Eine dritte Bearbeitung (Figuration) derſelben Melodie daſelbſt
+!!führt die Ueberſchrift: "Freundlich, höflich, ſchön daneben". Das iſt offenbar dasſelbe Lied, wie folgt: II. Die "Mars-Melodie".
+!!Mitgeth. von Dr. Ernſt Friedländer in Monatsh. f. Muſikgeſch. 1674. Die Melodie iſt
+!!urſprünglich in deutſcher Orgeltabulatur geſchrieben. Text hat 6 Strophen. "
+!!@@END:
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n581/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/18/07
+*-	*-

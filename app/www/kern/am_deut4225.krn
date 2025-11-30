@@ -1,0 +1,119 @@
+!!!OTL: Weihnachtslied.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0511
+!!!TXL: @@GMH, (@@LAT)
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c|)	*
+*clefC4	*
+*k[]	*
+*G:mix	*
+!LO:TX:a:t=mixolyd.	!
+!LO:TX:a:t=P:1r, 2r, 2g in the source:problem	!
+1ryy	.
+!LO:N:vis=2	!
+4ryy	.
+!LO:N:vis=2	!
+{4G	Ge-
+=1	=1
+!LO:N:vis=1	!
+2G	-lo-
+!LO:N:vis=1	!
+2G	-bet
+!LO:N:vis=1	!
+2A	ſei-
+!LO:N:vis=1	!
+2G	-ſtu
+=2	=2
+!LO:N:vis=1	!
+2c	Jhe-
+!LO:N:vis=1	!
+2d	-ſu
+!LO:N:vis=0	!
+1c}	Chriſt,
+=3	=3
+!LO:N:vis=1	!
+{2B	das
+!LO:N:vis=1	!
+2d	du
+!LO:N:vis=1	!
+2e	Menſch
+!LO:N:vis=1	!
+2d	ge-
+=4	=4
+!LO:N:vis=1	!
+2c	-bo-
+!LO:N:vis=1	!
+2A	-ren
+!LO:N:vis=1	!
+2G	biſt,
+!LO:N:vis=2	!
+4r}	.
+!LO:N:vis=2	!
+{4G	Von
+=5	=5
+!LO:N:vis=1	!
+2c	ei-
+!LO:N:vis=1	!
+2B	-ner
+!LO:N:vis=1	!
+2d	Jungfraw
+!LO:N:vis=1	!
+2A	.
+=6	=6
+!LO:N:vis=1	!
+2G	das
+!LO:N:vis=1	!
+2E	iſt
+!LO:N:vis=1	!
+2D	war,
+!LO:N:vis=2	!
+4r}	.
+!LO:N:vis=2	!
+{4D	des
+=7	=7
+!LO:N:vis=1	!
+2A	frew-
+!LO:N:vis=1	!
+2A	-et
+!LO:N:vis=1	!
+2A	ſich
+!LO:N:vis=1	!
+2B	der
+=8	=8
+!LO:N:vis=1	!
+2c	En-
+!LO:N:vis=1	!
+2A	-gel
+!LO:TX:a:t=*	!
+*lig	*
+!LO:N:vis=0	!
+!LO:TX:a:t=*	!
+2G	ſchaar.
+!LO:N:vis=0	!
+2A	.
+*Xlig	*
+=9||	=9||
+!LO:N:vis=2	!
+4F	Ky-
+!LO:N:vis=2	!
+4G	-ri-
+!LO:N:vis=1	!
+2A	-o-
+2.G/ll}	-leys.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! J. Walthers Gsgb 1524 No. 22.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Mixolydian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0688.iview2?x=-16.406782488349563&y=1168.60026773531&scale=0.6395221764153846&rotation=0&layout=singlePageLayout&logicalDiv=log_0018
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/19/03
+*-	*-

@@ -1,0 +1,28 @@
+ERK
+CUT[ES WARN EINMAL ZWEI BAUERNSOEHN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Wittgenstein]
+TRD[]
+FKT[]
+SIG[E0050B]
+KEY[E0050B  16  G 3/4]
+MEL[-5_  1_.11__.2_  3_.33__.
+    3_  2_3_4__-7__  2_.11__0_
+    3_  5__.3_4_3_  5__2__0_
+    6_  6_6_5_4_3__  2__1__0_ //]
+BEM[]
+MEL_SEM[5 0 0 2 2 0 0 0 -2 2 1 -6 3 -2 0 4 3 -3 1 -1 3 -5 7 0 0 -2 -2 -1 -2 -2]
+MEL_RAW[-5  1112  333
+    3  234-7  2110
+    3  5343  520
+    6  66543  210]
+NO_REP[-5123
+    3234-7210
+    35343520
+    6543210]
+RTM[x_  x_.xx__.x_  x_.xx__.
+    x_  x_x_x__x__  x_.xx__x_
+    x_  x__.x_x_x_  x__x__x_
+    x_  x_x_x_x_x__  x__x__x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

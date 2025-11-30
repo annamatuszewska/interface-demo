@@ -1,0 +1,134 @@
+!!!OTL: Melodie eines Waechterliedes. / (14. Jahrh.)
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0106
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  3/2; 4/2
+*M3/2	*
+*met(3)	*
+*clefC4	*
+*k[]	*
+*D:	*
+!LO:TX:a:t=Modus?	!
+{2D	Ein
+=1	=1
+1G	lee-
+2A	-rer
+=2	=2
+1B	růft
+2B	vil
+=3	=3
+1d}	lut
+{2c	aus
+=4	=4
+1B	ho-
+2A	-hen
+=5	=5
+*lig	*
+1B	ſin-
+2A	.
+*Xlig	*
+=6	=6
+1G}	-nen:
+{2G	wer
+=7	=7
+1A	ſich
+2B	ʒů
+=8	=8
+1B	got
+2A	um-
+=9	=9
+*lig	*
+1G	-ke-
+2F	.
+=10	=10
+1E	.
+*Xlig	*
+2E	-ren
+=11	=11
+1G	well,
+2E	.
+=12	=12
+1D}	.
+{2E	der
+=13	=13
+1C	ſoll
+2D	dʒ
+=14	=14
+1E	ſchier
+2E	be-
+=15	=15
+*lig	*
+1F	-gin-
+2E	.
+*Xlig	*
+=16	=16
+1D}	nen,
+{2D	daʒ
+=17	=17
+1G	er
+2c	in
+=18	=18
+1B	ʒi-
+2G	-te
+=19	=19
+1G	dʒ
+2B	be-
+=20	=20
+*lig	*
+1B	-ſtell,
+2A	.
+=21	=21
+1G}	.
+*Xlig	*
+{2D	e
+=22	=22
+1G	im
+2c	der
+=23	=23
+1B	tod
+2G	den
+=24	=24
+1G	weg
+2B	ver-
+=25	=25
+*lig	*
+1B	-ſtell,
+2A	.
+=26	=26
+1G}	.
+*Xlig	*
+{2F	dʒ
+=27	=27
+*M4/2	*
+*met(c|)	*
+1E	rot
+1D	ich
+=28	=28
+1A	im
+*lig	*
+2G	vſf
+2F	.
+*Xlig	*
+=29	=29
+*lig	*
+1E	min-
+1A	.
+*Xlig	*
+=30	=30
+1.E/ll}	-nen.
+==	==
+!!!GTL: Tage- oder Wächterlieder
+!!!AGN: Romanze, Ballade, Lied
+!! Strassb. Hs. No. 121 Bl 45b (14. Jh.)
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!URL-scan:https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0274.iview2?x=-425.8853427895981&y=2275.2241134946235&scale=0.4823261117445838&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/22/02
+*-	*-

@@ -1,0 +1,90 @@
+!!!Xfilter: transpose -t P8
+!!!OTL: 790. Uebers Jahr! / [Matrosenlied.]
+!!!ARE: Europa, Mitteleuropa, Deutschland; France, Weissenburg,
+!!    Niedersteinbach
+!!!SCT: E0790
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M4/4	*
+*met(c)	*
+*k[]	*
+*C:	*
+{8e	1._Ue-
+8g	-bers
+=1	=1
+4cc	Jahr,
+4b	mein
+4a	Schatʒ,
+8g	ü-
+8e	-bers
+=2	=2
+2g	Jahr,
+4r}	.
+{8g	wenn
+8cc	die
+=3	=3
+4.b	Ro-
+8d	-ſen
+4f	blühn
+4a	im
+=4	=4
+2g	Gar-
+8e	-ten,
+8r}	.
+{8g	dann
+8g	.
+=5	=5
+4.b	kannſt
+8a	du
+4g	mich
+4f#	er-
+=6	=6
+8gL	-war-
+8f#J	.
+4e	-ten,
+4r}	.
+{8g	dann
+8g	.
+=7	=7
+4.a	ſchmück
+8d	dein
+4d	bräut-
+4e	-lich
+=8	=8
+2.f}	Haar
+{8e	ü-
+8g	-bers
+=9	=9
+4cc	Jahr,
+4b	mein
+4a	Schatʒ,
+8g	ü-
+8e	-bers
+=10	=10
+2g	Jahr,
+4r}	.
+{8g	ü-
+8cc	-bers
+=11	=11
+4.dd	Jahr,
+8cc	mein
+4b	Schatʒ,
+8a	ü-
+8b/	-bers
+=12	=12
+2cc	Jahr!
+4r}	.
+==	==
+!!!AGN: Abschieds - Lied, Liebe; Matrosen - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK2
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Abschieds- und Wanderlieder
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn745177662/iview2/phys_0595.iview2?x=175.40593030447008&y=1681.9655733117834&scale=0.7029437510502773&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/12/17
+*-	*-

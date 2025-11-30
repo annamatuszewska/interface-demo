@@ -1,0 +1,259 @@
+!!!OTL: Mahnlied. (1546.) / (Bruder Veits Ton.)
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0399A
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/2	*
+*met(C|3)	*
+*clefC3	*
+*k[b-]	*
+*g:dor	*
+=1	=1
+!LO:TX:a:t=dor. tr (g moll.)	!
+!LO:N:vis=1	!
+{2G	Wol
+!LO:N:vis=1	!
+2G	auff
+!LO:N:vis=1	!
+2G	jhr
+=2	=2
+!LO:N:vis=0	!
+1B-	Deud-
+!LO:N:vis=1	!
+2G	-ſche
+=3	=3
+!LO:N:vis=0	!
+1B-	Chri-
+!LO:N:vis=1	!
+2c	.
+=4	=4
+!LO:N:vis=0	!
+1d}	-ſten,
+!LO:N:vis=1	!
+{2d	Dann
+=5	=5
+!LO:N:vis=0	!
+1e-	es
+!LO:N:vis=1	!
+2d	iſt
+=6	=6
+*lig	*
+!LO:N:vis=0	!
+2c	an
+!LO:N:vis=0	!
+2B-	.
+*Xlig	*
+!LO:N:vis=1	!
+2c	der
+=7	=7
+!LO:N:vis=0	!
+1d	ʒeit,}
+!LO:N:vis=1	!
+2r}	.
+=8	=8
+!LO:N:vis=1	!
+{2G	Mit
+!LO:N:vis=1	!
+2G	waf-
+!LO:N:vis=1	!
+2G	-fen
+=9	=9
+!LO:N:vis=0	!
+1B-	thut
+!LO:N:vis=1	!
+2G	euch
+=10	=10
+!LO:N:vis=0	!
+1B-	rü-
+!LO:N:vis=1	!
+2c	.
+=11	=11
+!LO:N:vis=0	!
+1d}	-ſten,
+!LO:N:vis=1	!
+{2d	Bald
+=12	=12
+!LO:N:vis=0	!
+1e-	ʒu
+!LO:N:vis=1	!
+2d	dem
+=13	=13
+*lig	*
+!LO:N:vis=0	!
+2c	wi-
+!LO:N:vis=0	!
+2B-	.
+*Xlig	*
+!LO:N:vis=1	!
+2c	-der-
+=14	=14
+!LO:N:vis=0	!
+1d	-ſtreit,}
+!LO:N:vis=1	!
+2r}	.
+=15	=15
+!LO:N:vis=1	!
+{2d	Helfft
+!LO:N:vis=1	!
+2d	ret-
+!LO:N:vis=1	!
+2d	-ten
+=16	=16
+!LO:N:vis=0	!
+1d	Got-
+!LO:N:vis=1	!
+2B-	-tes
+=17	=17
+!LO:TX:a:t=P:coloured notes:problem	!
+!LO:N:vis=0	!
+2c	eh-
+!LO:N:vis=0	!
+!LO:TX:a:t=P:coloured notes:problem	!
+2A}	-re,
+!LO:N:vis=0	!
+!LO:TX:a:t=P:coloured notes:problem	!
+{2d	Dar-
+=18	=18
+!LO:N:vis=0	!
+1c	-ʒu
+!LO:N:vis=1	!
+2A	ewr
+=19	=19
+!LO:TX:a:t=P:coloured notes:problem	!
+!LO:N:vis=1	!
+2B-	Va-
+!LO:TX:a:t=P:coloured notes:problem	!
+!LO:N:vis=0	!
+1G	-ter-
+=20	=20
+!LO:N:vis=0	!
+1F	-land,
+!LO:N:vis=1	!
+2r}	.
+=21	=21
+!LO:N:vis=1	!
+{2d	Schickt
+!LO:N:vis=1	!
+2d	euch
+!LO:N:vis=1	!
+2d	ʒur
+=22	=22
+!LO:N:vis=0	!
+1d	ge-
+!LO:N:vis=1	!
+2G	-gen-
+=23	=23
+!LO:N:vis=0	!
+1B-	-weh-
+!LO:N:vis=1	!
+2c	.
+=24	=24
+!LO:N:vis=0	!
+1d}	-re,
+!LO:N:vis=1	!
+{2d	Thut
+=25	=25
+!LO:N:vis=0	!
+1d	taf-
+!LO:N:vis=1	!
+2B-	-fern
+=26	=26
+!LO:TX:a:t=P:coloured notes:problem	!
+!LO:N:vis=1	!
+2c	wi-
+!LO:TX:a:t=P:coloured notes:problem	!
+!LO:N:vis=0	!
+1A	-der-
+=27	=27
+1.G/ll}	-ſtand.
+=28	=28
+!LO:N:vis=1	!
+{2d	Helfft
+!LO:N:vis=1	!
+2d	ret-
+!LO:N:vis=1	!
+2d	-ten
+=29	=29
+!LO:N:vis=0	!
+1d	Got-
+!LO:N:vis=1	!
+2B-	-tes
+=30	=30
+!LO:TX:a:t=P:coloured notes:problem	!
+!LO:N:vis=0	!
+2c	eh-
+!LO:N:vis=0	!
+!LO:TX:a:t=P:coloured notes:problem	!
+2A}	-re,
+!LO:N:vis=0	!
+!LO:TX:a:t=P:coloured notes:problem	!
+{2d	Dar-
+=31	=31
+!LO:N:vis=0	!
+1c	-ʒu
+!LO:N:vis=1	!
+2A	ewr
+=32	=32
+!LO:TX:a:t=P:coloured notes:problem	!
+!LO:N:vis=1	!
+2B-	Va-
+!LO:TX:a:t=P:coloured notes:problem	!
+!LO:N:vis=0	!
+1G	-ter-
+=33	=33
+!LO:N:vis=0	!
+1F	-land,
+!LO:N:vis=1	!
+2r}	.
+=34	=34
+!LO:N:vis=1	!
+{2d	Schickt
+!LO:N:vis=1	!
+2d	euch
+!LO:N:vis=1	!
+2d	ʒur
+=35	=35
+!LO:N:vis=0	!
+1d	ge-
+!LO:N:vis=1	!
+2G	-gen-
+=36	=36
+!LO:N:vis=0	!
+1B-	-weh-
+!LO:N:vis=1	!
+2c	.
+=37	=37
+!LO:N:vis=0	!
+1d}	-re,
+!LO:N:vis=1	!
+{2d	Thut
+=38	=38
+!LO:N:vis=0	!
+1d	taf-
+!LO:N:vis=1	!
+2B-	-fern
+=39	=39
+!LO:TX:a:t=P:coloured notes:problem	!
+!LO:N:vis=1	!
+2c	wi-
+!LO:TX:a:t=P:coloured notes:problem	!
+!LO:N:vis=0	!
+1A	-der-
+=40	=40
+1.G/ll}	-ſtand.
+==	==
+!!!GTL: Einige historisch-politische Lieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Fliegendes Blatt, 1546.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0571.iview2?x=105.59531858720516&y=1116.1469074967317&scale=0.7083010262257697&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/15/03
+*-	*-

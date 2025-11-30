@@ -1,0 +1,32 @@
+ERK
+CUT[DORT DRUNTEN IM GARTEN DA IST EIN SCHOENES PARADIES]
+REG[Europa, Mitteleuropa, Deutschland, Hannover, Bantorf]
+TRD[]
+FKT[]
+SIG[E0009B]
+KEY[E0009B  16  G 6/8]
+MEL[-5_  1_.11_1_3_5_  2__.0__
+    -5_  2__2_2_5_4_  3__.0__
+    1_  1_3_3_3__6_  5__.^__
+    43  2__2_2_5_4_  3__.^__
+    1-7  -6__-5_1__36  5__-7_1__ //]
+BEM[]
+MEL_SEM[5 0 0 0 4 3 -5 -7 7 0 0 5 -2 -1 -4 0 4 0 0 5 -2 -2 -1 -2 0 0 5 -2 -1 -4 -1 -2 -2 5 4 5 -2 -8 1]
+MEL_RAW[-5  111135  20
+    -5  22254  30
+    1  13336  5^
+    43  22254  3^
+    1-7  -6-5136  5-71]
+NO_REP[-513520
+    -525430
+    1365^
+    432543^
+    1-7-6-51365-71]
+RTM[x_  x_.xx_x_x_x_  x__.x__
+    x_  x__x_x_x_x_  x__.x__
+    x_  x_x_x_x__x_  x__.x__
+    xx  x__x_x_x_x_  x__.x__
+    xx  x__x_x__xx  x__x_x__]
+SCL_DEG[-5-6-7123456]
+SCL_SEM[2 2 1 2 2 1 2 2]
+

@@ -1,0 +1,130 @@
+!!!OTL: Osterlied des 15. Jahrhunderts. / A. Aeltester Text und aelteste Form der Melodie.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0561
+!!!TXL: @@DE, (@@LAT)
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/1	*
+*met(c|)	*
+*met(2)	*
+*clefC3	*
+*k[]	*
+*G:mix	*
+!LO:TX:a:t=mixolyd	!
+2ryy	.
+{2G	Frew
+=1	=1
+1.d	dich,
+2d	du
+1d	wer-
+1f	-de
+=2	=2
+1e	Chri-
+1d	-ſten-
+1c	-heit,
+2r}	.
+{2d	die
+=3	=3
+1B	Got
+1G	hat
+1B	v-
+1c	-ber-
+=4	=4
+*lig	*
+1d	-wun-
+1e	.
+*Xlig	*
+1d	-den,}
+!LO:TX:a:t=P:2r in the source:problem	!
+!LO:N:vis=2	!
+1r}	.
+=5	=5
+{1.d	gro-
+2d	-ße
+1d	mar-
+1f	-der
+=6	=6
+1e	do
+1d	er
+1c	leydt,
+2r}	.
+{2d	da-
+=7	=7
+1B	-mit
+1G	hat
+1B	er_vns
+1c	ent-
+=8	=8
+*lig	*
+1d	-pun-
+1e	.
+*Xlig	*
+1d	-den,}
+!LO:TX:a:t=P:2r in the source:problem	!
+!LO:N:vis=2	!
+1r}	.
+=9	=9
+{1.g	gro-
+2f	-ße
+1e	freud
+1d	ward
+=10	=10
+1g	vns
+1e	be-
+1d	-reyt,
+2r}	.
+{2d	da-
+=11	=11
+1g	-mit
+1c	vns
+1d	al-
+1G	-le
+=12	=12
+1B	ſe-
+1d	-lig-
+1B	-keit,
+2r}	.
+{2G	er-
+=13	=13
+2.A	-ſtan-
+4A	-den
+1c	iſt
+1B	al-
+1A	-le
+=14	=14
+1E	ſe-
+1F#i	-lig-
+1G	-keit,
+2r}	.
+{2G	er-
+=15	=15
+2.A	-ſtan-
+4A	-den
+1c	iſt
+1B	al-
+1A	-le
+=16	=16
+*lig	*
+1E	ſe-
+1F#i	.
+1G	.
+*Xlig	*
+1A	-lig-
+=17	=17
+0.G/ll}	-keit.
+==	==
+!!!GTL: Geistliche Volkslieder.
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! H. Finck 1536 No. 11.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!AMD: Mixolydian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0741.iview2?x=-1583.232250273661&y=376.7146942769177&scale=0.2846028696088022&rotation=0&layout=singlePageLayout&logicalDiv=log_0021
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/20/03
+*-	*-

@@ -1,0 +1,117 @@
+!!!Xfilter:transpose -t P8
+!!!OTL: 1530. Bergmannslied.
+!!!ARE: Europa, Mitteleuropa, Deutschland, Hessen, Nassau
+!!!SCT: E1530
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M6/8	*
+*k[]	*
+*C:	*
+!LO:TX:a:t=Etwas langsam.	!
+!LO:TX:a:t=Aus dem Naſſauiſchen (Friedrichshagen b. Ems, Niederſcheld, Oberndorf rc.)	!
+{8g	Schon
+=1	=1
+4g	wie
+8cc	der
+4e	tönt's
+8e	vom
+=2	=2
+4e	Schach-
+8g	-te
+4c}	her,
+{8c	des
+=3	=3
+4a	Glöck-
+8a	-leins
+8ccL	Ruf
+8bJ	.
+8a	er-
+=4	=4
+4.a	-ſchal-
+8g	-let,
+8r}	.
+{8g	hier
+=5	=5
+4g	hilſt
+8f	uns
+4a	ja
+8f	kein
+=6	=6
+4f	Säu-
+8e	-men
+4g}	mehr,
+{8g	ʒum
+=7	=7
+4g	Schach-
+8g	-te
+8gL	laßt
+8aJ	.
+8b	uns
+=8	=8
+4.dd	wal-
+8cc	-len!
+8r}	.
+{8cc	Drum
+=9	=9
+4dd	Lieb-
+8g	-chen,
+4g	gieb
+8f	mir
+=10	=10
+4e	ei-
+8g	-nen
+4cc}	Kuß,
+{8cc	die-
+=11	=11
+4dd	-weil
+8g	ich
+4g	von
+8f	dir
+=12	=12
+4e	ſchei-
+8g	-den
+4cc}	muß;
+{8cc	es
+=13	=13
+4a	iſt
+8a	des
+8ccL	Schickſals
+8bJ	.
+8a	.
+=14	=14
+(4.g	Brauch.
+8cc)	.
+8r}	.
+{8cc	Glück
+=15	=15
+(<4.b	auf,
+4a)	.
+8b	Glück
+=16	=16
+(4cc	auf!
+8e	.
+4a)}	.
+{8g	Glück
+=17	=17
+4g	auf,
+8ee	Glück
+4ee	auf,
+8dd	Glück
+=18	=18
+[4.ccc	auf!
+8ccc]	.
+8r}	.
+==	==
+!!!AGN: Staende -, Bergmanns - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Staendelieder (Berufslieder). 5. Bergmannslieder.
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn745177999/iview2/phys_0375.iview2?x=-128.77276441889285&y=344.13375284988433&scale=0.5870222003877487&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/03/01
+*-	*-

@@ -1,0 +1,128 @@
+!!!OTL: Rumpel nit!
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0303A
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M6/2	*
+*met(C|3)	*
+*clefC4	*
+*k[b-]	*
+*G:dor	*
+=1	=1
+!LO:TX:a:t=dor. tr.	!
+!LO:N:vis=0	!
+{1G	Solts
+!LO:N:vis=1	!
+2G	im
+!LO:N:vis=0	!
+1G	gwelb
+!LO:N:vis=1	!
+2G	nit
+=2	=2
+!LO:N:vis=0	!
+1d	fin-
+!LO:N:vis=1	!
+2d	-ſter
+!LO:N:vis=0.	!
+1.d}	ſein,
+=3	=3
+!LO:N:vis=0	!
+{1d	rum-
+!LO:N:vis=1	!
+2d	-pel
+!LO:N:vis=0	!
+1c	an
+!LO:N:vis=1	!
+2d	der
+=4	=4
+!LO:N:vis=0	!
+1B-	dů-
+!LO:N:vis=1	!
+2A	-re
+!LO:N:vis=0.	!
+1.G}	nicht!
+=5||	=5||
+!LO:N:vis=0	!
+{1B-	ſcheint
+!LO:TX:a:t=P:2b-, 2b- with ligature in the source:problem	!
+*lig	*
+!LO:N:vis=2	!
+4B-	we-
+!LO:N:vis=2	!
+4B-	-der
+*Xlig	*
+!LO:N:vis=0	!
+1c	ſonn
+!LO:N:vis=1	!
+2A	noch
+=6	=6
+!LO:N:vis=0	!
+1F	mond
+!LO:N:vis=1	!
+2G	darein,
+!LO:N:vis=0.	!
+1.A}	.
+=7	=7
+!LO:N:vis=0	!
+{1G	rumpel
+!LO:N:vis=1	!
+2G	.
+!LO:N:vis=0	!
+1G	an
+!LO:N:vis=1	!
+2G	der
+=8	=8
+!LO:N:vis=0	!
+1F	dů-
+!LO:N:vis=1	!
+2E	-re
+!LO:N:vis=0	!
+1D}	nicht,
+!LO:N:vis=1	!
+{2D	mein
+=9	=9
+!LO:N:vis=0	!
+1F	man
+!LO:N:vis=1	!
+2G	der
+!LO:N:vis=0	!
+1A	iſt
+!LO:N:vis=1	!
+2G	da-
+=10	=10
+!LO:N:vis=0	!
+1F	-hey-
+!LO:N:vis=1	!
+2G	-men
+!LO:N:vis=0	!
+1A}	nit,
+!LO:N:vis=1	!
+{2d	im
+=11	=11
+!LO:N:vis=0	!
+1B-	gwelb
+!LO:N:vis=1	!
+2A	iſt
+!LO:N:vis=0	!
+1G	ſin-
+!LO:N:vis=1	!
+2F#i	.
+=12	=12
+0.G/ll}	-ſter.
+==	==
+!!!GTL: Tanz- und Kranzlieder
+!!!AGN: Romanze, Ballade, Lied
+!! 68 Lieder Nuernberg bei Berg und Newber 1542 No. 35
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0460.iview2?x=-495.6391625615763&y=225.0822660322301&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0012
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/12/03
+*-	*-

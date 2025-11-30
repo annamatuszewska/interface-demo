@@ -1,0 +1,44 @@
+ERK
+CUT[ALS DIE WUNDERSCHOENE ANNA]
+REG[Europa, Mitteleuropa, Deutschland, Harz, Clausthal, Altenau]
+TRD[]
+FKT[]
+SIG[E0042L]
+KEY[E0042L  08 Eb 2/4]
+MEL[12  3333  33
+    21  2-5-5-5  -50
+    23  4444  44
+    65  4333  3_0
+    6  5432  111
+    1  6_6_  5_0
+    6  5432  111
+    3  5_54  3_ //]
+BEM[]
+MEL_SEM[2 2 0 0 0 0 0 -2 -2 2 -7 0 0 0 7 2 1 0 0 0 0 0 4 -2 -2 -1 0 0 0 5 -2 -2 -1 -2 -2 0 0 0 9 0 -2 2 -2 -2 -1 -2 -2 0 0 4 3 0 -2 -1]
+MEL_RAW[12  3333  33
+    21  2-5-5-5  -50
+    23  4444  44
+    65  4333  30
+    6  5432  111
+    1  66  50
+    6  5432  111
+    3  554  3]
+NO_REP[123
+    212-50
+    234
+    65430
+    654321
+    1650
+    654321
+    3543]
+RTM[xx  xxxx  xx
+    xx  xxxx  xx
+    xx  xxxx  xx
+    xx  xxxx  x_x
+    x  xxxx  xxx
+    x  x_x_  x_x
+    x  xxxx  xxx
+    x  x_xx  x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

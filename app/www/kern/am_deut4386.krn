@@ -1,0 +1,88 @@
+!!!OTL: Der geistliche Buchsbaum. / a. Melodie aus Babsts Gsgb. 1545 u. 1561, II. Th. No. 51.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0654A
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  6/2; 4/2
+*M6/2	*
+*met(c|)	*
+*clefC4	*
+*k[]	*
+*G:mix	*
+!LO:TX:a:t=mixolyd.	!
+!LO:TX:a:t=P:1r, 2r in the source:problem	!
+2ryy	.
+{2G	Nu
+=1	=1
+1G	hö-
+1G	-ret
+2A	ʒu,
+2B	ihr
+=2	=2
+1c	Chri-
+2c	-ſten-
+1A}	-leut,
+{2G	wie
+=3	=3
+1c	leib
+1c	vnd
+2B	ſeel
+4A/	gen
+4G	.
+=4	=4
+*M4/2	*
+1.A	an-
+2A	-der
+=5-	=5-
+1A	ſtreit,
+2r}	.
+{2A	all
+=6	=6
+*M6/2	*
+1G	hie
+1G	auff
+2G	erd
+2E	in
+=7	=7
+*M4/2	*
+!LO:SIC:o:1f:v	!
+1.F#	die-
+2G	-ſer
+=8-	=8-
+1A	ʒeit
+2r}	.
+{2B	han
+=9	=9
+2c	ſie
+2B	ein
+2A/	ſte-
+2G	-tigs
+=10	=10
+*M6/2	*
+1A	krie-
+1G}	-gen,
+{1B	keins
+=11	=11
+1c	mag
+2c	vom
+1B	an-
+2G	-dern
+=12	=12
+1A	flie-
+1G/ll}	-gen.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Babsts Gsgb 1545 II No. 51
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Mixolydian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0833.iview2?x=-495.6391625615763&y=2209.780788161792&scale=0.4629418472063854&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/26/03
+*-	*-

@@ -1,0 +1,97 @@
+!!!OTL: Zwei Wasser. (Schwimmersage) / b. Andere Leseart der. Melodie.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0024B
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/1	*
+*met(C|3)	*
+*clefC1	*
+*k[b-]	*
+*g:	*
+=1	=1
+1ryy	.
+1ryy	.
+{1g	Ach
+=2	=2
+*lig	*
+1.g	El-
+2a	-ſe-
+*Xlig	*
+1b-	-lein,
+=3	=3
+0a	lieb-
+1g	-ſtes
+=4	=4
+*lig	*
+1.a	El-
+2b-	-ſe-
+*Xlig	*
+1cc	-lein
+=5	=5
+0dd}	mein,
+{1dd	wie
+=6	=6
+*lig	*
+1.cc	gern
+2b-	.
+*Xlig	*
+1a	wer
+=7	=7
+1b-	ich
+0g	bey
+=8	=8
+0.f	dir,
+=9	=9
+1r	.
+1r}	.
+{1f	ſo
+=10	=10
+1.g	rin-
+2a	-nen
+1b-	ʒwey
+=11	=11
+*lig	*
+1.cc	tief-
+2b-	.
+*Xlig	*
+1a	-fe
+=12	=12
+*lig	*
+1.g	waſ-
+2a	.
+1b-	.
+*Xlig	*
+=13	=13
+0a}	-ſer
+{1g	wol
+=14	=14
+1f	ʒwi-
+0d	-ſchen
+=15	=15
+*lig	*
+1.g	mir
+2f	.
+*Xlig	*
+*lig	*
+2f	und
+2e	.
+*Xlig	*
+=16	=16
+!!LO:N:vis=00
+0.gll}	dir.
+==	==
+!!!GTL: Balladen und Romanzen (erzählende Volkslieder)
+!!!AGN: Romanze, Ballade, Lied
+!! Mel. bei Schmeltzel, Quodlibet X. 1544
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0165.iview2?x=-2091.770685579196&y=-1946.4009456255008&scale=0.2411630558722919&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/19/02
+*-	*-

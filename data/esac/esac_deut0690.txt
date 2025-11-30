@@ -1,0 +1,32 @@
+ERK
+CUT[ES WOLLT EIN MAEDCHEN INS KLOSTER GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+TRD[]
+FKT[]
+SIG[E0068A]
+KEY[E0068A  16  G 2/4]
+MEL[-5_  1_1_1_12  3_3_2_
+    3_  4_3_2_1_  2__0_
+    5_  5_5_5_65  5_4_0_
+    23  4_4_4_54  3_2_3_
+    12  3_543_2_  1__0_ //]
+BEM[]
+MEL_SEM[5 0 0 0 2 2 0 -2 2 1 -1 -2 -2 2 5 0 0 0 2 -2 0 -2 -3 2 1 0 0 2 -2 -1 -2 2 -4 2 2 3 -2 -1 -2 -2]
+MEL_RAW[-5  11112  332
+    3  4321  20
+    5  55565  540
+    23  44454  323
+    12  35432  10]
+NO_REP[-51232
+    3432120
+    56540
+    23454323
+    123543210]
+RTM[x_  x_x_x_xx  x_x_x_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_xx  x_x_x_
+    xx  x_x_x_xx  x_x_x_
+    xx  x_xxx_x_  x__x_]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

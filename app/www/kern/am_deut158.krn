@@ -1,0 +1,112 @@
+!!!OTL: Der Knabe und der Vater.
+!!!OTL-incipit:ES SASS EIN KNAB UND WEINTE SEHR
+!!!COM: G. W. Fink
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0294
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M6/8	*
+*k[b-e-]	*
+*g:	*
+!LO:TX:a:t=Gehalten.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{8g	1._Es
+=1	=1
+4g	ſaß
+8b-/	ein
+4b-/	Knab'
+8dd	und
+=2	=2
+4dd	wein-
+8a	-te
+4a}	ſehr,
+{16b-/	ſei-
+16a	-ne
+=3	=3
+4.g	Mut-
+4b-/	-ter
+8g	war
+=4	=4
+4.dd/	todt.
+4r}	.
+{8dd/	Sein
+=5	=5
+4ee-	Herʒ
+8ee-	war
+4ee-	ihm
+8ee-	ſo
+=6	=6
+4dd	thrä-
+8g	-nenſchwer,
+4g}	.
+{16g	ſei-
+16a	-ne
+=7	=7
+4.b-/	Au-
+4g	-gen
+8dd/	ſo
+=8	=8
+4.g	roth.
+4r}	.
+{8dd	Da
+=9	=9
+4dd	ſprach
+8dd	der
+4dd	Va-
+8dd	-ter
+=10	=10
+4dd	lei-
+8cc	-densmatt:
+4cc}	.
+{8cc	Was
+=11	=11
+4.b-/	weinſt
+4.g	du,
+=12	=12
+4.a	Sohn?
+4r}	.
+{8d	Gönnſt
+=13	=13
+4g	ihr
+(8a	doch
+4b-/)	wohl
+8b-/	die
+=14	=14
+8.cc/L	Ru-
+16b-J	.
+8cc/	-he-
+4dd/}	-ſtatt?
+{(16ffL	Sie
+16ee-J)	.
+=15	=15
+4.dd	ſchläft,
+4.cc	mein
+=16	=16
+4.b-/	Sohn!
+4r}	.
+{16dd/L	ſie
+16ccJ	.
+=17	=17
+4.b-/	ſchläft,
+4.a	mein
+=18	=18
+4.b-/	Sohn!
+4r}	.
+==	==
+!!!AGN: Jugend - Lied, Toten - Klage, Belehrung, Moral
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Jugendlieder
+!!Text: G. W. Fink
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 176
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=174,175
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/07/30
+*-	*-

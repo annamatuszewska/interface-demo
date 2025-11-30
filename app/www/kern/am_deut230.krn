@@ -1,0 +1,86 @@
+!!!OTL: Teutsches Kriegslied.
+!!!OTL-incipit:FEINDE RINGSUM
+!!!COM: Glaeser
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0402
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[b-]	*
+*F:	*
+=1	=1
+!LO:TX:a:t=Muthig, ſtark uns ſchnell.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{2f	1._Fein-
+4.a	-de
+8f	rings-
+=2	=2
+2cc/	-um!
+2r}	.
+=3	=3
+{2cc/	Fein-
+4.dd/	-de
+8ee/	rings-
+=4	=4
+2ff/	-um!
+2r}	.
+=5	=5
+{4dd/	um
+8dd/	die-
+8dd/	-ſe
+8dd/L	ʒi-
+8b-J	.
+8ff/	-ſchende
+8dd/	.
+=6	=6
+4dd/	Schlange,
+4cc/	.
+2r}	.
+=7	=7
+{4dd/	Va-
+8dd/	-terland,
+8dd/	.
+8dd/L	iſt
+8b-J	.
+8ff/	dir
+8dd/	ſo
+=8	=8
+4dd/	bange?
+4cc/	.
+2r}	.
+=9	=9
+{2dd/	ban-
+8dd/L	-ge,
+8ccJ	.
+8b-L	wa-
+8aJ	.
+=10	=10
+2g	-rum?
+2r}	.
+=11	=11
+{2cc/	ban-
+4.dd/	-ge,
+8ee/	wa-
+=12	=12
+4ff/	-rum?
+4r	.
+2r}	.
+==	==
+!!!AGN: Vaterlands -, Heimat - Lied, nationalistisch, Krieg
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Text: C. G. Cramer
+!!!GTL: Vaterlands- und Heimathslieder
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 246
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=236,237
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/07/31
+*-	*-

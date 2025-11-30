@@ -1,0 +1,93 @@
+!!!OTL: Alter Ostergesang. / (12. Jahrh.) / Andere Lesart.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0552B
+!!!TXL: @@DE, (@@LAT)
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/1; 6/1; 5/1
+*M4/1	*
+*met(c|)	*
+*clefC3	*
+*k[b-]	*
+*G:dor	*
+=1	=1
+!LO:TX:a:t=dor. tr.	!
+0d	Chriſt
+{1c	iſt
+1d	er-
+=2	=2
+*M6/1	*
+*lig	*
+0f	-ſtan-
+0g	.
+*Xlig	*
+0d}	-den
+=3	=3
+*M4/1	*
+{1d	von
+1c	der
+1d	mar-
+1B-	-ter
+=4	=4
+*lig	*
+1A	al-
+1B-	.
+*Xlig	*
+1G	-le,
+2r}	.
+{2G	deß
+=5	=5
+1.c	ſoln
+2c	wir
+1B-	al-
+1G	-le
+=6	=6
+*lig	*
+1B-	fro
+1c	.
+*Xlig	*
+0d}	ſein,
+=7	=7
+{1d	Chriſt
+1B-	ſol
+1d	vn-
+1B-	-ſer
+=8	=8
+*lig	*
+1A	troſt
+1B-	.
+*Xlig	*
+*lig	*
+1G	ſein.
+1A}	.
+*Xlig	*
+=9	=9
+*M5/1	*
+{1F	Ky-
+2G	-ri-
+2B-	-e-
+=|	=|
+1A	-lei-
+2B-	.
+1G	.
+2F#i	.
+=10	=10
+[00G/ll	-ſon.
+1Gyy]}	.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Vorletzter Takt eigentlich 2 Takte 2/1 3/1.
+!!    H Finck 1536, vor 1596 notiert.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0731.iview2?x=-494.5591133004925&y=472.1975369080901&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/20/03
+*-	*-

@@ -1,0 +1,111 @@
+!!!OTL: 331. Trinklied.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0331
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M2/4	*
+*k[]	*
+*C:	*
+!LO:TX:a:t=Luſtig.	!
+{8g	Ein
+=1	=1
+8cc	Le-
+8g	-ben
+8e	wie
+8f	im
+=2	=2
+8.g	Pa-
+16a	-ra-
+8g}	-dies
+{8e	ge-
+=3	=3
+8f	-währt
+8g	uns
+8a	Va-
+8b	-ter
+=4	=4
+4cc	Rhein.
+8r}	.
+{8ee	Jch
+=5	=5
+8dd	geb'
+8g	es
+8a	ʒu:
+8b	ein
+=6	=6
+16ddL	Kuß
+16ccJ	.
+16bL	iſt
+16aJ	.
+8b}	ſüß,
+{8g	doch
+=7	=7
+8cc	ſü-
+8a	-ßer
+8dd	iſt
+8dd	der
+=8	=8
+4g	Wein.
+8r}	.
+{8dd	Jch
+=9	=9
+8dd	bin
+8b	ſo
+8b	fröh-
+8cc	-lich
+=10	=10
+8.dd	wie
+16ee	ein
+8dd}	Reh,
+{8g	das
+=11	=11
+8cc	um
+8g	die
+8e	Quelle
+8c	.
+=12	=12
+4g	tanʒt,
+8r}	.
+{8g	wenn
+=13	=13
+8cc	ich
+8ee	den
+8dd	lie-
+8f	-ben
+=14	=14
+8e	Schenktiſch
+8f	.
+8g}	ſeh'
+{8a	und
+=15	=15
+8a	Gläſer
+8f	.
+8d	drauf
+8b	gepflanʒt.
+=16	=16
+4cc	.
+8r}	.
+==	==
+!!!AGN: Trink - Lied
+!!!GTL: Wein- und Trinklieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Aus "Neue Lieder-Melodien v. K. Phil. Em. Bach. Lübeck 1789. S. 24.
+!!@@COMMENT:"Gedicht von Hölty 1775. Hier nach dem Drucke in Voß's Muſenaimanach für 1776 S. 88.
+!!Die Lesarten ſind ſehr abweichend von Hölty's authentiſchem Tert, da Voß dieſen vor der Auf-
+!!nahme einer Correctur unterʒog. Alte Melodien daʒu giebts von Fr. Reichardt 1797, von Neeſe
+!!und von einem unbekannten Komponiſten um 1800 (Ddur "/ Takt, Abdruck in Eik's Liederſchatʒ JJJ.
+!!Nr. 43 [Peters Ausg. ]). Studenten ſingen das Lied nach der Melodie: "Mein Lebenslauf iſt Lieb' und Luſt"."
+!!@@END:
+!!!Text: L. Hölty
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n277/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/04/07
+*-	*-

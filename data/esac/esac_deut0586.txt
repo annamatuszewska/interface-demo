@@ -1,0 +1,28 @@
+ERK
+CUT[WILL ICH IN MEIN GAERTCHEN GEHN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0004]
+KEY[E0004   16  G 2/4]
+MEL[1_1_-7_1_  2_231_0_
+    4_.32_5_  3__1_0_
+    5_654_54  3_432_0_
+    3_4_5_64  3_2_1_0_ //]
+BEM[]
+MEL_SEM[0 -1 1 2 0 2 -4 5 -1 -2 5 -3 -4 7 2 -2 -2 2 -2 -1 1 -1 -2 2 1 2 2 -4 -1 -2 -2]
+MEL_RAW[11-71  22310
+    4325  310
+    565454  34320
+    34564  3210]
+NO_REP[1-712310
+    4325310
+    56545434320
+    345643210]
+RTM[x_x_x_x_  x_xxx_x_
+    x_.xx_x_  x__x_x_
+    x_xxx_xx  x_xxx_x_
+    x_x_x_xx  x_x_x_x_]
+SCL_DEG[-7123456]
+SCL_SEM[1 2 2 1 2 2]
+

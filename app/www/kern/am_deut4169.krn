@@ -1,0 +1,136 @@
+!!!OTL: Jaegers Morgenbesuch. / (15. Jahrh.)
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0440
+!!!TXL: @@NDS
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M6/2	*
+*met(C|3)	*
+*clefC3	*
+*k[b-e-]	*
+*g:dor	*
+!LO:TX:a:t=dor. tr.	!
+!LO:N:vis=1	!
+{2r	.
+!LO:N:vis=1	!
+2r	.
+!LO:N:vis=1	!
+2d	Es
+=1	=1
+!LO:N:vis=0	!
+1d	ta-
+!LO:N:vis=1	!
+2d	-get
+!LO:N:vis=0	!
+1d	vor
+!LO:N:vis=1	!
+2d	dem
+=2	=2
+!LO:N:vis=0.	!
+1.f	wal-
+!LO:N:vis=0.	!
+1.B-}	-de,
+=3	=3
+!LO:N:vis=0	!
+{1d	ſtand
+!LO:N:vis=1	!
+2d	auf,
+!LO:N:vis=1	!
+2f	Ket-
+!LO:N:vis=0	!
+1e-i	-ter-
+=4	=4
+!LO:N:vis=0.	!
+1.d	-lein!
+!LO:N:vis=1	!
+2r	.
+!LO:N:vis=1	!
+2r}	.
+!LO:N:vis=1	!
+{2d	die
+=5	=5
+!LO:N:vis=0	!
+1d	ha-
+!LO:N:vis=1	!
+2d	-ſen
+!LO:N:vis=0	!
+1f	lauf-
+!LO:N:vis=1	!
+2f	-fen
+=6	=6
+!LO:N:vis=0.	!
+1.B-	bal-
+!LO:N:vis=0.	!
+1.d}	-de,
+=7	=7
+!LO:N:vis=0	!
+{1c	ſtand
+!LO:N:vis=1	!
+2c	auf,
+!LO:N:vis=1	!
+2c	Ket-
+!LO:N:vis=1	!
+2c	-ter-
+!LO:N:vis=1	!
+2A	-lein,
+=8	=8
+!LO:N:vis=1	!
+2B-	hol-
+!LO:N:vis=0	!
+1G	-der
+!LO:N:vis=0	!
+1F	bul!
+!LO:N:vis=1	!
+2r}	.
+=9||	=9||
+!LO:N:vis=0	!
+{1d	Hei-
+!LO:N:vis=1	!
+2d	-ja-
+!LO:N:vis=0.	!
+1.f	-ho!
+=10	=10
+!LO:N:vis=0	!
+1e-i	du
+!LO:N:vis=1	!
+2e-	biſt
+!LO:N:vis=0	!
+1d	mein
+!LO:N:vis=1	!
+2B-	vnd
+=11	=11
+!LO:N:vis=1	!
+2c	ich
+!LO:N:vis=0	!
+1A	bin
+!LO:N:vis=0	!
+1G	dein,
+!LO:N:vis=1	!
+2r}	.
+=12	=12
+!LO:N:vis=0	!
+{1d	ſtand
+!LO:N:vis=1	!
+2B-	auff,
+!LO:N:vis=1	!
+2c	Ket-
+!LO:N:vis=0	!
+1A	-ter-
+=13	=13
+1.G/ll}	-lein!
+==	==
+!!!GTL: Jägerlieder und Jägerromanzen
+!!!AGN: Romanze, Ballade, Lied, Jaegerlied
+!! Ott III 1544 No. 15 und 97.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0618.iview2?x=-27.342981878423416&y=605.7400232334621&scale=0.6340035897852&rotation=0&layout=singlePageLayout&logicalDiv=log_0016
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/18/03
+*-	*-

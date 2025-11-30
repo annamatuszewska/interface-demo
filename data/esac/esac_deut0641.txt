@@ -1,0 +1,32 @@
+ERK
+CUT[ES KANN MICH NICHTS SCHOENRES ERFREUEN]
+REG[Europa, Mitteleuropa, Deutschland, Thueringen; Franken; Sachsen]
+TRD[]
+FKT[]
+SIG[E0048C]
+KEY[E0048C  16  G 6/8]
+MEL[-5_  1_-5_1_3_1_3_  5__.3__
+    5_  5_.65_4_2_5_  3__0_
+    5__.  3_4_5_3_4_5_  6__.4__0_
+    6__.+1_7_6_  5__.3__
+    5_  5_.65_4_2_5_  3__0__. //]
+BEM[]
+MEL_SEM[5 -5 5 4 -4 4 3 -3 3 0 2 -2 -2 -3 5 -3 3 -3 1 2 -3 1 2 2 -4 4 3 -1 -2 -2 -3 3 0 2 -2 -2 -3 5 -3]
+MEL_RAW[-5  1-51313  53
+    5  565425  30
+    5  345345  640
+    6+176  53
+    5  565425  30]
+NO_REP[-51-5131353
+    56542530
+    5345345640
+    6+17653
+    56542530]
+RTM[x_  x_x_x_x_x_x_  x__.x__
+    x_  x_.xx_x_x_x_  x__x_
+    x__.  x_x_x_x_x_x_  x__.x__x_
+    x__.x_x_x_  x__.x__
+    x_  x_.xx_x_x_x_  x__x__.]
+SCL_DEG[-51234567+1]
+SCL_SEM[5 2 2 1 2 2 2 1]
+

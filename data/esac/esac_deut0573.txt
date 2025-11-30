@@ -1,0 +1,28 @@
+ERK
+CUT[ES WAR EIN WILDER WASSERMANN]
+REG[Europa, Mitteleuropa, Deutschland, Hohen - Saten, Oderberg]
+TRD[]
+FKT[]
+SIG[E0001F]
+KEY[E0001F  16  G 2/4]
+MEL[-5_  1_1_2_24  3_321_
+    23  4_2_1_-72  -6_-5_0_
+    -5_  1_3_5_1_  -7_2_4_
+    5_  3_3_4_-7_  1__0_ //]
+BEM[]
+MEL_SEM[5 0 2 0 3 -1 0 -2 -2 2 2 1 -3 -2 -1 3 -5 -2 0 5 4 3 -7 -1 3 3 2 -3 0 1 -6 1]
+MEL_RAW[-5  11224  3321
+    23  421-72  -6-50
+    -5  1351  -724
+    5  334-7  10]
+NO_REP[-5124321
+    23421-72-6-50
+    -51351-724
+    534-710]
+RTM[x_  x_x_x_xx  x_xxx_
+    xx  x_x_x_xx  x_x_x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x__x_]
+SCL_DEG[-5-6-712345]
+SCL_SEM[2 2 1 2 2 1 2]
+

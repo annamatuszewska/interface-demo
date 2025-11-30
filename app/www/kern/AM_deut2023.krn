@@ -1,0 +1,134 @@
+!!!OTL: 1748b. Mustkantenspiel.
+!!!ARE: Europa, Mitteleuropa, Deutschland, Schlesien, Thueringen
+!!!SCT: E1748A
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M2/4	*
+*k[f#]	*
+*G:	*
+!LO:TX:a:t=Mäßig geschwind.	!
+!LO:TX:a:t=Aus Schleſien. Erk I, 2, 22. Auch in Thüringen gekannt.	!
+{8d	(Einʒelne.)_Jch
+=1	=1
+8g	bin
+8g	ein
+8b	Mu-
+8b	-ſi-
+=2	=2
+4dd	-kan-
+8b}	-te
+{8b	und
+=3	=3
+8cc	komm
+8cc	aus
+8a	Schwaben-
+8a	.
+=4	=4
+4g	-land.
+8r}	.
+{8d	(Chor.)_Wir
+=5	=5
+8g	ſind
+8g	auch
+8b	Mu-
+8b	-ſi-
+=6	=6
+4dd	-kan-
+8b}	-ten
+{8b	und
+=7	=7
+8cc	komm'n
+8cc	aus
+8a	Schwabenland.
+8a	.
+=8	=8
+4g	.
+8r}	.
+!LO:TX:a:t=Einzelne.	!
+{8b	Jch
+=9	=9
+4cc	kann
+4a	auch
+=10	=10
+4b	bla-
+8g}	-ſen,
+!LO:TX:a:t=Chor.	!
+{8b	wir
+=11	=11
+8cc	kön-
+8cc	-nen
+4a	auch
+=12	=12
+4b	bla-
+8g	-ſen
+8r}	.
+=13	=13
+!LO:TX:a:t=Einzelne.	!
+{4cc	die
+4a	Trom-
+=14	=14
+4b/	-pe-
+8g	-te,
+8r}	.
+=15	=15
+!LO:TX:a:t=Chor.	!
+{4cc	die
+4a	Trom-
+=16	=16
+4b	-pe-
+8g}	-te
+=||	=||
+!LO:TX:a:t=Einzelne.	!
+{8d	Teng-
+=17	=17
+8.g	-teng-
+16g	-te-
+8g	-reng,
+8b	teng-
+=18	=18
+8.dd	-teng-
+16dd	-te-
+8dd}	-reng,
+{8b	teng-
+=19	=19
+8.cc	-teng-
+16cc	-te-
+!LO:TX:a:t=Vom Chor wiederholt.	!
+8cc	-reng,
+8a	teng-
+=20	=20
+4g	-teng.
+8r}	.
+{8d	Teng-
+=21	=21
+8.g	-teng-
+16g	-te-
+8g	-reng,
+8b	teng-
+=22	=22
+8.dd	-teng-
+16dd	-te-
+8dd}	-reng,
+{8b	teng-
+=23	=23
+8.cc	-teng-
+16cc	-te-
+8cc	-reng,
+8a	teng-
+=24	=24
+4g	-teng.
+8r}	.
+==	==
+!!!AGN: Scherz -, Spiel - Lied, Musikantenspiel
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Scherz-, Spiel- und Spottlieder.
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn745177999/iview2/phys_0538.iview2?x=-449.8344612962892&y=-24.8181194413919&scale=0.47549036216460333&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/08/01
+*-	*-

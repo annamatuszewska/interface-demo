@@ -1,0 +1,108 @@
+!!!OTL: 725. Der Polen Mailied.
+!!!COM: Volkslied
+!!!ARE: Europa, Mitteleuropa, Deutschland; Polen
+!!!SCT: B0725
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M3/4	*
+*k[]	*
+*C:	*
+=1	=1
+!LO:TX:a:t=Ʒiemlich raſch. Tempo der Maſurka.	!
+{8.g	Brü-
+16g	-der,
+4.ee	laßt
+8dd	uns
+=2	=2
+8cc	gehn
+8e	ʒu-
+4a	-ſam-
+4g}	-men
+=3	=3
+{8.g	in
+16g	des
+4a	Frühlings
+4b	.
+=4	=4
+8cc	Blu-
+8dd	-men-
+4ee	-hai-
+4cc}	-ne!
+=5	=5
+{8.g	Laſ-
+16g	-ſet
+4.ee	un-
+8dd	-ſ're
+=6	=6
+8cc	Her-
+8e	-ʒen
+4a	flam-
+4g}	-men
+=7	=7
+{8.g	auf
+16g	in
+4a	ſe-
+4b	-li-
+=8	=8
+8cc	-gem
+8dd	Ver-
+4ee	-ei-
+4cc}	-ne!
+=9	=9
+{8.aa	Lie-
+16gg	-ber
+2dd	Mai,
+=10	=10
+8.ff	hol-
+16ee	-der
+2cc}	Mai!
+=11	=11
+{8.ee	Winters
+16dd	.
+4a	Herrſchaft
+4b	.
+=12	=12
+8.cc	iſt
+16dd	vor-
+(4ee	-bei!
+4ff)}	.
+=13	=13
+{8.aa	Lie-
+16gg	-ber
+2dd	Mai,
+=14	=14
+8.ff	hol-
+16ee	-der
+2cc}	Mai!
+=15	=15
+{8.ee	Win-
+16dd	-ters
+4a	Herrſchaft
+4b	.
+=16	=16
+8.cc	iſt
+16ee	vor-
+2cc}	-bei.
+==	==
+!!!AGN: Freiheits - Lied, politisch
+!!!GTL: Auslaendische Weisen, die in Deutschland gesungen wurden
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Poln. Volksmelodie.
+!!@@COMMENT:"Text von Aug. v. Drake.* Hier nach Schanʒ und Parucker, deuſches Liederb. Leipʒig 1848
+!!S. 366 und "Liederbuch für deutſche Studenten". Halle 1852. - Das wahrſcheinlich um 1830
+!!ſchon entſtandene Lied wurde in Deutſchland 1848 u. 49 viel geſungen.
+!!* Aug. Drake, geb. ʒu Braunſchweig 17. Juni 1789, lebte um 1830 und ſpäter in Warſchau."
+!!@@END:
+!!!Text: Aug. von Drake
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n575/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/18/07
+*-	*-

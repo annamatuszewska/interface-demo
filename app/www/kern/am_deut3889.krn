@@ -1,0 +1,114 @@
+!!!OTL: Sommerlied.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0142
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/2; 6/2
+*M4/2	*
+*met(c|)	*
+*clefF3	*
+*k[]	*
+*C:ion	*
+=1	=1
+!LO:TX:a:t=jon.	!
+1ryy	.
+2ryy	.
+{2C	Hertʒ-
+=2	=2
+2C	-lich
+2C	thut
+2E	mich
+2C	er-
+=3	=3
+*M6/2	*
+1G	-frew-
+1G;}	-en
+{1c	die
+=4	=4
+1B	frö-
+2G	-lich
+1A	ſom-
+2G	-mer-
+=5	=5
+*M4/2	*
+1E;	-ʒrit,
+2r}	.
+{2C	All
+=6	=6
+2G	mein
+2A	ge-
+2B	-blüt
+2G	ver-
+=7	=7
+*M6/2	*
+1c	-new-
+1B}	-en,
+!LO:TX:a:t=*	!
+{1A	der
+=8	=8
+1G	Mey
+2E	vil
+!LO:TX:a:t=**	!
+1F	wol-
+2D	-luſt
+=9	=9
+*M4/2	*
+1C;	geit,
+2r}	.
+{2C	die
+=10	=10
+2G	Lerch
+2G	thut
+2F	ſich
+2E	er-
+=11	=11
+*M6/2	*
+1F	-ſchwingen
+1E;}	.
+{1C	mit
+=12	=12
+1E	j-
+2A	-rem
+1G	hel-
+2F	-len
+=13	=13
+*M4/2	*
+1D;}	ſchal,
+{1A	Lieb-
+=14	=14
+2G	-lich
+2G	die
+2F	vög-
+2E	-lein
+=15	=15
+*M6/2	*
+1C	ſin-
+1D}	-gen,
+{1A	vor-
+=16	=16
+1G	-aus
+2E	die
+1F	nach-
+2D	-ti-
+=17	=17
+0.C/ll}	-gal.
+==	==
+!!!GTL: Liebeslieder
+!!!AGN: Romanze, Ballade, Lied
+!! G Rhaw, Bicinia. Viteb. 1545. Tom. I. No. 91. Von Boehme
+!!    "rhythmisch gegliedert".
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT:"Im Original sind die Noten bei * und *« Semibreven. Ich habe die Melodie nach ihrem Rhythmus gegliedert, nicht taktirt. 
+!! Moderne Uebertragung s-No. 113. — Text eben daher. [...]"
+!!@@END:
+!!!RDF**kern: l = terminal long
+!!!AMD: Ionian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0310.iview2?x=-2231.2783251231526&y=411.2827586075291&scale=0.2314709236031927&rotation=0&layout=singlePageLayout&logicalDiv=log_0009
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/26/02
+*-	*-

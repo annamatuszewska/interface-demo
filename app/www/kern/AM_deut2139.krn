@@ -1,0 +1,115 @@
+!!!OTL: 1949. Ein Christlied der Hirten mit Echo.
+!!!ODT: 1623
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: E1949
+!!!TXL: @@DE, (@@LAT)
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M4/4	*
+*met(c)	*
+*k[b-e-]	*
+*g:	*
+=1	=1
+!LO:TX:a:t=Chor.	!
+!LO:TX:a:t=1623.	!
+{4b-/	Als
+8a	ich
+8g	bei
+4.f	mei-
+8f	-nen
+=2	=2
+4.g	Scha-
+8a	-fen
+2b-}	wacht,
+=3	=3
+!LO:TX:a:t=Echo.	!
+{4b-	als
+8a	ich
+8g	bei
+4.f	mei-
+8f	-nen
+=4	=4
+4.g	Scha-
+8a	-fen
+2b-}	wacht,
+=5	=5
+!LO:TX:a:t=Chor.	!
+{4b-/	ein
+8a	En-
+8g	-gel
+4.f	mir
+8f	die
+=6	=6
+4.g	Bot-
+8a	-ſchaft
+2b-}	bracht.
+=7	=7
+!LO:TX:a:t=Echo.	!
+{4b-	ein
+8a	En-
+8g	-gel
+4.f	mir
+8f	die
+=8	=8
+4.g	Bot-
+8a	-ſchaft
+2b-	bracht.
+=9	=9
+4r}	.
+!LO:TX:a:t=Chor.	!
+{4b-/	Des
+4.a	bin
+8a	ich
+=10	=10
+2g	froh,
+!LO:TX:a:t=Echo.	!
+4.a	bin
+8a	ich
+=11	=11
+2g}	froh,
+!LO:TX:a:t=Chor.	!
+{4b-	froh,
+4cc	froh,
+=12	=12
+2dd	froh,
+!LO:TX:a:t=Echo.	!
+4b-	o,
+4cc	o,
+=13	=13
+2dd}	o!
+!LO:TX:a:t=Chor.	!
+{4dd	Be-
+8cc	-ne-
+8b-	-di-
+=14	=14
+4a	-ca-
+4g	-mus
+4a	Do-
+4f#i	-mi-
+=15	=15
+2g}	-no,
+{4dd	be-
+!LO:TX:a:t=Chor.	!
+8cc	-ne-
+8b-	-di-
+=16	=16
+4a	-ca-
+4g	-mus
+4a	Do-
+4f#i	-mi-
+=17	=17
+1g;}	-no!
+==	==
+!!!AGN: geistlich, Fest - Lied, Weihnachten
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!GTL: Geistliche Lieder. 1. Christliche Festlieder: a) Weihnachtskreis (Advent, Weihnachten, Neujahr und Dreikoenigstag).
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn745177999/iview2/phys_0658.iview2?x=188.9681574111819&y=1347.9923460329883&scale=0.7014306698522895&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/09/01
+*-	*-

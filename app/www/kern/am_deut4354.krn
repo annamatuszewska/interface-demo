@@ -1,0 +1,122 @@
+!!!OTL: Psalmlied. / (Nach Pasalm 130 von Dr. Martin Luther)
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0626
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/1; 6/1
+*M6/1	*
+*met(c|)	*
+*clefC4	*
+*k[]	*
+*E:phr	*
+!LO:TX:a:t=phrygian	!
+!LO:TX:a:t=P:0B in the source:problem	!
+!LO:N:vis=0	!
+{1B	Aus
+=1	=1
+*M4/1	*
+1E	tiefſer
+1B	.
+1c	nott
+1B	ſchrey
+=2	=2
+1G	ich
+1A	ʒu
+1B	dyr,
+2r}	.
+{2B	Herr
+=3	=3
+1c	Gott
+1d	er-
+1c	-hör
+1A	mein
+=4	=4
+*M6/1	*
+*lig	*
+0G	ruf-
+0F	.
+*Xlig	*
+1E}	-fen,}
+{1B	Deyn
+=5	=5
+*M4/1	*
+1E	gne-
+1B	-dig
+1c	oh-
+1B	-ren
+=6	=6
+1G	ker
+1A	ʒu
+1B	myr,
+2r}	.
+{2B	vnd
+=7	=7
+1c	mei-
+1d	-ner
+1c	bitt
+1A	ſie
+=8	=8
+*M6/1	*
+*lig	*
+0G	of-
+0F	.
+*Xlig	*
+1E	-fen,}
+2r}	.
+{2A	Denn
+=9	=9
+*M4/1	*
+1G	ſo
+1c	du
+1B	willt
+2A	das
+1d	ſe-
+=10-	=10-
+.	.
+2c	.
+1B	-hen
+1A	an,
+2r}	.
+{2c	was
+=11	=11
+1B	ſund
+1c	vnd
+1d	vn-
+1G	-recht
+=12	=12
+*lig	*
+2B	iſt
+2c	.
+*Xlig	*
+1A	ge-
+1G	-than,
+2r}	.
+{2G	wer
+=13	=13
+1c	kan
+1B	Herr
+1A	fur
+1E	dyr
+=14	=14
+*M6/1	*
+*lig	*
+0G	blei-
+0F	.
+*Xlig	*
+1G/ll}	-ben.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Luth Gsgb 1524
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Phrygian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0807.iview2?x=113.63509606070716&y=1307.7359814192168&scale=0.7106933083589261&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/25/03
+*-	*-

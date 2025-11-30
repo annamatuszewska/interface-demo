@@ -1,0 +1,36 @@
+ERK
+CUT[ET FRAD DE KENENK GENZT DEM REIN]
+REG[Europa, Mitteleuropa, Deutschland; Rumaenien, Siebenbuergen]
+TRD[]
+FKT[]
+SIG[E0042H]
+KEY[E0042H  08  G 4/4]
+MEL[333  -6_.-3-6_-7_  -6__0
+    333  2_2_3_2_  1__0
+    555  1_.14_3_  2__0
+    -6-5-5  3-51_3_.2  1__0
+    555  1_.14_3_  2__0
+    -6-5-5  -3-51_3_.2  1__0 //]
+BEM[]
+MEL_SEM[0 0 -7 -5 5 2 -2 7 0 0 -2 0 2 -2 -2 7 0 0 -7 0 5 -1 -2 -5 -2 0 9 -9 5 4 -2 -2 7 0 0 -7 0 5 -1 -2 -5 -2 0 -3 3 5 4 -2 -2]
+MEL_RAW[333  -6-3-6-7  -60
+    333  2232  10
+    555  1143  20
+    -6-5-5  3-5132  10
+    555  1143  20
+    -6-5-5  -3-5132  10]
+NO_REP[3-6-3-6-7-60
+    323210
+    514320
+    -6-53-513210
+    514320
+    -6-5-3-513210]
+RTM[xxx  x_.xx_x_  x__x
+    xxx  x_x_x_x_  x__x
+    xxx  x_.xx_x_  x__x
+    xxx  xxx_x_.x  x__x
+    xxx  x_.xx_x_  x__x
+    xxx  xxx_x_.x  x__x]
+SCL_DEG[-3-5-6-712345]
+SCL_SEM[3 2 2 1 2 2 1 2]
+

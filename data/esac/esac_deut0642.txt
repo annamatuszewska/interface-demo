@@ -1,0 +1,28 @@
+ERK
+CUT[IN DER EICHE DA WOHNET MEIN LIEBCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Ost - Friesland]
+TRD[]
+FKT[]
+SIG[E0049A]
+KEY[E0049A  08  G 4/4]
+MEL[12  3_333_23  4_2_0_
+    23  4_444_34  5_3_0_
+    34  5_554321  6_6_6_
+    +16  5_335_44  3__. //]
+BEM[]
+MEL_SEM[2 2 0 0 0 -2 2 1 -3 0 2 1 0 0 0 -1 1 2 -3 0 1 2 0 0 -2 -1 -2 -2 9 0 0 3 -3 -2 -3 0 3 -2 0 -1]
+MEL_RAW[12  333323  420
+    23  444434  530
+    34  5554321  666
+    +16  533544  3]
+NO_REP[12323420
+    23434530
+    34543216
+    +1653543]
+RTM[xx  x_xxx_xx  x_x_x_
+    xx  x_xxx_xx  x_x_x_
+    xx  x_xxxxxx  x_x_x_
+    xx  x_xxx_xx  x__.]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

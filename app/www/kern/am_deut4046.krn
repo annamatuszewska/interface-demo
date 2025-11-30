@@ -1,0 +1,108 @@
+!!!OTL: Weingruss.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0319
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/1	*
+*met(C|3)	*
+*clefC4	*
+*k[]	*
+*D:dor	*
+=1	=1
+!LO:TX:a:t=dor.	!
+1ryy	.
+1ryy	.
+{1A	Nun
+=2	=2
+!LO:TX:a:t=P:coloured notes:problem	!
+1A	grüß
+!LO:TX:a:t=P:coloured notes:problem	!
+1A	dich
+!LO:TX:a:t=P:coloured notes:problem	!
+2B	gott,
+!LO:TX:a:t=P:coloured notes:problem	!
+2B	du
+=3	=3
+!LO:N:vis=0	!
+1c	ed-
+2c	-ler
+!LO:N:vis=0	!
+1c}	ſafft,
+{2A	[und
+=4	=4
+!LO:TX:a:t=P:coloured notes:problem	!
+1G	ha-
+!LO:TX:a:t=P:coloured notes:problem	!
+1G	-ſtu
+!LO:TX:a:t=P:coloured notes:problem	!
+2A	gu-
+!LO:TX:a:t=P:coloured notes:problem	!
+2B	-gel
+=5	=5
+0c	fun-
+1A\ll;	-den]
+=6||	=6||
+1r	.
+1r}	.
+{1G	du
+=7	=7
+!LO:TX:a:t=P:coloured notes:problem	!
+1A	gibſt
+!LO:TX:a:t=P:coloured notes:problem	!
+1c	vns
+!LO:TX:a:t=P:coloured notes:problem	!
+2B	freu-
+!LO:TX:a:t=P:coloured notes:problem	!
+2A	-den,
+=8	=8
+!LO:N:vis=0	!
+1G	muet
+2E	vnd
+!LO:N:vis=0	!
+1F}	krafft,
+{2D	[vnd
+=9	=9
+1E	ha-
+1F	-ſtu
+2G	gu-
+2G	-gel,
+=10	=10
+1r	.
+1r}	.
+{1E	vnd
+=11	=11
+1F	ha-
+1G	-ſtu
+2A	gu-
+2A	-gel,
+=12	=12
+1r	.
+1r}	.
+{1c	vnd
+=13	=13
+1B	ha-
+1A	-ſtu
+1G	gu-
+=14-	=14-
+!LO:TX:a:t=P:coloured notes:problem	!
+1F	-gel
+0G	fun-
+!LO:TX:a:t=P:coloured notes:problem	!
+=15	=15
+0.D/ll}	-den.]
+==	==
+!!!GTL: Trink. und Zechlieder, incl. Fastnacht- u. Martinslieder
+!!!AGN: Romanze, Ballade, Lied, Trinklied
+!! Joh. Ott 1534 No. 35
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0471.iview2?x=-1625.8563452843127&y=1586.7657235586084&scale=0.28036994991815867&rotation=0&layout=singlePageLayout&logicalDiv=log_0012
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/13/03
+*-	*-

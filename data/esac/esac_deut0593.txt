@@ -1,0 +1,28 @@
+ERK
+CUT[DA DRUNTEN IM GAERTELEIN]
+REG[Europa, Mitteleuropa, Deutschland, Wetzlar, Dutenhofen]
+TRD[]
+FKT[]
+SIG[E0009A]
+KEY[E0009A  16  G 6/8]
+MEL[-5_  1_.23_4_3_2_  1__.0__
+    2_  2__3_5_4_3_  2__.0__
+    1_  3__565_.443  2_2_5_3_.232
+    1_1_.23_3_6_  5__453__ //]
+BEM[]
+MEL_SEM[5 2 2 1 -1 -2 -2 2 0 2 3 -2 -1 -2 -2 4 3 2 -2 -2 0 -1 -2 0 5 -3 -2 2 -2 -2 0 2 2 0 5 -2 -2 2 -3]
+MEL_RAW[-5  123432  10
+    2  23543  20
+    1  3565443  2253232
+    112336  5453]
+NO_REP[-512343210
+    2354320
+    1356543253232
+    12365453]
+RTM[x_  x_.xx_x_x_x_  x__.x__
+    x_  x__x_x_x_x_  x__.x__
+    x_  x__xxx_.xxx  x_x_x_x_.xxx
+    x_x_.xx_x_x_  x__xxx__]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

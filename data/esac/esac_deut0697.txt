@@ -1,0 +1,36 @@
+ERK
+CUT[ES GIENG EIN WACKRES MAEDCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Marburg]
+TRD[]
+FKT[]
+SIG[E0071C]
+KEY[E0071C  16  G 2/4]
+MEL[-5_  1_1_3_5_  1_3_3_
+    5_  5_4_4_3_  3_2_0_
+    5_  5_6_4_2_  1_3_3_
+    3_  3_2_2_34  6_5_5_
+    5_  5_6_4_2_  1_3_3_
+    3_  5_5_6_5_  3__. //]
+BEM[]
+MEL_SEM[5 0 4 3 -7 4 0 3 0 -2 0 -1 0 -2 5 0 2 -4 -3 -2 4 0 0 0 -2 0 2 1 4 -2 0 0 0 2 -4 -3 -2 4 0 0 3 0 2 -2 -3]
+MEL_RAW[-5  1135  133
+    5  5443  320
+    5  5642  133
+    3  32234  655
+    5  5642  133
+    3  5565  3]
+NO_REP[-513513
+    54320
+    564213
+    323465
+    564213
+    35653]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_xx  x_x_x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x__.]
+SCL_DEG[-5123456]
+SCL_SEM[5 2 2 1 2 2]
+

@@ -1,0 +1,115 @@
+!!!OTL: Der grimme Tod.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0649
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c|)	*
+*k[]	*
+*d:dor	*
+=1	=1
+!LO:TX:a:t=dor.	!
+{1a	Der
+2a	grim-
+2a	-mig
+=2	=2
+2g	Tod
+2a	mit
+2f	ſei-
+2e	-nem
+=3	=3
+1d}	Pfeil
+{1a	thut
+=4	=4
+2cc	nach
+2dd	dem
+2a	Le-
+2b/	-ben
+=5	=5
+1cc	ʒie-
+1a}	-len,}
+=6	=6
+{1a	Sein'
+2a	Bo-
+2a	-gen
+=7	=7
+2g	ſcheußt
+2a	er
+2f	ab
+2e	mit
+=8	=8
+1d}	Eil
+{1a	vnd
+=9	=9
+2cc	loſt
+2dd	mit
+2a	ſich
+2b/	nicht
+=10	=10
+1cc	ſpie-
+1a}	-len.}
+=11	=11
+{1cc	Das
+2cc	Le-
+2cc	-ben
+=12	=12
+1a	ſchwindt
+1f	wie
+=13	=13
+2g	Rauch
+2g	im
+1f	Wind,
+=14	=14
+1r}	.
+{1a	kein
+=15	=15
+2a	Fleiſch
+2a	mag
+2g	jm
+2a	ent-
+=16	=16
+(2f	-rin-
+2e)	.
+1d}	-nen,
+=17	=17
+{1a	kein
+2a	gut
+2g	noch
+=18	=18
+1a	ſchatʒ
+1b	findt
+=19	=19
+2cc	bei
+2a	jm
+1g	Platʒ,
+=20	=20
+1r}	.
+!LO:TX:a:t=*	!
+{1dd	du
+=21	=21
+2ee	mußt
+2dd	mit
+2a	jm
+2cc	von
+=22	=22
+1b	hin-
+1a}	-nen.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Paderborner Gsgb 1617 S. 328
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT:"* Die Schlußzeile der Mel. ist musikalisch richtiger (damit das Ende der Mel. dorisch werbe)
+!! um eine Quinte tiefer zu setzen, wie ich sie auch in einigen kathol. Singbüchern fand."
+!!QQEND:
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0830.iview2?x=-495.6391625615763&y=797.5083743785508&scale=0.4629418472063854&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/26/03
+*-	*-

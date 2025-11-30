@@ -1,0 +1,118 @@
+!!!OTL: 511. Wanderlied.
+!!!ARE: Europa, Mitteleuropa, Deutschland, Rheinland; Hochwald; Schweiz
+!!!SCT: B0511
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M3/4	*
+*k[b-]	*
+*F:	*
+=1	=1
+!LO:TX:a:t=Gemüthlich.	!
+{8.a	Lau-
+16a	-e
+8a	Lüf-
+8a	-te
+8g	fühl'
+8a	ich
+=2	=2
+8.ccL	weh-
+16b-J	.
+4b-	-en,
+4r}	.
+=3	=3
+{8.g	gold-
+16a	-ner
+8b-	Frühling
+8cc	.
+8dd	thaut
+8cc	her-
+=4	=4
+2a	-ab.
+4r}	.
+=5	=5
+{8.a	Nach
+16a	der
+8a	Fer-
+8a	-ne
+8g	geht
+8a	mein
+=6	=6
+8.ccL	Stre-
+16b-J	.
+4b-	-ben,
+4r}	.
+=7	=7
+{8.g	rei-
+16a	-chet
+8b-	mir
+8cc	den
+8dd	Wan-
+8cc	-der-
+=8	=8
+2a}	-ſtab!
+{8.cc	Wo
+!LO:N:vis=8	!
+16cc	die
+=9	=9
+4.ee	wei-
+8ee	-ßen
+8dd	Ne-
+8cc	-bel
+=10	=10
+8.ffL	ſtei-
+16ccJ	.
+4cc}	-gen
+{8.cc	um
+16cc	der
+=11	=11
+4.ee	blau-
+8ee	-en
+8dd	Ber-
+8cc	-ge
+=12	=12
+8.ffL	Rei-
+16ccJ	.
+4cc}	-gen,
+{8a	dort-
+8b-	-hin
+=13	=13
+4.cc	geht
+8ff	mein
+8ee	Weg
+8dd	hin-
+=14	=14
+2cc}	-ab!
+{8dd	Rei-
+8dd	-chet
+=15	=15
+4.cc	mit
+8a	den
+8g	Wan-
+8a	-der-
+=16	=16
+2f	-ſtab.
+4r}	.
+==	==
+!!!AGN: Wander - Lied
+!!!GTL: Wanderlieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Mündlich aus der Schweiʒ, vom Rhein und Hochwald. (Bruchweiler 1893. )
+!!@@COMMENT:"Gedicht von Agnes Franʒ (um 1830). Die Anfangsſtrophe hörte ich 1873 von Appenʒeller
+!!Mädchen auf dem Dampfſchiff bei einer Fahrt über den Bodenſee ʒweiſtimmig ſingen und ſchrieb
+!!die Melodie auſ. Später hörte ich das Lied am Rhein und gebe es nach einer Niederſchrift von
+!!H. K. Becker. Nach dem "Singſang'. Liederbuch für Mädchenſchulen von Lehrer K. Seitʒ in Hof,
+!!ſoll die Mel. vom Schwabacher Seminar-Muſiklehrer Chriſtian Hohmann komponirt ſein."
+!!@@END:
+!!!Text: Agnes Franz
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n407/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/11/07
+*-	*-

@@ -1,0 +1,91 @@
+!!!OTL: Osterlied des 15. Jahrhunderts.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0553A
+!!!TXL: @@DE, (@@LAT)
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/1; 6/1
+*M4/1	*
+*met(c|)	*
+*clefC4	*
+*k[]	*
+*D:dor	*
+=1	=1
+!LO:TX:a:t=dor.	!
+{1D	Chriſt
+1A	der
+1E	iſt
+1G	er-
+=2	=2
+*lig	*
+1F	-ſtan-
+1E	.
+*Xlig	*
+0D}	-den
+=3	=3
+{1A	von
+1B	der
+1c	mar-
+1B	-ter
+=4	=4
+*lig	*
+1A	al-
+1G	.
+*Xlig	*
+1A	-le,
+2r}	.
+{2A	deß
+=5	=5
+1d	ſoln
+1B	wir
+1c	al-
+1A	-le
+=6	=6
+*M6/1	*
+*lig	*
+0G	fro
+0F	.
+*Xlig	*
+0E}	ſein,
+=7	=7
+*M4/1	*
+{1D	Chriſt
+1A	wil
+1E	vn-
+1G	-ſer
+=8	=8
+*M6/1	*
+*lig	*
+0F	troſt
+0E	.
+*Xlig	*
+0D}	ſein.
+=9	=9
+*M4/1	*
+{1C	Al-
+1D	-le-
+1E	-lu-
+1D	-ja,
+=10	=10
+1G	Al-
+1A	-le-
+2F	-lu-
+2D	.
+1E	.
+=11	=11
+00D/ll}	-ja.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! H. Finck 1536 No. 1
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0733.iview2?x=-1583.232250273661&y=1440.6689207134768&scale=0.2846028696088022&rotation=0&layout=singlePageLayout&logicalDiv=log_0021
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/20/03
+*-	*-

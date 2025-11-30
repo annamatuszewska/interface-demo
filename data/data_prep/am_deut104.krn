@@ -1,0 +1,113 @@
+!!!OTL:Schifferlied.
+!!!OTL-incipit:ALS WIR JUENGST IN REGENSBURG WAREN
+!!!COM: Volksweise
+!!!ARE: Europa, Mitteleuropa, Deutschland, Bayern
+!!!SCT: F0221B
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M2/4	*
+*k[f#c#]	*
+*D:	*
+=1	=1
+!LO:TX:a:t=Ziemlich schnell.	!
+!LO:TX:a:t=Bayerisches Volkslied.	!
+{4.a	1._Als
+8g	wir
+=2	=2
+(8f#L	jüngſt
+8aJ)	.
+(8ddL	in
+8f#J)	.
+=3	=3
+4a	Regensburg
+8g	.
+8e	.
+=4	=4
+4f#	waren,
+8d	.
+8r}	.
+=5	=5
+{4.a	ſind
+8g	wir
+=6	=6
+(8f#L	ü-
+8aJ)	.
+8dd	-ber
+8f#	den
+=7	=7
+4a	Strudel
+8g	.
+8e	ge-
+=8	=8
+4f#	-fah-
+8d	-ren.
+8r}	.
+=9	=9
+{4d	Da
+(8f#L	war'n
+8aJ)	.
+=10	=10
+4d	vie-
+(8f#L	-le
+8aJ)	.
+=11	=11
+2cc#	Hol-
+=12	=12
+4a	-den
+4r}	.
+=13	=13
+{4cc#	die
+4cc#	mit-
+=14	=14
+4dd	-fah-
+4f#	-ren
+=15	=15
+2a	woll-
+=16	=16
+4f#	-ten.
+4r}	.
+=17	=17
+{4d	Schwäbiſche,
+8f#	.
+8a	.
+=18	=18
+4d	bayernſche
+8f#	.
+8a	.
+=19	=19
+(8b\L	Dirndel,
+8gJ)	.
+8dd	.
+8b	juch-
+=20	=20
+4a	-he!
+4r}	.
+=21	=21
+{4cc#	muß
+4cc#	der
+=22	=22
+4dd	Schiffs
+4f#	mann
+=23	=23
+(4a	fah-
+8ff#L	.
+8eeJ)	.
+=24	=24
+4dd	-ren.
+4r}	.
+==	==
+!!!AGN: Scherz - Lied, Liebe; Schiffer - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Text: Volkslied
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 129
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/03/12
+*-	*-

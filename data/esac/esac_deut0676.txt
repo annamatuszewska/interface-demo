@@ -1,0 +1,28 @@
+ERK
+CUT[ES STEHT EIN SCHLOSS IN OESTERREICH]
+REG[Europa, Mitteleuropa, Deutschland, Pommern, Tantow, Rosow]
+TRD[]
+FKT[]
+SIG[E0061G]
+KEY[E0061G  08  D 3/4]
+MEL[1  135_42  133_2
+    1  135_43  3_2_0
+    5  5+3+37+13  3+2+2_0
+    +1  76546-7  2_1_0 //]
+BEM[]
+MEL_SEM[0 4 3 -2 -3 -2 4 0 -2 -2 0 4 3 -2 -1 0 -2 5 0 9 0 -5 1 -8 0 10 0 -2 -1 -2 -2 -2 4 -10 3 -2]
+MEL_RAW[1  13542  1332
+    1  13543  320
+    5  5+3+37+13  3+2+20
+    +1  76546-7  210]
+NO_REP[13542132
+    1354320
+    5+37+13+20
+    +176546-7210]
+RTM[x  xxx_xx  xxx_x
+    x  xxx_xx  x_x_x
+    x  xxxxxx  xxx_x
+    x  xxxxxx  x_x_x]
+SCL_DEG[-71234567+1+2+3]
+SCL_SEM[1 2 2 1 2 2 2 1 2 2]
+

@@ -1,0 +1,24 @@
+ERK
+CUT[ES RITT EIN LANDSKNAB UEBER FELD]
+REG[Europa, Mitteleuropa, Deutschland, Koenigsberg, Uderwangen]
+TRD[]
+FKT[]
+SIG[E0042I]
+KEY[E0042I  08  F 6/8]
+MEL[1  3_13_4  5_.5_
+    +1  5_34_3  3_.2_0  1_35_
+    +1  5_34_3  2_.1_ //]
+BEM[]
+MEL_SEM[4 -4 4 1 2 0 5 -5 -3 1 -1 0 -2 -2 4 3 5 -5 -3 1 -1 -2 -2]
+MEL_RAW[1  3134  55
+    +1  5343  320  135
+    +1  5343  21]
+NO_REP[131345
+    +1534320135
+    +1534321]
+RTM[x  x_xx_x  x_.x_
+    x  x_xx_x  x_.x_x  x_xx_
+    x  x_xx_x  x_.x_]
+SCL_DEG[12345+1]
+SCL_SEM[2 2 1 2 5]
+

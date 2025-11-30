@@ -1,0 +1,28 @@
+ERK
+CUT[VON GOLD LIESS ER EINE BRUECKE BAUN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Joachimstal]
+TRD[]
+FKT[]
+SIG[E0001C]
+KEY[E0001C  16  F 4/4]
+MEL[-5__  1__1__3__5__  +1__7_6_5__
+    +1_.+1  6__4__2__5__  3___0__
+    3__  5_4_4__2__2__  3__3_4_5__
+    3_2_  1_.11_.13_2_1_2_  1___0__ //]
+BEM[]
+MEL_SEM[5 0 4 3 5 -1 -2 -2 5 0 -3 -4 -3 5 -3 0 3 -2 0 -3 0 2 0 1 2 -3 -2 -2 0 0 0 4 -2 -2 2 -2]
+MEL_RAW[-5  1135  +1765
+    +1+1  6425  30
+    3  54422  3345
+    32  11113212  10]
+NO_REP[-5135+1765
+    +1642530
+    3542345
+    321321210]
+RTM[x__  x__x__x__x__  x__x_x_x__
+    x_.x  x__x__x__x__  x___x__
+    x__  x_x_x__x__x__  x__x_x_x__
+    x_x_  x_.xx_.xx_x_x_x_  x___x__]
+SCL_DEG[-51234567+1]
+SCL_SEM[5 2 2 1 2 2 2 1]
+

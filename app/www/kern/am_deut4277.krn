@@ -1,0 +1,73 @@
+!!!OTL: Alter Ostergesang. / (12. Jahrh.) / Dritte Lesart.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0552C
+!!!TXL: @@DE, (@@LAT)
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/1; 6/1
+*M4/1yy	*
+*clefC4	*
+*k[]	*
+*D:dor	*
+=1	=1
+!LO:TX:a:t=dor.	!
+{0A	Chriſt
+1G	iſt
+1A	er-
+=2	=2
+0c	-ſtan-
+0A}	-den
+=3||	=3||
+{1A	von
+1F	der
+1G	Mar-
+1A	-ter
+=4	=4
+0F	al-
+0D}	-le,
+=5||	=5||
+{1F	deß
+2G	ſolln
+2G	wir
+1D	al-
+1C	-le
+=6	=6
+*M6/1	*
+*lig	*
+0G	froh
+0A	.
+*Xlig	*
+0F}	ſeyn,
+=7||	=7||
+*M4/1	*
+{1A	Chriſt
+1F	will
+1G	vn-
+1A	-ſer
+=8	=8
+*M6/1	*
+*lig	*
+0F	Troſt
+0D	.
+*Xlig	*
+0E}	ſeyn.
+=9||	=9||
+{1C	Ky-
+2D	-ri-
+2D	-e-
+0E	-lei-
+0D/ll}	-ſon.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Peter Schoeffer 1513 No. 62
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0731.iview2?x=-494.5591133004925&y=472.1975369080901&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+*-	*-

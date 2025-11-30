@@ -1,0 +1,96 @@
+!!!OTL: Roth Roeslein.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0146
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/2; 3/2
+*M4/2	*
+*met(c|)	*
+*clefF4	*
+*k[]	*
+*G:mix	*
+=1	=1
+!LO:TX:a:t=mixol.	!
+1ryy	.
+2ryy	.
+{2G	Der
+=2	=2
+2G	May
+2G	trit
+2E	rhein
+2E	mit
+=3	=3
+1C	freu-
+1C	-den,
+=4-	=4-
+*clefC3yy	*
+*M3/2	*
+*met(C|3)	*
+2r	.
+2r}	.
+!LO:N:vis=1	!
+{2f	hin
+=5	=5
+!LO:N:vis=0	!
+1f	fert
+!LO:N:vis=1	!
+2f	der
+=6	=6
+!LO:N:vis=0	!
+1f	win-
+!LO:N:vis=1	!
+2f	-ter
+=7	=7
+!LO:N:vis=0	!
+1.c;	kalt,
+=8	=8
+2r	.
+2r}	.
+!LO:N:vis=1	!
+{2c	Die
+=9	=9
+!LO:N:vis=0	!
+1c	blüm-
+!LO:N:vis=1	!
+2c	-lein
+=10	=10
+!LO:N:vis=0	!
+1B	auff
+!LO:N:vis=1	!
+2B	der
+=11	=11
+!LO:N:vis=1	!
+2c	hei-
+!LO:N:vis=0	!
+1B	.
+=12	=12
+!LO:N:vis=0	!
+1.A;}	-den
+=13-	=13-
+*M4/2	*
+*met(c|)	*
+{1B	blü-
+2c/	-en
+1B	gar
+=14-	=14-
+.	.
+2A	ma-
+1G	-nig-
+=15	=15
+0F/ll}	-falt.
+==	==
+!!!GTL: Liebeslieder
+!!!AGN: Romanze, Ballade, Lied
+!! Rhaw, Bicinia. 1545 Tom. I. No. 92.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Mixolydian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0315.iview2?x=-2231.2783251231526&y=998.8295566316228&scale=0.2314709236031927&rotation=0&layout=singlePageLayout&logicalDiv=log_0009
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/26/02
+*-	*-

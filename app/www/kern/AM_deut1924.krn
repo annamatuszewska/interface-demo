@@ -1,0 +1,72 @@
+!!!OTL: 1582. Nachtwaechterruf aus Thueringen und Sachsen.
+!!!ARE: Europa, Mitteleuropa, Deutschland, Thueringen; Sachsen
+!!!SCT: E1582
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M4/4	*
+*met(c)	*
+*k[]	*
+*C:	*
+=1	=1
+!LO:TX:a:t=Langſam, im Sprechton.	!
+!LO:TX:a:t=Bis 1850 gehört.	!
+{4.c	Hört
+8c	ihr
+4g	Herrn
+4g	und
+=2	=2
+4e	laßt
+4g	euch
+4e	ſa-
+4c;}	-gen
+=3	=3
+{4c	unſ-
+4c	-re
+4.g	Glock'
+8g	hat
+=4	=4
+4e	Ʒehn
+4g	ge-
+4e	-ſchlagen;
+8c;}	.
+{8c	bewahrt
+=5	=5
+4c	.
+4c	das
+4g	Feu-
+4g	-er
+=6	=6
+4e	und
+4g	das
+4.c}	Licht,
+{8c	daß
+=7	=7
+4c	un-
+4c	-ſerm
+4.g	Haus
+8g	kein
+=8	=8
+4e	Schad'
+4g	ge-
+2c;}	-ſchicht!
+=9||	=9||
+{4c	Lo-
+4c	-bet
+4.c	Gott
+8c	den
+=10	=10
+1c;}	Herrn!
+==	==
+!!!AGN: Staende - Lied, Nachtwaechter
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Staendelieder (Berufslieder). 7. Auf andere Beschaeftigungen im Freien [Fuhrleute, Postillons, Nachtwaechter, Bettler, Gauner und Strassenraeuber].
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn745177999/iview2/phys_0415.iview2?x=-2.183608997567262&y=45.17222812818363&scale=0.6468447934588498&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/08/01
+*-	*-

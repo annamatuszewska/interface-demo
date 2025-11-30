@@ -1,0 +1,28 @@
+ERK
+CUT[ES WOLLT EIN MUELLER FRUEH AUFSTEHN]
+REG[Europa, Mitteleuropa, Deutschland, Hochwald, Bruchweiler; Schauren]
+TRD[]
+FKT[]
+SIG[E0058C]
+KEY[E0058C  08  D 4/4]
+MEL[1_  1_3_5_3_  3_.22_
+    2_  2_6_5_4_  4_.33_
+    5_  5_5_3_1_  4_6_6_
+    +1_  7_6_5_3_  2__1_ //]
+BEM[]
+MEL_SEM[0 4 3 -3 0 -2 0 0 0 7 -2 -2 0 -1 0 3 0 0 -3 -4 5 4 0 3 -1 -2 -2 -3 -2 -2]
+MEL_RAW[1  1353  322
+    2  2654  433
+    5  5531  466
+    +1  7653  21]
+NO_REP[13532
+    26543
+    53146
+    +1765321]
+RTM[x_  x_x_x_x_  x_.xx_
+    x_  x_x_x_x_  x_.xx_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x__x_]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

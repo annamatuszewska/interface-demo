@@ -1,0 +1,94 @@
+!!!OTL: Laemmerweide. / II. „Trostgesang in Verfolgung." (Von A. Reussner.)
+!!!SCT: A0056C
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/1; 4/2; 6/2
+*M4/1	*
+*met(c|)	*
+*clefC4	*
+*k[b-]	*
+*d:	*
+{0A	Herr
+=1	=1
+1B-	Jhe-
+1A	-ſu
+1B-	Chri-
+1d	-ſte
+=2	=2
+1c	ſtar-
+1B-	-ckher
+1A;}	Gott,
+{1A	nun
+=3	=3
+1d	hilff
+1d	vns
+1c	yecʒ
+1A	auß
+=4	=4
+1B-	di-
+1G	-ſer
+*lig	*
+0F	not,
+=5	=5
+0c	.
+*Xlig	*
+1r}	.
+{1A	der
+=6	=6
+*M6/2	*
+1c	vß-
+2B-	-gang
+1A	iſt
+2G	ver-
+=7	=7
+*M4/2	*
+*lig	*
+2F	-han-
+2E	.
+1D	.
+*Xlig	*
+=8	=8
+0C;	-den:
+=9-	=9-
+1r}	.
+{1c	der
+=10	=10
+*M4/1	*
+1A	welt
+1A	fürſt
+1B-	mit
+1c	ſein
+=11	=11
+0d	ban-
+0A;}	-den
+=12	=12
+{1r	.
+1d	ſucht
+1c	vns
+1B-	in
+=13	=13
+1A	al-
+1G	-len
+*lig	*
+2F	lan-
+2D	.
+*Xlig	*
+1E	.
+=14	=14
+0D/ll}	-den.
+==	==
+!!!GTL: Balladen und Romanzen (erzählende Volkslieder)
+!!!AGN: Romanze, Ballade, Lied
+!! "Herr Jesu Christe starcker Gott" Melodie: Wolfenbuettler Hs vom Jahr
+!!    1596 (Cod.Aug. 76.13. fol. Bl. 185), vgl. Kommentar zu A0056B!
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0214.iview2?x=-495.6391625615763&y=877.4320197023917&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/19/02
+*-	*-

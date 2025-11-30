@@ -1,0 +1,118 @@
+!!!Xfilter:transpose -t P8
+!!!OTL: Jagdglueck.
+!!!OTL-incipit: ES ZOG EIN JAEGER WOHLGEMUTH
+!!!ARE: Europa, Mitteleuropa, Deutschland, Schwaben
+!!!SCT: Z1101
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M6/8	*
+*k[f#c#]	*
+*D:	*
+!LO:TX:a:t=Vorſänger.	!
+!LO:TX:a:t=Schwäbiſch.	!
+{8a	Es
+=1	=1
+4a	ʒog
+8f#	ein
+4a	Jä-
+8f#	-ger
+=2	=2
+4dd/	wohl-
+8b/	-ge-
+4a	-muth
+8a	mit
+=3	=3
+4dd/	ſei-
+8a	-nem
+4dd/	Roß
+8ee/	und
+=4	=4
+4.ff#/	Hun-
+8ee/	-de,
+8r}	.
+{8a	wollt'
+=5	=5
+4a	ja-
+8f#	-gen
+4a	in
+8f#	dem
+=6	=6
+8dd/L	grü-
+8cc#J	.
+8b/	-nen
+4a	Wald
+8a	in
+=7	=7
+4dd/	küh-
+8a	-ler
+4dd/	Mor-
+8ee/	-gen-
+=8	=8
+4.ff#/	-ſtun-
+8ee/	-de,
+8r}	.
+{8ee/	und
+=9	=9
+4ee/	als
+8dd/	er
+4cc#/	kam
+8ee/	auf
+=10	=10
+8ee/L	grü-
+8ff#J	.
+8dd/	-ne
+4cc#/	Haid,
+8ee/	da
+=11	=11
+4ee/	fand
+8ee/	ſein
+4ff#/	Her-
+8ee/	-ʒe
+=12	=12
+8dd/L	Luſt
+8eeJ	.
+8ff#/	und
+4ee;/}	Freud'!
+!LO:TX:a:t=Alle.	!
+{8dd	Jm
+=13	=13
+4.dd/	Mai-
+4a	-en
+8ff#/	am
+=14	=14
+4.ff#/	Rei-
+4dd/	-gen
+16dd/L	ſich
+16ff#J	.
+=15	=15
+4aa/	freu-
+8ff#/	-en
+8aa/L	al-
+8ggJ	.
+8ff#/	-le
+=16	=16
+4.ee/	Kna-
+8ee/L	-ben
+8ddJ}	.
+{8ee/	und
+=17	=17
+4.ff#/	Mäg-
+4.ee/	-de-
+=18	=18
+[>4.dd/;	-lein!
+4dd/]}	.
+==	==
+!!!AGN: Romanze, Ballade, Jaeger - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ZUCCAL
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: >= above
+!!!GTL: II. Gau- Leuschen.
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11160573?page=217
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/02/04
+*-	*-

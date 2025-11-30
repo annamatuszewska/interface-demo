@@ -1,0 +1,68 @@
+!!!OTL: 987. Der Kirmesbauer. / (Gesellschaftsspiel.)
+!!!ARE: Europa, Mitteleuropa, Deutschland, Brandenburg; Thueringen
+!!!SCT: E0987
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M2/4	*
+*k[f#]	*
+*G:	*
+!LO:TX:a:t=Brandenburgiſch und thüringiſch. Erk I, 3, 29.	!
+!LO:TX:a:t=[Der Kirmesbauer ſitʒt in der Mitte und der Tanʒ in der Runde um ihn hebt an]	!
+{8d	Es
+=1	=1
+8g	fuhr
+8g	ein
+8g	Baur
+8g	ins
+=2	=2
+4g	Holʒ,
+8r}	.
+{8a	es
+=3	=3
+8b	fuhr
+8b	ein
+8b	Baur
+8b	ins
+=4	=4
+4b	Holʒ,
+8r}	.
+{8b	es
+=5	=5
+8dd	fuhr
+8dd	ein
+8dd	Baur
+8dd	ins
+=6	=6
+8dd	Kir-
+8cc	-mes-
+4cc}	-holʒ,
+=7	=7
+{4b^	Ki-
+4b^	-ka-
+=8	=8
+8b^/	-Kir-
+8a	-mesholʒ,
+8a}	.
+{8dd	es
+=9	=9
+8b/	fuhr
+8b/	ein
+8a	Baur
+8a	ins
+=10	=10
+4g	Holʒ.
+8r}	.
+==	==
+!!!AGN: Tanz - Lied, Reigen, Gesellschafts - Spiel
+!!!ONB: ESAC (Essen Associative Code) Database: ERK2
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Tanz- und Spiellieder
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn745177662/iview2/phys_0756.iview2?x=25.14321134096099&y=916.7832118887454&scale=0.6546206717328796&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/12/20
+*-	*-

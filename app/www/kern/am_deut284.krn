@@ -1,0 +1,90 @@
+!!!OTL: Trinkspruch.
+!!!OTL-incipit: IN SANITATATEM OMNIUM
+!!!COM: Studentenweise
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0506
+!!!TXL: @@LAT, (@@DE)
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M3/4	*
+*k[f#]	*
+*G:	*
+!LO:TX:a:t=Solo. Der Chor wiederholt jede Zeile.	!
+!LO:TX:a:t=Kräftig.	!
+{8d	Jn
+=1	=1
+8.g	sa-
+16g	-ni-
+4.g	-ta-
+8b/	-tem,
+=2	=2
+8.b/	om-
+16a	-ni-
+4.a	-um,
+8dd/	ça,
+=3	=3
+4b/	ça!
+4r	.
+8r}	.
+{8d	Jn
+=4	=4
+8.g	sa-
+16g	-ni-
+4.g	-ta-
+8b/	-tem
+=5	=5
+8.b/	vir-
+16a	-gi-
+4.a	-num
+8dd/	ça,
+=6	=6
+4b	ça!
+4r	.
+8r}	.
+=||:	=||:
+{8b	ab
+=7	=7
+8.dd	sen-
+16dd	-ti-
+4.dd	-um,
+8ee	prae-
+=8	=8
+8.dd	-sen-
+16cc/	-ti-
+4.cc/}	-um,
+{8cc/	stric-
+=9	=9
+8.b/	-tis-
+16dd/	-si-
+(4dd/	-me
+8cc/)	.
+8b/	bi-
+=10	=10
+8.b/	-ben-
+16a	-ti-
+4.a}	-um,
+{8dd/	ça
+=11	=11
+*M4/4	*
+8.b/	ça
+16b/	ça
+8.a	ça
+16a	ça
+8g	ça!
+8r	.
+8r}	.
+==:||	==:||
+!!!AGN: Studenten -, Trink - Lied, Trinkspruch
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Studentenlieder
+!!Text: Studentenlied
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 320
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/03/18
+*-	*-

@@ -1,0 +1,95 @@
+!!!OTL: Von den zehn Geboten. / (Geistl. Lied des 15. Jahrh.) / a. Aelteste Lesart.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0621A
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/1	*
+*met(c|)	*
+*clefF4	*
+*k[]	*
+*C:ion	*
+=1	=1
+{1G	Süeſ-
+1G	-ſer
+1A	va-
+1G	-ter
+=2	=2
+1E	her-
+1F	-re
+1G	got,
+2r	.
+2C	ver-
+=3	=3
+1D	-leih
+1E	dʒ
+1F	wir
+1E	er-
+=4	=4
+0G	-chen-
+1D	-nen
+1F	dy
+=5	=5
+1E	ʒe-
+1D	-hen
+1C	pot,
+2r}	.
+{2C	vnd
+=6	=6
+1D	dy
+1D	mit
+1G	wort
+!LO:TX:a:t=*	!
+1F	vnd
+=7	=7
+1E	ver-
+1D	-chen
+1C	al-
+1D	-ʒeit
+=8	=8
+*lig	*
+2BB	lai-
+2GG	.
+1AA	.
+*Xlig	*
+1GG	-ſten,
+2r}	.
+{2C	jn
+=9	=9
+1D	rech-
+1E	-ter
+1C	lieb
+1E	in
+=10	=10
+1G	dei-
+1F	-ner
+1G	güt,
+2r	.
+2E	ſo
+=11	=11
+1F	werd
+1D	wir
+1C	ſäl-
+1BB	-den
+=12	=12
+00C/ll}	reich.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Muenchner Cod 14. Jh.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!@@COMMENT:"Das Original (in Facsimile bei Meister, Kathol. Kirchen!.Beil. 4) steht blos auf 4 Notenlinien
+!! (die untere hier ist wegzudenken). Weil am Rande stark beschnitten, so fehlen Schlüssel und Verzeichnung; bei * ist
+!! ein Schlüsselwechsel eingetreten. Nur mit Hilfe der spätem Drucke war die Melodie glücklich zu entziffern.
+!! Sie stammt jedenfalls mit dem deutschen Texte schon aus dem 14. Jahrh.
+!!@@END:
+!!!AMD: Ionian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0803.iview2?x=-495.6391625615763&y=-1206.1990147815086&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/25/03
+*-	*-

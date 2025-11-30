@@ -1,0 +1,126 @@
+!!!OTL: Siebenbuergisches Jaegerlied.
+!!!OTL-incipit: ICH SCHIESS DEN HIRSCH IM WILDEN FORST
+!!!COM: Ges. v. H. Langer
+!!!ARE: Europa, Mitteleuropa, Deutschland; Rumaenien, Siebenbuergen
+!!!SCT: F0665
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+!! Mixed meters:  2/4; 6/8
+*M2/4	*
+*k[b-]	*
+*F:	*
+!LO:TX:a:t=Kräftig und frisch.	!
+{8a	1._Jch
+=1	=1
+8.a	ſchieß'
+16d	den
+8.d	Hirſch
+16d	im
+=2	=2
+8.d	wil-
+16d	-den
+8.d}	Forſt,
+{16A	im
+=3	=3
+8.d	tie-
+16e	-fen
+8.f	Wald
+16e	das
+=4	=4
+4d	Reh,
+8r	.
+16r}	.
+{16a	den
+=5	=5
+8.a	Ad-
+16d	-ler
+8.d	auf
+16d	der
+=6	=6
+8.d	Klip-
+16d	-pe
+8.d}	Horſt,
+{16d	die
+=7	=7
+8.c	En-
+16c	-te
+8.a	auf
+16g	dem
+=8	=8
+4f	See;
+8r	.
+16r}	.
+{16a	kein
+=9	=9
+8.a	Ort,
+16d	der
+8.dd/	Schutz
+16b-/	ge-
+=10	=10
+8.a	-wäh-
+16f	-ren
+8.d}	kann,
+{16a	wo
+=11	=11
+8.a	mei-
+16d	-ne
+8.dd/	Büch-
+16b-/	-se
+=12	=12
+4a	zielt.
+8r}	.
+{8c	Und
+=13	=13
+*M6/8	*
+!LO:TX:a:t=Ruhiger.	!
+4f	dem-
+8g	-noch
+4a	hab'
+8b-/	ich
+=14	=14
+4dd/	har-
+8cc/	-ter
+4a}	Mann
+{8a	die
+=15	=15
+4a	Lie-
+8g	-be
+4b-/	auch
+8a	ge-
+=16	=16
+4.d	-fühlt,
+4r}	.
+{8c	und
+=17	=17
+4f	den-
+8g	-noch
+4a	hab'
+8b-/	och
+=18	=18
+4dd/	har-
+8cc/	-ter
+4a}	Mann
+{8a	die
+=19	=19
+4a	Lie-
+8g	-be
+4b-/	auch
+8a	ge-
+=20	=20
+4.f	-fühlt.
+4r}	.
+==	==
+!!!AGN: Staende -, Jaeger - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Soldaten- und Jaegerlieder
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 439
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/03/18
+*-	*-

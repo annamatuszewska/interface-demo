@@ -1,0 +1,97 @@
+!!!OTL: 1574. Fuhrmannslied.
+!!!ARE: Europa, Mitteleuropa, Deutschland, Nieder - Bayern, Mittel - Franken
+!!!SCT: E1574
+!!!TXL: @@BAR
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M3/8	*
+*k[b-]	*
+*F:	*
+=1	=1
+!LO:TX:a:t=Mäßig bewegt.	!
+!LO:TX:a:t=Aus Niederbayern, Mittelfranken: Scherer, Volksl. Nr. 62.	!
+{16ff	Bin
+16a	i
+8.cc	net
+16dd	a
+=2	=2
+8cc	lu-
+8b-	-ſti-
+8b-	-ger
+=3	=3
+8a	Fuhr-
+16aL	-manns-
+16b-J	.
+8cc;}	-bue,
+=4	=4
+{16ff	bin
+16a	i
+8.cc	net
+16dd	a
+=5	=5
+8cc	lu-
+8b-	-ſti-
+8b-	-ger
+=6	=6
+4a	Bue!
+8r}	.
+=7	=7
+!LO:TX:a:t=Anhalten.	!
+{8g	Fahr
+8.g	Sta-
+16a	-dl
+=8	=8
+8b-	aus
+16b-/L	Stadl
+16aJ	.
+8g}	ein,
+=9	=9
+!LO:TX:a:t=Langsam.	!
+{8a	fahr
+8.a	Sta-
+16b-	-dl
+=10	=10
+8dd	aus,
+16ccL	Stadl
+16bnJ	.
+8cc;}	ein,
+=11	=11
+!LO:TX:a:t=Lustig.	!
+{(16ffL	ſchaun
+16aJ)	.
+8.cc	mir
+16dd	die
+=12	=12
+8cc	Leut
+8b-	al-
+8b-	-le
+=13	=13
+8a	ʒu,
+16aL	al-
+16b-J	-le
+8cc}	ʒue,
+=14	=14
+{(16ffL	ſchaun
+16aJ)	.
+8.cc	mir
+16dd	die
+=15	=15
+8cc	Leut
+8b-	al-
+8b-	-le
+=16	=16
+4a	ʒue.
+8r}	.
+==	==
+!!!AGN: Staende - Lied, Fuhrmann
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Staendelieder (Berufslieder). 7. Auf andere Beschaeftigungen im Freien [Fuhrleute, Postillons, Nachtwaechter, Bettler, Gauner und Strassenraeuber].
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn745177999/iview2/phys_0408.iview2?x=47.7287043510089&y=909.8879834138788&scale=0.701185927818147&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/03/01
+*-	*-

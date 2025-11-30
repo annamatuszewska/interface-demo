@@ -1,0 +1,136 @@
+!!!Xfilter: transpose -t P8
+!!!OTL: 505. Geleitslied. / [Comitat.]
+!!!COM: F. Mendelssohn
+!!!ODT: 1847
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0505
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[b-]	*
+*F:	*
+!LO:TX:a:t=Mäßig geſchwind.	!
+{8.f	Nun
+16a	ʒu
+8.a	gu-
+16cc	-ter-
+=1	=1
+2cc	-letʒt
+8.a	ge-
+16cc	-ben
+8.cc	wir
+16ff	dir
+=2	=2
+2ff}	jetʒt
+{4ee	auf
+4dd	die
+=3	=3
+4.cc	Wan-
+8cc	-drung
+4dd	das
+4cc	Ge-
+=4	=4
+8.b-L	-lei-
+16aJ	.
+4a}	-te.
+{8.f	Wan-
+16a	-dre
+8.a	mu-
+16cc	-tig
+=5	=5
+2cc	fort,
+8.a	und
+16cc	an
+8.cc	je-
+16ff	-dem
+=6	=6
+2ff}	Ort
+{4ee	ſei
+4dd	dir
+=7	=7
+4.ee	Glück
+8ee	und
+4ee	Heil
+4dd	ʒur
+=8	=8
+8.ddL	Sei-
+16ccJ	.
+4cc}	-te.
+{4cc	Wan-
+4ff	-dern
+=9	=9
+4.ff	müſ-
+8ff	-ſen
+4ee	wir
+4ff	auf
+=10	=10
+8.ggL	Er-
+16eeJ	.
+4cc}	-den
+{4cc	un
+4ff	ter
+=11	=11
+4.ff	Freu-
+8ff	-den
+4ee	und
+4ff	Be-
+=12	=12
+8.ggL	-ſchwer-
+16eeJ	.
+4cc}	-den
+{8.a	geht
+16cc	hin-
+8.cc	-ab,
+16ee-	hin-
+=13	=13
+2ee-	-auf
+8.b-	un-
+16dd	-ſer
+8.dd	Le-
+16gg	-bens-
+=14	=14
+2gg}	-lauf
+{4ff	das
+4dd	iſt
+=15	=15
+4.cc	un-
+8cc	-ſer
+4dd	Loos
+4cc	auf
+=16	=16
+8.b-L	Er-
+16aJ	.
+4a}	-den,
+{4f	das
+4g	iſt
+=17	=17
+4a	un-
+4f	-ſer
+4g	Loos
+4a	auf
+=18	=18
+1cc	Er-
+=19	=19
+2cc;}	-den.
+==	==
+!!!AGN: Abschieds - Lied
+!!!GTL: Abschiedslieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Mendelsſohn. 1847.
+!!@@COMMENT:"Gedicht von Hoffmann v. Fallersleben 1846. Muſik für Männerchor von Mendels-
+!!ſohn, op. 76. Komponirt Ende des Sommers 1847: ſein letʒtes Lied für Männergeſang."
+!!@@END:
+!!!Text: H. von Fallersleben
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n403/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/11/07
+*-	*-

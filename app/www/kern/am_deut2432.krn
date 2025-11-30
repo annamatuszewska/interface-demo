@@ -1,0 +1,128 @@
+!!!OTL: 196. Fruehlingslied.
+!!!COM: Mozart
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0196
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M6/8	*
+*k[f#c#g#]	*
+*A:	*
+!LO:TX:a:t=Sanft und langſam.	!
+{8e	Aus
+=1	=1
+4c#	ih-
+8e	-rem
+4a	Schlaf
+8b/	er-
+=2	=2
+(4cc#	-wa-
+8b)	.
+4a}	-chet
+{8a	von
+=3	=3
+4dd	neu
+8cc#	em
+4b	die
+8a	Na-
+=4	=4
+[4.g#	-tur;
+8g#]	.
+8r}	.
+{8dd	ſeht,
+=5	=5
+4cc#	wie
+8b	die
+4a	Sonne
+8g#	.
+=6	=6
+(4f#	la-
+8a#)	.
+4b}	-chet
+{8cc#	her-
+=7	=7
+8.ddL	-aus
+16cc#J	.
+8b	auf
+8anL	un-
+8bJ	.
+8g#	-ſte
+=8	=8
+[4.a	Flur!
+8a]	.
+8r}	.
+{8e	Sie
+=9	=9
+4g#	wärmet
+8e	.
+4a	uns
+8e	nun
+=10	=10
+4.b	wie-
+4cc#}	-der
+{8cc#	mit
+=11	=11
+4dd	ih-
+8dd	-rem
+8cc#L	gold-
+8bJ	.
+8cc#	-nen
+=12	=12
+[4.b	Strahl;
+8b]	.
+8r}	.
+{8b	der
+=13	=13
+4cc#	Hir-
+8b	-ten
+4a	Flö-
+8g#	-ten-
+=14	=14
+(4f#	-lie-
+8a#)	.
+4b}	-der
+{8cc#	er-
+=15	=15
+8.ddL	-tö-
+16cc#J	.
+8b	-nen
+8aL	in
+8bJ	.
+8g#	dem
+=16	=16
+[4.cc#	Thal,
+16cc#L]	.
+16ee	.
+16dd	.
+16cc#J}	.
+{16bL	er-
+16aJ	.
+=17	=17
+4b/	-tö-
+8b/	-nen
+4g#	in
+8g#	dem
+=18	=18
+[4.a	Thal.
+8a]	.
+8r}	.
+==	==
+!!!AGN: Jahreszeiten - Lied, Fruehling
+!!!GTL: Jahreszeitenlieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Mel. aus Moʒarts Titus: "Jn deinem Arm ʒu weilen".
+!!@@COMMENT:"Gedicht von Ernſt Theodor Joh. Brückner in Leipʒig, 1801. Jn vielen Schulheften ſeit
+!!1840 ʒu finden."
+!!@@END:
+!!!Text: E. T. Joh. Brückner
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n187/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/24/06
+*-	*-

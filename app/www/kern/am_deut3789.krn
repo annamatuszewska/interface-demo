@@ -1,0 +1,103 @@
+!!!OTL: Der Bremberger. / a. Alte Melodie.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0023A
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c|)	*
+*clefC4	*
+*k[b-e-]	*
+*g:aeo	*
+=1	=1
+!LO:TX:a:t=aol. mit phryg. Schluß	!
+2r	.
+{2G	Man
+2.G	legt
+4G	den
+=2	=2
+*lig	*
+2B-	Bran-
+2B-	-den-
+*Xlig	*
+*lig	*
+2d	-bur-
+2d	-ger
+*Xlig	*
+=3	=3
+1d	auf
+1c	ein
+=4	=4
+1B-	Tiſch,
+1r	.
+=5	=5
+1r	.
+2r}	.
+{2B-	ʒer-
+=6	=6
+2B-	-ſchnit-
+*lig	*
+4A/	-ten
+4G/	.
+*Xlig	*
+2F	wie
+2B-	ein
+=7	=7
+1A	rei-
+1G	-niſch
+=8	=8
+1F	fiſch,
+1r	.
+=9	=9
+1r	.
+2r}	.
+{2F	ſein
+=10	=10
+*lig	*
+1F	jun-
+2E-	.
+*Xlig	*
+2D	-ges
+=11	=11
+1F	lebn
+1B-	ent-
+=12	=12
+*lig	*
+1G	-wi-
+1F	.
+*Xlig	*
+=13	=13
+1G	chen,
+2r}	.
+{2B-	ſein
+=14	=14
+2c	ro-
+*lig	*
+4B-	-ter
+4A	.
+*Xlig	*
+2G	mund
+2F	ver-
+=15	=15
+0E-	-bli-
+=16	=16
+!LO:N:vis=00	!
+0D/ll}	-chen.
+==	==
+!!!GTL: Balladen und Romanzen (erzählende Volkslieder)
+!!!AGN: Romanze, Ballade, Lied
+!! Aeol mit phryg Schluss. Text, blos diese Strophe in den Grasliedlin
+!!    1535 No 13. Melodie von mir aus den drei vorhandenen Stimmen (Dis-
+!!    kant, Alt, Bass) zu construieren versucht, da der Tenor mit der
+!!    Hauptmelodie leider verloren gegangen ist.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Aeolian, Phrygian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0159.iview2?x=-955.4044398057085&y=1220.7277424860513&scale=0.35505986316989735&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/16/02
+*-	*-

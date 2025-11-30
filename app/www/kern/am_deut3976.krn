@@ -1,0 +1,143 @@
+!!!OTL: Meiden.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0253
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M6/2	*
+*clefC3	*
+*k[]	*
+*a:aeo	*
+!LO:TX:a:t=mod. aeol. "Friſch auf."	!
+{2A	I._Ach
+=1	=1
+1.A	got,
+1.e	was
+=2	=2
+*lig	*
+1g	mei-
+2f	.
+1e	.
+*Xlig	*
+2d	-den
+=3	=3
+*lig	*
+1c	tut!
+1B}	.
+*Xlig	*
+{1B	und
+=4	=4
+1A	kren-
+2E	-ket
+1G	man-
+2F	-ches
+=5	=5
+1E	herʒ,
+1r	.
+2r}	.
+{2A	Und
+=6	=6
+1.A	ſchwecht
+1.e	ein
+=7	=7
+*lig	*
+1g	gu-
+2f	.
+1e	.
+*Xlig	*
+2d	-ten
+=8	=8
+*lig	*
+1c	mut,
+1B}	.
+*Xlig	*
+{1B	ver-
+=9	=9
+1A	-trei-
+2E	-bet
+1G	ſchimpf
+2F	und
+=10	=10
+1E	ſcherʒ,
+1r	.
+2r}	.
+{2E	Vil
+=11	=11
+1A	man-
+2B	-ches
+1c	freu-
+2d	-den-
+=12	=12
+1B	-ſpil;
+2r}	.
+{2A	wo
+2B	ſich
+2c/	ʒwei
+=13	=13
+1.d	lie-
+1.f	-be
+=14	=14
+1.e	ſchei-
+1A}	-den,
+{2A	ir
+=15	=15
+1e	herʒ
+2d	nit
+1c	freu-
+!LO:TX:a:t=*	!
+2B	-den
+=16	=16
+1A	wil,
+2r}	.
+*lig	*
+{1B	es
+2A	.
+*Xlig	*
+=17	=17
+*lig	*
+1.G	kumm
+1.B	.
+=18	=18
+1.F#i}	.
+*Xlig	*
+!LO:TX:a:t=*	!
+{1.E	dann
+=19	=19
+1A	lie-
+2c/	.
+1B	.
+2A	-bes
+=20	=20
+0B}	ʒil,
+{1e	es
+=21	=21
+1e	kumm
+2d	dann
+*lig	*
+2c/	lie-
+2A	.
+*Xlig	*
+2B	-bes-
+=22	=22
+!LO:TX:a:t=P:one note in the source:problem	!
+[0A/ll	-ʒil.
+2Ayy}}	.
+==	==
+!!!GTL: Abschieds- und Wanderlieder
+!!!AGN: Romanze, Ballade, Lied
+!! Locheimer Lbb. 1450 No. 26
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT:" Zwischen * und * stehenden Noten bilden im Original eine sehr zweifelhafte Ligatur.
+!! Hinzugefügt habe ich die Auftaktnote und alle Punkte."
+!!@@END:
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!AMD: Aeolian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0403.iview2?x=-495.6391625615763&y=1766.0965517275035&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0010
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/11/03
+*-	*-

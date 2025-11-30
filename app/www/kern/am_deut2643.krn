@@ -1,0 +1,106 @@
+!!!OTL: 452. Scharfers Klagelied.
+!!!COM: Volksmelodie
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0452
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M6/8	*
+*k[f#]	*
+*G:	*
+{8d	Da
+=1	=1
+8.g	dro-
+16g	-ben
+8g	auf
+8gL	je-
+8f#J	.
+8g	-nem
+=2	=2
+(4f#	Ber-
+8e)	.
+4d}	-ge
+{8d	da
+=3	=3
+4g	ſteh'
+8g	ich
+8aL	tau-
+8gJ	.
+8a	-ſend-
+=4	=4
+4.b	-mal,
+4r}	.
+{16bL	an
+16ccJ	.
+=5	=5
+4dd	mei-
+8dd	-nem
+8ddL	Stabe
+8eeJ	.
+8dd	ge-
+=6	=6
+(4dd	-bo-
+8cc)	.
+4cc}	-gen,
+{8cc	und
+=7	=7
+8.b	ſchau-
+16b	-e
+8b	hin-
+8aL	-ab
+8gJ	in
+8a	das
+=8	=8
+4.g	Thal.
+4r}	.
+{16bL	an
+16ccJ	.
+=9	=9
+4dd	mei-
+8dd	-nem
+8ddL	Stabe
+8eeJ	.
+8dd	ge-
+=10	=10
+(4dd	-bo-
+8cc)	.
+4cc}	-gen,
+{8cc	und
+=11	=11
+8.b	ſchau-
+16b	-e
+8b	hin-
+8aL	-ab
+8gJ	in
+8a	das
+=12	=12
+4.g	Thal.
+4r}	.
+==	==
+!!!AGN: Liebes - Lied, Leid, Klage
+!!!GTL: Liebeslieder - Liebesleid
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Volksmelodie 1804 bei Ehlers.
+!!@@COMMENT:"Gedicht von Goethe. Ʒuerſt gedruckt in: "Taſchenbuch aufs Jahr 1804. " Herausgegeben
+!!von Wieland und Goethe. Tübingen. S. 105. Genau ſo in Goethes Werken. Ausgabe letʒter
+!!Hand 1828, J. 94. - Jn der Chronologie der Entſtehung von Goethes Schriften (Vieboff 2, 46)
+!!wird dieſes Gedicht unter dem Jahr 1803 aufgeführt, aber es iſt in etwas frübere Ʒeit ʒu ſetʒen;
+!!das erhellt aus dem Briefwechſel Goethe's mit Ʒelter, da letʒterer in einem Schreiben vom 7. April
+!!1802 das Lied als ein von ihm ſchon componirtes erwähnt (ſ. Goedeke, Goethes Leben und
+!!Schriften JJ. 94). Ʒelter's Melodie (aus Gmoll) iſt nicht viel werth (Abdr. ſ. Erk, Germania
+!!Nr. 219). Eine von F. Reichardt, ſ. Fink, Hausſchatʒ Nr. 64. Schöner iſt die hier ſtehende.
+!!Wir finden ſie ʒu Goethe's Text notirt bei Wilh. Ehler's, Geſänge mit Begleitung der Guitarre",
+!!eingerichtet von W. G. Tübingen 1804. Quer 40. S. 24."
+!!@@END:
+!!!Text: J. W. Goethe
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n365/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/09/07
+*-	*-

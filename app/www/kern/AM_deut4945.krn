@@ -1,0 +1,105 @@
+!!!Xfilter:transpose -t P8
+!!!OTL: Festgesang.
+!!!OTL-incipit: WO WIR IN DEM FESTGEWAND IMMER AUCH UNS FINDEN
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: Z1130
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M3/4	*
+*k[]	*
+*C:	*
+=1	=1
+!LO:TX:a:t=Vier Männerſtimmen.	!
+!LO:TX:a:t=Allgemein bekannt.	!
+{8.cc/	Wo
+16g	wir
+4g	in
+4cc/	dem
+=2	=2
+8.a	Feſt-
+16a	-ge-
+4a	-wand
+4r}	.
+=3	=3
+{8.b/	im-
+16cc/	-mer
+4dd/	auch
+4g	uns
+=4	=4
+8cc/L	ſin-
+8eeJ	.
+4cc/	-den,
+4r}	.
+=5	=5
+{8.cc/	Wo
+16g	wir
+4g	in
+4cc/	dem
+=6	=6
+8.a	Feſt-
+16a	-ge-
+4a	-wand
+4r}	.
+=7	=7
+{8.b/	im-
+16cc/	-mer
+4dd/	auch
+4g	uns
+=8	=8
+8cc/L	ſin-
+8eeJ	.
+4cc/	-den,
+4r}	.
+=9	=9
+{8.b/	klin-
+16cc/	-ge
+4dd/	hoch
+4gg/	das
+=10	=10
+8ee/	Va-
+8cc/	-ter-
+2dd/}	-land,
+=11	=11
+{8.b/	das
+16cc/	als
+4dd/	Brü-
+4gg/	-der
+=12	=12
+8ee/	treu
+8cc/	uns
+2dd/}	band,
+=13	=13
+{8cc/	im-
+8b/	-mer
+4a	uns
+8ff/L	ſoll
+8ddJ	.
+=14	=14
+(>4ee/	bin-
+4dd/)	.
+4cc/;}	-den!
+=15	=15
+{8cc/	im-
+8b/	-mer
+4a	uns
+8ff/L	ſoll
+8ddJ	.
+=16	=16
+(>4ee/	bin-
+4dd/)	.
+4cc/;}	-den!
+==	==
+!!!AGN: Vaterland und Wehr
+!!!ONB: ESAC (Essen Associative Code) Database: ZUCCAL
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: >= above
+!!!GTL: IV. Vaterland und Wehr.
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11160573?page=288
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/02/04
+*-	*-

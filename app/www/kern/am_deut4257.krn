@@ -1,0 +1,114 @@
+!!!OTL: Fastengesang.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0539B
+!!!OPR: 539a. In der finstern Metten.
+!!!TXL: @@DE, (@@LAT)
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c|)	*
+*clefF3	*
+*k[b-]	*
+*C:mix	*
+=1	=1
+!LO:TX:a:t=mixolyd.	!
+1ryy	.
+2ryy	.
+{2G	Wir
+=2	=2
+2G	dan_cken
+2G	dir,
+2G	lie-
+2G	-ber
+=3	=3
+1A	Her-
+2G}	-re,
+{2G	der
+=4	=4
+2F/	bit-
+2E	-tern
+2F/	Mar-
+2D	-ter
+=5	=5
+1C	dein,
+1r}	.
+=6	=6
+{2G	heut
+2G	und
+2G	im-
+2G	-mer-
+=7	=7
+1A	-meh-
+2F}	-re,
+{2F	das
+=8	=8
+2A	du
+2A	vns
+2B-	haſt
+2A	aus
+=9	=9
+1G	pein
+2r}	.
+{2G	er-
+=10	=10
+2G	-löſt
+2G	gar
+2G	mil-
+2G	-dig-
+=11	=11
+1c	-li-
+2G}	-chen,
+{2G	wir
+=12	=12
+2A	we-
+2A	-ren
+2G	ſonſt
+2G	ver-
+=13	=13
+1F	-lorn,
+2r}	.
+{2G	Gott
+=14	=14
+2G	Va-
+2G	-ter
+2G	hat
+2A	ent-
+=15	=15
+1G	-wi-
+2E}	-chen
+{2E	ſein
+=16	=16
+2.F/	e-
+4E	-wi-
+1D	-gen
+=17	=17
+1C	Ʒorn.
+1r}	.
+=18||	=18||
+{2F	Ky-
+2G	-ri-
+1A	-e
+=19-	=19-
+1B-	e-
+*lig	*
+1G	-lei-
+=20-	=20-
+1F#i	.
+*Xlig	*
+1G\ll}	-ſon!
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Leisentrits Gsgb. 1567.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!AMD: Mixolydian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0717.iview2?x=-2231.2783251231526&y=-238.47487682569772&scale=0.2314709236031927&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/20/03
+*-	*-

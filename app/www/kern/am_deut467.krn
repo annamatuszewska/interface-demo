@@ -1,0 +1,101 @@
+!!!OTL: Der verwundete Knabe.
+!!!OTL-incipit: ICH WOLLT EINMAL RECHT FRUEH AUFSTEHN
+!!!COM: Volksweise
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0886
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M3/4	*
+*k[b-]	*
+*F:	*
+=1	=1
+!LO:TX:a:t=Mäßig langſam.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{4c	1._Jch
+4f	wollt'
+8gL	ein-
+8b-J	.
+=2	=2
+(>4a	-mal
+4g)	.
+4f}	recht
+=3	=3
+{(4cc	früh
+8ddL)	.
+8ccJ	.
+8b-\L	auf-
+8aJ	.
+=4	=4
+(>4a	-ſtehn,
+4g)	.
+4r}	.
+=5	=5
+{4c	1._Jch
+4f	wollt'
+8gL	ein-
+8b-J	.
+=6	=6
+(>4a	-mal
+4g)	.
+4f}	recht
+=7	=7
+{(4cc	früh
+8ddL)	.
+8ccJ	.
+8b-\L	auf-
+8aJ	.
+=8	=8
+(>4a	-ſtehn,
+4g)	.
+4r}	.
+=9	=9
+{(>8.cc/	und
+16b-/)	wollt'
+4a	in
+4cc/	den
+=10	=10
+8dd/	grünen
+8cc/	.
+8b-/	grü-
+8a	-nen
+4b-/}	Wald,
+=11	=11
+{(>8.b/-	und
+16a)	wollt'
+4g	in
+4b-/	den
+=12	=12
+8cc/	grü-
+8b-/	-nen
+8a	grünen
+8g	.
+4a}	Wald
+=13	=13
+{8dd/L	ſpa-
+16cc	.
+16b-J	.
+4a	-ʒie-
+[>8g	-ren
+8g]	.
+=14	=14
+2f	gehn.
+4r}	.
+==	==
+!!!AGN: erzaehlendes Volks - Lied, Ballade, Tod
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: > = above
+!!!GTL: Romanzen und Balladen
+!!Text: Volkslied
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 635
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=571
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/07
+*-	*-

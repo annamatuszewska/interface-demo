@@ -1,0 +1,28 @@
+ERK
+CUT[ES STEHT EIN LIND IN JENEM THAL]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0067]
+KEY[E0067   08  D 3/4]
+MEL[1_3b_4_  5__6b_  5__4_  5__0_
+    5_5_5_  7b__6b_  5_4_4_  3b__
+    5_  4_5_6b_  5__1_  3b_2_1_  -7b__0_
+    4_4_4_  3b23b45_  4_3b_2_  1__. //]
+BEM[]
+MEL_SEM[3 2 2 1 -1 -2 2 0 0 0 3 -2 -1 -2 0 -2 4 -2 2 1 -1 -7 3 -1 -2 -2 7 0 0 -2 -1 1 2 2 -2 -2 -1 -2]
+MEL_RAW[13b4  56b  54  50
+    555  7b6b  544  3b
+    5  456b  51  3b21  -7b0
+    444  3b23b45  43b2  1]
+NO_REP[13b456b5450
+    57b6b543b
+    5456b513b21-7b0
+    43b23b4543b21]
+RTM[x_x_x_  x__x_  x__x_  x__x_
+    x_x_x_  x__x_  x_x_x_  x__
+    x_  x_x_x_  x__x_  x_x_x_  x__x_
+    x_x_x_  xxxxx_  x_x_x_  x__.]
+SCL_DEG[-7b123b456b7b]
+SCL_SEM[2 2 1 2 2 1 2]
+

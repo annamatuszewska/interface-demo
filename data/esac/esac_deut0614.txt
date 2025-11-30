@@ -1,0 +1,28 @@
+ERK
+CUT[ES RITT EIN RAEUBER WOHL UEBER DEN RHEIN]
+REG[Europa, Mitteleuropa, Deutschland, Limburg, Nauheim]
+TRD[]
+FKT[]
+SIG[E0041B]
+KEY[E0041B  16  G 6/8]
+MEL[5_  4__3_2_2_6_  5_5_4_3__
+    5_  4_4_3_2_2_6_  5__4_3__
+    1_  1_1_1_1_2_1_  4__6_+1_7_
+    6_  5_+1_3_5_5_23  4__5_3__ //]
+BEM[]
+MEL_SEM[-2 -1 -2 0 7 -2 0 -2 -1 3 -2 0 -1 -2 0 7 -2 -2 -1 -4 0 0 0 0 2 -2 5 4 3 -1 -2 -2 5 -8 3 0 -5 2 1 2 -3]
+MEL_RAW[5  43226  5543
+    5  443226  543
+    1  111121  46+17
+    6  5+135523  453]
+NO_REP[54326543
+    54326543
+    12146+17
+    65+13523453]
+RTM[x_  x__x_x_x_x_  x_x_x_x__
+    x_  x_x_x_x_x_x_  x__x_x__
+    x_  x_x_x_x_x_x_  x__x_x_x_
+    x_  x_x_x_x_x_xx  x__x_x__]
+SCL_DEG[1234567+1]
+SCL_SEM[2 2 1 2 2 2 1]
+

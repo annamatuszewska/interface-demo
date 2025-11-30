@@ -1,0 +1,28 @@
+ERK
+CUT[ES FREIT EIN WASSERMANN]
+REG[Europa, Mitteleuropa, Deutschland, Niederlausitz, Guben]
+TRD[]
+FKT[]
+SIG[E0001G]
+KEY[E0001G  16  A 2/4]
+MEL[-5_  1_.23_4_  54321__
+    32345_6_  43453_
+    34  5_2_3_13  21-7-6-5_
+    12  3_(234)3_2_  1__0_ //]
+BEM[]
+MEL_SEM[5 2 2 1 2 -2 -1 -2 -2 4 -2 2 1 2 2 -4 -1 1 2 -3 0 1 2 -5 2 -4 4 -2 -2 -1 -2 -2 5 2 2 -2 2 1 -1 -2 -2]
+MEL_RAW[-5  1234  54321
+    323456  43453
+    34  52313  21-7-6-5
+    12  323432  10]
+NO_REP[-5123454321
+    32345643453
+    345231321-7-6-5
+    1232343210]
+RTM[x_  x_.xx_x_  xxxxx__
+    xxxxx_x_  xxxxx_
+    xx  x_x_x_xx  xxxxx_
+    xx  x_(xxx)x_x_  x__x_]
+SCL_DEG[-5-6-7123456]
+SCL_SEM[2 2 1 2 2 1 2 2]
+

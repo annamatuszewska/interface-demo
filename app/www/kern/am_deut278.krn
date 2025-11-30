@@ -1,0 +1,92 @@
+!!!OTL: Integer vitae. Lib. I. Oda XXII. Q. Horatii Flacci.
+!!!OTL-incipit:HIER IN DES ABENDS TRAULICH ERNSTER STILLE
+!!!COM: F. Flemming
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0496
+!!!TXL: @@DE, @@LAT
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text	**text
+*ICvox	*	*
+*I"Tenori	*	*
+*clefG2	*	*
+*M4/4	*	*
+*met(c)	*	*
+*k[f#c#]	*	*
+*D:	*	*
+=1	=1	=1
+!LO:TX:a:t=Andante. Getragen.	!	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!	!
+{2dd	1._Hier	1._In-
+4dd	in	-te-
+4dd	des	-ger
+=2	=2	=2
+2ee	A-	vi-
+2ee}	-bends	-tae,
+=3	=3	=3
+{4ff#	traulich	sce-
+4dd	.	-le-
+4dd	ernſter	-ris-
+4ee	.	-que
+=4	=4	=4
+2dd	Stil-	pu-
+2cc#}	-le	-rus
+=5	=5	=5
+{2ff#	kann	non
+4ff#	erſt	e-
+4ff#	das	-get
+=6	=6	=6
+(>4ff#/	Le-	Mau-
+4ee/)	.	.
+2ee}	-ben	-ris
+=7	=7	=7
+{4.dd	freudig	ja-
+8dd	.	-cu-
+4ee	ſich	-lis
+4dd	ge-	nec
+=8	=8	=8
+2dd	-ſtal-	ar-
+2cc#}	-ten;	-cu,
+=9	=9	=9
+{2ff#	hier,	nec
+4ee	wo	ve-
+4dd	der	-ne-
+=10	=10	=10
+(>4gg/	Ein-	-na-
+4ff#/)	.	.
+2ee}	-tracht	-tis
+=11	=11	=11
+{4.ff#	ſanf-	gra-
+8ff#	-te	-vi-
+4ee	Geiſter	-da
+4dd	.	sa-
+=12	=12	=12
+(>4cc#/	wal-	-git-
+4b/)	.	.
+2a}	-ten,	-tis,
+=13	=13	=13
+{2ff#	ſtärkt	Fus-
+4dd	ſich	-ce,
+4ee	der	pha-
+=14	=14	=14
+(>2dd/	Wil-	-re-
+2cc#/)	.	.
+=15	=15	=15
+1dd}	-le.	-tra;
+==	==	==
+!!!AGN: Studenten - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: > = above
+!!!GTL: Studentenlieder
+!!Text: Ch. Schulz
+!!@@COMMENT:"Das teutsche Lied auf diese Singweiſe: Christian Schulz"
+!!@@END:
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 314
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=291
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/01
+*-	*-	*-

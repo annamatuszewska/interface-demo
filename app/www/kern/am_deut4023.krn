@@ -1,0 +1,132 @@
+!!!OTL: Nachbildung eines alten Mai- und Tanzspielliedes aus der Schweiz.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0300
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c|)	*
+*clefC4	*
+*k[]	*
+*C:ion	*
+=1	=1
+!LO:TX:a:t=jon.	!
+!LO:TX:a:t=>>Dort hoch vff einem berge<<	!
+1ryy	.
+2ryy	.
+{2G	I._Jch
+=2	=2
+2G	frag,
+2G	was
+2A	üch
+2B	woll
+=3	=3
+1c	gfal-
+2G}	-len,
+{2d	ob
+=4	=4
+*lig	*
+2B	mir
+2c	.
+*Xlig	*
+1A	ge-
+=5	=5
+1G	-bür,}
+2r}	.
+{2G	Daß
+=6	=6
+2G	ich
+2G	vor
+2A	an-
+2B	-dern
+=7	=7
+1c	al-
+2G}	-len
+{2d	den
+=8	=8
+*lig	*
+2B	rei-
+2c	.
+*Xlig	*
+1A	-gen
+=9	=9
+1G	für?}
+2r}	.
+{2c	Jr
+=10	=10
+2d	kennt
+2e	noch
+2d	wol
+2c	mein
+=11	=11
+1e	vo-
+1d	-rig
+=12	=12
+1c	gſtalt:
+1r	.
+=13	=13
+2r}	.
+{2G	jetʒ
+2A/	bin
+2G	ich
+=14	=14
+*lig	*
+2E	jung,
+1G	.
+*Xlig	*
+*lig	*
+4F	vor
+4E	.
+*Xlig	*
+=15	=15
+*lig	*
+2D	was
+2C	.
+*Xlig	*
+1D	ich
+=16	=16
+1C	alt,
+2r}	.
+{2C	dar-
+=17	=17
+2.E	-umb
+4F	mich
+2G	lüſt
+2A/	ʒe
+=18	=18
+*lig	*
+2B	ſin-
+2c	.
+1A	.
+*Xlig	*
+=19	=19
+1G	-gen
+2r}	.
+{2G	vnd
+=20	=20
+2A	frö-
+2B	-lich
+2c	mit
+2G	üch
+=21	=21
+*lig	*
+1c	ſprin-
+1d	.
+*Xlig	*
+=22	=22
+0c\ll}	-gen.
+==	==
+!!!GTL: Tanz- und Kranzlieder
+!!!AGN: Romanze, Ballade, Lied
+!! Baseler Tenor (1550) fol 44d
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Ionian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0457.iview2?x=-495.6391625615763&y=355.12019706331193&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0012
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/12/03
+*-	*-

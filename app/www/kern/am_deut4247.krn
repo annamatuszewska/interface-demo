@@ -1,0 +1,81 @@
+!!!OTL: Ansingelied zum Neujahre. / a. Mel.: Gelobet seistu Jesu Christ.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0530A
+!!!TXL: @@GMH, (@@LAT)
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/1	*
+*met(c|)	*
+*clefC4	*
+*k[]	*
+*G:mix	*
+!LO:TX:a:t=mixolyd.	!
+{2G	Nun
+=1	=1
+1G	wol-
+1G	-le
+1A	gott,
+1G	das
+=2	=2
+1c	vn-
+1d	-ſer
+1c	gſang
+2r}	.
+{2B	mit
+=3	=3
+1d	luſt
+1e	und
+1d	freud
+1B	vß
+=4	=4
+1c	glou-
+1A	-ben
+1G	gang,
+2r}	.
+{2G	ʒů
+=5	=5
+1c	wün-
+1B	-ſchen
+1d	ůch
+1A	ein
+=6	=6
+1G	gu-
+1E	-tes
+1D	jar,
+2r}	.
+{2D	vnd
+=7	=7
+1A	ers
+1A	mit
+1A	gna-
+1B	-den
+=8	=8
+1c	ma-
+1A	-che
+*lig	*
+!LO:N:vis=0	!
+1G	wahr.
+!LO:N:vis=0	!
+1A	.
+*Xlig	*
+=9||	=9||
+1F	Al-
+1G	-le-
+0A	-lu-
+=10	=10
+00G/ll}	-ja!
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Baseler hs. Tenor 1544 - 1574.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Mixolydian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0708.iview2?x=-2231.2783251231526&y=-79.49162560328841&scale=0.2314709236031927&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/20/03
+*-	*-

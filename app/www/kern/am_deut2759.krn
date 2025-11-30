@@ -1,0 +1,126 @@
+!!!OTL: 568. Kaiserlied.
+!!!COM: H. G. Naegeli
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0568
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[f#]	*
+*G:	*
+!LO:TX:a:t=Weihevoll.	!
+{4d	Dem
+=1	=1
+4.g	Kai-
+8f#	-ſer
+8gL	ſei
+8aJ	.
+8bL	mein
+8ccJ	.
+=2	=2
+4.dd	er-
+8a	-ſtes
+4a}	Lied,
+{4a	ihm
+=3	=3
+4b	kling'
+4a	der
+4g	er-
+4b	-ſte
+=4	=4
+2a	Klang;
+4r}	.
+{4d	des
+=5	=5
+4.g	Va-
+8f#	-ter-
+8gL	-lan-
+8aJ	.
+8bL	-des
+8ccJ	.
+=6	=6
+4.dd	Schirm
+8a	und
+4a}	Hort
+{4a	preiſ'
+=7	=7
+4b	ich
+4a	mit
+4b	lau-
+4cc#	-tem
+=8	=8
+2dd	Sang.
+4r}	.
+{4d	Sein
+=9	=9
+4.e	Na-
+8e	-me
+4e	füllt
+4e	mit
+=10	=10
+4.f#	re-
+8f#	-ger
+4f#}	Luſt
+{4f#	jed-
+=11	=11
+4.g	-we-
+8g	-des
+4g	Deutſchen
+4g	.
+=12	=12
+4.a	treu-
+8a	-e
+4a}	Bruſt.
+{4a	Der
+=13	=13
+4.b	Kai-
+8b	-ſer
+4b	le-
+4b	-be
+=14	=14
+2cc;	hoch,
+4r}	.
+{4b	der
+=15	=15
+4a	Kai-
+4a	-ſer
+4f#	le-
+4f#	-be
+=16	=16
+(4dd	hoch
+8eeL	.
+8ddJ	.
+8ccL)	.
+8b}J	,
+{8aL	der
+8gJ	.
+=17	=17
+4a	Kai-
+4a	-ſer
+4f#	lee
+4f#	be
+=18	=18
+2g	hoch!
+4r}	.
+==	==
+!!!AGN: Staende -, Soldaten - Lied, national
+!!!GTL: Soldatenlieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Mel. H. G. Nägeli.
+!!@@COMMENT:"Das Lied, jedenfalls erſt unter der Regierung des Kaiſers Wilhelm II. entſtanden, ſteht im
+!!neueſten Soldatenliederbuche von Hausburg (Berlin 1892), desgl. in dem von K. Becker 1894.
+!!Jm Preuß. Soldatenliederbuch 1881 noch nicht. Verf. ungekannt. Welchem Texte die alte Melodie
+!!von Nägeli (4 1836) angehörte, konnte ich nicht finden."
+!!@@END:
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n451/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/12/07
+*-	*-

@@ -1,0 +1,24 @@
+ERK
+CUT[SCHOEN ULERICH UND HANSELEIN]
+REG[Europa, Mitteleuropa, Deutschland]
+TRD[]
+FKT[]
+SIG[E0042D]
+KEY[E0042D  08  G 4/4]
+MEL[13  5_3_5_1_  6_6_5_
+    34  5_5_4_2_  1-7121_
+    -5_  3__5__  4_2_321-7  1_0__ //]
+BEM[]
+MEL_SEM[4 3 -3 3 -7 9 0 -2 -3 1 2 0 -2 -3 -2 -1 1 2 -2 -5 9 3 -2 -3 2 -2 -2 -1 1]
+MEL_RAW[13  5351  665
+    34  5542  1-7121
+    -5  35  42321-7  10]
+NO_REP[13535165
+    345421-7121
+    -53542321-710]
+RTM[xx  x_x_x_x_  x_x_x_
+    xx  x_x_x_x_  xxxxx_
+    x_  x__x__  x_x_xxxx  x_x__]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

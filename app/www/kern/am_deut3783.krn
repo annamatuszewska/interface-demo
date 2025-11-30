@@ -1,0 +1,111 @@
+!!!OTL: Ritter und Herzogstochter.
+!!!OTL-incipit: Ritter mit dem Tuche
+!!!ARE: Europa, Mitteleuropa, Deutschland, Heidelberg
+!!!SCT: A0019
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/1	*
+*met(c|)	*
+*k[]	*
+*clefC3	*
+*a:aeol	*
+!LO:TX:a:t=aeolisch.	!
+{1A	Es
+=1	=1
+1c	wo-
+2c	-net
+1d	lieb
+2d	bei
+=2	=2
+1e	lie-
+1e}	-be,
+{1e	dar-
+=3	=3
+1g	-ʒue
+2g	groß
+1f	her-
+2d	-ʒe-
+=4	=4
+*lig	*
+!LO:N:vis=0	!
+1e	-leid,
+!LO:N:vis=0	!
+1d	.
+*Xlig	*
+!LO:N:vis=1	!
+2r}	.
+!LO:N:vis=1	!
+{2d	ein
+=5	=5
+1e	ed-
+2e	-le
+1e	her-
+2g	-ʒo-
+=6	=6
+1f	-gin-
+1e}	-ne,
+{1e	ein
+=7	=7
+1d	rit-
+2c	-ter
+1e	hoch-
+2c	-ge-
+=8	=8
+*lig	*
+!LO:N:vis=0	!
+1B	-meit,
+!LO:N:vis=0	!
+1A	.
+*Xlig	*
+!LO:N:vis=1	!
+2r}	.
+{2e	ſie
+=9	=9
+!LO:TX:a:t=..	!
+1d	hatten
+2d	ein-
+!LO:TX:a:t=..	!
+1c	-ander
+2A	von
+=10	=10
+2B	her-
+2c	-ʒen
+1d}	lieb
+{1d	vnd
+=11	=11
+!LO:TX:a:t=..	!
+1d	kundten
+2d	vor
+1d	gro-
+2e	-ßer
+=12	=12
+1f	hue-
+1e}	-te
+{1e	ʒu-
+=13	=13
+1d	-ſam-
+2c	-men
+1e	kom-
+2c	-men
+=14	=14
+*lig	*
+!LO:N:vis=0	!
+1B	nie.
+!LO:N:vis=0	!
+1A}	.
+*Xlig	*
+==	==
+!!!GTL: Balladen und Romanzen (erzählende Volkslieder)
+!!!AGN: Romanze, Ballade, Lied
+!! Heidelberger Hs. 343 Bl. 103
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!AMD: Aeolian
+!!!URL-scan:https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0145.iview2?x=-955.4044398057085&y=2171.1871861093678&scale=0.35505986316989735&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/16/02
+*-	*-

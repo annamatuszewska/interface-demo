@@ -1,0 +1,149 @@
+!!!Xfilter: transpose -t P8
+!!!OTL: 495. Elisens Abschied.
+!!!COM: Volksmelodie
+!!!ODT: 1790 (um)
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0495
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[f#c#]	*
+*D:	*
+!LO:TX:a:t=Langſam und gefühlvoll.	!
+{8f#	Noch
+8f#	ein-
+8g	-mal,
+=1	=1
+8bL	Ro-
+8aJ	.
+4a	-bert,
+8aL	eh'
+8bJ	.
+(8cc#L	wir
+8ddJ)	.
+=2	=2
+8ddL	ſchei-
+8bJ	.
+4b	-den,
+8r}	.
+{8b	komm'
+8g	an
+8e	E-
+=3	=3
+8bL	-li-
+8aJ	.
+4a	-ſens
+4.g	klop-
+8a	-fend
+=4	=4
+(4g	Herʒ!
+4f#)	.
+8r}	.
+{8f#	Süß
+8f#	fühlr
+8g	es
+=5	=5
+8bL	einſt
+8aJ	.
+4a	der
+8aL	Lie-
+8bJ	.
+(8cc#L	-be
+8ddJ)	.
+=6	=6
+8ddL	Freu-
+8bJ	.
+4b	-den,
+8r}	.
+{8b	und
+8g	jetʒt
+8e	ſo
+=7	=7
+8bL	bit-
+8aJ	.
+4a	-ter
+4g	ih-
+8bL	-ren
+8cc#J	.
+=8	=8
+(4eeqq	.
+2dd)	Schmerʒ.
+8r}	.
+{8a	Schon
+8g	hat
+8f#	die
+=9	=9
+8f#L	Glok-
+8eJ	.
+4e	-ke
+4.ee	dumpf
+16cc#L	ge-
+16aJ	.
+=10	=10
+8a/L	-ſchlagen,
+8ddJ	.
+4dd	.
+4r}	.
+{4cc	ſchon
+=11	=11
+4.b	mahnt
+8b	dich
+8.ee	grauſam
+16ee	.
+8.ee	dei-
+16dd	-ne
+=12	=12
+(4eeqq	.
+2cc#)	Pflicht
+4r}	.
+{4a	und
+=13	=13
+4.dd	gönnt
+8a	mir
+8a	kaum,
+8b	dir
+8cc#	noch
+8dd	ʒu
+=14	=14
+8ddL	ſa-
+8bJ	.
+4b	-gen:
+8r}	.
+{8b	"Du
+8g	Ein-
+8e	-ʒi-
+=15	=15
+8bL	-ger,
+8aJ	.
+4a	ver-
+4aSS	-giß
+8bL	mein
+8cc#J	.
+=16	=16
+2dd	nicht!"
+8r}	.
+==	==
+!!!AGN: Abschieds - Lied
+!!!GTL: Abschiedslieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Volksmel. um 1790. Noch 1850 beliebt.
+!!@@COMMENT:"Gedicht von einem jungen Theologen Friedr. Voigt 1799. Ʒuerſt in "Lieder für das Herʒ.
+!!Ʒur Beförderung eines edlen Genuſſes in der Eiſamkeit von C. F. T. Voigt. Leipʒig 1799.
+!!(S. 72-75) mit dem Anfange: "Noch einmal, Heinrich, eh' wir ſcheiden, komm' an Eliſa's klopfend
+!!Herʒ". Bis 1850 ſehr beliebtes Volkslied. Mel. nach mündlicher Ueberlieſerung bei Fink, Nr. 870.
+!!Auch in Reinhold's Melodien. Leipʒig 1338. Nr. 209."
+!!@@END:
+!!!Text: F. Voigt
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n395/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/10/07
+*-	*-

@@ -1,0 +1,84 @@
+!!!OTL: Das Laenbelein.
+!!!OTL-incipit:O SEHT WIE RUND UND FEIN
+!!!COM: A. Harder
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0239
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M2/4	*
+*k[b-]	*
+*F:	*
+!LO:TX:a:t=Vergnügt.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{8cc/	1._O
+=1	=1
+8.a	ſeht,
+16g	wie
+8.a	rund
+16b-/	und
+=2	=2
+4.cc/}	ſein
+{8a	grünt
+=3	=3
+8.g	un-
+16f	-ſer
+8.g	Län-
+16a	-be-
+=4	=4
+2b-/}	-lein,
+=5	=5
+{4a	ſchat-
+16cc/L	-tig
+16bnJ	.
+16a/L	und
+16bJ	.
+=6	=6
+4cc/	kühl!
+8r}	.
+{8cc/	Wie
+=7	=7
+8dd/	ſäuſelt
+8cc/	.
+8b-/	rings
+8a/	um-
+=8	=8
+4b-/	-her,
+8r}	.
+{8b-/	wie
+=9	=9
+8cc/	ſäuſelt
+8b-/	.
+8a	rings
+8g/	umher
+=10	=10
+4a	.
+8r}	.
+{8a	der
+=11	=11
+(>4g	Lüft-
+16fL)	.
+16eJ	.
+16dL	-chen
+16eJ	.
+=12	=12
+4f	Spiel!
+8r}	.
+==	==
+!!!AGN: Jugend - Lied, Natur
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: > = above
+!!!GTL: Jugendlieder
+!!Text: F. A. Krummacher
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 144
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=142,143
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/07/26
+*-	*-

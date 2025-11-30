@@ -1,0 +1,115 @@
+!!!OTL: Thijsken van den Schilde. (Nach 1400.)
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!TXL: @@DUM
+!!!SCT: A0368
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/2; 6/2
+*M6/2yy	*
+*clefC1	*
+*k[]	*
+*d:dor	*
+!LO:TX:a:t=dor.	!
+2ryy	.
+{2d	Het
+=1	=1
+*M4/2	*
+2f	is
+2f	goet
+2g/	pays
+2g/	goet
+=2	=2
+*M6/2	*
+1a	vre-
+1a	-de
+2r}	.
+{2cc	in
+=3	=3
+*M4/2	*
+2b-i	al-
+2a	-len
+2a	duit-
+2g	-sche
+=4	=4
+*M6/2	*
+1a	lan-
+1f	-den,
+2r}	.
+!LO:TX:a:t=..	!
+{2g	sonder
+=5	=5
+*M4/2	*
+2a	Thij-
+2g	-aken
+2f	van
+2e	den
+=6	=6
+*M6/2	*
+1d	Schil-
+1d	-de,
+2r}	.
+{2a	he
+=7	=7
+1a	leit
+2g	te
+1f	Delder
+2e	ghe-
+=8	=8
+*M4/2	*
+1d	-van-
+1c	-ghen,
+=9	=9
+2r}	.
+{2d	he
+2e	leit
+2e	ghe-
+=10	=10
+*M6/2	*
+1a	-van-
+1a	-ghen
+1g	ſo
+=11	=11
+2f	ſwaer-
+1e	-lije
+1d	op
+2c#i	ſijn
+=12	=12
+*lig	*
+2.d	lijt,
+4e	.
+2f}	.
+*Xlig	*
+{2d	he
+2e	leit
+2e	ghe-
+=13	=13
+1a	-van-
+1a	-ghen
+1g	ſo
+=14	=14
+2f	ſwaer-
+1e	-lije
+1d	op
+2c#i	ſijn
+=15	=15
+0d/ll}	lijf.
+==	==
+!!!GTL: Einige historisch-politische Lieder
+!!!AGN: Romanze, Ballade, Lied, Personenlied
+!! Souterliedekens 1540 ad Ps. 112. Nach 1400.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT: "Melodie Souterliedekens 1540 ad Ps. 112., mit der Beischrift: Het is goet pays goet vrede in allen sheeren lande. Alleluja.
+!! Text Antwerpner Lbb. 1544 No. 59; Willems No. 108; HPffmann Np. 23. 
+!! Der niederl. Text ist im Bersmasß sehr verdorben. Daß die Melodie zu diesem Texte gehöre zweifle ich nicht."
+!!@@END:
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0517.iview2?x=-949.4259179952323&y=1432.143913967302&scale=0.3669911794666851&rotation=0&layout=singlePageLayout&logicalDiv=log_0014
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/14/03
+*-	*-

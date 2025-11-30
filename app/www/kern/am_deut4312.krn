@@ -1,0 +1,93 @@
+!!!OTL: Der geistliche Ackermann.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0588
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/2; 6/2
+*M4/2	*
+*met(c|)	*
+*clefC3	*
+*k[b-]	*
+*G:dor	*
+=1	=1
+!LO:TX:a:t=dor. tr.	!
+1ryy	.
+2ryy	.
+{2G	Was
+=2	=2
+2G	wöln
+2A	wir
+2B-	a-
+2c/	-ber
+=3	=3
+*M6/2	*
+2B-	he-
+2A	-ben
+1G	an,
+2r}	.
+{2G	wöln
+=4	=4
+!LO:TUP:b	!
+3B-	ſin-
+3B-	-gen
+3c/	von
+3%2d	ei-
+3A	-nem
+=5	=5
+2B-	A-
+2c/	-cker-
+1d	-mann,
+2r}	.
+{2d	vnd
+=6	=6
+!LO:TUP:a	!
+3f	der
+3d	vns
+3f	den
+!LO:TUP:a	!
+3d	a-
+3d	-cker
+3c	tuet
+=7	=7
+1B-	me-
+1A	-ren;
+2r}	.
+{2F	Gott
+=8	=8
+1B-	Vat-
+2c	-ter,
+1A	Son,
+2G	hei-
+=9	=9
+1B-	-li-
+2c	-ger
+1d}	Geiſt,
+{2c	der
+=10	=10
+2B-	wöll
+2A	vns
+*lig	*
+2.G	wei-
+4A	.
+*Xlig	*
+2B-	-ſen
+2B-	vnd
+=11	=11
+1A	lehren.
+0G}	.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Beuttner 1602 II No. 39.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0771.iview2?x=-2231.2783251231526&y=850.2147783283144&scale=0.2314709236031927&rotation=0&layout=singlePageLayout&logicalDiv=log_0021
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/21/03
+*-	*-

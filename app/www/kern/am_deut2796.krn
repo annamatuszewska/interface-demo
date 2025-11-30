@@ -1,0 +1,100 @@
+!!!OTL: 607. Matrosengesang.
+!!!ARE: Europa, Mitteleuropa, Deutschland, Birkenfeld
+!!!SCT: B0607
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M2/4	*
+*k[]	*
+*C:	*
+=1	=1
+!LO:TX:a:t=Luſtig.	!
+{8c	Horch,
+8d	was
+8e	kommt
+8f	von
+=2	=2
+8g	drau-
+8a	-ßen
+4g}	'rein?
+=3	=3
+{8f	Hol-
+8d	-la-
+(8.bL	-hi-
+16aJ)	.
+=4	=4
+8g	-hol-
+8e	-la-
+4cc}	-ho!
+=5	=5
+{8c	Wird
+8d	wohl
+8e	mein
+8f	Feins-
+=6	=6
+8g	-lieb-
+8a	-chen
+4g}	ſein
+=7	=7
+{8f	hol-
+8d	-la-
+8b	-hi-
+8dd	-ha-
+=8	=8
+4cc	-ho!
+4r}	.
+=9||	=9||
+{8a	Geht
+8f	vor-
+8cc	-bei
+16bL	und
+16aJ	.
+=10	=10
+8g	kommt
+8e	nicht'
+4g}	rein,
+=11	=11
+{8f	hol-
+8d	-la-
+8.bL	-hi-
+16aJ	.
+=12	=12
+8g	-hol-
+8e	-la-
+4cc}	-ho!
+=13	=13
+{8a	Wirds
+8f	wohl
+8cc	nicht
+16bL	ge-
+16aJ	.
+=14	=14
+8g	-we-
+8e	-ſen
+4g}	ſein.
+=15	=15
+{8f	Hol-
+8d	-la-
+8b	-hi-
+8dd	-ha-
+=16	=16
+4cc	-ho!
+4r}	.
+==	==
+!!!AGN: Staende -, Seemanns - Lied, Tod
+!!!GTL: Seemanns-, Bergmanns-, Bauern- und Handwerkerlieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Aus Birkenfeld.
+!!@@COMMENT:"Aus K. Becker's handschriftl. Sammlung. Mehr Text nicht dabei."
+!!@@END:
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n481/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/15/07
+*-	*-

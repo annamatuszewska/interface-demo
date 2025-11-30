@@ -1,0 +1,102 @@
+!!!OTL: Ringeltanz.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0284
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/2	*
+*met(3)	*
+*clefC4	*
+*k[]	*
+*G:mix	*
+=1	=1
+!LO:TX:a:t=mixolyd.	!
+2ryy	.
+2ryy	.
+{2G	Heint
+=2	=2
+1d	hebt
+2f	ſich
+=3	=3
+1e	an
+2d	ein
+=4	=4
+*lig	*
+2c	a-
+2A	.
+*Xlig	*
+2B	-bend-
+=5	=5
+1G}	-tanʒ,
+{2G	Heint
+=6	=6
+1d	hebt
+2f	ſich
+=7	=7
+1e	an
+2d	ein
+=8	=8
+*lig	*
+2c	a-
+2A	.
+*Xlig	*
+2B	-bend-
+=9	=9
+1G}	-tanʒ,
+!LO:TX:a:t=Refr.	!
+{2G	[Ei
+=10	=10
+2.A	ja,
+4B	.
+2c	ei
+=11	=11
+1d	ja!
+2d	Des
+=12	=12
+1c	freu-
+2A/	-et
+=13	=13
+1G	ſich
+2G	mein
+=14	=14
+2.D	her-
+4E	.
+2F#i	-ʒe
+=15	=15
+1G}	ganʒ.]
+{2G	[Ei
+=16	=16
+2.A	ja,
+4B	.
+2c	ei
+=17	=17
+1d	ja!
+2d	Des
+=18	=18
+1c	freu-
+2A/	-et
+=19	=19
+1G	ſich
+2G	mein
+=20	=20
+2.D	her-
+4E	.
+2F#i	-ʒe
+=21	=21
+1.G/ll;}	ganʒ.]
+==	==
+!!!GTL: Tanz- und Kranzlieder
+!!!AGN: Romanze, Ballade, Lied
+!! Geistliche Ringeltentze 1550 "Der 23. Psalm..."
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!AMD: Mixolydian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0441.iview2?x=-495.6391625615763&y=319.2625615769066&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0012
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/12/03
+*-	*-

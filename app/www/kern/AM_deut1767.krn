@@ -1,0 +1,105 @@
+!!!OTL: 1363. Rehrutenlied.
+!!!ARE: Europa, Mitteleuropa, Deutschland, Hessen, Darmstadt; Lahn - Kreis;
+!!    Dill - Kreis
+!!!SCT: E1363
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M3/4	*
+*k[b-]	*
+*F:	*
+!LO:TX:a:t=Melodie aus Darmſtadt, dem Lahn- und Dillkreiſe.	!
+{4c	Nach
+=1	=1
+4f	NN
+4f	.
+4g	mar-
+=2	=2
+4a	-ſchieren,
+4a}	.
+{8f	laſ-
+8g	-ſen
+=3	=3
+4a	uns
+4a	vi-
+4b-	-ſi-
+=4	=4
+(4dd	-ti-
+4cc)}	-ren,
+{8f	ob
+8a	wir
+=5	=5
+4cc	tau-
+4cc	-gen
+8cc	für
+8ff	das
+=6	=6
+2dd}	Feld,
+{8cc	ob
+8b-	wir
+=7	=7
+4a	tau-
+4cc	-gen
+8b-/	für
+8g	das
+=8	=8
+4f	Feld.
+4r}	.
+!LO:TX:a:t=Refr.	!
+{8g	Ju-
+8a	-vi-
+=9	=9
+8.b-	-val-
+16dd	-le-
+8dd	-ra-
+8dd	-le-
+8dd	-la-
+8dd	-la-
+=10	=10
+4dd	-la,
+4r}	.
+{8cc	ju-
+8b-	-vi-
+=11	=11
+8.a	-val-
+16b-	-le-
+8cc	-ra-
+8cc	-la-
+8cc	-la-
+8cc	-la-
+=12	=12
+4cc	-la,
+4r}	.
+{8f	ob
+8a	wir
+=13	=13
+4cc	tau-
+4cc	-gen
+8cc	für
+8ff	das
+=14	=14
+4dd	Feld,
+4r}	.
+{8cc	ob
+8b-	wir
+=15	=15
+4a	tau-
+4cc	-gen
+8b-/	für
+8g	das
+=16	=16
+4f	Feld.
+4r}	.
+==	==
+!!!AGN: Staende -, Soldaten -, Kriegs - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ERK3
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Staendelieder (Berufslieder). 1. Soldaten- und Kriegslieder. Soldatenlieder seit dem 30jaehr. Kriege.
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn745177999/iview2/phys_0240.iview2?x=-128.77276441889285&y=199.18538504908793&scale=0.5870222003877487&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/12/30
+*-	*-

@@ -1,0 +1,130 @@
+!!!OTL: Buchdrucker - Orden.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0456
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/2; 6/2
+*M6/2	*
+*met(c|)	*
+*clefC3	*
+*k[b-]	*
+*G:dor	*
+!LO:TX:a:t=dor. tr	!
+!LO:TX:a:t=P:1r, 2r in the source:problem	!
+!LO:N:vis=1	!
+4ryy	.
+!LO:N:vis=2	!
+4ryy	.
+{2G	Wol-
+=1	=1
+*M4/2	*
+2G	-auff
+2G	mit
+2d	rei-
+2d	-chem
+=2	=2
+1e	ſchal-
+1c;}	-le,
+=3-	=3-
+{0d	ich
+=4	=4
+*M6/2	*
+2f	weiß
+2f	mir
+2e	ein
+1d	gſell-
+2c#i	-ſchaft
+=5	=5
+0d	gut,}
+2r}	.
+{2G	Liebt
+=6	=6
+*M4/2	*
+2G	mir
+2G	vor
+2d	an-
+2d	-dern
+=7	=7
+1e	al-
+1c;}	-len,
+=8-	=8-
+{0d	ſie
+=9	=9
+*M6/2	*
+2f	tregt
+2f	ei-
+2e	-nen
+1d	frey-
+2c#i	-en
+=10	=10
+0d	mut.}
+2r}	.
+{2d	Sie
+=11	=11
+*M4/2	*
+2d	hat
+2d	ein
+2e	klei-
+2e	-ne
+=12	=12
+1f	ſor-
+2.f	-gen
+4e	wol
+=13	=13
+*M6/2	*
+1d	vmb
+2c	dʒ
+2B-	rö-
+2A	-mi-
+2G	-ſche
+=14	=14
+*M4/2	*
+1F;	reich,
+2r}	.
+{2f	es
+=15	=15
+2f	ſterb
+2f	heut
+2g	o-
+2g	-der
+=16	=16
+*M6/2	*
+1f	mor-
+1d	-gen,
+2r}	.
+{2d	ſo
+=17	=17
+2B-	gilts
+1c	jn
+4d/	al-
+4c/	.
+4B-	.
+4A	.
+2G}	-les,
+=18	=18
+{4e-	al-
+4d	.
+4c/	.
+4B-	.
+2c/	.
+2B-	.
+1A	-les
+=19	=19
+0G/ll}	gleich.
+==	==
+!!!GTL: Lieder aus verschiedene andere Stände, als Bauern, Handwerker, Studenten, Mönche ⁊c.
+!!!AGN: Romanze, Ballade, Lied
+!! Rotenbucher, Bergkreyen 1551 No. 23.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0643.iview2?x=-27.342981878423416&y=1860.7387429997325&scale=0.6340035897852&rotation=0&layout=singlePageLayout&logicalDiv=log_0016
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/18/03
+*-	*-

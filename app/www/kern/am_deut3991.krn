@@ -1,0 +1,72 @@
+!!!OTL: Kranzsingen. / B. Ein ander Ringeltanz
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0271B
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/1	*
+*met(c|)	*
+*clefC4	*
+*k[b-]	*
+*F:	*
+!LO:TX:a:t=P:1r, 2r, 2cc in the source:problem	!
+!LO:N:vis=1	!
+{2r	.
+2c	Vom
+=1	=1
+1c	him-
+1c	-mel
+1d	hoch
+1c	da
+=2	=2
+1c	kom
+1B-	ich
+1A	her
+2r}	.
+{2A/	vnd
+=3	=3
+1A	bring
+1c	euch
+1.c	gu-
+2B-	-te
+=4	=4
+1A	new-
+1G	-e
+1F	mär,
+2r}	.
+{2F	der
+=5	=5
+1F	gu-
+1G	-ten
+1.A	mär
+2G	bring
+=6	=6
+1F	ich
+1G	ſo
+1.A}	vil,
+{2A	da-
+=7	=7
+1A	-von
+1c	ich
+1c	ſingn
+1A	vnd
+=8	=8
+1B-	ſa-
+1G	-gen
+1F/ll}	wil.
+==	==
+!!!GTL: Raethsel-, Wett-, Wunsch- und Luegenlieder
+!!!AGN: Romanze, Ballade, Lied
+!! Geistl Ringeltentze 1550 No. 2
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT: "Ein ander Ringeltantz, als man umb den Krantz singet, vom Kindlen Jhesu zu Weihnachten."
+!!@@END:
+!!!RDF**kern: l = terminal long
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0422.iview2?x=-495.6391625615763&y=2233.9738916405477&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0011
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/11/03
+*-	*-

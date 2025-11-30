@@ -1,0 +1,28 @@
+ERK
+CUT[ES FREIT EIN WILDER WASSERMANN]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien, Niederlausitz]
+TRD[]
+FKT[]
+SIG[E0001B]
+KEY[E0001B  16  F 2/4]
+MEL[-5_  1_1_2_2_  3_321__
+    3_3_5_5_  445_3_
+    3_  5_2_3_1_  -7_1_2_
+    5_  3_3_2_2_  1__0_ //]
+BEM[]
+MEL_SEM[5 0 2 0 2 0 -2 -2 4 0 3 0 -2 0 2 -3 0 3 -5 2 -4 -1 1 2 5 -3 0 -2 0 -2]
+MEL_RAW[-5  1122  3321
+    3355  4453
+    3  5231  -712
+    5  3322  10]
+NO_REP[-512321
+    35453
+    35231-712
+    53210]
+RTM[x_  x_x_x_x_  x_xxx__
+    x_x_x_x_  xxx_x_
+    x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x__x_]
+SCL_DEG[-5-712345]
+SCL_SEM[4 1 2 2 1 2]
+

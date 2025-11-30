@@ -1,0 +1,121 @@
+!!!OTL: 517. Wanderlied.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0517
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M2/4	*
+*k[]	*
+*C:	*
+!LO:TX:a:t=Munter, gehend.	!
+{8cc	Wohl-
+=1	=1
+8g	-auf!
+8e	Es
+8f	ruft
+8a	der
+=2	=2
+8.g	Sonnenſchein
+16e	.
+8c}	.
+{16dL	hin-
+16eJ	.
+=3	=3
+8f	-aus
+8e	in
+8d	Got-
+8c	-tes
+=4	=4
+4.g}	Welt!
+{8cc	Geht
+=5	=5
+8g	mun-
+8e	-ter
+8f	in
+8a	das
+=6	=6
+8.g	Land
+16e	hin-
+8c}	-ein
+{16ccL	und
+16bJ	.
+=7	=7
+8a	wandert
+8a	.
+8dd	ü-
+8dd	-ber-
+=8	=8
+4g	-feld.
+8r}	.
+=||	=||
+{8g	Es
+=9	=9
+16bL	bleibt
+16ccJ	.
+16ddL	der
+16bJ	.
+16ccL	Strom
+16ddJ	.
+16eeL	nicht
+16ccJ	.
+=10	=10
+16bL	ruh-
+16ccJ	.
+16ddL	-ig
+16bJ	.
+8g}	ſtehn,
+{8g	gar
+=11	=11
+8ff	luſ-
+8ee	-tig
+8dd	rauſcht
+8cc	er
+=12	=12
+4b	fort.
+8r}	.
+{8g	Hörſt
+=13	=13
+16cL	du
+16dJ	.
+16eL	des
+16fJ	.
+16gL	Win-
+16aJ	.
+16b>L	-des
+16ccJ	.
+=14	=14
+8.g	muntres
+16f	.
+8e}	Wehn?
+{8cc	Er
+=15	=15
+8f	brauſt
+8f	von
+8g	Ort
+8g	ʒu
+=16	=16
+4c	Ort.
+8r}	.
+==	==
+!!!AGN: Wander - Lied
+!!!GTL: Wanderlieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Mel. nach J. Haydn.
+!!@@COMMENT:"Text von Ludw. Tieck 1797. Melodien daʒu giebt es viele. a) Von Joſ. Gersbach, Wander-
+!!vöglein 1822. b) Fink. Hausſchatʒ. Dieſelbe in Härtel's Liederlexikon. e) Erk, Germania 69 bat
+!!eine Mel. von B. Weſſely (1793) untergelegt; ſie gehört ʒum Liede: "Auf, auf, ihr lieben Leute. "
+!!d) Jch habe eine Mel. v. J. Handn gewählt. - Den Text, urſpr. 7 vierʒeilige Strophen, fand ich
+!!vielſach in geſchr. Liederheften bis 1850, ſogar im Elſaß."
+!!@@END:
+!!!Text: L. Tieck
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n411/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/11/07
+*-	*-

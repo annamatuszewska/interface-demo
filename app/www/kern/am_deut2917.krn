@@ -1,0 +1,136 @@
+!!!OTL: 729. Heimath, suesse Heimath! / [Englisches Volkslied]
+!!!COM: Volkslied
+!!!ARE: Europa, Mitteleuropa, Deutschland; England
+!!!SCT: B0729
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M2/4	*
+*k[b-e-a-]	*
+*E-:	*
+!LO:TX:a:t=Andante.	!
+{8e-	Kein
+=1	=1
+(8.g	Be-
+16a-)	-cher
+8a-	vol-
+8b-	-ler
+=2	=2
+4b-	Won-
+8g}	-nen,
+{8b-	ge-
+=3	=3
+(8.a-	-fül-
+16g)	-let
+8a-	bis
+8f	ʒum
+=4	=4
+4g	Rand,
+8r}	.
+{8e-	er-
+=5	=5
+(8.g	-ſetʒt
+16a-)	auf
+8a-	frem-
+8b-	-der
+=6	=6
+4b-	Er-
+8g}	-de
+{8b-	das
+=7	=7
+(8.a-	theu-
+16g)	-re
+8a-	Va-
+8f	-ter-
+=8	=8
+4e-	-land.
+8r}	.
+{8b-	Des
+=9	=9
+8.ee-	Him-
+16dd	-mels
+8ddq	.
+8.cc	rein-
+16b-	-ſter
+=10	=10
+4b-	Se-
+8g}	-gen
+{8b-	die
+=11	=11
+8.a-L	Hei-
+16gJ	.
+8a-	-math
+8f	be-
+=12	=12
+4.g}	-glückt.
+{8b-	Er-
+=13	=13
+8.ee-	-in-
+16dd	-ne-
+8ddq	.
+8.cc	-rung
+16b-	und
+=14	=14
+4b-	Ju-
+8g}	-gend
+{8b-	die
+=15	=15
+(<8b-	Seel'
+4a-)	.
+16a-qq	.
+8f)	ent-
+=16	=16
+2e-}	-ʒückt
+=17||	=17||
+{2b-^	O
+=18	=18
+4a-	ſü-
+4f	-ßer
+=19	=19
+4e-	Heimathslaut,
+4f	.
+=20	=20
+4.g;}	.
+{8b-	wie
+=21	=21
+8.ee-L	klingſt
+16ddJ	.
+8ddqq	.
+8cc	du
+8b-	dem
+=22	=22
+4b-	Her-
+8g}	-ʒen,
+{8b-	dem
+=23	=23
+!LO:TX:a:t=(langſamer.)	!
+8b-	Her-
+8cc	-ʒen
+8a-	lieb
+(8f;	und
+16gqqL	.
+16fqqJ)	.
+=24	=24
+4.e-}	trant.
+==	==
+!!!AGN: Heimat - Lied
+!!!GTL: Auslaendische Weisen, die in Deutschland gesungen wurden
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: < = below
+!!Englisches Volkslied.
+!!Mel. sicilianisch.
+!!@@COMMENT:"Engl. Text v. John Howard Panne. Mel. nach der einen Angabe sicilianischen,nach der anderen irischen Ursprungs.
+!!In Deutschland wurde dieses engl. Heimathlied um 1840 bekannt undin verschiedenen Uebersetzungen gedruckt.[...]"
+!!@@END:
+!!!Text: J. H. Panne
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n579/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/18/07
+*-	*-

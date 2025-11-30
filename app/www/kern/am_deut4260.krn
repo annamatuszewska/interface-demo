@@ -1,0 +1,87 @@
+!!!OTL: Lied von den sieben Worten Jesu am Kreuz.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0541A
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/1	*
+*met(c|)	*
+*clefC4	*
+*k[]	*
+*e:phr	*
+!LO:TX:a:t=phryg.	!
+!LO:TX:a:t=P:0b in the source:problem	!
+!LO:N:vis=0	!
+{1B	Da
+=1	=1
+1c	Je-
+1B	-ſus
+1A	an
+1B	dem
+=2	=2
+1d	Creu-
+1c	-tʒe
+1B	ſtund,
+2r}	.
+{2B	und
+=3	=3
+1c	ihm
+1B	ſein
+1c	leych-
+1A	-nam
+=4	=4
+1A	war
+1A	ver-
+1E	-wundt,
+2r}	.
+{2E	mit
+=5	=5
+1E	bit-
+1E	-ter-
+1G	-li-
+1G	-chen
+=6	=6
+*lig	*
+1E	ſchmer-
+1F	.
+*Xlig	*
+1G	-tʒen,
+2r}	.
+{2G	die
+=7	=7
+1c	Sie-
+1B	-ben
+1c	Wort,
+1A	die
+=8	=8
+1A	er
+1F	da
+1E	ſprach,
+2r}	.
+{2E	be-
+=9	=9
+1F	-tracht
+1G	in
+1A	dei-
+1A	-nen
+=10	=10
+*lig	*
+1.G	her-
+2F	.
+*Xlig	*
+1E/ll}	-tʒen.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Babst 1545 No. 6., Text bei Schumann 1539
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Phrygian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0720.iview2?x=-495.6391625615763&y=1827.4433497493155&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/20/03
+*-	*-

@@ -1,0 +1,80 @@
+!!!OTL: Wiegenlied.
+!!!OTL-incipit:SCHLAF SUESSER KNABE HOLD UND MILD
+!!!COM: J. A. P. Schulz
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0186
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text	**text
+*ICvox	*	*
+*Ivox	*	*
+*clefG2	*	*
+*M6/8	*	*
+*k[b-]	*	*
+*F:	*	*
+!LO:TX:a:t=Sanft.	!	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!	!
+{16aL	1._Schlaf	2._Nur
+16gJ	.	.
+=1	=1	=1
+4f	ſü-	e-
+8f	-ßer	-ben
+4f	Kna-	je-
+16aL	-be	tʒo
+16gJ	.	.
+=2	=2	=2
+4f	hold	war
+8f	und	er
+4f}	mild,	hier,
+{16b-L	du,	und
+16aJ	.	.
+=3	=3	=3
+4g	dei-	ſah
+8g	-nes	dir
+4g	Va-	in's
+16cc/L	-ters	Ge-
+16b-J	.	.
+=4	=4	=4
+4a	E-	-ſicht,
+8a	-ben-	.
+4a}	-bild!	.
+{16cc/L	das	und
+16ddJ	.	.
+=5	=5	=5
+8cc/L	1._biſt	2._ſprach:
+8b-J	.	.
+8a	du;	viel
+8aL	ʒwar	hat
+8b-J	.	.
+8cc	dein	er
+=6	=6	=6
+4dd	Va-	ʒwar
+8dd	-ter	von
+4dd}	ſpricht,	mir,
+{8dd	du	doch
+=7	=7	=7
+8cc/L	ha-	mei-
+8b-J	.	.
+8a	-beſt	-ne
+8gL	ſei-	Na-
+8fJ	.	.
+8e	-ne	-ſe
+=8	=8	=8
+4f	Na-	nicht.
+8f	-ſe	.
+4f}	nicht	.
+==	==	==
+!!!AGN: Wiegen - Lied, Scherz
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Volkslieder
+!!Text: M. Claudius
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 108
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=116,117
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/07/26
+*-	*-	*-

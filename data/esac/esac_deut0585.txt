@@ -1,0 +1,28 @@
+ERK
+CUT[ES WAR A MOL A MADEL]
+REG[Europa, Mitteleuropa, Deutschland, Schlesien]
+TRD[]
+FKT[]
+SIG[E0003]
+KEY[E0003   16  C 2/4]
+MEL[-5_  1_-7_1_2_  1_-7_-7_
+    -5_  1_-7_1_3b_  2__0_
+    2_  3b_2_3b_4_  3b_2_2_
+    -7_  123b_21-7_  1__0_ //]
+BEM[]
+MEL_SEM[5 -1 1 2 -2 -1 0 -4 5 -1 1 3 -1 0 1 -1 1 2 -2 -1 0 -3 1 2 1 -1 -2 -1 1]
+MEL_RAW[-5  1-712  1-7-7
+    -5  1-713b  20
+    2  3b23b4  3b22
+    -7  123b21-7  10]
+NO_REP[-51-7121-7
+    -51-713b20
+    23b23b43b2
+    -7123b21-710]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x_x_x_
+    x_  xxx_xxx_  x__x_]
+SCL_DEG[-5-7123b4]
+SCL_SEM[4 1 2 1 2]
+

@@ -1,0 +1,36 @@
+ERK
+CUT[ES WAREN ZWEI VERLIEBTE IN DEM MAILAND]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[E0049C]
+KEY[E0049C  08  G 4/4]
+MEL[12  3_3_3_23  4_2_0_
+    23  4_4_4654  5_3_0_
+    13  5_554321  6_6_6_
+    +16  5_555_24  3__0_
+    13  5_554321  6_6_6_
+    +16  5_555_24  3__0_ //]
+BEM[]
+MEL_SEM[2 2 0 0 -2 2 1 -3 0 2 1 0 0 4 -2 -2 2 -3 -4 4 3 0 0 -2 -1 -2 -2 9 0 0 3 -3 -2 0 0 0 -5 3 -1 -4 4 3 0 0 -2 -1 -2 -2 9 0 0 3 -3 -2 0 0 0 -5 3 -1]
+MEL_RAW[12  33323  420
+    23  444654  530
+    13  5554321  666
+    +16  555524  30
+    13  5554321  666
+    +16  555524  30]
+NO_REP[12323420
+    234654530
+    13543216
+    +1652430
+    13543216
+    +1652430]
+RTM[xx  x_x_x_xx  x_x_x_
+    xx  x_x_xxxx  x_x_x_
+    xx  x_xxxxxx  x_x_x_
+    xx  x_xxx_xx  x__x_
+    xx  x_xxxxxx  x_x_x_
+    xx  x_xxx_xx  x__x_]
+SCL_DEG[123456+1]
+SCL_SEM[2 2 1 2 2 3]
+

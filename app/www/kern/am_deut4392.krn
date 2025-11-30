@@ -1,0 +1,100 @@
+!!!OTL: Der geistliche Tannebaum. / Andere Melodie.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0656B
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/4	*
+*met(c|)	*
+*clefC1	*
+*k[b-]	*
+*g:	*
+!LO:TX:a:t=P:2r, 4r in the source:problem	!
+{4dd	O
+=1	=1
+4.dd	Dan-
+8dd	-ne-
+4dd	baum
+4ff	⁊c.
+=2	=2
+4.cc	.
+8cc	.
+4cc	.
+4dd	.
+=3	=3
+4cc	.
+4cc	.
+4.b-	.
+8cc	.
+=4	=4
+2a	.
+4r}	.
+{4dd	O
+=5	=5
+4.dd	Dan-
+8dd	-ne-
+4dd	baum
+4ff	⁊c.
+=6	=6
+4.cc	.
+8cc	.
+4cc	.
+4dd	.
+=7	=7
+4cc	.
+4cc	.
+4.b-	.
+8cc	.
+=8	=8
+2a	.
+4r}	.
+{4a	.
+=9	=9
+4b-	.
+4b-	.
+4cc	.
+4cc	.
+=10	=10
+2dd	.
+4dd	.
+4ff	.
+=11	=11
+4ee-	.
+4dd	.
+4.cc	.
+8cc	.
+=12	=12
+2b-	.
+4r}	.
+{4a	.
+=13	=13
+4b-	.
+4cc	.
+4dd	.
+4b-	.
+=14	=14
+2cc	.
+4cc	.
+4dd	.
+=15	=15
+4b-	.
+4cc	.
+4.a	.
+8a	.
+=16	=16
+!LO:TX:a:t=P:1g in the source:problem	!
+!LO:N:vis=1	!
+2.g;}	.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Muenchen 1642
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0836.iview2?x=-495.6391625615763&y=-1158.244827608578&scale=0.4629418472063854&rotation=0&layout=singlePageLayout
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/26/03
+*-	*-

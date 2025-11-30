@@ -1,0 +1,76 @@
+!!!OTL: Weihnachtslied des 14. Jahrhunderts. / (Angeblich von Tauler. ♱ 1361.)
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0517
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  3/2; 4/2
+*M3/2	*
+*met(3)	*
+*clefC3	*
+*k[b-]	*
+*g:dor	*
+=1	=1
+!LO:TX:a:t=dor.	!
+2ryy	.
+2ryy	.
+{2G	Vns
+=2	=2
+1G	kompt
+2G	ein
+=3	=3
+1A	Schiff
+2A	ge-
+=4	=4
+2B-	-fah-
+2c/	.
+2d	.
+=5	=5
+1d}	-ren,
+{2d	Es
+=6	=6
+1c	brengt
+2c	ein
+=7	=7
+1G	ſchö-
+2A	-nen
+=8	=8
+*M4/2	*
+*met(c|)	*
+1B-	Laſt,
+2r}	.
+{2B-	Dar-
+=9	=9
+2d	-auff
+2f	viel
+2g	En-
+2g	-gel-
+=10	=10
+4f	-ſcha-
+4e-	.
+4d	.
+4c	.
+2B-}	-ren,
+{2c/	Vnd
+=11	=11
+2d	hat
+2c	ein
+2B-	groſ-
+2A	-ſen
+=12	=12
+0G/ll}	Maſt.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Andernacher Gsgb. 1608 No. 27
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0694.iview2?x=-1272.8135649766991&y=2086.8967327149585&scale=0.3197610882076923&rotation=0&layout=singlePageLayout&logicalDiv=log_0018
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/19/03
+*-	*-

@@ -1,0 +1,24 @@
+ERK
+CUT[ES WOLLT EIN MAEGDLEIN SPAZIEREN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Franken]
+TRD[]
+FKT[]
+SIG[E0011]
+KEY[E0011   08  A 4/4]
+MEL[-5  1_1_1_23b  1_-7-6-5_.
+    -5  2_2_2_5_  21-7-6-5_
+    -5_  1_2_3b513b  3b21-71_0 //]
+BEM[]
+MEL_SEM[5 0 0 2 1 -3 -1 -2 -2 0 7 0 0 5 -5 -2 -1 -2 -2 0 5 2 1 4 -7 3 0 -1 -2 -1 1]
+MEL_RAW[-5  11123b  1-7-6-5
+    -5  2225  21-7-6-5
+    -5  123b513b  3b21-710]
+NO_REP[-5123b1-7-6-5
+    -52521-7-6-5
+    -5123b513b21-710]
+RTM[x  x_x_x_xx  x_xxx_.
+    x  x_x_x_x_  xxxxx_
+    x_  x_x_xxxx  xxxxx_x]
+SCL_DEG[-5-6-7123b5]
+SCL_SEM[2 2 1 2 1 4]
+

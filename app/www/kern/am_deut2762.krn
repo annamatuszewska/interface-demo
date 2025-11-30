@@ -1,0 +1,132 @@
+!!!OTL: 571. Soldatenmuth.
+!!!COM: Volksweise
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0571
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M6/8	*
+*k[b-]	*
+*F:	*
+!LO:TX:a:t=Heiter.	!
+{8cc	Sol-
+=1	=1
+4cc	-da
+8a	tenmuth
+4f	.
+8a	ſiegt
+=2	=2
+4cc	ü-
+8b-	-ber-
+4g}	-all,
+{8e	im
+=3	=3
+4f	Frieden
+8f	.
+8fL	und
+8gJ	.
+8a	im
+=4	=4
+[4.g	Krieg,
+4g]}	.
+{8cc	bei
+=5	=5
+4cc	Flö-
+8a	-ten
+4f	und
+8ff	Ka-
+=6	=6
+4ff	-no-
+8dd	-nen-
+4bn}	-ſchall
+{8g	er-
+=7	=7
+8.ccL	-kämpft
+16ddJ	.
+8ee	er
+8.gL	ſich
+16aJ	.
+8bn	den
+=8	=8
+4.cc	Sieg
+4r}	.
+{8cc	ſei's
+=9	=9
+4ee	um
+8cc	ein
+8.ccL	Küß-
+16ddJ	.
+8ee	-chen
+=10	=10
+4ff	mit
+8cc	der
+4a}	Maid,
+{8a	ſei's
+=11	=11
+4b-	mit
+8cc	dem
+4a	Feind
+8cc	um
+=12	=12
+[4.g	Blut
+8g]	.
+8r}	.
+{8c	da
+=13	=13
+4f	iſt
+8a	er
+4cc	ſchnell
+8a	ʒum
+=14	=14
+4b-	Kampf
+8dd	be-
+4ff}	-reit,
+{8dd	da
+=15	=15
+4cc	ſiegt
+8a	Sol-
+8ccL	-da-
+8b-J	.
+8g	-ten-
+=16	=16
+4f}	-muth,
+{8f	hur-
+4a	-rah!
+8f	da
+=17	=17
+4cc^	ſiegt
+8cc	Sol-
+4cc	-da
+8cc	ten-
+=18	=18
+4a}	-muth!
+{8cc	hur-
+4ff^	-rah!
+8a	da
+=19	=19
+4cc	ſiegt
+8cc	Sol-
+4cc	-da
+8cc	ten-
+=20	=20
+4.f	-muth!
+4r}	.
+==	==
+!!!AGN: Staende -, Soldaten - Lied
+!!!GTL: Soldatenlieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT:"Gedicht von W. Hauff 1824. Melodie Volksweiſe in militäriſchen Kreiſen. Aufgenommen
+!!in's Preuß. Soldatenliederbuch" 1881."
+!!@@END:
+!!!Text: W. Hauff
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n453/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/12/07
+*-	*-

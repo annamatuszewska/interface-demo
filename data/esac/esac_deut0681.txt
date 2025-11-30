@@ -1,0 +1,28 @@
+ERK
+CUT[IK SACH MINEN HER VAN VALKENSTEN]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen, Bielefeld]
+TRD[]
+FKT[]
+SIG[E0062]
+KEY[E0062   08  G 4/4]
+MEL[5_  5_43b2_5_  5_43b2_.
+    4  3b_2_1_1_  -7__1_
+    11  2_3b3b4_2_  3b_4_5_.
+    4  3b_2_1_1_  -7__1_ //]
+BEM[]
+MEL_SEM[0 -2 -2 -1 5 0 -2 -2 -1 3 -2 -1 -2 0 -1 1 0 0 2 1 0 2 -3 1 2 2 -2 -2 -1 -2 0 -1 1]
+MEL_RAW[5  543b25  543b2
+    4  3b211  -71
+    11  23b3b42  3b45
+    4  3b211  -71]
+NO_REP[543b2543b2
+    43b21-71
+    123b423b45
+    43b21-71]
+RTM[x_  x_xxx_x_  x_xxx_.
+    x  x_x_x_x_  x__x_
+    xx  x_xxx_x_  x_x_x_.
+    x  x_x_x_x_  x__x_]
+SCL_DEG[-7123b45]
+SCL_SEM[1 2 1 2 2]
+

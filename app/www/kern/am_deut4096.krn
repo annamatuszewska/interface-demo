@@ -1,0 +1,86 @@
+!!!OTL: Noch ein Lindenschmidston.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0377A
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+!! Mixed meters:  4/2; 6/2
+*M4/2
+*met(c|)
+*clefC3
+*k[]
+*a:aeo
+=1
+!LO:TX:a:t=aeolisch.
+1ryy
+2ryy
+{2A
+=2
+2A
+2A
+2G
+2G
+=3
+2c/
+2B
+1c
+=4
+2r}
+{2c
+2c
+2c
+=5
+2d
+2c
+2A
+2B
+=6
+1A
+2r}
+{2d
+=7
+*M6/2
+1d
+2d
+1d
+2c
+=8
+2.G
+4A
+2B
+2G
+2r}
+{2B
+=9
+1c
+2d
+1e
+2d
+=10
+1c
+2B
+1c
+2r}
+=11
+{2e
+2e
+2e
+1d
+2c
+=12
+1B
+0A/ll}
+==
+!!!GTL: Einige historisch-politische Lieder
+!!!AGN: Romanze, Ballade, Lied, Personenlied
+!! Fliegendes Blatt von 1546.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Aeolian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0536.iview2?x=-948.0634874302073&y=885.085253105266&scale=0.3669911794666851&rotation=0&layout=singlePageLayout&logicalDiv=log_0014
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/14/03
+*-

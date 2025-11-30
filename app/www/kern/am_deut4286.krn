@@ -1,0 +1,103 @@
+!!!OTL: Die drei heiligen Frauen an Jesu Grabe.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0558
+!!!TXL: @@DE, (@@LAT)
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/1	*
+*met(3)	*
+*clefC4	*
+*k[]	*
+*d:aeo	*
+=1	=1
+!LO:TX:a:t=aeol.	!
+1ryy	.
+1ryy	.
+{1A	Es
+=2	=2
+*lig	*
+1A	gien-
+1A	-gen
+*Xlig	*
+1G	drey
+=3	=3
+0F	(heil'-
+1D	-ge)
+=4	=4
+*lig	*
+1A	Fraw-
+0c	.
+*Xlig	*
+=5	=5
+0A}	-en,
+{1B-	Sie
+=6	=6
+*lig	*
+1A	woll-
+1A	-ten
+*Xlig	*
+1G	das
+=7	=7
+0F	Grab
+1D	be-
+=8	=8
+*lig	*
+1A	-ſchaw-
+0c	.
+*Xlig	*
+=9	=9
+0A}	-en,
+{1A	Sie
+=10	=10
+*lig	*
+1d	ſuch-
+1d	-ten
+*Xlig	*
+1d	den
+=11	=11
+0c	Her-
+1A	-ren
+=12	=12
+0c	Je-
+1B-	-ſum
+=13	=13
+0A}	Chriſt,
+{1B-	Der
+=14	=14
+0A	von
+1G	dem
+=15	=15
+*lig	*
+1.A	Todt
+2G	.
+*Xlig	*
+1F	er-
+=16	=16
+0E	-ſtan-
+1F	-den
+=17	=17
+0D}	iſt.
+{1E	Ky-
+=18	=18
+0C	-rie
+1D	e-
+=19	=19
+1D	-le-
+0D	-i-
+=20	=20
+0.D/ll}	-ſon.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Muenchner Gsgb 1586 fol. 21.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Aeolian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0739.iview2?x=-1583.232250273661&y=715.6118622031063&scale=0.2846028696088022&rotation=0&layout=singlePageLayout&logicalDiv=log_0021
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/20/03
+*-	*-

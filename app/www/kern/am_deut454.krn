@@ -1,0 +1,108 @@
+!!!OTL: Die zwei Roeselein.
+!!!OTL-incipit: JETZT GEH ICH ANS BRUENNELE
+!!!COM: Volksweise
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0861
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M3/8	*
+*k[f#]	*
+*G:	*
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{8d	1._Jetʒt
+=1	=1
+8.g	geh'
+16f#	ich
+16gL	an's
+16aJ	.
+=2	=2
+8.b/	Brünee-
+16cc/	.
+8b/}	-le,
+=3	=3
+{16bL	trink
+16aJ	.
+8a	a-
+16aL	-ber
+16bJ	.
+=4	=4
+8g	nit;
+8r}	.
+{8g	jetʒt
+=5	=5
+8.b/	geh'
+16a	ich
+16b/L	an's
+16ccJ	.
+=6	=6
+8.dd/	Brünee-
+16ee	.
+8dd}	-le,
+=7	=7
+{16dd/L	trink
+16ccJ	.
+8cc/	a-
+16cc/L	-ber
+16ddJ	.
+=8	=8
+8b	nit;
+8r}	.
+{8dd	da
+=9	=9
+16ddL	ſuch'
+16ccJ	.
+8cc	ich
+[16cc	mein
+16cc]	.
+=10	=10
+8b/	Schätʒer-
+16ddL	.
+16ccJ	.
+8b/}	-le,
+=11	=11
+{16bq	.
+[>8a	ſind's
+8a]	a-
+8a	-ber
+=12	=12
+8b/	nit!
+8r}	.
+{8dd	da
+=13	=13
+16ddL	ſuch'
+16ccJ	.
+8cc	ich
+[16cc	mein
+16cc]	.
+=14	=14
+8b/	Schätʒer-
+16ddL	.
+16ccJ	.
+8b/}	-le,
+=15	=15
+{16bq	.
+[>8a	ſind's
+8a]	a-
+8a	-ber
+=16	=16
+8b/	nit!
+8r;}	.
+==	==
+!!!AGN: erzaehlendes Volks - Lied, Ballade, Liebe
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: > = above
+!!!GTL: Romanzen und Balladen
+!!Text: Volkslied
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 615
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=551
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/07
+*-	*-

@@ -1,0 +1,132 @@
+!!!OTL: Auf, ihr Brueder, singet Lieder. / Auf der teutschen Freiheit Wohl.
+!!!OTL-incipit: AUF BRUEDER LASST UNS LUSTIG LEBEN
+!!!COM: Studentenweise
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0498
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[b-e-a-]	*
+*E-:	*
+=1	=1
+!LO:TX:a:t=Feierlich.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{4.g	Auf,
+8f	ihr
+8fL	Brü-
+8e-J	.
+4e-	-der,
+=2	=2
+4.b-/	ſin-
+8a-	-get
+(8a-L	Lie-
+8gJ)	.
+4g}	-der
+=3	=3
+{4.ee-	auf
+8dd	der
+8ccL	teut-
+8b-J	.
+8a-L	-ſchen
+8gJ	.
+=4	=4
+4.b-/	Freiheit
+8g	.
+(8fL	Wohl!
+8b-	.
+8aX	.
+8a-J)}	.
+=5	=5
+{4.g	Je-
+8f	-dem
+8fL	tönt's
+8e-J	.
+4e-	im
+=6	=6
+4.b-/	Her-
+8a-	-ʒen
+(8a-L	wie-
+8gJ)	.
+4g}	-der,
+=7	=7
+{4.ee-	was
+8dd	der
+8ccL	Mund
+8b-J	.
+8a-L	jetʒt
+8gJ	.
+=8	=8
+4.b-/	ſin-
+8g	-gen
+4f	ſoll.
+4r}	.
+=9	=9
+!LO:TX:a:t=Etwas lebhafter.	!
+{4.dd	Auf,
+8dd	und
+(8ddL	ſing't
+8ccJ)	.
+(8b-L	wer
+8ccJ)	.
+=10	=10
+4dd	Freiheit
+4ee-	.
+8ff/L	eh-
+8ee-J	.
+8dd/L	-ret,
+8cc}J	.
+=11	=11
+{4.dd	Recht
+8dd	und
+(8ddL	Bie-
+8ccJ)	.
+(8b-L	-der-
+8ccJ)	.
+=12	=12
+4dd	-keit
+4ee-	uns
+8ff/L	leh-
+8ee-J	.
+4dd/}	-ret,
+=13	=13
+{4.ee-/	le-
+8b-/	-be,
+4.cc/	le-
+8g	-be
+=14	=14
+4a-	dreimal
+4b-X/	.
+4cc/	hoch!
+4r}	.
+=15	=15
+{(8ee-L	le-
+8dd	.
+8ccJ)	.
+8b-/	-be,
+8cc/L	le-
+8dd	.
+8ee-J	.
+8ff/	-be
+=16	=16
+4gg	dreimal
+4ff	.
+2ee-}	hoch!
+==	==
+!!!AGN: Studenten - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Studentenlieder
+!!Text: Studentenlied
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 315
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=281
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/01/08
+*-	*-

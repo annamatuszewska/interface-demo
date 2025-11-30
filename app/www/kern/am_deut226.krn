@@ -1,0 +1,147 @@
+!!!OTL: Das Lied vom Rhein.
+!!!OTL-incipit:ES KLINGT EIN HOHER KLANG
+!!!COM: H. G. Naegeli
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0397
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[b-]	*
+*F:	*
+!LO:TX:a:t=Mäßig und kräftig.	!
+{4f	1._Es
+=1	=1
+4.f	klingt
+8a	ein
+4cc	ho-
+4cc	-her
+=2	=2
+2.cc}	Klang,
+{4g	ein
+=3	=3
+4.a	ſchö-
+8cc	-nes
+4ff	teutſches
+4ff	.
+=4	=4
+2.ee}	Wort
+{4cc	in
+=5	=5
+4.dd	je-
+8dd	-dem
+4.gg	Hochge-
+8gg	.
+=6	=6
+4.cc}	-ſang
+{8cc	der
+4ff	teutſchen
+4cc	.
+=7	=7
+(4.f	Män-
+8g	.
+4a)	.
+4b/	-ner
+=8	=8
+2.cc}	fort;
+{4g	ein
+=9	=9
+2g	al-
+2g	-ler
+=10	=10
+(4.cc	Kö-
+8ee)	.
+(4.ee	-nig
+8gg)}	.
+=11	=11
+{(4.gg	hoch-
+8ff	.
+4ee)	.
+4dd	-ge-
+=12	=12
+(4cc	-bo-
+4g)	.
+4e}	-ren,
+{4g	dem
+=13	=13
+2g	je-
+2g	-des
+=14	=14
+(4.cc	teut-
+8ee)	.
+(4.ee	-ſche
+8gg)}	.
+=15	=15
+{(4.gg	Herʒ
+8ff	.
+4ee)	.
+4dd	ge-
+=16	=16
+(4cc	-ſchwo-
+4g)	.
+4e}	-ren;
+{4cc	wie
+=17	=17
+4.ff	oft
+8ee	ſein
+4dd	Na-
+4dd	-me
+=18	=18
+4.cc	wieder-
+8b-	.
+4a}	-kehrt,
+{4g	man
+=19	=19
+4a	hat
+4cc	ihn
+4dd	nie
+4gg	ge-
+=20	=20
+2ff	-nug
+2ee	ge-
+=21	=21
+2ff	-hört.
+4r}	.
+!LO:TX:a:t=Alle.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{4cc/	Wie
+=22	=22
+4.ff/	oft
+8ee/	ſein
+4dd/	Name
+4dd/	.
+=23	=23
+4.cc/	wie-
+8b-/	-derkehrt,
+4a}	.
+{4g	man
+=24	=24
+4a	hat
+4cc/	ihn
+4dd/	nie
+4gg/	ge-
+=25	=25
+2ff/	-nug
+2ee/	ge-
+=26	=26
+2ff/	-hört.
+4r}	.
+==	==
+!!!AGN: Vaterlands -, Heimat - Lied, nationalistisch
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Text: M. v. Schenkendorf
+!!!RDF**kern: > = above
+!!!GTL: Vaterlands- und Heimathslieder
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 242
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=232
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/09/08
+*-	*-

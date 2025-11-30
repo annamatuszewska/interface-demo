@@ -1,0 +1,28 @@
+ERK
+CUT[ACH HANNCHEN SCHOENSTES HANNCHEN]
+REG[Europa, Mitteleuropa, Deutschland, Limburg; Unter - Lahnkreis]
+TRD[]
+FKT[]
+SIG[E0056E]
+KEY[E0056E  08  G 3/4]
+MEL[-5_  -533_21  -722_
+    23  466_54  3_0_
+    23  466_54  355_
+    43  255_4_  3__ //]
+BEM[]
+MEL_SEM[0 9 0 -2 -2 -1 3 0 0 2 1 4 0 -2 -2 -1 -2 2 1 4 0 -2 -2 -1 3 0 -2 -1 -2 5 0 -2 -1]
+MEL_RAW[-5  -53321  -722
+    23  46654  30
+    23  46654  355
+    43  2554  3]
+NO_REP[-5321-72
+    23465430
+    23465435
+    432543]
+RTM[x_  xxx_xx  xxx_
+    xx  xxx_xx  x_x_
+    xx  xxx_xx  xxx_
+    xx  xxx_x_  x__]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

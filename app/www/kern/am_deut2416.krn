@@ -1,0 +1,97 @@
+!!!OTL: 176. Waldlied. / Andere Melodie
+!!!COM: C. Fr. Zelter
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0176A
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*M4/4	*
+*met(c)	*
+*clefG2	*
+*k[b-]	*
+*F:	*
+!LO:TX:a:t=Fröhlich.	!
+{4c	Jm
+=1	=1
+!LO:TX:a:t=Einʒelne.	!
+4f	Wal-
+4g	-de
+4a	möcht
+4b-	ich
+=2	=2
+(4.cc	le-
+8dd)	.
+4cc}	-ben
+{4a	ʒur
+=3	=3
+4b-/	hei-
+4a	-ßen
+4b-	Som-
+4cc	-mer-
+=4	=4
+2a	-ʒeit!
+4r}	.
+{8aL	Der
+8b-J	.
+=5	=5
+4cc	Wald
+4cc	der
+4cc	kann
+8b-L	uns
+8ccJ	.
+=6	=6
+(4.dd	ge-
+8ee)	.
+4ff}	-ben
+{8eeL	viel
+8ddJ	.
+=7	=7
+4cc	Luſt
+4a	und
+8ccL	Fröh-
+8b-J	.
+8aL	-lich-
+8gJ	.
+=8	=8
+2f	-keit.
+4r}	.
+!LO:TX:a:t=P:encoded only higer voice:problem	!
+!LO:TX:a:t=Chor.	!
+{4cc/	Der
+=9	=9
+4cc/	Wald
+8aL	der
+8b-J	.
+4cc/	kann
+8b-L	uns
+8ccJ	.
+=10	=10
+(4.dd/	ge-
+8ee/)	.
+4ff/}	-ben
+{8ee/L	viel
+8ddJ	.
+=11	=11
+4cc/	Luſt
+4ff/	und
+4gg/	Fröh-
+4ee/	-lich-
+=12	=12
+2ff/	-keit.
+4r}	.
+==	==
+!!!AGN: Natur - Lied, Wald
+!!!GTL: Naturfreude, Waldlust, Landleben, Berg- und Wasserfahrt
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!C. Fr. Ʒelter. "Kommt, laßt uns ausſpaʒieren."
+!!!Text: H. v. Fallersleben
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n173/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/21/06
+*-	*-

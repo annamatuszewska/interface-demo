@@ -1,0 +1,69 @@
+!!!OTL: Schenkenbachs Reuterlied. / Volksthümlichere Lesart des Reutertones ist:
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0426B
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/2; 6/2
+*M6/2	*
+*met(c|)	*
+*clefC4	*
+*k[b-]	*
+*F:	*
+{2F	Wol
+=1	=1
+*M4/2	*
+2F	auf,
+2F	ir
+2c	reu-
+2c	-ters
+=2	=2
+*M6/2	*
+1d	kna-
+1c}	-ben,
+{1f	und
+=3	=3
+2c	ha-
+2c	-bent
+2B-	ein
+2A	fri-
+1G	-ſchen
+=4	=4
+0F	mut,
+2r}	.
+*M6/2	*
+*met(3)	*
+{2f	Ra-
+=5	=5
+1f	-bün-
+2f	-tʒel
+2f	wol-
+2f	-len
+2f	wir
+=6	=6
+1e	gra-
+1c	-ben,
+2r}	.
+{2c	ſeind
+=7	=7
+1A	in
+2A	der
+1B-	fa-
+2B-	-ſten
+=8	=8
+!LO:TX:a:t=P:0cc in the source:problem	!
+[0c	gut.
+2cyy]}	.
+==	==
+!!!GTL: Landsknecht- und Reiterlieder
+!!!AGN: Romanze, Ballade, Lied, Kriegslied
+!! Schmeltzel 1544 Quodl. 20.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0605.iview2?x=-1294.6859637568468&y=1450.2300040689297&scale=0.3170017948926&rotation=0&layout=singlePageLayout&logicalDiv=log_0016
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/18/03
+*-	*-

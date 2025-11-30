@@ -1,0 +1,28 @@
+ERK
+CUT[ES LIEGT EIN SCHLOSS IN OESTERREICH]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland; Mosel]
+TRD[]
+FKT[]
+SIG[E0061H]
+KEY[E0061H  16  D 3/4]
+MEL[1_  1_355__4_2_  1_.33__2_
+    1_  1_355__4_2_  4_5_3__0_
+    5_  5_7+2+2__7_5_  6_7_+1__
+    +1__  6_6_5__3__  4_5_3__0_ //]
+BEM[]
+MEL_SEM[0 4 3 0 -2 -3 -2 4 0 -2 -2 0 4 3 0 -2 -3 3 2 -3 3 0 4 3 0 -3 -4 2 2 1 0 -3 0 -2 -3 1 2 -3]
+MEL_RAW[1  135542  1332
+    1  135542  4530
+    5  57+2+275  67+1
+    +1  6653  4530]
+NO_REP[13542132
+    135424530
+    57+27567+1
+    +16534530]
+RTM[x_  x_xxx__x_x_  x_.xx__x_
+    x_  x_xxx__x_x_  x_x_x__x_
+    x_  x_xxx__x_x_  x_x_x__
+    x__  x_x_x__x__  x_x_x__x_]
+SCL_DEG[1234567+1+2]
+SCL_SEM[2 2 1 2 2 2 1 2]
+

@@ -1,0 +1,100 @@
+!!!OTL: Vaterlandslied.
+!!!OTL-incipit:HERZ VOLL MUTH BLICK VOLL GLUTH
+!!!COM: Fr. Schneider
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0419
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M3/4	*
+*k[f#c#]	*
+*D:	*
+=1	=1
+!LO:TX:a:t=Kräftig in mäßiger Bewegung.	!
+!LO:TX:a:t=Für 4 Männerſtimmen ohne, einſtimmig mit Begleitung.*)	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{4.dd	1._Herʒ
+8dd	voll
+4ee;	Muth,
+=2	=2
+4.ee	Blick
+8ee	voll
+4ff#;}	Gluth,
+=3	=3
+{8.dd/	Arm
+16ee/	im
+8ff#/	Streite
+8dd/	.
+8gg/	brav
+8ff#/	und
+=4	=4
+2ee	gut!
+4r}	.
+=5	=5
+{8.ee	Ruhmentflammt
+16ee	.
+4ee	.
+8ff#	A-
+8ee	-le-
+=6	=6
+4dd	-ſammt,
+8.dd	wer
+16dd	von
+8ee	Hermann
+8dd	.
+=7	=7
+!LO:TX:a:t=ten.	!
+2cc#	ſtammt!
+4r}	.
+=8	=8
+{16a	So
+16b/	in
+16cc#/	lau-
+16dd	-ter
+8ee	Saus
+8ff#	und
+4ee	Braus,
+=9	=9
+16a	Brüder,
+16b/	.
+16cc#/	ſchwärmen
+16dd	.
+8ee	wir
+8ff#	nach
+4ee}	Haus,
+=10	=10
+{8.ff#	ſtark
+16gg	und
+2aa	frei
+=11	=11
+8.ff#	gut
+16gg	und
+2aa}	treu,
+=12	=12
+{8dd/	un-
+16ee/L	-ſre
+16ff#J	.
+4gg/	Lo-
+4ee/	-ſung
+=13	=13
+2dd/	ſei.
+4r}	.
+==	==
+!!!AGN: Vaterlands -, Heimat - Lied, nationalistisch
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Vaterlands- und Heimathslieder
+!!Text: Hinckel
+!!@@COMMENT:"*) Aus: Sechs Lieder für 4 Männerſtimmen, Op. d2, bei Breitkopf und Härtel. Mit gütiger Erlaubniß der Herren Verleger."
+!!@@END:
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 257
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=246,247
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/07/31
+*-	*-

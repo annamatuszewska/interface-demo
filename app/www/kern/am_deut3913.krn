@@ -1,0 +1,80 @@
+!!!OTL: Andere Melodie. (Die Linde im Thal)
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0177
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c|)	*
+*clefC3	*
+*k[]	*
+*C:hyp	*
+=1	=1
+!LO:TX:a:t=hypojon.	!
+{2r	.
+2G	Es
+2c	ſtet
+2c	ein
+=2	=2
+2c	lind
+2d	in
+2B	je-
+2A	-nem
+=3	=3
+1G	dal,
+2r}	.
+{2c	ach
+=4	=4
+2B	Got
+2G	was
+2A	thut
+2A	ſie
+=5	=5
+1G	da?
+2r}	.
+{2G	Sie
+=6	=6
+2c	wil
+2c	mir
+2.g	hel-
+4f	-fen
+=7	=7
+1e	trawren,
+1d	.
+=8	=8
+4c	traw-
+4d	.
+4e	.
+4d	.
+2c	.
+4B	.
+4A	.
+=9	=9
+0B	-ren,
+=10	=10
+2r}	.
+{2G	daß
+2A	ich
+2B	ſo
+=11	=11
+2.c	gar
+4d	kein
+2e	bu-
+2d	-len
+=12	=12
+0c\ll}	hab.
+==	==
+!!!GTL: Liebeslieder
+!!!AGN: Romanze, Ballade, Lied
+!! 68 Lieder. Nuernberg bei Berg und Newber No. 25.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Hypoionian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0339.iview2?x=-495.6391625615763&y=1643.8349753734656&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0009
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/07/03
+*-	*-

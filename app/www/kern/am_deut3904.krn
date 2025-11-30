@@ -1,0 +1,113 @@
+!!!OTL: Kuckuks Fall.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0168
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/2	*
+*met(O3)	*
+*clefC4	*
+*k[b-]	*
+*g:dor	*
+=1	=1
+!LO:TX:a:t=dor. tr	!
+2ryy	.
+2ryy	.
+!LO:N:vis=1	!
+{2G	Gu-
+=1	=1
+!LO:N:vis=0	!
+1G	-ckuck
+!LO:N:vis=1	!
+2G	hat
+=2	=2
+!LO:N:vis=0	!
+1G	ſich
+!LO:N:vis=1	!
+2A	ʒu
+=3	=3
+!LO:N:vis=0	!
+1B-	todt
+!LO:N:vis=1	!
+2B-	ge-
+=4	=4
+!LO:N:vis=0	!
+1B-}	-falln
+!LO:N:vis=1	!
+{2B-	von
+=5	=5
+!LO:N:vis=0	!
+1B-	ei-
+!LO:N:vis=1	!
+2B-	-ner
+=6	=6
+!LO:TX:a:t=P:coloured notes:problem	!
+!LO:N:vis=1	!
+2d	ho-
+!LO:TX:a:t=P:coloured notes:problem	!
+!LO:N:vis=0	!
+1c	-len
+=7	=7
+!LO:N:vis=0.	!
+1.B-	way-
+=8	=8
+!LO:N:vis=0	!
+1B-}	-den,
+!LO:N:vis=1	!
+{2B-	wer
+=9	=9
+!LO:N:vis=0	!
+1B-	ſoll
+!LO:N:vis=1	!
+2B-	vns
+=10	=10
+!LO:N:vis=0	!
+1B-	di-
+!LO:N:vis=1	!
+2B-	-ſen
+=11	=11
+!LO:N:vis=0	!
+1A	ſum-
+!LO:N:vis=1	!
+2G	-mer
+=12	=12
+!LO:N:vis=0	!
+1F}	lang
+!LO:N:vis=1	!
+{2G	die
+=13	=13
+!LO:N:vis=0	!
+1A	ʒeyt
+!LO:N:vis=1	!
+2B-	vnd
+=14	=14
+!LO:TX:a:t=P:coloured notes:problem	!
+!LO:N:vis=0	!
+1c	weyl
+!LO:TX:a:t=P:coloured notes:problem	!
+!LO:N:vis=1	!
+2B-	ver-
+=15	=15
+!LO:TX:a:t=P:coloured notes:problem	!
+!LO:N:vis=1	!
+2G	-trei-
+!LO:TX:a:t=P:coloured notes:problem	!
+!LO:N:vis=0	!
+1A	.
+=16	=16
+1.G/ll}	-ben.
+==	==
+!!!GTL: Liebeslieder
+!!!AGN: Romanze, Ballade, Lied
+!! Joh. Ott III 1544 No. 30
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan:https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0332.iview2?x=-495.6391625615763&y=1861.5729064012412&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0009
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/07/03
+*-	*-

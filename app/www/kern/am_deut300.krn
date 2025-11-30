@@ -1,0 +1,145 @@
+!!!OTL: Vive la Compagnia! / Nach der vorigen Weise gebildet.
+!!!OTL-incipit: ICH NEHM MEIN GLAESCHEN IN DIE HAND
+!!!COM: Studentenweise
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0528
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M2/4	*
+*k[f#]	*
+*G:	*
+!LO:TX:a:t=Solo.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{8d	1._Jch
+=1	=1
+8g	nehm'
+8a	mein
+8b/	Gläschen
+8cc/	.
+=2	=2
+8dd	in
+8dd	die
+4dd}	Hand,
+=3	=3
+{8ee	vive
+8cc	la
+8gg	Compag-
+8ee	.
+=4	=4
+(8eeL	-ni-
+8ddJ)	.
+4dd}	-a!
+=5	=5
+!LO:TX:a:t=Alle.	!
+{8ee	vive
+8cc	la
+8gg	Compag-
+8ee	.
+=6	=6
+8ee/L	-ni-
+8ddJ	.
+8dd/}	-a!
+!LO:TX:a:t=Solo.	!
+{8dd	und
+=7	=7
+8dd	fahr'
+8cc	da-
+8cc	-mit
+8cc	in's
+=8	=8
+8cc	Un-
+8b	-terland,
+4b}	.
+=9	=9
+{8a	vive
+8ee	la
+8dd	Compag-
+8a	.
+=10	=10
+8ccL	-ni-
+8bJ	.
+4b}	-a!
+=11	=11
+!LO:TX:a:t=Alle.	!
+{8a	vive
+8ee/	la
+8dd/	Compag-
+8f#	.
+=12	=12
+8aL	-ni-
+8gJ	.
+4g}	-a!
+=13	=13
+!LO:TX:a:t=Solo. Das zweite mal Alle.	!
+{8ee	vive
+8cc	la,
+8gg	vive
+8ee	la,
+=14	=14
+8ee	vive
+8dd	la,
+4dd}	va!
+=15	=15
+{8cc/	vive
+8a	la,
+8dd/	vivela,
+8cc/	.
+=16	=16
+8cc/	hop-
+8b/	-sa-
+4b/}	-sa,
+=17	=17
+{8a	vive
+8ff#	la,
+8ff#	Compag-
+8ff#	.
+=18	=18
+4gg	-ni-
+8g	-a!
+8r}	.
+=19	=19
+{8ee	vive
+8cc	la,
+8gg	vive
+8ee	la,
+=20	=20
+8ee	vive
+8dd	la,
+4dd}	va!
+=21	=21
+{8cc/	vive
+8a	la,
+8dd/	vivela,
+8cc/	.
+=22	=22
+8cc/	hop-
+8b/	-sa-
+4b/}	-sa,
+=23	=23
+{8a	vive
+8ff#	la,
+8ff#	Compag-
+8ff#	.
+=24	=24
+4gg	-ni-
+8g}	-a!
+==	==
+!!!AGN: Studenten -, Trink - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Studentenlieder
+!!Text: Studentenlied
+!!@@COMMENT:"Anmerkung. Jn meinen Studentenjahren 1804 bis 1808 sangen wir dieses Lied nach folgender Weise: [SCT: F0528A am_deut301]"
+!!@@END:
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 337
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=314
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/02/08
+*-	*-

@@ -1,0 +1,100 @@
+!!!OTL: Malers Toechterlein.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0058
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/2	*
+*met(C|3)	*
+*clefC3	*
+*k[]	*
+*G:mix	*
+!LO:TX:a:t=mixol.	!
+{2G	Ein
+=1	=1
+1G	meyd-
+2A	-lin
+=2	=2
+2B	an
+1c	dem
+=3	=3
+2B	la-
+1A	-den
+=4	=4
+1G}	lag,
+{2G	vnd
+=5	=5
+2d	es
+1A	ſchrey
+=6	=6
+1d	ü-
+2c#i	-ber
+=7	=7
+1.d	laut:
+=8	=8
+1r}	.
+{2d	het
+=9	=9
+1c	ich
+2A	ein
+=10	=10
+1B	jun-
+2c	-gen
+=11	=11
+1.d	kna-
+=12	=12
+1c}	-ben,
+*lig	*
+{4B	der
+4A	.
+*Xlig	*
+=13	=13
+1G	mir
+2G	die
+=14	=14
+*lig	*
+2.A	lau-
+4B	.
+*Xlig	*
+2c	-ten
+=15	=15
+1.d}	ſchlüg,
+=16	=16
+{2d	vnd
+2c	ein
+*lig	*
+4B	kleins
+4A	.
+*Xlig	*
+=17	=17
+2G	geig-
+4A	.
+4B	.
+4c	.
+4d	.
+=18	=18
+2e	.
+2.d	-lein
+4B	.
+=19	=19
+2c	mit
+1A	jm
+=20	=20
+1G/ll}	trüg.
+==	==
+!!!GTL: Balladen und Romanzen (erzählende Volkslieder)
+!!!AGN: Romanze, Ballade, Lied
+!! Melodie aus den Reutterliedlein 1535 No. 12. Von Boehme in einen
+!!    3/2-Takt gesetzt.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!AMD: Mixolydian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0215.iview2?x=-425.8853427895981&y=2521.530496474821&scale=0.4823261117445838&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/19/02
+*-	*-

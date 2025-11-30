@@ -1,0 +1,28 @@
+ERK
+CUT[ES WOHNTE EINE WITWE]
+REG[Europa, Mitteleuropa, Deutschland, Magdeburg]
+TRD[]
+FKT[]
+SIG[E0057A]
+KEY[E0057A  08  G 3/4]
+MEL[1_  5_.42_  1_3_
+    5_  4_3_5_  2_0_
+    1_  5_5_31  6_6_
+    4_  3__2_  1_0_ //]
+BEM[]
+MEL_SEM[7 -2 -3 -2 4 3 -2 -1 3 -5 -2 7 0 -3 -4 9 0 -4 -1 -2 -2]
+MEL_RAW[1  542  13
+    5  435  20
+    1  5531  66
+    4  32  10]
+NO_REP[154213
+    543520
+    15316
+    43210]
+RTM[x_  x_.xx_  x_x_
+    x_  x_x_x_  x_x_
+    x_  x_x_xx  x_x_
+    x_  x__x_  x_x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

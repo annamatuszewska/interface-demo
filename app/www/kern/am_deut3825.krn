@@ -1,0 +1,94 @@
+!!!OTL: Die Maid vom Rosenthal.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0057
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M3/1	*
+*met(3)	*
+*clefC4	*
+*k[]	*
+*a:aeo	*
+=1	=1
+!LO:TX:a:t=äol.	!
+1ryy	.
+1ryy	.
+{1A	Es
+=2	=2
+0A	gieng
+1A	ein
+=3	=3
+0A	wol
+1B	ge-
+=4	=4
+0c	-ʒog-
+1c	-ner
+=5	=5
+0c}	knecht
+{1c	wol
+=6	=6
+1A	v-
+1A	-ber
+1A	ein
+=7	=7
+0c	preyte
+1c	.
+=8	=8
+0.A	Aw-
+=9	=9
+0G}	-e,
+{1G	da
+=10	=10
+0c	ſach
+1d	er
+=11	=11
+0e	ei-
+1e	-nen
+=12	=12
+0e	ſchö-
+1e	-nen
+=13	=13
+0e}	dantʒ,
+{1e	von
+=14	=14
+0e	man-
+1e	-nen
+=15	=15
+0e	vnd
+1e	von
+=16	=16
+0.B	fra-
+=17	=17
+!LO:N:vis=0	!
+0d}	-wen,
+{1d	den
+=18	=18
+!LO:N:vis=0	!
+0c	dantʒ
+1A	den
+=19	=19
+!LO:N:vis=0	!
+0B	wolt
+1A	er
+=20	=20
+!LO:N:vis=0	!
+0A	ſchaw-
+1G#i	.
+=21	=21
+0.A\ll}	-en.
+==	==
+!!!GTL: Balladen und Romanzen (erzählende Volkslieder)
+!!!AGN: Romanze, Ballade, Lied
+!! Melodie: H. Finck 1536 No. 47.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!AMD: Aeolian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0215.iview2?x=-425.8853427895981&y=240.91583926405292&scale=0.4823261117445838&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/19/02
+*-	*-

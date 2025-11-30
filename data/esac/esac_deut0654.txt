@@ -1,0 +1,28 @@
+ERK
+CUT[ES GING EINST EIN VERLIEBTES PAAR]
+REG[Europa, Mitteleuropa, Deutschland, Rheinland; Lahnkreis; Dillkreis]
+TRD[]
+FKT[]
+SIG[E0052]
+KEY[E0052   08  G 6/8]
+MEL[5  5_5+1_+1  3_35_
+    5  2_2+164#  6_.5_
+    5  5_5+1_+1  3_35_
+    2  365432  2_.1_ //]
+BEM[]
+MEL_SEM[0 0 5 0 -8 0 3 0 -5 0 10 -3 -3 3 -2 0 0 0 5 0 -8 0 3 -5 2 5 -2 -2 -1 -2 0 -2]
+MEL_RAW[5  55+1+1  335
+    5  22+164#  65
+    5  55+1+1  335
+    2  365432  21]
+NO_REP[5+135
+    52+164#65
+    5+135
+    23654321]
+RTM[x  x_xx_x  x_xx_
+    x  x_xxxx  x_.x_
+    x  x_xx_x  x_xx_
+    x  xxxxxx  x_.x_]
+SCL_DEG[12344#56+1]
+SCL_SEM[2 2 1 1 1 2 3]
+

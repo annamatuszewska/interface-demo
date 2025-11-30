@@ -1,0 +1,78 @@
+!!!OTL: Alter Reihen um das erste Veilchen. / (Andere Melodie.)
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0280A
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*M4/2	*
+*met(c|)	*
+*clefC4	*
+*k[b-]	*
+*G:dor	*
+!LO:TX:a:t=dor. tr.	!
+2ryy	.
+{2G	Der
+=1	=1
+1G	Mei-
+2G	-e,
+2G	der
+=2	=2
+1A	Mei-
+2A}	-e
+{2A	bringt
+=3	=3
+2B-	vns
+2A	der
+2F	Blüm-
+2A	-lein
+=4	=4
+1B-	vil,
+2r}	.
+{2G	Jch
+=5	=5
+2A	trag
+2B-	ein
+2c	freis
+2A	ge-
+=6	=6
+1B-	-mü-
+2A}	-te,
+{2A	Gott
+=7	=7
+2G	weis
+2A	wol
+2B-	wen
+2A	ich
+=8	=8
+1F}	wil,
+{1D	Got
+=9	=9
+2F	weis
+2G	wol
+2A/	wen
+2A/	ich
+=10	=10
+1G/ll}	wil.
+==	==
+!!!GTL: Tanz- und Kranzlieder
+!!!AGN: Romanze, Ballade, Lied
+!! Babst Gsgb 1553 II No. 35.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!@@COMMENT: "Diese Melodie zum geistlichen Text hier, der in erster Strophe dem weltlichen gleichlautet, steht zuerst in Babsts Gfgb. >553 II. Teil No. 35. 
+!! Überschrift: Ein schöner Abendrenen. Text Vollständig abgedruckt bei WK. III, 887. Diese Mollweise (dorisch versetzt) ist wol niemals eine
+!! Volkslanzweise gewesen, sondern (was ich vermuthe) eine für den geistlichen Text gemachte. Sie ist dann in den evangel. Gesangbüchern des 16. Jahrh. wiederholt, 
+!! auch in Ammerbachs Tabulaturbuch 1575 aufgenommen. Corrumpirt und gänzlich ungenießbar ist sie bei Mich. Prätorins,Mus. Sion. VIII. 1610 No. 204, 
+!! daß man sie für eine dritte Singweise halten möchte. Sie ist aber scheinbar an« vorliegender Mollweise dadurch entstanden, 
+!!daß Prätorins den Tenor irgendeines vorgefundenen Tonsatzes noch für die melodieführende Hauptstimme ansah und zum Discant erhob, 
+!! (während doch gegen Ende des 16. Jahrh. schon oft und sogar vorherrschend der Diseant den cantus frimus überwiesen bekommen hatte!)."
+!!@@END:
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0439.iview2?x=-495.6391625615763&y=787.1399015109055&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0012
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/11/03
+*-	*-

@@ -1,0 +1,36 @@
+ERK
+CUT[STOLZ HEINRICH DER WOLLT FREIEN GEHN]
+REG[Europa, Mitteleuropa, Deutschland, Niederrhein; Siebengebirge]
+TRD[]
+FKT[]
+SIG[E0040]
+KEY[E0040   16  A 2/4]
+MEL[-5_  1_3b_2_1_  1_-7_-7_
+    -5_  1_2_3b_3b_  2__0_
+    1_  3b_2_3b_1_  3b__5__
+    1_.23b_1_  -7_-6_-5_
+    2_  3b_2_3b_1_  3b__5_
+    3b_  2_1_-7_2_  1__0_ //]
+BEM[]
+MEL_SEM[5 3 -1 -2 0 -1 0 -4 5 2 1 0 -1 -2 3 -1 1 -3 3 4 -7 2 1 -3 -1 -2 -2 7 1 -1 1 -3 3 4 -4 -1 -2 -1 3 -2]
+MEL_RAW[-5  13b21  1-7-7
+    -5  123b3b  20
+    1  3b23b1  3b5
+    123b1  -7-6-5
+    2  3b23b1  3b5
+    3b  21-72  10]
+NO_REP[-513b21-7
+    -5123b20
+    13b23b13b5
+    123b1-7-6-5
+    23b23b13b5
+    3b21-7210]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__x__
+    x_.xx_x_  x_x_x_
+    x_  x_x_x_x_  x__x_
+    x_  x_x_x_x_  x__x_]
+SCL_DEG[-5-6-7123b5]
+SCL_SEM[2 2 1 2 1 4]
+

@@ -1,0 +1,36 @@
+ERK
+CUT[ES GIENG EIN MAEDCHEN GRASEN WOHL]
+REG[Europa, Mitteleuropa, Deutschland, Dillkreis]
+TRD[]
+FKT[]
+SIG[E0071D]
+KEY[E0071D  08  G 4/4]
+MEL[5_  1_3_3_5_  1_3_3_
+    5_  5_.44_3_  5__2_
+    23  4_6_6_4_  3_5_5_
+    3_  2_2_5_54  3_5_5_
+    55  4_6_6_4_  3_5_5_
+    3_  2_2_5_54  3__0_ //]
+BEM[]
+MEL_SEM[-7 4 0 3 -7 4 0 3 0 -2 0 -1 3 -5 0 2 1 4 0 -4 -1 3 0 -3 -2 0 5 0 -2 -1 3 0 0 0 -2 4 0 -4 -1 3 0 -3 -2 0 5 0 -2 -1]
+MEL_RAW[5  1335  133
+    5  5443  52
+    23  4664  355
+    3  22554  355
+    55  4664  355
+    3  22554  30]
+NO_REP[513513
+    54352
+    2346435
+    325435
+    546435
+    325430]
+RTM[x_  x_x_x_x_  x_x_x_
+    x_  x_.xx_x_  x__x_
+    xx  x_x_x_x_  x_x_x_
+    x_  x_x_x_xx  x_x_x_
+    xx  x_x_x_x_  x_x_x_
+    x_  x_x_x_xx  x__x_]
+SCL_DEG[123456]
+SCL_SEM[2 2 1 2 2]
+

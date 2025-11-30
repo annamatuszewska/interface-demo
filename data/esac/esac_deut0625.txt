@@ -1,0 +1,44 @@
+ERK
+CUT[ALS DIE WUNDERSCHOENE ANNA]
+REG[Europa, Mitteleuropa, Deutschland, Westfalen]
+TRD[]
+FKT[]
+SIG[E0042J]
+KEY[E0042J  08 Eb 2/4]
+MEL[13  5555  43
+    23  5222  2_
+    13  5555  43
+    23  5222  2_
+    +16  5542  1_
+    11  6_66  5+17
+    6  5542  1_
+    13  5_-7-7  1_ //]
+BEM[]
+MEL_SEM[4 3 0 0 0 -2 -1 -2 2 3 -5 0 0 0 -2 4 3 0 0 0 -2 -1 -2 2 3 -5 0 0 0 10 -3 -2 0 -2 -3 -2 0 0 9 0 0 -2 5 -1 -2 -2 0 -2 -3 -2 0 4 3 -8 0 1]
+MEL_RAW[13  5555  43
+    23  5222  2
+    13  5555  43
+    23  5222  2
+    +16  5542  1
+    11  666  5+17
+    6  5542  1
+    13  5-7-7  1]
+NO_REP[13543
+    2352
+    13543
+    2352
+    +165421
+    165+17
+    65421
+    135-71]
+RTM[xx  xxxx  xx
+    xx  xxxx  x_
+    xx  xxxx  xx
+    xx  xxxx  x_
+    xx  xxxx  x_
+    xx  x_xx  xxx
+    x  xxxx  x_
+    xx  x_xx  x_]
+SCL_DEG[-71234567+1]
+SCL_SEM[1 2 2 1 2 2 2 1]
+

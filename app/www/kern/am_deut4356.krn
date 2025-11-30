@@ -1,0 +1,153 @@
+!!!OTL: Es woll uns Gott genaedig sein. / (Luthers Lied ueber Psalm 67.)
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0628
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/1; 6/1
+*M6/1	*
+*met(C|2)	*
+*met(2)	*
+*clefC4	*
+*k[]	*
+*E:phr	*
+!LO:TX:a:t=phryg.	!
+!LO:TX:a:t=P:0B in the source:problem	!
+!LO:N:vis=0	!
+{1B	Es
+=1	=1
+*M4/1	*
+1c	wolt
+1B	vns
+1A	Gott
+1B	ge-
+=2	=2
+0d	-ne-
+0e	.
+=3	=3
+1.d	.
+2c	-dig
+0B}	ſein
+=4	=4
+{0d	vnd
+1c	ſei-
+1B	-nen
+=5	=5
+*M6/1	*
+1c	ſe-
+1A	-gen
+*lig	*
+0G	ge-
+0D	.
+*Xlig	*
+=6	=6
+*lig	*
+0F	.
+0G	.
+*Xlig	*
+!LO:TX:a:t=P:0E in the source:problem	!
+!LO:N:vis=0	!
+1E}	-ben,}
+{1B	Sein
+=7	=7
+*M4/1	*
+1c	ant-
+1B	-litʒ
+1A	vns
+1B	mit
+=8	=8
+0d	hel-
+0e	.
+=9	=9
+1.d	.
+2c	-lem
+0B}	ſchein
+=10	=10
+{0d	er-
+1c	-leucht
+1B	ʒum
+=11	=11
+*M6/1	*
+1c	e-
+1A	-wign
+*lig	*
+0G	le-
+0D	.
+*Xlig	*
+=12	=12
+*lig	*
+0F	.
+0G	.
+*Xlig	*
+0E}	-ben,}
+=13	=13
+*M4/1	*
+{0G	Das
+1F	wir
+1E	er-
+=14	=14
+1D	-kennen
+1E	.
+1C	ſei-
+1D	-ne
+=15	=15
+0E}	werck,
+{0B	vnd
+=16	=16
+1c	was
+1A	jm
+1G	liebt
+1A	auff
+=17	=17
+0c	er-
+0A}	-den,
+=18	=18
+{0e	Vnd
+1d	Jhe-
+1B	-ſus
+=19	=19
+1d	Chri-
+1A	-ſtus
+1G	heil
+1F	vnd
+=20	=20
+1E}	ſterck,
+{1G	be-
+1A	-kand
+1G	den
+=21	=21
+1c	hei-
+1d	-den
+0c	wer-
+=22	=22
+0B	-den
+1r}	.
+{1c	vnd
+=23	=23
+1B	ſie
+1A	ʒu
+1G	Gott
+1D	be-
+=24	=24
+*M6/1	*
+*lig	*
+0F	-ke-
+0G	.
+*Xlig	*
+!LO:TX:a:t=P:0E in the source:problem	!
+1E/ll}	-ren.
+==	==
+!!!GTL: Geistliche Volkslieder
+!!!AGN: Romanze, Ballade, Lied, religioeses Lied
+!! Klugsches Gsgb 1531 No. 22, ebenso bei Schumann und Babst.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Phrygian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0808.iview2?x=113.63509606070716&y=2794.4203912508674&scale=0.7106933083589261&rotation=0&layout=singlePageLayout&logicalDiv=log_0007
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/25/03
+*-	*-

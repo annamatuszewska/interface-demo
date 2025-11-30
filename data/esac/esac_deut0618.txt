@@ -1,0 +1,24 @@
+ERK
+CUT[CHOEN ULERICH UND HANSELEIN]
+REG[Europa, Mitteleuropa, Deutschland, Breslau]
+TRD[]
+FKT[]
+SIG[E0042C]
+KEY[E0042C  08  G 2/4]
+MEL[1  1353  645
+    3  5542  132
+    -5  1125  3_2-7  1_0 //]
+BEM[]
+MEL_SEM[0 4 3 -3 5 -4 2 -3 3 0 -2 -3 -2 4 -2 -7 5 0 2 5 -3 -2 -3 1]
+MEL_RAW[1  1353  645
+    3  5542  132
+    -5  1125  32-7  10]
+NO_REP[1353645
+    3542132
+    -512532-710]
+RTM[x  xxxx  xxx
+    x  xxxx  xxx
+    x  xxxx  x_xx  x_x]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

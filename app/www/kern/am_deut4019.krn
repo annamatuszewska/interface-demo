@@ -1,0 +1,124 @@
+!!!OTL: Die Bauern von St. Poelten. / (Alte baeurische Tanzmelodie mit Taktwechsel.)
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0296
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*met(C|3/1)	*
+*clefC4	*
+*k[]	*
+*a:ion	*
+!LO:TX:a:t=jon.	!
+2ryy	.
+2ryy	.
+!LO:N:vis=1	!
+{2e	Die
+=1	=1
+!LO:TX:a:t=P:coloured notes:problem	!
+1c	Baw-
+!LO:TX:a:t=P:coloured notes:problem	!
+1A	-ren
+!LO:N:vis=1	!
+2e	von
+!LO:N:vis=1	!
+2d	St.
+=2	=2
+*lig	*
+!LO:N:vis=1.	!
+2.c	Pöl-
+!LO:N:vis=2	!
+4B	.
+!LO:TX:a:t=P:4c in the source:problem	!
+2c	.
+*Xlig	*
+!LO:N:vis=0	!
+1A}	-ten,
+!LO:N:vis=1	!
+{2e	dar-
+=3	=3
+!LO:TX:a:t=P:coloured notes:problem	!
+1d	-ʒue
+!LO:TX:a:t=P:coloured notes:problem	!
+1B	die
+!LO:N:vis=1	!
+2c	gantʒ
+!LO:N:vis=1	!
+2d	Ge-
+=4	=4
+0.ell}	-mein:
+=5	=5
+!LO:TX:a:t=P:coloured notes:problem	!
+{1e	[Wie-
+!LO:TX:a:t=P:coloured notes:problem	!
+1d	-da-
+!LO:N:vis=1	!
+2c	-ho-
+!LO:N:vis=1	!
+2d	-da-
+=6	=6
+[0Bll	-hey!]
+2B]}	.
+!LO:N:vis=1	!
+{2B	Die
+=7	=7
+!LO:TX:a:t=P:coloured notes:problem	!
+1d	rit-
+!LO:TX:a:t=P:coloured notes:problem	!
+1B	-ten
+!LO:N:vis=1	!
+2e	auff
+!LO:N:vis=1	!
+2d	ein
+=8	=8
+*lig	*
+!LO:N:vis=1.	!
+2.e	Hoch-
+!LO:N:vis=2	!
+4d	.
+!LO:N:vis=1	!
+2e	.
+*Xlig	*
+=|	=|
+!LO:N:vis=0	!
+1c}	-ʒeit,
+!LO:N:vis=1	!
+{2d	war
+=9	=9
+!LO:TX:a:t=P:coloured notes:problem	!
+1e	we-
+!LO:TX:a:t=P:coloured notes:problem	!
+1c	-der
+!LO:N:vis=1	!
+2d	groß
+!LO:N:vis=1	!
+2B	noch
+=10	=10
+0.All}	klein.
+=11	=11
+!LO:TX:a:t=P:coloured notes:problem	!
+{1e	[Wie-
+!LO:TX:a:t=P:coloured notes:problem	!
+1c	-da-
+!LO:N:vis=1	!
+2d	-ho-
+!LO:N:vis=1	!
+2B	-da-
+=12	=12
+1.All}	-hey!]
+==	==
+!!!GTL: Tanz- und Kranzlieder
+!!!AGN: Romanze, Ballade, Lied
+!! Handschriftlich bei Werlin 1646. III. Bd. S. 1968.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: simple triple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: l = terminal long
+!!!AMD: Ionian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0452.iview2?x=-495.6391625615763&y=208.23349755024537&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0012
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/12/03
+*-	*-

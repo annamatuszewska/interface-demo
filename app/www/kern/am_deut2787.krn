@@ -1,0 +1,150 @@
+!!!OTL: 597. Jaegers Liebeslied. / [Das sogenannte "Siebenbuergische Jaegerlied".]
+!!!ODT: 1848 (vor)
+!!!ARE: Europa, Mitteleuropa, Deutschland; Siebenbuergen ?
+!!!SCT: B0597
+!!!TXL: @@
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M6/8	*
+*k[b-]	*
+*d:	*
+!LO:TX:a:t=Kräftig und bewegt.	!
+{8a	Jch
+=1	=1
+4a	ſchieß'
+8d	den
+4d	Hirſch
+8d	im
+=2	=2
+4d	grü-
+8d	-nen
+4d}	Forſt,
+{8A	im
+=3	=3
+4d	ſtil-
+8e	-len
+4f	Wald
+8e	das
+=4	=4
+!LO:N:vis=4	!
+4.d	Reh,
+4r}	.
+{8a	den
+=5	=5
+4a	Ad-
+8d	-ler
+4d	auf
+8d	dem
+=6	=6
+4d	Klip-
+8d	-pen-
+4d}	-horſt,
+{8d	die
+=7	=7
+4c	En-
+8f	-te
+4a	auf
+8g	dem
+=8	=8
+4.f	See.
+4r}	.
+{8a	Kein
+=9	=9
+4a	Ort,
+8d	der
+4dd	Schut
+8b-	ge-
+=10	=10
+4a	-wäh-
+8f	-ren
+4d}	kann,
+{8a	wenn
+=11	=11
+4a	mei-
+8d	-ne
+4dd	Flin-
+8b-	-te
+=12	=12
+[4.a	ʒielt:
+8a]	.
+8r}	.
+{8c	und
+=13	=13
+!LO:TX:a:t=Schneller.	!
+4f	dennoch
+8g	.
+4a	hab'
+8b-	ich
+=14	=14
+4dd	har-
+8cc	-ter
+4a}	Mann
+{8a	die
+=15	=15
+4a	Lie-
+8g	-be
+4b-/	auch
+8e	ge-
+=16	=16
+(8.gL	-fühlt.
+16f	.
+16e	.
+16dJ)	.
+4c}	.
+{8c	und
+=17	=17
+4f	dennoch
+8g	.
+4a	hab'
+8b-	ich
+=18	=18
+4dd	har-
+8cc	-ter
+4a}	Mann
+{8a	die
+=19	=19
+!LO:TX:a:t=ritard.	!
+4a	Lie-
+8g	-be
+4b-	auch
+8a	ge-
+=20	=20
+[4.d	-fühlt.
+8d]	.
+8r}	.
+==	==
+!!!AGN: Staende -, Jaeger - Lied
+!!!GTL: Jägerlieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Mel. vor 1848.
+!!@@COMMENT:"Das Lied mit dieſer Melodie fand ich ʒuerſt in Jul. Schanʒ und Parucker, Deutſches Lieder-
+!!buch. Leipʒig 1848. S. 321, überſchrieben Siebenbürgiſches Volkslied, vom Text blos 4 Str.
+!!mit den unten ſtehenden Varianten. Ebenſo (aber nur mit den 3 erſten Strophen, ſteht es dann
+!!in Serigs Auswahl 7. Aufl. Leipʒig 1850 und ſo bis heute in allen Commers- und Taſchen-
+!!liederbüchern. Hoffmann hat es nicht angeführt. Erk kannte es blos aus Schanʒs Liederbuch und
+!!hat es für Männerchor 1854 geſetʒt als ſiebenbürgiſches Jägerlied (ſ. deſſen Liedertafel Nr. 182
+!!Wer Volkslieder und ihr Weſen kennt, mußte ſoſort bemerken, daß dieſes in Sprache und Reim
+!!wie in Muſik vollendete Lied nicht aus dem Volke ſtammt, ſondern einen Kunſtdichter vorausſetʒt.
+!!Und dieſer iſt - Franʒ v. Schober, ein öſterreichiſcher Dichter. Das wußte ich durch Freundes
+!!Mittheilung 1860 und wohnte damals der Dichter neben mir in Dreeden. Jch fand den Text in
+!!ſeinen Gedichten, Stuttgart und Tübingen 1840, wie oben und wie ihn ſchon Franʒ Schubert
+!!als op. 96 Nr. 2 vor 1828 komponirt bat. Wer die neue volksthümliche Weiſe komponirt hat.
+!!iſt mir nicht bekannt, vermuthlich iſt ſie in Studentenkreiſen entſtanden. Der Dichter war Schubert's
+!!intimer Freund und hielt an deſſen Grabe eine Rede. Hoffentlich wird nun bald die grundloſe
+!!Beʒeichnung "ſiebenbürgiſches Jägerlied" aus den Liederbüchern verſchwinden. Den richtigen
+!!Text (wie oben) giebt Dr. Weinkauff 1885 in ſeiner Alemania II, S. 37 mit Angabe des Dichters.
+!!Varianten in den Liederbüchern 1, 1 dunkeln Forſt, wilden Forſt. 1. 2 ſtillem Thal.[...]
+!!Die Melod ie findet man auch bis ʒum Wiederholungsʒeichen mit 2/4Takt notirt."
+!!@@END:
+!!!Text: F. von Schober
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n473/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/15/07
+*-	*-

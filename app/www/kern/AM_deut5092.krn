@@ -1,0 +1,108 @@
+!!!Xfilter:transpose -t P8
+!!!OTL: Der Wunderarzt.
+!!!OTL-incipit: ICH BIN DER DOKTOR EISENBART
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: Z1350
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*M2/4	*
+*k[]	*
+*C:	*
+!LO:TX:a:t=Vorſänger.	!
+!LO:TX:a:t=Allgemein bekannt.	!
+{8g	Jch
+=1	=1
+8cc	bin
+8g	der
+8g	Doktor
+8g	.
+=2	=2
+8a	Ei-
+8g	-ſen-
+4g}	-bart,
+=3	=3
+!LO:TX:a:t=Alle.	!
+{8g	Va-
+8g	-le-
+8a	-ri
+8b/	Juch-
+=4	=4
+4cc/	-he!
+8r}	.
+!LO:TX:a:t=Vorſänger.	!
+{8g	Jch
+=5	=5
+8cc	heil'
+8g	die
+8g	Leut'
+8g	nach
+=6	=6
+8a	mei-
+8g	-ner
+4g}	Art,
+=7	=7
+{8g	Valla-
+16g	.
+16g	-le-
+8a	-ri
+8b/	Juch-
+=8	=8
+4cc/	-he!
+8r}	.
+!LO:TX:a:t=Vorſänger.	!
+{8cc	Kann
+=9	=9
+8dd	ma-
+8dd	-chen,
+8dd	daß
+8dd	die
+=10	=10
+8dd	Blin-
+8dd	-den
+8dd	gehn,
+16r}	.
+{16dd	und
+=11	=11
+8dd	daß
+8ee	die
+8dd	Lahmen
+8cc	.
+=12	=12
+8b/	wie-
+8a	-der
+8g}	ſehn,
+{8g	ich
+=13	=13
+8cc	bin
+8g	der
+8g	Doktor
+8g	.
+=14	=14
+8a	Ei-
+8g	-ſen-
+8g	-bart,
+8r}	.
+=15	=15
+!LO:TX:a:t=Alle.	!
+{8g	Va-
+16g	-la-
+16g	-le-
+8a	-ri
+8b/	Juch-
+=16	=16
+4cc/	-he!
+8r}	.
+==	==
+!!!AGN: Zech -, Schalks - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: ZUCCAL
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: VIII. Zech- und Schalks-Lieder.
+!!!URL-scan: https://www.digitale-sammlungen.de/de/view/bsb11160573?page=641
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2025/02/07
+*-	*-

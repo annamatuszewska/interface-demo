@@ -1,0 +1,104 @@
+!!!OTL: Teutscher Trank und teutsche Treue.
+!!!OTL-incipit: BRUEDER HIER STEHT BIER STATT WEIN
+!!!COM: Studentenweise
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0508
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[f#]	*
+*G:	*
+=1	=1
+!LO:TX:a:t=Heiter, aber nicht zu schnell.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{4.g	1._Brü-
+8a	-der,
+4b/	hier
+4b/	ſteht
+=2	=2
+8a/L	Bier
+8ddJ	.
+8cc/L	ſtatt
+8aJ	.
+4g	Wein;
+4r}	.
+=3	=3
+{4.b/	trau-
+8cc	-te
+8eeL	Brü-
+8ddJ	.
+4dd	-der,
+=4	=4
+!LO:N:vis=16	!
+8cc/L	ſchenkt
+!LO:N:vis=16	!
+8bJ	.
+8ccL	euch
+8ddJ	.
+4b/	ein!
+4r}	.
+=5	=5
+{4g	Hoch
+4gg	leb'
+4gg	je-
+8ff#L	.
+8eeJ	-der
+=6	=6
+8eeL	bra-
+8ddJ	.
+4dd	-ve
+2b/}	Mann,
+=7	=7
+{4.cc	der
+8ee	für
+8dd/L	Frei-
+8ggJ	.
+8ee/L	-heit
+8ccJ	.
+=8	=8
+4b/	ſech-
+4a	-ten
+4g	kann!
+4r}	.
+=9	=9
+{4g	Hoch
+4gg	leb'
+4gg	je-
+8ff#L	.
+8eeJ	-der
+=10	=10
+8eeL	bra-
+8ddJ	.
+4dd	-ve
+2b/}	Mann,
+=11	=11
+{4.cc	der
+8ee	für
+8dd/L	Frei-
+8ggJ	.
+8ee/L	-heit
+8ccJ	.
+=12	=12
+4b/	ſech-
+4a	-ten
+4g	kann!
+4r}	.
+==	==
+!!!AGN: Studenten -, Trink - Lied, national
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!GTL: Studentenlieder
+!!Text: Studentenlied
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 321
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=298
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/01/08
+*-	*-

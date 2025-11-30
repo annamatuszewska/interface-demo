@@ -1,0 +1,28 @@
+ERK
+CUT[ES WARN EINMAL ZWEI BAUERNSOEHN]
+REG[Europa, Mitteleuropa, Deutschland, Trier]
+TRD[]
+FKT[]
+SIG[E0050C]
+KEY[E0050C  08  G 3/4]
+MEL[-5  -5-51_3_  212_0
+    -5  -5-52_4_  365_0
+    4  345_4_  355_0
+    1  114_3_  2-71_0 //]
+BEM[]
+MEL_SEM[0 0 5 4 -2 -2 2 -7 0 0 7 3 -1 5 -2 -2 -1 1 2 -2 -1 3 0 -7 0 0 5 -1 -2 -3 1]
+MEL_RAW[-5  -5-513  2120
+    -5  -5-524  3650
+    4  3454  3550
+    1  1143  2-710]
+NO_REP[-5132120
+    -5243650
+    43454350
+    1432-710]
+RTM[x  xxx_x_  xxx_x
+    x  xxx_x_  xxx_x
+    x  xxx_x_  xxx_x
+    x  xxx_x_  xxx_x]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+

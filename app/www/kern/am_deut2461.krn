@@ -1,0 +1,125 @@
+!!!OTL: 228. Abendgloecklein.
+!!!COM: Volksweise
+!!!ARE: Europa, Mitteleuropa, Deutschland, Thueringen; Schlesien
+!!!SCT: B0228
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M6/8	*
+*k[b-]	*
+*F:	*
+=1	=1
+!LO:TX:a:t=Sehr mäßig und ſanft.	!
+{8.a	Seht,
+16a	wie
+8a	die
+8a	Son-
+8g	-ne
+8a	dort
+=2	=2
+4.cc^	ſin-
+4.g}	-ket
+=3	=3
+{8.g	hin-
+16g	-ter
+8g	dem
+8g	nächt-
+8f	-li-
+8g	-chen
+=4	=4
+[>4.a	Wald!
+8a]	.
+!LO:N:vis=8	!
+4r}	.
+=5	=5
+{8.cc	Glöck-
+16b-	-chen
+8a	ʒur
+8a	Ru-
+8g	-he
+8f	und
+=6	=6
+4.ff^	win-
+4.dd}	-ket
+=7	=7
+{8.cc	hört
+16dd	nur,
+8cc	wie
+8cc	lieb-
+8b-	-lich
+8g	es
+=8	=8
+[4.f	ſchallt!
+8f]	.
+4r}	.
+=9	=9
+{8.g	Trau-
+16g	-li-
+8g	-ches
+8a	Glöcklein,
+8a	.
+16r	.
+16a	du
+=10	=10
+8cc	läu-
+8b-	-teſt
+8b-/	ſo
+4.a}	ſchön!
+=11	=11
+{8.g	[Hört
+16g	ihr
+8g	das
+8a	Glöcklein?
+8a	.
+16r	.
+16a	Es
+=12	=12
+8cc	läu-
+8b-	-tet
+8b-/	ʒur
+4.a}	Ruh'!]
+=13	=13
+{8.cc	Läu-
+16b-	-te,
+8a	mein
+8a	Glöcklein,
+8g	.
+8f	nur
+=14	=14
+(4.ff	ʒu
+4.dd)}	.,
+=15	=15
+{8.cc	läu-
+16dd	-te
+8cc	ʒur
+(8cc	ſü-(ſel)
+8b-)	(-li-)
+8g	-ßen(-gen)
+=16	=16
+[4.f	Ruh'!
+8f]	.
+8r	.
+8r}	.
+==	==
+!!!AGN: Tageszeiten - Lied, Abend
+!!!GTL: Tageszeitenlieder
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: compound duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: > = above
+!!Volksweiſe aus Thüringen 1841 und Schleſien 1847.
+!!@@COMMENT:"*Schlußʒeilen in Schleſien: "Bald von Sternen umſchwommen, nahet die feiernde Nacht. "
+!!Mel. und Text hier aus Schleſien (Hainau) bei Jakob, "Volksſänger" 1847. II. Heft Nr. 19.
+!!- Ebenſo ſang man das Lied ſchon 1841 im Weimar, aber mit der 3. Strophe beginnend. Dörfchen,
+!!ſei uns willkommen rc. Gewöhnlich wurde es bei Ausflügen aufs Land von Lehrern
+!!und Seminariſten geſungen."
+!!@@END:
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n205/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/02/07
+*-	*-

@@ -1,0 +1,86 @@
+!!!OTL: Brautlied.
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: A0239
+!!!TXL: @@GMH
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+!! Mixed meters:  4/2; 6/2
+*M4/2	*
+*met(c|)	*
+*clefC3	*
+*k[b-]	*
+*g:dor	*
+=1	=1
+!LO:TX:a:t=dor. tr. (G moll.)	!
+1ryy	.
+2ryy	.
+{2G	Kombt
+=2	=2
+2B-	her,
+2B-	ir
+2c	ſingr
+2d	vnd
+=3	=3
+2c	trett
+2B-	her-
+2A}	-für,
+{2e	für
+=4	=4
+2f	ei-
+2g	-nes
+2f	frommen
+2e	.
+=5	=5
+*M6/2	*
+2d	Bräuti-
+2c#i	-gams
+1d	thür,
+2r}	.
+{2d	mit
+=6	=6
+*M4/2	*
+2g	ſei-
+2f	-ner
+2e	Braut,
+2d	die
+=7	=7
+2f	jm
+2e	ver-
+2d}	-traut
+{2d	in
+=8	=8
+2.d	ʒüch-
+4d	-ten
+2d	vnd
+2B-	in
+=9	=9
+*lig	*
+2.G	eh-
+4A	.
+*Xlig	*
+2B-}	-ren,
+{2B-	Got
+=10	=10
+2A	wöl
+2G	ſie
+2G	ſegn
+2G	vnd
+=11	=11
+1F#	meh-
+1G/ll}	-ren.
+==	==
+!!!GTL: Liebeslieder
+!!!AGN: Romanze, Ballade, Lied
+!! Beuttner 1602 II No. 89.
+!!!ONB: ESAC (Essen Associative Code) Database: ALTDEU
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: i = editorial accidental
+!!!RDF**kern: l = terminal long
+!!!AMD: Dorian
+!!!URL-scan: https://rosdok.uni-rostock.de/mcrviewer/recordIdentifier/rosdok_ppn738218359/iview2/phys_0390.iview2?x=-495.6391625615763&y=517.9916256426368&scale=0.4629418472063854&rotation=0&layout=singlePageLayout&logicalDiv=log_0010
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/03
+*-	*-

@@ -1,0 +1,161 @@
+!!!OTL: An die fortziehenden Krieger.
+!!!OTL-incipit: ZIEHT IHR KRIEGER ZIEHT VON DANNEN
+!!!COM: P. Winter
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: F0630
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*clefG2	*
+*M4/4	*
+*met(c)	*
+*k[b-e-]	*
+*B-:	*
+!LO:TX:a:t=Männer.	!
+!LO:TX:a:t=Mit Würde.	!
+!LO:TX:a:t=P:only the highest voice encoded:problem	!
+{8.f	Ʒieht,
+16f	ihr
+=1	=1
+4.b-/	Krieger,
+8b-/	.
+4.cc	ʒieht
+8cc	von
+=2	=2
+4dd	dannen,
+4cc	.
+4r}	.
+{8cc	in
+8dd	die
+=3	=3
+4.ee-	ru-
+8dd	-hi-
+4cc	-gen
+4b-	Ka-
+=4	=4
+4dd	-ba-
+4cc	-nen,
+4r}	.
+{8cc	und
+8cc	des
+=5	=5
+4.cc	goldnen
+8cc	.
+4cc	Friedens
+4b-	.
+=6	=6
+2a}	Glück
+{4.dd/	kehre
+8dd/	.
+=7	=7
+4cc/	nun
+8dd/L	mit
+8b-J	.
+4a	euch
+4g	ʒu-
+=8	=8
+2a}	-rück,
+{(>12dd/L	keh-
+12cc/	.
+12b-/J	.
+12ff/L	.
+12ee-/J)	.
+12dd/	-re
+=9	=9
+4cc	nun
+(>12ff/L	mit
+12dd/	.
+12b-/J)	.
+4a	euch
+4g	ʒu-
+=10	=10
+2f	-rück.
+4r}	.
+!LO:TX:a:t=Frauen.	!
+{8cc	Freundlich
+8dd	.
+=11	=11
+4.ee-	lallen
+8cc	.
+4.ee-	un-
+8dd	-ſre
+=12	=12
+8ddL	Kin-
+8ccJ	.
+4cc	-der
+4r}	.
+{8cc	lä-
+8cc	-cheln
+=13	=13
+4dd	Dank
+4ff	dem
+4ee-	Ue-
+4dd	-ber-
+=14	=14
+4dd	-winder.
+4cc	.
+4r}	.
+{8f	An
+8f	der
+=15	=15
+4.b-/	treu-
+8b-/	-en
+4.cc/	Gat-
+8cc/	-tin
+=16	=16
+2dd}	Bruſt
+*Xtuplet	*
+{12ee-/L	har-
+12dd/	.
+12cc/J	.
+12gg/L	-ret
+12ee-/	.
+12cc/J	.
+=17	=17
+4.b-/	ſei-
+8b-/	-ner
+4.a	Götter-
+8a	.
+=18	=18
+2b-/	-luſt
+4r}	.
+!LO:TX:a:t=Voller Chor.	!
+{8f	An
+8f	der
+=19	=19
+4.b-/	treu-
+8b-/	-en
+4.cc/	Gattin
+8cc/	.
+=20	=20
+2dd/}	Bruſt
+{12ee-/L	har-
+12dd/	.
+12cc/J	.
+12gg/L	-ret
+12ee-/	.
+12cc/J	.
+=21	=21
+4.b-/	ſei-
+8b-/	-ner
+4.a	Götter-
+8a	.
+=22	=22
+2b-/	-luſt.
+4r}	.
+==	==
+!!!AGN: Soldaten -, Helden - Lied
+!!!ONB: ESAC (Essen Associative Code) Database: FINK
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!!RDF**kern: > = above
+!!!GTL: Soldaten- und Jaegerlieder
+!!!source: Musikalischer Hausschatz der Deutschen. Eine Sammlung von über 1000 Liedern und Gesängen mit Singstimmen und Klavierbegleitung. Leipzig, Litterarisches Verlags-Haus.
+!!!page: 414
+!!!URL-scan: https://www.digitale-sammlungen.de/en/view/bsb11144622?page=381
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/08/09
+*-	*-

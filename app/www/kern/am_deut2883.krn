@@ -1,0 +1,104 @@
+!!!OTL: 690. Tragische Geschichte.
+!!!COM: Volksweise
+!!!ODT: 1832 (nach)
+!!!ARE: Europa, Mitteleuropa, Deutschland
+!!!SCT: B0690
+!!!TXL: @@DE
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern	**text
+*ICvox	*
+*Ivox	*
+*clefG2	*
+*M2/4	*
+*k[f#c#]	*
+*D:	*
+!LO:TX:a:t=Einʒeln.	!
+!LO:TX:a:t=Bewegt.	!
+{8a	'swar
+=1	=1
+8.dd	ei-
+16a	-ner,
+8a	dem's
+8a	in
+=2	=2
+8.b	Her-
+16a	-ʒen
+8a	ging,
+16r	.
+!LO:TX:a:t=P:higher voice encoded:problem	!
+!LO:TX:a:t=Chor.	!
+16a	ʒu
+=3	=3
+8.b/	Her-
+16a	-ʒen
+8a	gieng,
+16r}	.
+!LO:TX:a:t=Einʒeln.	!
+{16d	daß
+=4	=4
+8.d	ihm
+16e	der
+8.f#	Ʒopf
+16g	ſo
+=5	=5
+8.f#	hin-
+16e	-ten
+8e	hieng,
+16r	.
+!LO:TX:a:t=Chor.	!
+16g	ſo
+=6	=6
+8.f#	hin-
+16e	-ten
+8e	hing;
+16r}	.
+!LO:TX:a:t=Einʒeln.	!
+{16a	er
+=7	=7
+8b	wollt'
+8a	es
+8g	an-
+8f#	-ders
+=8	=8
+4e^^	ha-
+8d	-ben.
+16r}	.
+!LO:TX:a:t=Chor.	!
+{16d	Ja
+=9	=9
+8.d	ja,
+16f#	ho-
+8.f#	-ho!
+16a	ja
+=10	=10
+8.a	ja,
+16dd	ho-
+8dd	-ho!
+16r}	.
+{16a	er
+=11	=11
+8b/	wollt'
+8a	es
+8g	an-
+8f#	-ders
+=12	=12
+4e	ha-
+8d}	-ben.
+==	==
+!!!AGN: Scherz - Lied
+!!!GTL: Scherzlieder und Gemischtes
+!!!ONB: ESAC (Essen Associative Code) Database: BOEHME
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+!!Volksweise nach 1832.
+!!@@COMMENT:"Gedicht von Adelbert v. Chamiſſo 1822. Die Volksmelodie iſt gemeinſchaftlich gemacht von Hoffmann v. Fallersleben, A. v. Chamiſſo und L. Berger in Berlin 
+!!- ſo erʒählt Hoffmann (Volksth. Lieder 749). Sie ſteht in Hoffmanns Volksgeſangbuch 1848 und war damals ſchon ſehr bekannt und viel geſungen, daß ſie auch in andern 
+!!Liederbüchern (ʒ. B. dem von Schanʒ und Parucker 1848) ʒu finden. Jetʒt in allen Commersbüchern."
+!!@@END:
+!!!Text: A. von Chamisso
+!!!URL-scan: https://archive.org/details/BoehmeVtLieder1895/page/n541/mode/2up
+!!!ENC: Anna Maria Matuszewska
+!!!EEV: 2024/17/07
+*-	*-

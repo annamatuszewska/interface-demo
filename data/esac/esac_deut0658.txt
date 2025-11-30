@@ -1,0 +1,28 @@
+ERK
+CUT[JOSEPH LIEBER JOSEPH]
+REG[Europa, Mitteleuropa, Deutschland, Schwaben]
+TRD[]
+FKT[]
+SIG[E0056]
+KEY[E0056   04  F 4/4]
+MEL[3b  3b155  5_3b
+    3b  2221  2_0
+    2  23b45  6_5
+    4  3b_22  1_0 //]
+BEM[]
+MEL_SEM[0 -3 7 0 0 -4 0 -1 0 0 -2 2 0 0 1 2 2 2 -2 -2 -2 -1 0 -2]
+MEL_RAW[3b  3b155  53b
+    3b  2221  20
+    2  23b45  65
+    4  3b22  10]
+NO_REP[3b153b
+    3b2120
+    23b4565
+    43b210]
+RTM[x  xxxx  x_x
+    x  xxxx  x_x
+    x  xxxx  x_x
+    x  x_xx  x_x]
+SCL_DEG[123b456]
+SCL_SEM[2 1 2 2 2]
+

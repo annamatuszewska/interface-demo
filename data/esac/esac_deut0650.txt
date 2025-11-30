@@ -1,0 +1,24 @@
+ERK
+CUT[ES HATT EIN GASTWIRTH EINEN SOHN]
+REG[Europa, Mitteleuropa, Deutschland, Magdeburg]
+TRD[]
+FKT[]
+SIG[E0050E]
+KEY[E0050E  16  G 3/4]
+MEL[-5_  1_-5_1__3__  4_2_1__.
+    1_  3_4_5__5__  65432__.
+    1_  -7_234__3_1_  2__1__0_ //]
+BEM[]
+MEL_SEM[5 -5 5 4 1 -3 -2 0 4 1 2 0 2 -2 -2 -1 -2 -2 -1 3 2 1 -1 -4 2 -2]
+MEL_RAW[-5  1-513  421
+    1  3455  65432
+    1  -723431  210]
+NO_REP[-51-513421
+    134565432
+    1-723431210]
+RTM[x_  x_x_x__x__  x_x_x__.
+    x_  x_x_x__x__  xxxxx__.
+    x_  x_xxx__x_x_  x__x__x_]
+SCL_DEG[-5-7123456]
+SCL_SEM[4 1 2 2 1 2 2]
+
